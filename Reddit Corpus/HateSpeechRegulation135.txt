@@ -1,0 +1,59 @@
+Title: Associate Press acknowledges Reddit as mainstream source today.
+
+Post:
+For those that don't know, the Associated Press maintains a "stylebook" for journalists with term entries that can be mundane or sometimes [controversial](http://www.huffingtonpost.com/floyd-elliot/ap-style-homophobia_b_2258498.html). Today's update included a host of updates to social media-related terms. Of those included Reddit, which the news service calls: 
+
+"A social network that features message board-style pages, organized into topic-based pages called *subreddits*, where users share content and converse about it. Users can vote up or down individual conversation threads and comments, determining which ones are most prominently displayed on the site."
+
+Text of most e-mailed update I received today (it also included a guide on User-Generated Content that I assume was prompted by the disinformation spread during Sandy Hook shooting. I will include that if anyone asks):
+
+> Editor's Note: New and updated entries include Android, circles, flash mob, Google Hangout, hashtag, Instagram, Pinterest, Reddit, retweet, Skype and tablet. The section on User-Generated Content has been expanded.
+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+
+Android
+   An operating system created by Google that's used in many smartphones and tablets.
+
+circles
+   The central organizing principle of Google Plus. Users group each other into circles so they can control, on a case-by-case basis, who can see their posts.
+
+flash mob
+   A gathering of people performing an action in a public place designated by a text message, email, social media post or other notification sent to the participants. Organizers of flash mobs are often aiming to surprise passers-by by performing spontaneous and seemingly pointless actions en masse.
+
+Google Hangout
+   A function within Google Plus that allows users to have live, face-to-face, multi-person video chats with chosen participants. Google Hangouts On Air are Hangouts in which the video stream displays publicly on the Google Plus profile page of the user who launched the chat. They can also be displayed on the user's YouTube channel or website.
+
+hashtag
+   The use of a number sign (#) in a tweet to convey the subject a user is writing about so that it can be indexed and accessed in other users' feeds. If someone is writing about the Super Bowl, for example, the use of #superbowl could be an appropriate hashtag. No space is used between the hashtag and the accompanying search term. Hashtags are sometimes used on social networks other than Twitter, such as Instagram.
+
+Instagram
+   A social network in which users share photos they've taken, usually on a smartphone or other phone, with people who have chosen to follow them. Some users apply filters to Instagram images to make them appear old or otherwise stylized, and hashtags are sometimes used to help users find photos related to a particular topic. Instagram photos are frequently shared onto other social networks. Facebook agreed to buy Instagram in April 2012.
+
+Pinterest
+   A social network in which users collect and share images from the Web in theme-based collections, also known as pinboards or simply boards. Images that are shared on Pinterest — or pinned — are sometimes referred to as pins.
+
+Reddit
+   A social network that features message board-style pages, organized into topic-based pages called subreddits, where users share content and converse about it. Users can vote up or down individual conversation threads and comments, determining which ones are most prominently displayed on the site.
+
+retweet
+   The practice, on Twitter, of forwarding a message or link from someone else to your followers. Users can either formally retweet to make the forwarded message appear exactly as written by the original user or use the informal convention of "RT @username:" to share the tweet and edit or add comment. Spelled out in all references, though common usage on Twitter abbreviates to RT. If you amend the tweet before forwarding, use the abbreviation MT for "modified tweet."
+
+For AP staffers, retweets, like tweets, should not be written in a way that looks like an expression of personal opinion on the issues of the day. However, AP staffers can judiciously retweet opinionated material by making clear it is being reported, much like a quote in a story. Add this context before the RT in the tweet, or write a new tweet that includes the original in quote marks.
+
+Original tweet example:
+@jonescampaign: smith's policies would destroy our schools
+
+Examples amended for AP retweet:
+Jones campaign now denouncing Smith on education. RT @jonescampaign: smith's policies would destroy our schools
+
+A tweet from @jonescampaign contends, "smith's policies would destroy our schools."
+
+Skype
+   A service that allows users to communicate by voice, video and instant message over the Internet. Skype is used informally as a verb for using the service, particularly when communicating on video.
+
+tablet
+   A touch-screen device, such as an Apple iPad, Amazon Kindle Fire or Google Nexus 7, that can be connected to the Internet via Wi-Fi or cellular data networks.
+
+
+Top Comments:

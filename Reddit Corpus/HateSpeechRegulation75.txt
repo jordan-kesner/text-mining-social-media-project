@@ -1,0 +1,64 @@
+Title: r/WorldNews Live-Audio Discussion on the US Supreme Court Hearing on Social Media Platform Immunities, with Reddit and Wikimedia Legal Counsels 🎙 Monday 20 February 2023, 09h00 PST / 12h00 EST / 17h00 UTC
+
+Post:
+***TL;DR***: **Next week, the US Supreme Court will hear perhaps the most significant case in the history of social media**.  The petitioners seek to significantly narrow application of Section 230, the legal foundation upon which all global platforms are built.  That law gives platforms and users broad protection from liability, for content posted by other users and for their own activities interacting with that content.
+
+On Monday 20 February 2023 at 12h00 EST, r/WorldNews will hold a live-audio conversation at Twitter Spaces, with the Legal Counsels for Reddit and the Wikimedia Foundation, about what is at stake for people and platforms across the world.  It will be at [https://twitter.com/i/spaces/1mnGeRWpmeZJX](https://twitter.com/i/spaces/1mnGeRWpmeZJX)
+
+⁂
+
+The US Congress passed Section 230 as part of the *Telecommunications Act of 1996*.  The Section grants internet platforms and users broad immunity from liability for content posted by third parties.
+
+Platforms such as Facebook, Google, Instagram, Reddit, Twitter, YouTube, and Wikipedia have since been regarded not as publishers of the content they host, but instead, as forms of public squares, where independent users express themselves.  The platforms are thus not liable for content posted by those users.
+
+Equally, platform users who curate that content (such as users who upvote or downvote posts, or moderators who remove spam) are also shielded from the liability that falls upon editors at publishing houses.
+
+This environment has led to the growth of global social media platforms that host billions of items of content each day.  Platforms have also developed systems to surface or recommend items, through user interactions (eg, upvotes) and algorithms.
+
+Next week, the Supreme Court will hear [*Gonzalez vs Google LLC*](https://www.supremecourt.gov/docket/docketfiles/html/public/21-1333.html), a case that seeks to significantly narrow the scope of Section 230.
+
+The case is tragic.  Nohemi Gonzalez was murdered by ISIS in a 2015 terrorist attack on Paris.  Her family asserts that Google’s YouTube bears some responsibility for her death, because the platform’s recommendation system promoted videos that radicalised viewers and mobilised them as terrorists.  The family argues Section 230 should not shield the platform from liability for its algorithmic promotion of the videos.
+
+If the Supreme Court agrees, the global social media ecosystem would change radically.
+
+On **Monday 20 February 2023, at 09h00 PST / 12h00 EST** ([see your local time here](https://www.timeanddate.com/worldclock/converter.html?iso=20230220T170000&p1=1440&p2=224&p3=188&p4=45&p5=78&p6=48&p7=111&p8=107&p9=771&p10=248&p11=57)), r/WorldNews will host a live-audio conversation on the case and its implications, at Twitter Spaces.  We will speak with Ben Lee (u/traceroo), Reddit’s Vice President and General Counsel, and with Jacob Rogers, the Wikimedia Foundation’s Legal Director.
+
+**Join the discussion then, at** [**https://twitter.com/i/spaces/1mnGeRWpmeZJX**](https://twitter.com/i/spaces/1mnGeRWpmeZJX)
+
+**Ben Lee** studied Physics and Economics at Yale University, and took his law degree from Columbia University.  Before joining Reddit, he held a range of senior legal roles at Plaid, Twitter, Google, AT&T, and NEC Laboratories America.  He also served as a Legal Aid Public Defender in New York, and was as an Adjunct Professor at the Seton Hall University School of Law.  He tweets at [@BenL](https://twitter.com/BenL).
+
+**Jacob Rogers** majored in the History of Science with a minor in Japanese at the University of California at Berkeley, and took his law degree from Harvard University.  He spent a year working for the US Senate, supporting investigations on subjects as diverse structured finance, Swiss data privacy, and high frequency algorithmic trading.  He describes himself as an avid gamer.  He tweets at [@JacobLRogers55](https://twitter.com/JacobLRogers55).
+
+⁂
+
+[**Alex**](https://www.reddit.com/u/dieyoufool3) will moderate the written discussion thread at Twitter Space, and will put a representative cross-section of questions and comments to our guests.  Alex leads some of Reddit’s largest communities, including r/WorldNews, r/News, and r/Geopolitics.  He tweets at [@Alex\_rWorldNews](https://twitter.com/Alex_rWorldNews).
+
+[**Willian**](https://www.reddit.com/u/Tetizeraz) will support the Twitter Space.  He leads a range of Reddit communities, including r/WorldNews, r/AskLatinAmerica, r/Brazil, and r/Europe.   He tweets at [@Tetizera](https://twitter.com/Tetizera).
+
+I, [**Akaash**](https://www.reddit.com/u/AkaashMaharaj), will moderate the conversation.  I serve as Ambassador-at-Large for the Global Organization of Parliamentarians Against Corruption, and as a Senior Fellow at the University of Toronto’s Munk School of Global Affairs.  At Reddit, I lead the r/Equestrian community.  I tweet at [@AkaashMaharaj](https://twitter.com/AkaashMaharaj).
+
+⁂
+
+# Ben Lee, Reddit Inc
+
+* Article: [Reddit’s Defense of Section 230 to the Supreme Court](https://www.reddit.com/r/reddit/comments/10h2fz7/reddits_defense_of_section_230_to_the_supreme/)
+* *Amicus Curiae* Brief: [For Reddit](https://www.supremecourt.gov/DocketPDF/21/21-1333/252674/20230119145120402_Gonzalez%20-%20Reddit%20bottomside%20amicus%20brief.pdf)
+* Twitter: [@BenL](https://twitter.com/BenL)
+
+# Jacob Rogers, Wikimedia Foundation
+
+* Article: [Gonzalez v. Google: What’s at stake for Wikipedia?](https://medium.com/wikimedia-policy/gonzalez-vs-google-whats-at-stake-for-wikipedia-563162797553)
+* *Amicus Curiae* Brief: [For Wikimedia](https://www.supremecourt.gov/DocketPDF/21/21-1333/252719/20230119161248736_21-1333bsacWikimediaFoundation.pdf)
+* Twitter: [@JacobLRogers55](https://twitter.com/JacobLRogers55)
+
+# Twitter Space
+
+* Link: [https://twitter.com/i/spaces/1mnGeRWpmeZJX](https://twitter.com/i/spaces/1mnGeRWpmeZJX)
+* Date: Monday, 20 February 2023
+* Time: 09h00 PST / 12h00 EST ([see your local time here](https://www.timeanddate.com/worldclock/converter.html?iso=20230220T170000&p1=1440&p2=224&p3=188&p4=45&p5=78&p6=48&p7=111&p8=107&p9=771&p10=248&p11=57))
+
+Top Comments:
+[Please keep in mind that all posts need to be of professional discussion](https://www.reddit.com/r/socialmedia/comments/ft6ghx/all_new_posts_need_a_flair_going_forward/). This isn't a help desk. [If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/socialmedia/about/rules/).
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*

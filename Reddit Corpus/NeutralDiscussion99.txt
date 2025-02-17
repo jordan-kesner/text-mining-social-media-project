@@ -1,0 +1,34 @@
+Title: Eugene Volokh lays out the strongest Constitutional arguments for treating Social Media as "conduits" regulating them as Common Carriers in a thread at his blog at Reason
+
+Post:
+[Professor Eugene Volokh](https://en.wikipedia.org/wiki/Eugene_Volokh) has a [group blog (link goes to blog)](https://reason.com/volokh/), [the Volokh Conspiracy (link goes to wiki)](https://en.wikipedia.org/wiki/The_Volokh_Conspiracy), hosted at Reason. He is a First Amendment professor at UCLA widely considered both a libertarian and one of the nation's foremost First Amendment expert
+
+He has written an article [pdf](https://www2.law.ucla.edu/volokh/carrier.pdf) outlining what he sees as the strongest reasons to regulate [Social Media Platforms as Common Carriers (thread itself)](https://reason.com/tag/social-media-common-carrier/). He doesn't necessarily think they should be regulated as Common Carriers, he doesn't necessarily think it would be constitutional to do so, but he suspects it is, and here is his reasoning.
+
+Note: the above link goes to all of his posts on the common carrier issue.
+
+The paper is long but the blog post itself breaks the paper down into it's many segments. It's sort of okay to pick and choose which to read, I'd say [The First Amendment and Treating Social Media Platforms as Common Carriers](https://reason.com/volokh/2021/07/09/the-first-amendment-and-treating-social-media-platforms-as-common-carriers/) is a good one to read as well as the conclusion and then the other specific topics that interest you. Most of these blog posts are relatively short and readable
+
+They are all interesting for a variety of reasons
+
++ Volokh has impeccable First Amendment credentials
++ Volokh is mostly seen as a Libertarian
++ Many if not most Libertarians would be aghast at the notion of turning Social Media into Common Carriers.
++ His outlining the idea in a detailed paper easily trumps the very glib dismissals of the idea often seen on Law Twitter
++ regulating Social Media as Common Carriers is a goal that has both bipartisan support and bipartisan opposition.
++ (IMHO) In many ways these days, the notion of turning Social Media into Common Carriers will annoy the hell out of the staunchest §230 defenders, not that it should, but because the staunchest §230 defenders these days are often more interested in excusing and defending media censorship than in First Amendment or Free Speech issues
+
+And if you want to argue against turning Social Media into common carriers, you'd probably be better off knowing the strongest arguments for it.
+
+----
+
+Fwiw, I myself do not think Social Media should be turned into Common Carriers(*), but I very much think the reasoning I've heard on LawTwitter against that is 99% glib, pompous, nonsense and it's fun and enlightening to see Professor Volokh take down each of those arguments in turn.
+
+(*) I do think more of the Internet's critical infrastructure should be common carriers, and I do believe in this Century, internet access including browsing, hosting a site or service, and being able to accept payment and pay others digitally on the web is a fundamental right that should be up there with the First Amendment itself
+
+
+----
+
+that's the tweet! (jk)
+
+Top Comments:

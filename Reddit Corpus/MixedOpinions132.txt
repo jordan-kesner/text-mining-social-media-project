@@ -1,0 +1,64 @@
+Title: CMV: subreddit moderators should be more restricted in their freedoms and held accountable for their decisions by having their status and rules depend on the public/community vote
+
+Post:
+I know that so far the way people look at reddit is that each sub reddit basically belongs to the mods, who have a certain vision for it in mind and then have the option to make their own rules and remove whatever they please (often making the rules vague and not even bothering to explain why something got removed.)
+
+
+However, reddit mods are already operating under reddits general rules. As far as the censorship issue goes, a mod who actually doesnt want to censor their subreddit can experience getting their subreddit banned if the users say things that go against reddit rules. This sets a precedant that should swing both ways - if reddit can impose limitations of freedom of expression to individual subreddits, reddit should then also ensure to protect some freedoms of expression on a "federal level" too, and hold mods accountable for poorly reasoned user bans, thread and post removals, vague rules etc 
+
+
+The user base is consistently unhappy and I dont think that the model where mods have all the power works well at all. The complaints about different subs and their mods are constant, and the solution given to users to just create their own sub doesn't work anymore. Big and established subs simply have monopoly over topics at this point and there is no way that small and new subreddits stand a chance. Even if users like the policies more, you simply cant do much on a low activity sub and so until something better comes on the market the users keep attending the subs they often joined and built up years ago when rules and approach were entirely different. 
+
+Reddit literally runs on users. You can keep on saying that as long as people have no choice, the system works, but in the long run all the current users who are complaining will jump ships when someone finally presents something better. However what my cmv is arguing is what would make for a much better and more enjoyable reddit, not whether user satisfaction actually matters to their management as long as there is no better option. 
+
+
+I know that the whole point of moderators is letting reddit admins do less work in exchange for some ego trip. However users should have a say in how communities are run, unless the subreddit wants to run private (which should be an option). Users are already voting on what they do and dont like. They should also be the ones electing mods. Each sub should have mandatory meta threads where mods have no power at all except to comment, and any user can come to protest bans, removals and lock downs, holding mods publically accountable and in danger of losing their position during the next vote. 
+
+In addition any new subreddit rule should have to be approved by the userbase in order to pass. 
+
+
+Subreddits where original creator is inactive, which have been up for certain amount of time and have large userbase should get a protected status where they become publically run by users and mods become extremely limited. Subreddits can be divided into few basic categories too where each has a pre-set user vs mod power distribution (depending on whether the sub is private or not, intended for a small protected community e.g. a support group or for general public, number of users on the sub, length of time the sub was active - basically you can have your little private world but if you want to have a huge sub and want reddit to promote it then you're assigning more rights to public. Subs with huge monopoly like askreddit and default subs would practically belong to public.)
+
+
+Basically mods either need to be accountable to admins or to users, and the latter would be more realistic and make more sense for everyone. At the very least mandatory unrestricted meta threads would allow for more transparency and moderators would know that their popularity matters and they cant act like spoiled power hungry children or talk down to their base.
+_____
+
+> tl;dr: the point of this cmv is to discuss what would make reddit more enjoyable to the users, not whether or not reddit admins care. I think one big reacurring complaint reddit users have relates to different mods and power abuse, and unfortunately reddit is created so that moderators have complete power and can run a community down to the ground if theyd like, while older and very active subreddits simply have too much monopoly on topics for "just create your own sub" to be a viable option. Reddit already set the precedant that subreddits still have to follow some higher reddit rules, which so far has only been used to increase censorship but can also be used to protect user freedoms. 
+I am proposing some solutions, there may be better options and I can give delta for this, but a real victory would be making me think that current system and current mod freedoms is the best possible system for reddit. 
+
+Top Comments:
+While I appreciate the democratic principles behind your proposal, Reddit is not a democracy and shouldn't be one. In fact I think your proposal would succeed in destroying free expression, not safeguarding it. 
+
+Think of heavily moderated sub like /r/AskHistorians - it would cease to exist. The locked free-speech meta thread would quickly become a cesspool of endless complaining about being banned. When elections roll around, the worst case scenario would be an organized attack by people with a vested interest in changing the rules - say, holocaust deniers - they come in and rile up support for throwing out the mods. The election won, they change the rules for participation. This kills the sub. 
+
+Many small to medium subs would suffer the same fate. Certain political groups would try to organize takeovers of opposing political camps. Hate-speech groups would try to takeover meme subs just to get more hate speech platforms. Witchhunting and doxxing would run rampant in the free-speech meta threads as users campaigned against various mods they had a personal vendetta against. 
+An attempt to implement such a system was done on /r/libertarian.
+
+The moderators reacted by going on a purge of "leftist infiltrators", and then the community voted to abolish it.
+Reddit is different than a country in that there is an infinite amount of land and moving is free. 
+
+If you think you've stumbled on a win-win, go start a competing country with -dem in the title. 
+
+r/CMV-dem has exactly the same rules as CMV except the mods follow democratic rules. Now you're competing and anyone and everyone can move to your better platform. 
+
+There is absolutely no reason to *prevent* mods from forming communities that are dictatorships because they can't prevent people from leaving. 
+I think a third road which is a middle-ground between two would be a good idea.
+
+I think subreddits should be classified as "topical" or "original" where a topical subreddit is about an established topic like say r/lgbt or r/hearthstone not invented by the person first registering that sub and as such "belongs to everyone"; reddit admins would have discretion about what subs are topical and what are original.
+
+topical subs should be held to some standard of democracy whereas original subs like r/changemyview which are the original idea of the creator are able to be ran as they see fit like subs currently are.
+/u/MansonsDaughter (OP) has awarded 2 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/af7zbe/deltas_awarded_in_cmv_subreddit_moderators_should/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+I disagree. Why would the judgment of a small few hold more merit than that of general public? 
+
+I dont think you explained at all how free expression could be destroyed, quite the contrary. The askhistorians example is actually about s sub that gets a lot of backlash for dead threads. Naturally experts have credentials in their title but I dont see an issue with someone coming to present evidence to any flawed or controversial or downright wrong view on the forum where users can both downvote them to the bottom as well as address their comments with evidence. Why should an unpopular view be banned when I can easily counter  it? Banning topics blindly only curbs discussion and encourages conspiracy theories.
+
+
+Second, I don't see why you think doxing would run rampant - doxing is against reddits general rules so the posts would be removed, and protecting your identity on an anonymous forum isnt thar hard. You are afraid of open criticisms mods can receive and address, but what about the whichhunt of numerous users who feel they were wrongfully banned, muted, or treated poorly? If a mod believes a user is bringing down the community then the community should be able to judge this for themselves (not to mention that is one of the points of having downvotes anyway, not all bad comments need to be removed). 
+
+Reddit in fact rose to the status it has now by having much more liberal policies with regards to speech. Now that there is so many people that neither the admins nor the mods feel they have much to lose by pissing  off the userbase (because of lack of options both when it comes to alternative social network or alternative subreddits) some measures can be put in place to ensure mods arent abusing  their unchecked power. 

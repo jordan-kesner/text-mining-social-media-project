@@ -1,0 +1,117 @@
+Title: New York Times archive contains thousands of historical documents.  From before 1923, or after 1986, access is free.  In between, there is a paywall:  FOR SUBSCRIBERS, articles cost $3.95 EACH after the first 100.  I unleash the practice of diatribe upon the New York Times, and ask for your support.
+
+Post:
+Your policy of (a) requiring explicit payment of $3.95 per archival article over the 100th, and (b) treating archival articles as equivalent in value, to the unsubscribed reader, as current news is many things.  Offensive, was the first to come to mind.  Insulting.  However, I am willing to temper my views and, as a pragmatic matter, merely suggest that it is unwise.
+
+I am curious to know whom, and by which process, this decision was reached.  What was the renumeration envisioned, when these fees were imposed?  Whom did you think they would affect?  For it takes only trivial thought to realize that the greatest impediment would not be to the average reader, or anyone such as to myself[1], but rather to any professional scholar who would like to work extensively with the archives of the New York Times.
+
+I have difficulty believing that you have deliberately envisioned a person whom, having needed access to one hundred articles in your archive, would somehow find the research money to shell out $395 (!) for the next hundred.  
+
+Furthermore, the peculiarity of the date range of the restricted articles leads one to believe that what is at work is largely the legal opportunity to demand payment;  that for whatever reason, you are able to claim copyrights for articles from January 1, 1923 through December 31, 1986 that you are elsewhere unable to assert.
+
+It is possible that there has been some vast oversight in this regard, and that the tradition of requesting what would once have been essentially a processing fee has continued into an era in which the costs of processing are vastly reduced.  However, it seems more likely that your intent is to deliberately constrain access to a vast archive of material on the internet.
+
+I would suggest, as a wiser alternative, simply discontinuing the online availability of your archives from January 1, 1923 through December 31, 1986, and requiring a payment of $3.95 of those who wish to receive a printed copy of the pdf in the mail.  This is a serious suggestion.  Remove the information from the internet.
+
+Unwittingly or not, you have committed one of the cardinal sins, both moral and economic, of the online world.  That is, you have done something that is not only repulsive to the expectations which are commonly held for information on the internet;  it also attempts to resist the fundamental physics, if you will allow the analogy, of digital information on a wide-scale network.
+
+Attempting to capitalize on the monopoly of actual information in such a circumstance is perilous, at best.  The only proven course to prosperity, especially for a company dependent on advertising revenues, is to become the preferred, most useful source of a given type of information (and value added) for a vast number of users on the internet.
+
+I am aware of the possibility that these revenues were not sufficient to cover the operational costs and expected profitability of the New York Times;  I suspect that it is this calculation which led to the decision regarding the subscription fees, and that those on the business side of the paper had good reason to believe that the paper would be better served if it attempted to capture tens of thousands of dollars rather than millions of pennies.  And perhaps there is some cachet to be had in being the newspaper of record for the not-poor;  that is, for anyone with the discretionary income to spend $195 a year, at least, on a website membership.  However, these considerations do not especially apply to your archival material.
+
+Here is an important fact to remember about copyright law.  Nobody cares.  People do care about the fairness of compensating the creator of a work, to an extent, if fair (in their minds) compensation has been asked for, and the work is available without inconvenient legal or technical encumberments.  People do, of course, care about the remote prospect of being subject to punitive, litigious harassment.  People do not, however, care about copyright law.  Given the circumstance of the internet, copyright law as it currently stands does not make clear moral sense to the average human.  And given the marginal value (with respect to elapsed time) of the archival material you are attempting to exercise copyright over, you will have difficulty finding sympathy for this attempted restriction, or monetization, whichever it may be.
+
+What will probably happen is, nothing.  I doubt that there is significant interest in your archives to provoke any sort of response.  Your begrudging disposition is a social faux pas, of sorts, within the mainstream of serious internet users:  another nail in the coffin of New York Times as institution, which must surely be well shut by now, and a slight discolouration your brand, which derives the greater part of its value from its resemblance to that institution.  However, besides this, the New York Times will retreat into its little paywall castle, and attempt to hoard, for whatever misguided reason, its archives, and no-one will particularly care or notice.
+
+If your archive of material actually had any significant value to the internet at large — that is, if enough people were inconvenienced by your restrictions — what would happen is that it would simply be taken.  Just like that.  If you cannot afford the dubious loss of revenue that allowing free access would create, then you most certainly cannot afford the quality of security needed to prevent this.  A group of Anonymous, were they sufficiently motivated, could probably do it within a day or so.  There is very little danger of this, as those Anonymous motivated by an information ethos have larger and more offensive fish to fry, and it would be extremely uncharacteristic of the remainder of them to anticipate any lolz in doing so.
+
+I predict this, I should mention, based on past trends, rather than any skill or knowledge of my own;  at this time, I know nothing about the web serving arrangements of the New York Times, and I have no intention of investigating, nor of violating any law with respect to your property.  
+
+What I am attempting to convey is this.  It is very difficult to contain value on the internet.  A reasonable analogy would be that of water behind a dam.  The aggregate restrictions on access impose a disutility between that value and anyone who seeks to realize it.  In order to successfully monetize restricted access, you must ensure that the path of information transfer — the flow of water — involving  credit card numbers is the path of least resistance between your content and its consumer.  The dam must be built up higher at all other points, leaving your subscription service as a millrace.
+
+This is much, much easier to ensure with dynamic content (the news of the day) than with static content such as your archive.  The former requires repeated transactions with your servers, and the latter does not.  Once the archive is out, it is gone.
+
+If your archive has remained behind your paywall — if that is the only copy available — what this means is that it is not very widely valued.  No-one with the skill to take it has wanted it badly enough.  Thus, if your intent was to restrict the distribution of this material, with the notion of realizing some future profit, it has been shown to be misguided.  The market has spoken.
+
+Your only potential source of revenue are those outliers willing to pay significant money for access to the text of historical documents;  in other words, you are attempting to kick up a trivial profit by placing an obstruction between scholars and the materials with which they work. In a rather convoluted but genuine sense, you have managed to place yourselves in direct opposition to the advance of human knowledge, for what I can only imagine to be a trivial profit.  I extent to you my congratulations.
+
+Stop being stupid.  Don't be evil.  Raise the restrictions on your archives, most especially the restrictions which affect non-subscribers.  The number of readers who might consider subscribing to the Times after reading archival examples of feature stories and analysis is surely greater than the number of readers who would consider subscribing so that they can use your archives.  If people wanted your archives, they would eventually be taken.  The greatest opportunity they present to you, in terms of realizable value, is for you to become the most convenient source of access to those archives.
+
+Your formerly loyal reader,
+
+███████ ██████
+
+
+[1] As an occasional wikipedia editor, I have also been affected.  However, my diatribe is motivated more by outrage at your demands than by actual inconvenience.
+
+-----
+
+[*edit:  some textual errors have been corrected, and slight clarifications made.  In these things, the post differs from the letter sent to the New York Times.*]
+
+Top Comments:
+Well, escape_goat...
+> my diatribe is motivated more by outrage at your demands than by actual inconvenience.
+
+Wouldn't you say that
+
+- Your post is a ***diatribe***.
+- ***Diatribes*** don't belong in r/news
+
+Also, why not ***"diatribe"*** in a blog? It's not as if the NYT is going to see this thread and change. But, hey, nobody seems to care but me - so - ***"diatribe"*** again?
+Well, I don't have a blog.  Also, people would need to read the blog, which seems highly unlikely.  And surprisingly, there wasn't a more appropriate reddit.  I did look.  What had happened was that I had totally interrupted my morning to write my, ahem, [*diatribe*](http://en.wiktionary.org/wiki/diatribe) in response to the NYT's strange policy, and then, having pasted it in that loathsome form box they make you use, felt somewhat unfulfilled.  For I doubt that anyone at the NYT is even going to read *that*, let alone this thread.  Anyways.  So, I went looking for a good reddit to post it in, so that a few ~~million people could upvote it~~ other people would see it, and could read it if they wished.  I expected to find a reddit somewhere that concerned itself with journalism and discussion of the media.  I did not.  So I thought something along the lines of, "well, 'news', it's for people who care about the news, right?  I mean, people won't be using it to actually *get* their news, I hope."  And with that, shrugged, and posted my link.
+
+Clearly, I *wouldn't* say that rants don't belong in r/news, because although it's not a great place to discuss news organizations, it's about the closest thing available.
+
+I don't, generally, rant about things.  However, if you enjoyed this one, I'll be sure to PM you with a link if it ever happens again.  : )
+
+
+
+Your post amused me.
+
+It's that, well, wait for a sec... 
+
+[Okay everybody who is not escape_goat please close this tab. It's just boring stuff. You don't want to read it.].
+
+Did they all leave? The hive can be so touchy. Maybe it's the fridge, I think I still hear a buzz. 
+
+Websites can be like tv. And tv is like teenagers acting at hyper-speed. That's a reason it's so bad.
+
+People tend to "like" something based on its popularity not really what they think of it. They mean something else when they say "I like 'Crappy Formulaic Reality Show Tripe III'. They really mean "I watch 'Crappy Formulaic Reality Show Tripe III' because lots of people I know already do."
+
+Reddit is, of course, far different. But the hive is always in danger of starting to act like the average tv viewer.
+
+The quality of most coummnities on the net tends to go in one direction. And one direction only, downward.
+
+One thing that helps to stop bad posts mercilessly floating skyward is there are enough good posts and posts on topic to keep bad stuff down.
+
+But people will do what others have done without thinking too much about it. The "Another guy did that, why can't I?" argument is ubiquitous.
+
+Who knows - maybe today a guy posted a ***diatribe*** titled "People who cut me off piss me off" in r/news. He will be told, and more than once too - "Don't post that stuff here." Despite that, maybe he'll seek to justify his post by searching for ***diatribe*** in this community. He'll find your post, scan it for 5 to 10 seconds, put a link in his answer and say "This guy posted a ***diatribe***." With "Why can't I?" being implied, as it always is.
+
+His post will be nothing at all like your post. I know that. Most people know that. But he (And others too?) may not understand.
+**Quick!**  Edit your messages and replace 'rant' with 'diatribe'!  They'll never catch me!  (...alive!)  [*insane laughter*.]
+
+I understand the principle, yes.  And you're right.
+
+Although, on reddit, one could unsubscribe from a lot of the more annoying mass-volume channels, and, hypothetically, pursue fragmentation down to the point where one subscribed to hundreds of 10-1000 member reddits covering such topics as 'gastrointestinology of [*Halyomorpha halys*](http://en.wikipedia.org/wiki/Brown_marmorated_stink_bug "Stink Bug Y U No Eat Right?")'.  But there'd probably need to be some sort of hierarchy of reddits for it to work well, and more complex algorithms, et cetera.
+> Edit your messages and replace 'rant' with 'diatribe'! 
+
+Done.
+
+> more complex algorithms, et cetera.
+
+I have a crazy idea. Have something like this posted in the sidebar on main page: 
+
+> To make posts you are required to make a donation to reddicares_com
+>
+> If necessary your donation can be zero. 
+
+> That's right. 
+
+> Your donation can be $0 if you so desire.
+
+> reddicares_com has all the info.
+
+Of course, reddicares_com would be an NGO.
+
+A certain percentage of people would literally not read beyond the first line before they closed the tab and said "Fuck that." And good luck and goodbye to them.

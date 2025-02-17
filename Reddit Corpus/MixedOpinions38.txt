@@ -1,0 +1,199 @@
+Title: CMV: The autistic community on the Internet has been largely mislead and has wrong ideas about ABA therapy
+
+Post:
+**Introduction** 
+
+Many people in the autistic community (which includes myself, and if I’m not mistaken, probably quite a few people in this community) have a big problem with ABA (Applied Behavioral Analysis) therapy for autistic kids.  They liken it to gay conversion therapy (with which it does admittedly share some DNA, though not as much as some claim).  They talk about historical abuses as though they remain common, everyday occurrences.   They attack members of the community who involve themselves with it (such as Kaelynn Patrlow from Love on the Spectrum U.S.). 
+
+I believe these voices represent a significant percentage of the community.  Many of us have read the anti-ABA screeds and have accepted them as dogmatic truth without hearing any opposing views.  We are told this is an assault on our community and we must be against it unless we are evil people who support child abuse.  
+
+As an autistic man, I sometimes hyperfocus on an issue.  Often they are things that will impact my life directly.  When my daughter was diagnosed, I had to make a choice about ABA.  I did not get diagnosed in childhood, so this was not an option for me.  I received the “street” version of ABA, which is basically just a fancy way of saying bullying. Until I learned to say the right things, I was punished every time by **society**.  Wouldn’t it be better, I thought, for my daughter to learn to say the “right things” without the threat of violence?  Wouldn’t that benefit her mental health?    But I’d heard so many negative things, I felt the only fair thing to do was sit down in front of Google Scholar and really dig deep.  I needed to know exactly what the **evidence** says was best and I think I’ve reached the correct conclusion. 
+
+But of course with all those loud voices on the other side, I worry I might have gotten it wrong.  I’m pretty sure I got it right.  I’ve double and triple checked.  But if there’s any chance I’m wrong, I want to know.  If I’m wrong, I need to know.  This is my daughter’s mental health at stake.  So if by chance I’m actually wrong, please change my view. 
+
+Here are the determinations I have made: 
+
+**What is ABA?**
+
+To start with, it’s important to consider that there’s no clear and well-accepted definition for what precisely ABA is.  Consequently, few of the people who casually toss hate at it even know precisely what it is they are hating.   Indeed, many peer-reviewed articles struggle to describe it in consistent terms. In their [“scoping review”](https://www.researchgate.net/publication/360706339_Applied_Behavior_Analysis_in_Children_and_Youth_with_Autism_Spectrum_Disorders_A_Scoping_Review), (Gitimoghaddam et al, 2022) settle upon three possible and popular definitions.  Some view it as a specific set of rigid protocols (a definition that seems to be assumed by most in the autistic community to be the case), a collection of educational techniques based on the works of B.F. Skinner (a definition which actually includes a fair amount of the public/private schooling in this country–more on that later), or simply as a systematic way to evaluate practices rather than the specific practices themselves.
+
+Broadly speaking, ABA is an umbrella term.  Under the umbrella you will find LEAP (a type of preschool offered to non-autistic kids as well), Pivotal Response Training (which is play-based), EIBI and many others. These are all ridiculously different approaches and that really only share one key component of their DNA: Skinnerism.
+
+Skinnerism is nothing more than rewarding positive behaviors or punishing bad ones or both.   These days, virtually all ABA programs (after a very sordid history which ABA haters are quick to point out) have abandoned punishment and rely solely upon positive reinforcement.   Mostly, this means praise, gold stars, access to preferred toys and the like.  Sometimes, food is used as a reward (a practice which I personally cannot condone).   Now, when I said “praise” and “gold stars” you might have realized that this is pretty much the norm in every school classroom around the country now.  Yes.  That’s skinnerism.  It's called operant conditioning and it’s a dominant force in education (and in the workplace as well–think employee of the month, bonuses and such).  And, if your classroom is using praise and gold stars to teach kids social and communication skills, then it qualifies as ABA.   
+
+It’s important to note that one of the strongest criticisms of ABA is actually just criticism of operant conditioning.  You can find a strong evidence-based argument against the use of rewards (and punishments) for education and work environments in Aflie Kohn’s book “Punished by Rewards”.  It lays out an extremely strong case against these practices and frankly, I happen to agree with him.  While Alfie has written a blog post about ABA in which he’s critical for this reason–which I’ve had autistic people instruct me to read–his book focuses mostly on how operant conditioning has completely infected *all* education, especially elementary education, in the United States.   And yet, when I point out to those same people that this means that elementary education is functionally a form of ABA, they do not want to hear that because they feel this minimizes the issue.  To them, ABA is torture–though they have zero firsthand experience.  To compare it to the their own elementary school education for which they *do* have a frame of reference is minimizing it (even though it's a totally fair comparison). 
+
+The central thesis of Aflie’s book is that rewards destroy intrinsic motivation.  If you pay me to read a book, and then later you stop paying me, I’ll stop reading books.  Reading books for the sake of reading books has been ruined for me because I now associate reading books with not receiving something I wanted even more than the joy of reading a book.   This is valid.  But, it’s important to note that the most of the skills being taught via ABA are highly intrinsically self-rewarding.  They are things like communication skills. Being able to ask for the things you want, leads to getting the things you want.  Not offering a separate reward in those cases shouldn’t stop people from wanting to communicate their own needs.  Ultimately, these are skills that need to be taught and even if the method being employed here is not ideal, this is a situation where pragmatism should rule.  Sure it would be nice if we knew a way to teach these skills that didn’t threaten intrinsic motivation but those programs aren’t out there.  Other therapies for autism do exist and some have evidence to back them, like occupational therapy and speech therapy, but these are therapies to target different things (like motor control) than the skills ABA targets.  There’s nothing that targets the same skills as ABA with the same evidence base to support it. 
+
+*So, in summary, ABA these days is literally just teaching social/communication skills by offering kids rewards for demonstrating those skills. That’s it.  It’s really that simple.*
+
+**So what does the autistic community think ABA is?**
+
+There are a few misconceptions about ABA that are treated as dogmatic gospel amongst many in the autistic community.  Firstly, is the idea that punishments are still commonly employed.  This is simply not the case.  It’s extremely rare. To hear some members of the community describe it, ABA is essentially synonymous with electroshock therapy.  They are correct that this is something that was done.  They are correct that it still happens–at exactly one facility in the United States. 
+
+That facility is called the Judge Rotenberg Center in Canton, Massachusetts.  They still employ electric shocks as a “punishment” though they were briefly barred from doing so by the FDA before being permitted to resume.  They state that they only use this when all other approaches of have failed and only to prevent behaviors that are *actively* harmful to the child.  So for instance, if a child bangs his head on the wall when upset and they’ve attempted to teach the child a different way to stim when upset with no success, then they might try electroshock.  
+
+I’m not going to defend this and I’m just going to pretend it doesn’t exist.  I think that’s fair; I dont’ think it's relevant to this discussion.  It's one facility out of thousands in the country.  This is not a “No True Scottsman” thing when we’re ignoring the 0.01% to focus on the 99.9%.
+
+Secondly, many of those opposed to ABA believe that it targets eye contact and stimming first and foremost.  This is also false.   Stimming, if you don’t know, is things like hand flapping or other means of fidgeting.  Many autistic people do this as a way to soothe themselves and it’s necessary and important to their mental well-being.  In his book, Unmasking Autism (which is otherwise a decent book), Dr. Devon Price (u/devon_price) describes stopping kids from stimming as “one of the **primary** goals of ABA” which is simply silly.   
+
+Has it happened? Sure.  Does it still happen? Yes.  I can’t even tell you it’s just one facility like the electroshock situation.  But what can I tell you is that most facilities don’t do this.  I personally asked several and always got back the same response: “If a child is stimming in a way that’s harmful or inappropriate, we’ll try to get them to switch to a different stim”.  In other words, if the kid is masturbating in public or hitting themselves, they’ll try to get them to play with a fidget spinner instead.  Seems pretty fair to me.  Most programs are teaching skills straight from an assessment called Vineland Scales, which is a test designed to figure out which essential skills to independence the child is struggling with and targeting those specifically. One version (version 3) of the Vineland Scales does include “culturally appropriate levels of eye contact” as a skill. **Stimming does not make the list**.  To the extent that some entities practicing ABA still engage in the practice of encouraging kids to have “quiet hands”, I share the community’s outrage and believe this practice should be ended.  But it’s a practice that exists independent of ABA.  **ABA is the means by which the skill is taught, not the skill itself.**  
+
+Lastly, it is a matter of fervent, unswayable belief that ABA causes PTSD.  As I will discuss later, there is an embarrassing dearth of longitudinal studies of ABA.  While there’s a solid evidence base in favor of it, there’s little evidence to suggest if the results still suggest it’s valuable 10 or 20 years down the road for adults who received it as children. 
+
+[One of the few studies that does exist](https://www.academia.edu/download/55721125/AIA_Evidence_of_increased_PTSD_symptoms_in_autistics_exposed_to_applied_behavior_analysis.pdf) was performed by Henny Kupferstein.  It is the ONLY study which declares a link to PTSD (other than those which simply cite Kuperferstein).  Its execution was flawed and its results have been entirely misinterpreted.
+
+Now in fairness to Ms. Kupferstein, many of the flaws in her study would be hard ones to fix.  The flaws in this case are more like “limitations” than they are flawed work on her part.   She was a doctoral student at the time, and thus it's likely her funding was basically nothing.  Due to HIPPA regulations, she couldn’t just go to a dozen different ABA centers chosen at random and say “I need a list of all your patients between the years 2000-2010” and then try to contact all those people to take her survey (which would have been the ideal way to go about it).
+
+So she made a survey link and put it online.  It’s extremely hard to get answers to surveys like this and that requires advertising your questionnaire.  Unfortunately, where you go to advertise your survey link will have a huge impact on the results you get.  More to the point, it makes your response group *self-selected*.  Only people with an axe to grind will bother to click the link.   As I’ve already mentioned, the autistic community has long had a dull axe with ABA’s name on it (both because of its historical abuses and the parallels it shares with conversion therapy), so going to autistic spaces and saying “Please take my survey about ABA” is going to taint your results.   Curiously, as she herself notes, nearly all her respondents were women (a group with much lower rates of diagnosis, and thus treatments, for autism)–yet she still somehow managed to have more respondents who claimed to have undergone ABA than who did not. 
+
+Bias is also an issue here.  Kupferstein herself is autistic and has a grudge against ABA that she hasn’t been shy about.  [Here’s](https://www.researchgate.net/profile/Henny-Kupferstein/publication/305776693_Autistic_ABA_Survivors_Grow_into_Soul-Crushed_Teenagers_Tracing_the_Roots_of_the_Damage/links/57a14f1f08aeb1604832bad3/Autistic-ABA-Survivors-Grow-into-Soul-Crushed-Teenagers-Tracing-the-Roots-of-the-Damage.pdf) something she wrote 2 years before her study.  She’s the only one who has actually found this result, yet she had her mind made up about the result she was going to find 2 years later before she did the study.  That strikes me as a red flag.
+
+These problems aside, what she actually found isn’t nearly as damning as most people seem to want to believe.  Yes, 47% of people who said they had undergone ABA had symptoms of PTSD (or PTSS) while only 28% did in the “control” group  (that is to say, autistic people who had not undergone ABA ).  This is the headline and it’s as far as most people read–but dig deeper and the story changes.  
+
+Adults who have received ABA almost certainly received it many years prior as kids.  During the 90’s, in the United States, we diagnosed about (hard to get a precise number because the CDC didn’t start tracking it with a consistent methodology until 2000 and different studies from this era report different numbers) 1 in 2500 kids as autistic. Flash forward to now and it’s closer to 1 in 50.  The most likely interpretation of those numbers is that older diagnostic criteria missed 49 out of 50 kids.  Or, put another way, the kids diagnosed in the 90’s were the “most autistic” 2% of all autists.  In the early aughts, when the CDC started keeping numbers, it was more like 1 in 150 meaning roughly 2 out of 3 kids who would be diagnosed today were missed back then.  So compared today those diagnosed in the year 2000, they were the most-autistic “33%”.  
+
+This means that kids who got treatment during that era were part of that 2-33%.  This is reflected in Kupferstein’s data.  It shows that the group in her study who did receive ABA had **more** symptoms of autism and **more severe** symptoms.  In other words, acknowledging that this is a clunky way to phrase it, they were “more autistic”. The 28% number in the control group (which is already quite high) speaks to the fact that most autists will suffer some trauma and stress in their lives due to things like bullying and friction in relationships with parents and family.  So here’s a simple, plausible interpretation of these findings when viewing the data as a whole:  Being autistic causes PTSS.  Being “more autistic” is more likely to cause PTSS.  
+
+It’s simple.  It’s elegant.  It explains the data. Interpreting these numbers as a condemnation of ABA is almost a wilful misunderstanding.  It requires twisting yourself into an intellectual pretzel to ignore a simpler, more complete interpretation.   There is probably some statistical fuckery you could do to try to control for this confounding factor (that the control group was NOT ceteris paribus with your experimental group), but it wasn’t done.  Again, she was just a doctoral student at the time.  
+
+**What is the evidence that ABA works?**
+
+So even if it's not overtly harmful, we shouldn’t subject kids to a therapy that doesn’t actually work, right?  So, let’s establish the evidence that ABA promotes positive outcomes.  This evidence is both extensive and limited.  
+
+Extensive because there is an overwhelming amount of data that ABA increases IQ test results, promotes positive behaviors (as measured by the Vineland Scales, generally), and results in higher employment rates in those kids when they become adults.  Parents also pretty much universally (in every study) report positive changes in their kids.  However ABA critics will be quick to suggest that parents are fine with kids who have had their souls crushed provided they are compliant and well-behaved, so we shouldn’t trust parental judgment as a metric (its not a terrible argument, honestly).  
+
+Limited because none of this really speaks to actual quality of life, happiness and because very little of this research (other than employment) is longitudinal. Additionally, it is limited by bias.  It’s basically impossible to find an article about ABA that doesn’t have at least one author who works for an ABA services provider.  This makes a certain amount of sense since such a person is almost necessary in order to have the requisite access to do the study (that is, the ability to send parents a form requesting consent to use data that is otherwise HIPPA protected.  But it does create a situation where the autistic community is highly reluctant to trust this data. 
+
+Like with Kupferstein, I’m sympathetic here.  This sort of research is very hard to do without access to kids actually undergoing ABA.  It's hard to imagine how an outsider would even begin without having a friend in the business, and said friend is likely to end up with an author credit for their assistance.   It's a weakness, but it's the data we have.  It’s not like we have contradictory data from unbiased sources.  We just have biased data and nothing else. 
+
+As for the issue of longitudinal studies, I think this is a bigger issue and one I’d like to see rectified.  I found exactly *four* papers in an extensive deep dive into Google Scholar that actually asked autistic adults about their ABA experiences.  One is Kupferstein, so we’ve already discussed that.  
+
+[This](https://strathprints.strath.ac.uk/73753/1/McGill_Robinson_AA_2020_autistic_experiences_of_childhood_Applied_Behavioural_Analysis.pdf) is another similarly negative one.  It interviews 12 adults about their experiences.  I have more to say about the **anecdotal** experiences of autistic people later.  For now, I will simply say these 12 are decidedly negative and were recruited by being known associates of the researcher who wrote the paper (which is not ideal) and some were recruited by advertisements placed on internet groups for autism advocacy.   Another similar paper interviewed 7 more people (recruited in a similar way) but I haven’t been able to read that one since there’s no free PDF. 
+
+The last is almost the opposite of the previous ones. It can be found on [Google Books](https://www.google.com/books/edition/Handbook_of_Quality_of_Life_for_Individu/ndJyEAAAQBAJ?gbpv=1) but you’ll need to manually turn to page 9.  Instead of being done by an autism advocacy group with a stated opposition to ABA, it was done by an ABA practitioner.  Every kid here reports at least some positive experience, though a few say “they’re not sure” when asked if it all paid off. 
+
+In other words, what little we have is almost all just interviewing people (which already means it’s just anecdotal evidence at best) and the answers we get depend entirely on who is asking the questions and where those people are recruited.  This is just not good data and its a hole that needs to be fixed. 
+
+In summation, we have little to no evidence how autistic adults who have actually undergone ABA feel about it (or rather, we have highly conflicting information depending on who sources the people) nor do we have good evidence for how ABA long-term impacts mental health.  
+
+The closest longitudinal metric for ABA success is employment rates–and employment rates are not *terrible* indicators of mental health (for instance, getting a job is the single best intervention against re-succumbing to an addiction) but they certainly aren’t as good as, for instance, finding out how suicide rates vary between autistic people who have received ABA and those who haven’t (something which I looked extensively for).   But, we do have absolutely great evidence that ABA has several measurable, positive impacts on kids in their short-term futures. 
+
+**What other evidence is there against ABA?**
+
+The other factor often pointed to by autistic advocates are anecdotes.  I scanned back through about 5 years of articles on Nueroclastic pulling out all the testimonials about ABA they had published and going through them.   I noticed complaints seem to always follow into one of four categories:  They are similar to the themes in the negative adult interview paper I mentioned in the previous section.  Here’s the things I see over and over again in these: 
+
+* Abuse.  Sexual, physical and mental abuse.  Things like yelling at kids or hitting them.  While this is terrible, it has nothing to do with ABA specifically, and everything to do with abusive people in therapy jobs.  This could happen in literally any form of therapy, so it doesn’t strike me as a legitimate criticism of ABA.
+
+* Denying agency. Caregivers who ignore what kids are telling them because they assume that they are autistic and don’t mean what they say.  They say they have to go to the bathroom, for instance, and it gets labeled as an avoidance strategy rather than a genuine need.   Again, I think this is similar to abuse in that it could happen in any type of therapy.  It’s more about the attitude of the therapist than it is about something specific to ABA.
+
+* Kids being milked as cash cows.  This complaint shows up as “things being repetitive” or some variation on that theme.  Basically, people are saying they were made to do the same shit over and over that they had long ago mastered.  My presumption here is that this is a profit motive at work.  Graduating kids is only good business if you have a wait list.  Otherwise it's a loss of revenue.  Again, this is awful but its *not specific to ABA*.  Any unscrupulous therapy provider could end up trying to milk insurance money out of kids for therapies they don't actually need especially since insurance companies are often required to cover autism therapies under state laws.
+
+* Things that aren’t even ABA.  One person who shared their story on Reddit, describes being made to listen to loud music on headphones in order to get over their sensory sensitivity.   In other words, to desensitize them to loud noises.  This is actually something called “exposure therapy”.  It’s its own thing.  I also see similar stories about “aversion therapy”.  It’s possible that these things were done in ABA centers, as ABA centers often offer non-ABA therapies (speech and occupational therapy being the most common), but they aren’t actually a part of ABA.  They are completely discrete psychological practices. 
+
+
+Anytime I’ve actually read a story where the thing the person was complaining about was actually ABA, it’s always been one of the historical abuses I’ve mentioned previously.  I want to be clear, all of these are totally legitimate complaints–they just aren’t actually complaints **about** ABA.  They either could happen with any kind of therapy, or actually *are* a different therapy entirely. 
+
+**Conclusion**
+
+Medical history is full of horror shows.  ABA is not an exception. Terrible things have been done under its banner in the past.  But we can only fairly judge it by its current form and the data that speaks to its current form.   That data shows that it is effective.  While it would be nice to have confirmation that it leads to better life outcomes down the road, we have no **credible** evidence that it *does not*.  
+
+Anecdotes from kids who have suffered at the hands of ABA therapists make it clear that parents should shop around before picking an ABA provider.  They should ask about the facility's stance on stimming, their “graduation” rate, the numbers of kids on their waitlist and so on. Like daycare (another venue in which several horror stories exist), parents need to shop around and be careful.  ABA is a for-profit industry and there may be unscrupulous providers out there.  But this need to proceed with caution is no reason to toss away the baby with the bathwater.  
+
+Indeed, we can look at gynecology and see that its history is full of terrible things like torturing slave women.  We can find the stories of many women who have been abused and molested by evil doctors running gynecology practices.   If we applied the same logic to gynecology that many in the autistic community apply to ABA, we would be demanding that women be freed from the tyranny of pap smears. But this is an emotional and dogmatic mode of thought, not one rooted in rational, open-minded thinking.  
+
+Or at least that’s how it all looks to me.  If I’m wrong, please let me know.  Tell me what I failed to consider or what I misunderstood or got wrong.
+
+Top Comments:
+I don't think I can add much you've not heard before but I think I might be able to add something.
+
+I want to chip in and say that I follow r/SLP (Speech and Language Pathologists) and they often mention how ABA therapists go beyond their training and attempt to do an SLP's job - often with incorrect methods.
+
+In addition it is repeatedly noted that being an ABA therapist requires significantly less qualifications snd training than most other similar positions (including SLP). (edit: I'm only foggily remembering this bit do take that with a grain of salt).
+
+(ed.) In addition the number of horror stories I've read on there about ex ABA therapists or SLPs working in ABA clinics finding it a bad place to be both as a worker and for the chilren is horrendous. Of course these accounts are biased but never the less its telling.
+
+(ed.) You should go look at what r/SLP says about ABA - they tend to have a nuanced view that is ready to accept some positives but strongly leans negative for multiple reasons.
+
+If even other professionals that treat autistic children are complaining about the industry then that does not bode well.
+>Firstly, is the idea that punishments are still commonly employed.
+
+Special education teacher here:
+
+I agree with your view for the most part but I wanted to push back and clarify this point for the sake of education. I think this is the most misunderstood this thing with behaviorist and leads to a lot of the confusion. If you do an online search you will mostly see either overly vague information or  incorrect misinformation as well.
+
+"Punishments" in ABA are not necessarily like a punishment in the sense of parenting. In behaviorism, a punishment is a consequence with the goal of reducing or eliminating a behavior. 
+
+Thus, a so called positive punishment is when you add an element in an attempt to reduce a behavior. If every time an ambulance drives by, an autistic child bangs his head against the table, a positive punishment could be as simple as putting down a table cloth that stops the child from the unwanted behavior.  Or even putting on a Disney movie as a distraction. 
+
+Most parents of neuro typical children do this without knowing anything about aba and very few people think this is a problem. Teachers do this with every student. If students are fidgeting and unfocused before class I might add a stretch break. 
+
+It can also mean scolding or correcting like a lot of websites will say online but this is something any parent would do as well. "Don't stick that fork in that electrical socket." Nobody would think saying this to a child would be a problem and it is a big part of what behaviorism is seeking to define and give a language to to provide a more scientifically driven system of behavioral correction.
+
+A negative punishment is what we typically think of as a punishment but again most situations would not be controversial. It is trying to reduce a behavior by taking away an element as a consequence.  If a child is banging a hammer against their  head you would take away that hammer. If every time a child ate candy they would get very hyper and self harm, you would hopefully stop giving the kid candy.
+Your post was really long (and I appreciate the thoroughness) so I’m going to just respond with a couple of details, and this is not meant to negate the entirety of your stance. 
+
+- The JRC (the center that still employs shock therapy) was not just a practicer of ABA, but they have held speaking positions at ABA conferences, which means that many of the leaders in ABA are not just refusing to renounce this practice, they are promoting it. 
+
+- The reason people say that ABA shares similarities to conversation therapy is that one of the founders, Ivar Lovaas, was a conversion therapist and blatantly stated that he used some of this methodology in creating ABA. His other comments about autistic children are disgusting, as well. (Of course, the argument is that ABA when he was around is different than ABA now, but the origins are the same.) 
+
+But, I also have a bias, as you mention in your post. I am autistic, and I used to work at an ABA company (not as a technician but on the admin side.) And holy hell, that company was a shit show, so thats MY personal connotation with ABA. I could write a whole paper on the bizarre things they did there.
+Have you looked at alternatives such as CBT or RDI?
+
+I don't have a lot of experience with medical intervention, although my dad was dragged to many child psychologists of the 1960s and was damaged by some of their methods. He won't talk about it enough for me to determine what their methods were. But I do know I very much resented any kind of "training" when I was a kid.
+Pap smears serve a functional purpose - preventing cervical cancer, an unambiguously bad disease.  Autism is not unambiguously bad. 
+
+>Abuse. Sexual, physical and mental abuse. Things like yelling at kids or hitting them. While this is terrible, it has nothing to do with ABA specifically, and everything to do with abusive people in therapy jobs. This could happen in literally any form of therapy, so it doesn’t strike me as a legitimate criticism of ABA.  
+Denying agency. Caregivers who ignore what kids are telling them because they assume that they are autistic and don’t mean what they say. They say they have to go to the bathroom, for instance, and it gets labeled as an avoidance strategy rather than a genuine need. Again, I think this is similar to abuse in that it could happen in any type of therapy. It’s more about the attitude of the therapist than it is about something specific to ABA.
+
+I disagree that abuse has nothing to do with ABA -  behaviorism in general has the problem of instilling [prompt dependence](https://www.tandfonline.com/doi/full/10.1080/23311908.2019.1641258) \- children become reliant on external cues and signals (like, say, the adults allowing them to use the bathroom) to determine how they should behave. Consent doesn’t matter in A.B.A, which yes is true for a lot of other therapies - but couldn’t that just as easily mean multiple forms of therapy lead to abuse? Autistic people already have higher risks of unintentionally misbehaving [sexually](https://www.spectrumnews.org/features/deep-dive/when-autistic-people-commit-sexual-crimes/) \- teaching them consent doesn’t matter is dangerous. Yes this also occurs in regular elementary schools but it’s less dangerous for regular children because they internalize the social norms set by their peers, which is usually safer than the types of examples that a school of exclusively children in need of ABA set.  then again I’m probably biased as a child whose soul was crushed by my older brother who went through ABA. But the study I first linked is worth a read and might change your view idk
+I’m tired and am going to ramble a bit. I’m coming at this from more of a philosophical view. 
+
+But at the end of the day: Most parents are doing the best they can with the resources they have. We all fuck up our kids in our own unique ways. 😅
+
+I’m a mom with a young kid that has autism. One thing I try to remember is that despite the vast majority of research that I’ve done, I will never know what it’s like to be autistic. So one thing I try to do is really listen to the autistic community, younger members and adults. By and large from what I’ve seen is that they feel strongly that ABA is harmful.
+
+While I may not always understand why something will be considered harmful, I trust that when a good chunk of those in the autistic community says it is, I believe them. It’s just not a chance I’m willing to take when there are other options. 
+
+
+“So, in summary, ABA these days is literally just teaching social/communication skills by offering kids rewards for demonstrating those skills. That’s it. It’s really that simple.”
+
+This is yucky to me. My emotional, gut response is, “My child is not a dog.”
+
+
+Every child is different and perhaps there are situations where this is the only option but I’d want to try to exhaust all other options first. 
+
+In my experience ABA wants to eliminate or hide things to make neurotypical people more comfortable. I don’t care about my son stimming as long as he doesn’t hurt himself or others. So him talking to his hand sometimes, sideways glances, etc, isn’t something I’m interested in “fixing”. I’m twitchy as hell (ADHD) and that hasn’t held me back. Trying to mask it is exhausting and causes more problems than it solves. Stimming serves a purpose so I’m not into taking that away from him. 
+
+I try to really define what he *needs* to learn versus what is socially expected to learn but isn’t necessary. Eye contact, for example, isn’t absolutely necessary. Hell, I struggle with eye contact. He does great with eye contact once he feels safe and comfortable. I’m not going to try to force him to do it because it’s more socially acceptable. 
+
+What I am interested in is learning his sensory needs so he is at his best to do things he both wants and needs to do. I want to learn what he struggles with and what adaptations we can make so he can do both what he needs and wants to do. 
+
+The people that I’ve met who are very pro ABA or use ABA methods are really into “fixing” versus adapting. One that was especially disturbing to me was if a child was having a meltdown, I was told to turn my body away and ignore them until they stopped. 
+
+They never differentiated between a sensory meltdown or a tantrum. Regardless, I find that inappropriate unless there’s a safety concern. I’m very much in the “connection over compliance” camp. Withholding attention, affection, etc is never something I’ll be comfortable with. 
+
+And I suppose that’s where I struggle with ABA most - it feels like the goal is compliance. A lot of parents may feel happy with ABA because now their lives seem easier. But at what cost? 
+
+I like to say that I’m thankful that my son says no and pushes back. It can help keep him safe in a world that may find him easier to take advantage of. I am very wary of anything that may remove than stubbornness that may drive me crazy sometimes, but ultimately keeps him safer. 
+
+The way I see my job as his parent - to learn as much about how he operates and to create a bridge in helping him learn and grow in a way that works with that. 
+
+And for some kids, they very well may thrive on reward based therapy. I just wonder how large that population is versus those who need people who really understand them and to work to work within how they’re built. 
+
+I think anyone would be hard pressed to say that the entirety of ABA is bad. I’m sure there are some methods that are used that aren’t harmful. However, when I look at it as a whole, I’d rather skip it and focus on other options that the autistic community has said are safer. 
+
+As a parent, it’s wildly frustrating that most therapies and things covered by insurance are ABA based. And when you’re tired and feel like you really just need help, any help, I understand looking at ABA. 
+
+Every parent has to make the best decision they can, given their circumstances, and based on what they know about their child. 
+
+Ramble over. 😆
+> HIPPA
+
+Most people misunderstand the Health Insurance Portability and Accountability Act of 1996 (HIPAA) because they've never read it. [You can read it here](https://aspe.hhs.gov/reports/health-insurance-portability-accountability-act-1996).
+
+HIPAA generally prohibits healthcare providers and healthcare businesses, called covered entities, from disclosing protected information to anyone other than a patient and the patient's authorized representatives without their consent. It does not prohibit patients from voluntarily sharing their health information however they choose, nor does it require confidentiality where a patient discloses medical information to family members, friends, or other individuals not a part of a covered entity.
+> If you pay me to read a book, and then later you stop paying me, I’ll stop reading books
+
+That's generally not true. Like you said, conditioning is very effective.
+You are not wrong about wanting your daughter to receive support to nurture her development and overall trajectory for reaching her fullest potential. ABA is all about how animals (including humans) learn best. That’s it. My advice is to keep doing your own research, make sure there’s a strong modern social curriculum being used (not the f*¥king Vineland) and when your daughter turns 4 or 5, consider adjusting the approach dramatically to prioritize her deepest deficits and simultaneously supporting her strongest personal strengths. ABA therapists are just teachers trying to help. Good luck to you and your family.

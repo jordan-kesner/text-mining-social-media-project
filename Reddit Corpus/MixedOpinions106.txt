@@ -1,0 +1,73 @@
+Title: A Few Reminders (or How We Work Together to Stop Incivility and Love r-ModeratePolitics)
+
+Post:
+Hey everybody!
+
+As you all know, the topics being discussed over the last weeks have resulted in some heated discussions. This, combined with a recent influx of new users (we recently passed the 40,000 subscriber milestone!) has led the mod team to feel it necessary to deliver a few reminders. In light of that, I wanted to take a moment to not only issue a call for civility, but also to better explain how we as mods go about making our decisions, and deliver a reminder on an important function of our subreddit in 'self-policing'.
+
+## A Call to Civility
+
+We all get that politics are a heated topic. It is easy to really get agitated and lose your cool and it happens to all of us. However, that being said, please focus your comment on the redditor's **content, not their character**. You can be as harsh as you want when rebutting their points, however, the moment you start accusing someone of shilling, trolling, etc. you are crossing the line. **If you feel someone is not acting in good faith, don't call it out. Don't expose it. Just stop replying.**
+
+The reason I say this is simple. As the nature of politics becomes more polarized and tribal, the amount of people demonizing those with different viewpoints has increased. Keep in mind that people are different. Two people can look at the exact same set of facts and come to wildly different conclusions and that is entirely okay! Lay out your argument, make your case, and be done with it. The best way to view our rules is like this. If you wouldn't say it in an actual political debate / academic debate: Don't say it.
+
+Thirdly, sometimes it is better to not engage. Letting someone have the last word does not mean they “win the argument”. It doesn’t mean your point is refuted. It just means they got the last word. You can let it go in the interest of civility and not risk 'losing'. No one is keeping score on who won the last argument. Finally, avoid using the word “you”. This helps keep arguments depersonalized and content focused instead of character focused.
+
+## A 30,000ft View on our Subreddit Ethos & Moderation Strategy
+
+**What we are trying to accomplish here is a culture of moderate expression of all stripes of political opinion.** We accept that people support Fox News. We accept people that think Trump is a lying scumbag. We accept people that think Trump is the best President since Lincoln. We accept that people think the GOP engages in voter fraud. We accept all people as long as they can moderately express their opinions and “respectfully disagree”. That is the point of this subreddit. The rules are there for civility and moderate expression, they are not there to trap other users into immoderate expression.
+
+So what do we as moderators do about that? For those that are new, our role as moderators is extremely limited, intentionally. We try to act with as light a hand as possible and in as few instances as possible. We internally refer to this as our 'soft-touch moderation strategy'. We intentionally have a very broad scope of “moderate expression”. The idea is that we can easily identify the most extreme “immoderate expression” and everything left over is moderate enough for the subreddit. This essentially comes down to personal attacks. We do not step in when someone thinks “the earth is flat and the moon landing never happened therefore the Democratic Party is a farce.” We are not an inquisitorial squad arbitrating truth. **So long as that statement is made without a personal attack we do not act. We do not step in with bad faith arguments (for the record, 99% of the arguments made in this subreddit are made in good faith).**
+
+There has similarly been some talk lately about moderator lean and/or bias and in the interest of transparency I have included a table below of our moderators' self-identifying political leans which I think illuminates the incredible balance of our moderation team:
+
+Left Wing | Center-left | Centrist | Center-right | Right Wing
+:--|:--:|:--:|:--:|--:
+u/noeffeks | u/pingveno | u/GoldfishTX | u/Kinohki | u/Recipr0c1ty
+ u/Ignose | u/PinheadLarry | u/Wanzer-reznaw | u/carlko20 | u/agentpanda
+| &nbsp; | /u/melechshelyat | u/MCRemix | u/ubmt1861
+
+I lastly want to remind all users of our commitment to transparency in moderation- our team strives to provide as clear a rationale behind our decision-making as possible. In that vein any user can parse our [moderation logs at this link here](https://modlogs.fyi/r/moderatepolitics) also found in the sidebar, as well as reach out to connect directly with our moderation team with any questions or inquiries via modmail (send a message to 'r/moderatepolitics') or on our [Discord Server](https://discord.gg/cnMMBdz) which also features great political and current event discussion, regular culinary exploits of our various users, and my frequent late-night drunken rambling. Feel free to reach out to our team surrounding moderation decisions of any sort and we'll be happy to reply on either platform.
+
+## Self-Policing (or 'Downvoting and You')
+
+The final reminder I want to deliver is one deeply related to ensuring our subreddit remains a place where those of all political views feel welcome, as well as one that strives to generate the highest-possible level discourse. **The downvote button is not an "I disagree" button.**, and in a similar vein **the upvote button is not an "I agree" button**, and finally **the report button is a critical tool**.
+
+This is a problem all subreddits deal with in some way or another, but one political subreddits quite possibly have the most challenging problem tackling. **The downvote button is for demoting posts that do not add to the conversation.** Full stop. Low effort comments that don't contribute to discussion *certainly* deserve downvoting. Posts that *generate discussion* but you disagree with do not. Generating an echo chamber environment wherein those of *any* political lean feel uncomfortable sharing their otherwise rule-abiding viewpoints is *not* in anyone's best interest.
+
+**Report** comments that break the rules, our moderation team is dedicated to promptly handling comments that violate our community's standards. **Downvote** only comments that do not contribute to the greater conversation. **Engage with users with one eye on our subreddit's mission** of driving constructive political discussion all around the political spectrum.
+
+With these axioms in mind we can ensure our subreddit remains one of the few bastions of civil and reasonable political discussion not just on Reddit, but on the internet in general- all striving toward the goal of creating a positive environment.
+
+Thanks again for everyone's help in making this subreddit the place we all want it to be, and feel free to reach out with any questions or inquiries!
+
+Top Comments:
+I will try to start making a polite disagreement instead of downvoting.   The hard part will be stopping at one reply and not continuing a pointless discussion.
+I mostly lurk. I cant help but notice that the assumption of this sub--"assume good faith"--while noble, is open to abuse. I'm increasingly seeing comments that are pretty clearly meant to goad, or are full-on counterfactual. But calling them out as-such breaks the rules.
+
+If we simply assume good faith, then almost anything can be said free of consequence--barring an outright ad hominem attack. If I were to come out with some controversial argument, I could simply say, "But I was just expressing my opinion!" And that would be that. You can't prove that I was trying to be an asshole.
+
+The good faith rule is what makes discussions on this sub so fascinating, at least when they remain civil. But it's also this sub's greatest weakness.
+I am a bit late to the ball game, but I am going to make something abundantly clear. Our rules about bad faith are not going to change. Our mod team very occasionally has things we disagree on. We typically work things out by vote and agree on a consensus. The rules about bad faith are not even remotely something we disagree about. We are all united in this, and this has been a rule since the beginning of the sub. 
+
+We will not determine who is or is not engaging in bad faith, and we expect everyone to assume good faith. This will not change.
+
+I often see something along the lines of this sentiment:
+>This sub is great / one of the best / amazing... except bad faith... 
+
+I submit that the primary reason this is the way it is, is because of our approach to bad faith. We appreciate the feedback, and we respectfully decline to change the rules in this regard.
+The hardest part of this is the downvote button.  Perhaps not coincidentally, it's a huge part of why reddit is so tremendously polarized- more so than the actual American electorate, at least.  I'll try my best.
+I give this reddit credit for being overall open minded and even when it’s not — allowing the discourse to commence.
+Just wanted to stop by this post with an observation that I found interesting. As a user of [RES](https://redditenhancementsuite.com/), I see the current balance of votes I've given to every user across my history of interacting with them, right next to their user name. 
+
+I've spotted frequent users out in the wild on other subs a handful of times because of this, which is interesting. But the observation I wanted to make is that my distribution of upvotes across the mod team hits every corner of the political spectrum and, somewhat surprisingly, is slightly weighted toward the right at the moment.
+
+My point I guess is that, to me, this is indicative of the high degree of success this sub achieves at living up to the ideals outlined in this post. Kudos to all on that.
+
+P.S. also, I remember when Right Wing /u/agentpanda's user flair included the word "moderate." My how the turn tables hahaha... Is it a change of heart or a change of definitions?
+You guys have an active mod on the team who is on a week-long tear of posts that argue positions he doesn’t believe in. His stated goal is to disillusion left-wing voters—basically, to stir up shit. 
+
+Is this not the definition of arguing in bad faith? Why is this behavior allowed to continue?
+[All users should be held to the same standard, regardless of moderators' shared ideologies.](https://imgur.com/2crmgIZ)
+
+[All users should be welcome by the mods at all times, regardless of moderators' differing ideologies.](https://imgur.com/SkHzFuT)

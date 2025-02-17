@@ -1,0 +1,15 @@
+Title: The gist of Trump's Twitter-order: It makes civilly liable providers which censor forums not in "good faith." Previously, they enjoyed immunity from such civil liability under CDA § 230.
+
+Post:
+>It is the policy of the United States to ensure that, to the maximum extent permissible under the law, this provision [[CDA § 230](https://www.law.cornell.edu/uscode/text/47/230#c_1), providing immunity to providers from civil liability for good faith censoring of their forums] is not distorted to provide liability protection for online platforms that -- far from acting in "good faith" to remove objectionable content -- instead engage in deceptive or pretextual actions (often contrary to their stated terms of service) to stifle viewpoints with which they disagree. Section 230 was not intended to allow a handful of companies to grow into titans controlling vital avenues for our national discourse under the guise of promoting open forums for debate, and then to provide those behemoths blanket immunity when they use their power to censor content and silence viewpoints that they dislike. **When an interactive computer service provider removes or restricts access to content and its actions do not meet the criteria of subparagraph (c)(2)(A) ["good faith" censorship], it is engaged in editorial conduct. It is the policy of the United States that such a provider should properly lose the limited liability shield of subparagraph (c)(2)(A) and be exposed to liability like any traditional editor and publisher that is not an online provider.**
+
+Although it is obvious he's doing this cause his pissed at Twitter (actual quote from the Order: "Twitter now selectively decides to place a warning label on certain tweets in a manner that clearly reflects political bias. As has been reported, Twitter seems never to have placed such a label on another politician's tweet."), I think the gist of the order is necessary for the proper discussion on this important subject.
+
+https://www.law.cornell.edu/uscode/text/47/230#c_1
+
+https://www.nbcnews.com/politics/donald-trump/full-text-president-trump-s-executive-order-aimed-preventing-online-n1217126
+
+Top Comments:
+I disagree. There's no debate to be had here because republicans do not have a reasonable argument. I mean, to think that websites like Twitter should have to host whatever dogma these politicians want to broadcast to the world while simultaneously thinking that [ISPs should be allowed to block whatever content they want](https://arstechnica.com/tech-policy/2018/07/net-neutrality-rules-are-illegal-according-to-trumps-supreme-court-pick/), is completely and utterly ridiculous. These aren't the policies of a principled party. These are the policies mandated by special interest groups. To debate them would be to give the argument credibility, which I simply won't do.
+
+Not to say that I don't think there's a discussion to be had here. But to have it because Trump got his feelings hurt? To fix things only when it's politically beneficial? Fuck that.

@@ -1,0 +1,42 @@
+Title: CMV: Blocking/banning/ghosting as it currently exists on social media, shouldn't exist.
+
+Post:
+Esssntially, you shouldnt be able to have a public profile or page or community and then hide it from a blacklist of individuals.
+
+Terminology. These words dont mean the same thing for every platform, so for consistency this is what I'm using: Banning prevents someone from interacting with a public page, but they can still view it. Blocking a person prevents them from sending you private messages. Ignoring someone hides all of their public interactions from you. Ghosting someone prevents them from viewing a public page.
+
+The "ghosting" part is what I mainly have a problem with. Banning sucks too, unless users can opt out to see banned interactions. Blocking and ignoring are fine.
+
+If there's, for example, a public subreddit, or profile page, then ghosting the person shouldn't be an option. Banning should be opt-out; you can simply click a button to unhide people who interact with pages they're banned from. That way moderators can still regulate the default purpose of the group, filtering out the garbage, but aren't hardcore preventing anyone from talking about or reading things they may want to see. Deleting comments is also shitty.
+
+For clarity, I dont think this should be literally illegal. Just that it's unethical and doesn't support the purpose of having any sort of public discussion forum on the internet. That there's no reason to do it beyond maliciously manipulating conversation by restricting what we can and can't read and write instead of encouraging reasonable discourse.
+
+Changing my view: Explaining any benefits of the current systems that are broken by my proposal, or any flaws in my suggestion that don't exist in the current systems. Towards content creators, consumers, or platforms. I see this as an absolute win with no downsides.
+
+Edit: People are getting hung up on some definitions, so I'll reiterate. "Public" is the word that websites thenselves use to refer to their pages that are visible without an account, or by default with any account. Not state-owned. "Free speech" was not referencing the law/right, but the ethics behind actively preventing separate individual third parties from communicating with each other. Ill remove the phrase from the OP for clarity. Again, private companies can still do whatever they want. My argument is that there is no reason that they *should* do that.
+
+Top Comments:
+/u/Dedli (OP) has awarded 4 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/1637rwm/deltas_awarded_in_cmv_blockingbanningghosting_as/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+So you can't ban people? What are you going to do with the 1,000,000 spammers that will come here to Change my View and attempt to sell viagra and penis enlargement pills to everyone incessantly. Or how about an army of trolls who have no interest in changing their minds on anything. Hell they might not even believe what they are spouting just like to cause havoc.
+The core principle of freedom of association allows people to choose to associate, or _not_ associate, with whomever they want. You seem to be proposing to restrict that right, and it's not clear why you think that's justifiable here because you don't give any reason why it's unethical.
+The principle of free speech is that the government can't prosecute you for voicing opinions it doesn't like. It has nothing to do with communities of ordinary people being able to exclude you because they don't like you. You're still free to find a different community in that event.
+
+Exclusion is necessary to keep every community from becoming the lowest common denominator. Freedom of association would be threatened by your proposal.
+Websites have to ban certain activity or face legal action, including:
+- Child pornography
+- Revenge porn
+- Copyrighted material 
+- Scams or fraudulent material
+- Defamatory material
+- Activity subject to a court order 
+
+In short, your rule as stated would obligate websites to violate the law and face lawsuits or even criminal penalties.
+My mother is a horrible person who I do not wish to have contact with. However, I am also a concert photographer and having my accounts be public is important to getting recognition and getting the photos out there. I do not want her to be able to contact me. In order to do so she would have to be logged into an account which I can simply block. I don't care if she is looking at the pictures which I intentionally make public. Blocking her is the only way of stopping her from contacting my public pages. This is crucial to my well being and is reason enough to continue allowing blocking/banning from a page.
+If we were in public, lets say a park, and you came up to me and started talking to me, would you say that I shouldn't be able to walk away from you?
+If I and four of my friends are having a cordial conversation in my house, and a random person off the street walks in and starts yelling at us, should I not be allowed to make him leave?  Because that would seem to be the logical conclusion of your position.

@@ -1,0 +1,58 @@
+Title: CMV, Banning someone from a Subreddit, simply because they participate in another Subreddit is wrong and not something that should be allowed.
+
+Post:
+So to be clear.
+
+If a person has been banned from a subreddit, the moderators of that subreddit should have to have at least 1 post in that subreddit to ban you for. I would even go so far as to say there must be atleast 1 post in the subreddit that they can point to as you causing problems or breaking their rules. 
+
+I am mostly thinking of subreddits which seem to have automated banning which targets subs they disagree with either politically or socially.
+
+I hold this view because it excludes people from conversation and does not permit a legitimate member of a community to participate in that community simply based on their membership in another community.
+
+I will now use a scenario not purposefully calling out any particular subreddits (as I believe that is against the rules). Say a Sub called WhitePeopleAreTheBest (WPB from here out) exists and it is dedicated to showing off accomplishments that whites have made throughout history and in modern society. Say there is a sub called LGBTloveIsGreat and it is all focused on supporting LGBT+ couples and helping people express their love. A moderator (or perhaps the creator of that sub) determines that those who support "WPB" are all hateful people and they don't want them participating in their sub. It is entirely likely that members of WPB want to support the mission of the other sub but because of that one mods decision to employ some automatic ban system (or doing so manually) they are not able to add to the community.
+
+To be clear I would be most interested in discussion the ideas of directly opposing subreddits such as a Pro-Gun subreddit against a Anti-Gun subreddit, or a sub dedicated to benefiting the pro-choice movement vs a sub dedicated to a pro-life movement. I feel like this is the area where I am most unsure on my stance in and I want to know if my view may be wrong in this area specifically. (Though I am open to other discussions)
+
+Edit: The case regarding directly opposed subreddits I can get behind them autobanning based on participating assuming moderators actually take appeals seriously in case of a change of mind. In addition a very niche example has been pointed out to me which I can get behind where it involves a directly related subreddit banning you based on certain actions which are against their rules.
+
+Top Comments:
+So, this probably isn't the spirit of what you are against, but I feel like it matches the letter.
+
+There are subreddits such as BestOfLegalAdvice that has part of it's rules being "Don't participate in the linked LegalAdvice threads unless you came across them seperately" for several reasons.  First, to prevent the bestof version from brigaiding legal advice.  Next, it was noticed that the quality of contributor on legalAdvice went down after it reach BestOfLegalAdvice.
+
+In short, the ban from posting in LegalAdvice is for the betterment of LegalAdvance as well as the continued health of BestOfLegalAdvice (since how LegalAdvice is, affects BestOfLegalAdvice).
+> It is entirely likely that members of WPB want to support the mission of the other sub
+
+Is it likely? Or is it just possible? Because that's a pretty big difference when the opposite reaction (arguably the "more likely" reaction) would be harmful to the community. 
+
+Without using made-up subreddits, this makes more sense. A person who frequents t_D is absolutely not coming in to an LGBT+ supportive subreddit to share their thoughts on acceptance. Just like a person from atheism is not likely to show up to a Christian support subreddit and be respectful, or a person from fatpeoplehate showing up in a healthy weight-loss sub and being a positive commentor. 
+
+I think what I quoted from you is either extremely naive or disingenuous, or you're a rather new user of reddit. There are *very many* communities on this website that do not attract respectful people, and active users of those communities are all-but-guaranteed to be a negative influence elsewhere.
+So I understand the sentiment you are getting at. The subs with this 'pre-emptive' banning of people is basically creating an echo chamber of group speak based on stereotypes or perceived political beliefs.
+
+The problem is that sometimes people want those echo chambers. It is explicitly in the rules of 'no-dissenting' or 'no-debate' for said subs. People want such a space so Reddit provides it. There *are* legitimate reasons for this - especially if the sub is not designed/intended to debate merits of such things but instead provide information about such things. 
+
+So long as the rules of Reddit allow 'no-debate' subs, then the automatic bans and pre-emptive bans will remain. To me, this show a very weak and hateful type of stance - on par with actions like the KKK. But, the rules allow it.
+
+Don't be confused with 'just cause' bans. I wouldn't be too upset if a LGBT sub pre-emptively banned a person with a posting history in related subs that advocated tossing gay people off cliffs. That is 'cause'.
+
+I also simply mock supposedly 'political' subs who expressly prevent debate/discussion from other viewpoints. They represent a cirlcejerk of groupthink.
+Postulate 1: Moderation on larger subreddits is very labor intensive, so anything you can do to automate/streamline it can make a very large improvement in the quality of the subreddit.
+
+Postulate 2: All automated moderation is statistical in nature, so false-positives are unavoidable. That does not mean that is isn't worth it - *all* new moderator rules have to be tweaked for sensitivity/specificity, but eventually we get to a point where we're happy with the rule: that is, the rule *saves* us substantially more time than we then have to *spend* to address whatever issues it causes.
+
+Postulate 3: Subreddit participation is a non-neutral choice: what subs you enjoys can say a lot about you as a person. If you are participating in a particular subreddit, you are no longer "agnostic" about a particular subject, which means we can make some statistical predictions about you. Those statistics won't be perfect but they can be pretty damned good - and to make it worthwhile for the mod team *and the quality of the community* they can certainly be *good enough*. 
+
+For instance: I mod r\/parenting, (where for the record we *don't*, in fact, ban people solely for participating in any other sub). There are some subreddits which are very antithetical to the whole concept of parenthood - I won't name them here but suffice it to say that I am specifically *not* referring to r\/childfree, whose mod-team is great. This unnamed subreddit is, by definition, made up of people who feel that having children at all is equivalent to child-abuse - and what can they *possibly* contribute to our conversations if that's their baseline opinion of every single person in our sub? 
+
+If they were larger, and if they were more vocal, and if we consistently found that their users came into our subreddit to shit on our regular users, you bet your *ass* we'd look into a blanket ban as an option. To say that it's a *universally* unacceptable solution is *much* too broad.
+> I hold this view because it excludes people from conversation and does not permit a legitimate member of a community to participate in that community simply based on their membership in another community.
+
+It sounds to me like it isn't excluding legitimate members of a community from participating, because the mods have determined that people who post in X,Y, or Z subreddits are not welcome in this community.
+
+How can someone be a legitimate member of a community they are actively not welcome in?
+Some subs have had such a problem with brigading from rival subs that it's easier to just ban people from that rival sub preemptively. As far as I'm aware, that is an account ban and not an IP ban, so people who legitimately want to participate in both subs can do so, just with an extra hoop to jump through.
+I'm a member of a few meme subs and I'm fully okay with banning those from an opposing sub. For example over at r/onionlovers we can't stand those fucking assholes at r/onionhate . Bring down the fucking banhammer.
+
+Same story with r/trebuchetmemes and r/catapultmemes . One is clearly the superior siege weapon and can throw a 90 kg projectile over 300 m. Why would we want anyone who has any affiliation with the inferior siege weapon in the sub?
+I don’t know about auto banning without a single post, but I do know some subreddits tell you up front that they are meant as a “safe space” for their topics, and they are not open for debate.

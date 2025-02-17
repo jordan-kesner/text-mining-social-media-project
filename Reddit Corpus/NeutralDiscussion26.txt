@@ -1,0 +1,69 @@
+Title: Discussion on free speech and the responsibility of big media
+
+Post:
+Free speech tends to be a major topic of discussion in the technological age, especially in the United States. The way we communicate has been drastically changed with the implementation of the internet. It seems there is great miscommunication in the way we are discussing the idea of "free speech". In the United States, freedom of speech is explicitly a constitutional right. However, the basis of a constitutional argument simply can not hold merit when discussing social media. Seeing how this is the main way in which humans communicate today, this brings up many issues. It is no secret that "censorship" is something that exists in social media platforms. The problem is, as business/press, it makes perfect sense to censor your content strictly for monetization purposes. This is why throughout the constant criticism of these platforms, they are still widely used by everybody. It seems the only way to fix the censorship problem would be through some legislation. This seems anti-capitalistic, because it is. People of the right are usually the most critical of this problem, but surely they would not advocate for anti-free market legislation, right? This brings up the societal discussion of the responsibility of large corporations. Do they inherently have an obligation for the good of a society? This is a tricky topic; the balance of power of government and large corporations. Any thoughts on logical solutions to this?
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+The dissatisfaction that many people have comes from the fact that the rights they think they have aren't the rights they actually have.
+
+You have a right to say nearly whatever you want (with some clear limitations for public safety/national security) free from interference from the government.
+
+You do not have a right to say anything at all free from interference or consequences from a private business.
+
+You do not have a right to say anything at all free from interference or consequences from other private citizens.
+
+There are too many people that think the First Amendment gives them license to say whatever they want, whenever they want, free from any consequence from anyone or anything.  And while the First Amendment is a powerful protection and vital part of the Constitution, if you try to apply to things it doesn't apply to you're going to end up disappointed.  It's like a 15-year old really enjoying going to a go-kart track, then being frustrated when they aren't allowed to buy a car and drive it off the lot.
+
+> This brings up the societal discussion of the responsibility of large corporations. Do they inherently have an obligation for the good of a society?
+
+The last four decades have shown that the answer to this is a resounding 'no'.  It's nice when companies choose to do good things voluntary, but to pretend there's an obligation is the height of naivety.
+The problem is everyone has a different definition of censorship. 
+
+People will swear they're free speech absolutists, and then someone takes a knee during the national anthem and they flip the fuck out, or call for a boycott of a brand for positively portraying a LGBTQ or minority person.
+
+Forcing companies to host racist, anti-Semitic, transphobic content is not the way to deal with this issue. Brands are not going to stay on social media if their ads are next to posts denying the Holocaust or spewing racial slurs. 
+
+I also don't see any way it wouldn't violate the constitution, although with the current SCOTUS, it seems anything goes as long as it benefits right-wing nationalists, constitution be damned.
+
+Also you can see from Twitter that it was never about "free speech", a bunch of left-wing activists have been banned from Twitter since elmo took over.
+I like the terminology discussed in [this](https://popehat.substack.com/p/in-defense-of-free-speech-pedantry) article.
+
+The author suggests that there are three separate concepts related to freedom of speech, and a lot of confusion and people talking past each other results from a misunderstanding of what others are talking about.
+
+"Free Speech Rights" refers to the legal protections for speech.
+
+"Free Speech Culture" refers to the concept that it's a good thing if it's possible for people to be free to share a wide variety of different opinions, regardless of what the law says.
+
+"Speech Decency" refers to the concept that certain speech might be morally acceptable or unacceptable, regardless of what the law says about it.
+
+The three concepts cover different things and can even contradict each other. Also, the first concept, Free Speech Rights, are relatively objective, at least if we're discussing US law. The other two concepts, Free Speech Culture and Speech Decency, are both normative, often utilitarian arguments.
+
+On the topic of social media censorship, FSR is pretty clear. Companies have a legally protected right to control the speech that is allowed in their privately owned spaces. There's no clear way to change that aside from a constitutional amendment or maybe roughly doubling the size of the Supreme Court. Some legislation may be *possible*, but due to the way legal protections work, it might not work out the way people think it would. You could theoretically make a law that makes political opinion a protected class, and it's uncertain how that might interact with the first amendment protection from compelled speech. But if you did that, it would have to cover *all* political opinions, not just the ones within the overton window. So "raise taxes", "lower taxes", and "exectue all the (infidels/bourgeoisie/race traitors)" would all have to be equally protected by any law.
+
+The other two arguments are inherently more subjective, and are usually influenced a lot more by how a particular person feels about a particular message.
+
+Most people would *probably* agree with some "Free Speech Culture" arguments (they'd agree that some instances of censorship by companies are unreasonable, even if the company is allowed to make that choice), and also agree with some "Speech Decency" arguments (They'd support the removal of certain types of messages from the forums they prefer to use, even if the content being removed has not actually broken any laws.)
+I think its a bit ironic to say that the only way to fix social media is through governmental intervention in a post about free speech.  Wouldn't any legislation that limits how a private company can represent itself in a public forum be infringing on that companies first amendment rights? So not only would it be anticapitalistic but it seems it would be a clear constitutional violation.
+Companies should have the right to curate content on their platform.  However, if that curation is done with influence from, direction by, coordination with, or in service to any government agency or any political party / organization that would be expected to have influence over any government agent or agency then the company is acting as an arm of the government.  At that point their ability to limit speech greatly decreases.  This was the issue with Twitter and honestly, is probably an issue at Reddit as well.  Clearly politics factors into moderation here.  If there is one mod out there who is also active in a political party then, strictly speaking, they have the ability to infringe upon the rights of users by acting as an agent of a party with influence over / influence by the government.
+Freedom of speech is an explicit, enumerated right in the U.S. under the First Amendment, and it’s a guard against state action, not corporate action.
+
+The issue in the social media age is the blurring of this distinction when the government directs a corporation to censor speech as an end run around the First Amendment. 
+
+I realize reddit is anti-Musk, but the Twitter Files showed that federal agencies (FBI among others) are directing social media corporations to censor accounts and tweets. 
+
+That’s absolutely disgusting and dystopian, imo.
+
+The solution is for Congress (or even the President) to get a wrangle on the federal agencies, but I don’t think the political will exists.
+I'm confused about what exactly you're asking and/or proposing.  What do you believe 'big media' should be doing or trying to do?
+It seems like you're asserting that censorship in these media is a problem rather than a good thing?  In which case I have to question how many places you've looked at where they really don't do much censorship at all.

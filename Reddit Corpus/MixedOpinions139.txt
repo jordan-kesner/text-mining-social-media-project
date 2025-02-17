@@ -1,0 +1,93 @@
+Title: CMV: we should stop throwing around the term "socialism" in mainstream American political discourse
+
+Post:
+I believe "socialism/socialist" is a fuzzy term, at best, that often derails what could otherwise be useful political debates in the United States. When people on the political right say "socialism," they typically have in mind a poorly-run welfare state at best and brutal totalitarianism at worst. I realize this is due to lingering effects of the Red Scare and our right-biased Overton Window, but it is the case regardless. On its own, this should be enough to discourage the use of this term if only one side of a debate really knows what it means, but I think it goes deeper than that.
+
+I also find that liberals and people who lean politically left in the US often have a fuzzy conception of "socialism" as well. They tend to lump AOC, Bernie Sanders, and Nordic countries all under this "socialist" umbrella, when what all of these have in common is *social democracy*, not socialism. Places like Sweden and Norway operate with capitalist economies and most of what AOC and Bernie push for is completely compatible with capitalism, albeit in a modified form.
+
+What I think is happening is that when people say "socialist" in the positive sense in the US, what they probably mean is *Keynesian* (i.e., the government doing stuff). That is, the focus tends to be on the role of government and social programs more than workplace power dynamics (e.g., labor vs. the owner class) and the fundamental incentive structure of the economy. To my understanding, basic socialist ideology is agnostic to the role and structure of government, ranging from radically democratic to decidedly-NOT democratic (hence why the left tends to split off into so many factions).
+
+I am not merely making this argument from the abstract "words mean things" stance (though this does partially motivate the argument because, of course). Controversy and lack of clarity have real world impacts on public views and political behavior. For instance, Americans broadly support progressive, social democratic labor laws, such as expanding the power of unions ([https://www.filesforprogress.org/memos/labor\_unions.pdf](https://www.filesforprogress.org/memos/labor_unions.pdf)), whereas most Americans by and large tend to dislike things that are labelled as "socialist/socialism" ([https://news.gallup.com/opinion/polling-matters/287459/public-opinion-review-americans-word-socialism.aspx](https://news.gallup.com/opinion/polling-matters/287459/public-opinion-review-americans-word-socialism.aspx)). 
+
+In conclusion, I am not arguing for the literal censorship of the word "socialism." Furthermore, I understand that words and concepts morph over time; however, I would argue that in the US "socialism" has evolved into splintered meanings, depending on political community, without consensus, making it a bad word for political debate. Thus, I am making a pragmatic argument -- we should avoid using a term in our discussions and debates that is misunderstood, loaded, and, in my opinion, beyond salvaging in our political context.
+
+Change my view.
+
+Top Comments:
+/u/Karloz_Danger (OP) has awarded 3 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/nl4mvd/deltas_awarded_in_cmv_we_should_stop_throwing/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+>I believe "socialism/socialist" is a fuzzy term, at best, that often derails what could otherwise be useful political debates in the United States.
+
+sure
+
+>When people on the political right say "socialism," they typically have in mind a poorly-run welfare state at best and brutal totalitarianism at worst.
+
+This depends heavily on (as you would guess) political affiliation
+
+[https://www.forbes.com/sites/niallmccarthy/2020/10/06/the-most-socialist-countries-according-to-americans-infographic/?sh=349bcc5c5705](https://www.forbes.com/sites/niallmccarthy/2020/10/06/the-most-socialist-countries-according-to-americans-infographic/?sh=349bcc5c5705)
+
+Democrats consider Sweden and Norway to be the most "socialist nations" while Republicans associate the term with Russia and Venezuela.
+
+>They tend to lump AOC, Bernie Sanders, and Nordic countries all under this "socialist" umbrella, when what all of these have in common is social democracy, not socialism. Places like Sweden and Norway operate with capitalist economies and most of what AOC and Bernie push for is completely compatible with capitalism, albeit in a modified form.
+
+Sweden and Norway...are very different from Bernie or AOC's vision for America. The Scandinavian economies are heavily free trade, while Bernie is *very* protectionist. They also tend to have very pro-business regulation (Scandinavian countries consistently rank very highly on ease of doing business) and have low corporate taxes (Bernie supports very high corporate income taxes). You can certainly find similarities between Scandinavia's social safety net and many of Bernie's proposals, but many of his proposals go quite beyond the Scandinavian model, like his proposal for a universal jobs program and his healthcare plan which calls for eliminating all premiums, copays, and deductibles, among many other things. You can't really summarize it all in a post like this.
+
+Bernie and AOC's vision is compatible with capitalism although that's also a vague term.
+
+>What I think is happening is that when people say "socialist" in the positive sense in the US, what they probably mean is Keynesian (i.e., the government doing stuff). That is, the focus tends to be on the role of government and social programs
+
+Keynesian economics as just the government just pushes with social programs is a very vague summarization. I would read this article for more details [https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm#:\~:text=British%20economist%20John%20Maynard%20Keynes,wage%20demands%20(see%20box)](https://www.imf.org/external/pubs/ft/fandd/2014/09/basics.htm#:~:text=British%20economist%20John%20Maynard%20Keynes,wage%20demands%20(see%20box)).
+
+But to summarize, Keynesians advocate for counter-cyclical fiscal policy to help regulate the Business cycle (ie using deficit spending to finance strong fiscal stimulus during recessions while using higher taxes and other policies to deflate the economy during periods of abundant growth to avoid inflation). Keynesians have also integrated monetary ideas over the years.
+
+>more than workplace power dynamics (e.g., labor vs. the owner class) and the fundamental incentive structure of the economy. To my understanding, basic socialist ideology is agnostic to the role and structure of government, ranging from radically democratic to decidedly-NOT democratic (hence why the left tends to split off into so many factions).
+
+Well Bernie and AOC do focus a lot on workplace power dynamics, although I don't think that really makes them socialists (atleast the way I would define it).
+
+>I am not merely making this argument from the abstract "words mean things" stance (though this does partially motivate the argument because, of course). Controversy and lack of clarity have real world impacts on public views and political behavior. For instance, Americans broadly support progressive, social democratic labor laws, such as expanding the power of unions ([https://www.filesforprogress.org/memos/labor\_unions.pdf](https://www.filesforprogress.org/memos/labor_unions.pdf)), whereas most Americans by and large tend to dislike things that are labelled as "socialist/socialism" ([https://news.gallup.com/opinion/polling-matters/287459/public-opinion-review-americans-word-socialism.aspx](https://news.gallup.com/opinion/polling-matters/287459/public-opinion-review-americans-word-socialism.aspx)).
+
+Socialist labels certainly due impact how Americans view policies.
+
+>In conclusion, I am not arguing for the literal censorship of the word "socialism." Furthermore, I understand that words and concepts morph over time; however, I would argue that in the US "socialism" has evolved into splintered meanings, depending on political community, without consensus, making it a bad word for political debate. Thus, I am making a pragmatic argument -- we should avoid using a term in our discussions and debates that is misunderstood, loaded, and, in my opinion, beyond salvaging in our political context.
+
+I mean socialism is hardly the only term that is vaguely defined and can have a lot of different meanings to people. Terms like capitalist, social democratic, left, right, liberal are also poorly defined. Like you bring up social democracy, but honestly people seem to use that term to represent everything on the "American left" between centrist Democratic policies and full blown socialism.
+
+In general I think it would be nice to move political discussion away from discussing vague terms and focus on debating actual specific policy.
+The problem is that you are arguing that people should stop using a tool that is political expedient for them.  You absolutely correct that the word can mean a million things and that it adds nothing to American political discourse because there's no agreed upon definition.  
+
+However, the word scares a lot of people on the right and if someone or something is described as "socialist", Republican politicians and pundits know that they don't have to engage with that particular issue any longer. 
+
+And that's really useful.  Let's say you're Ted Cruz.  Why agree to an actual informed debate about the objective merits of student loan forgiveness or single-payer health insurance, something your financial backers are staunchly opposed to, when you can just label those polices as "socialist" say that if the U.S. adopts them, there will be food shortages as we see in Venezuela?
+
+Is it smart?  No.  Does it work? Yes.  Republicans are going to keep doing it.
+Socialism isn't a fuzzy term. It has a clear definition. It is when the workers own the means of production. Anyone advocating for that is a socialist. Republicans calling everyone a socialist is at best ignorant and at worst dishonest slander.
+What will it mean if we stop using the term socialism? Is your argument that language sucks? I agree. But language is what it is and words often have different meanings to different people. And socialism itself has a history of fuzzy meanings. The difference between socialism and communism will differ based on who you ask; even those who study it will probably disagree. But, again, it's just the way that language works. We can't assume meaning because conveying our beliefs is hard. Even in your post, you referred to "liberals and people who lean left" when the fact of the matter is that most Democrats would be right of center on the political spectrum, and are only left in relevant comparison to the right. People throw around terms like "terrorism" as well.
+
+My point is that it doesn't really matter what words we use. There will always be words that become weapons, and there are countless words to weaponize if one ceases to be effective. The way we properly communicate with one another is by explaining our positions completely with other people who aren't arguing in bad faith.
+I’m not going to try to CYV, I just think the fuzziness is exactly why terms like “socialist” and “fascist” are pushed onto the political discourse. Most conversations are completely derailed into somewhat futile attempts to define those words while the fruit of the argument gets tossed out the window, and that benefits those who depend on the maintenance of a polarized sociopolitical status quo, I.e Fox, CNN, Wall St, K St, and the general “swamp” of both parties.
+
+Semi-related, there are many stripes of socialism which overlap or contradict to varying degrees but I think you can divide socialism into two general camps; there’s statist socialism, which ranges from vanguard state communism on the far left to Scandinavian style social democracy, which has plenty of overlap with capitalism. Then you have libertarian socialism, which is generally anti-state and has more in common with anarchism or even ancap-libertarianism if horseshoe theory is something you buy (I personally think it’s an oversimplification.
+
+But yeah, the engines of mainstream discourse love to get people all twisted up with these loaded words because the last thing they want is for the general political right and left to realize their problems and goals are basically the same when it comes down to it
+>I believe "socialism/socialist" is a fuzzy term, at best, that often derails what could otherwise be useful political debates in the United States.
+
+Ya, but you are acting like that isn't the entire point. R's cry socialism at anything that helps people they don't like in the same way that Trump cried "fake news" at anything that was unflattering to him. 
+
+It is 100% to derail a substantitive debate. Assuming the other side is arguing in good faith is something that, sadly, you can no longer do.
+> To my understanding, basic socialist ideology is agnostic to the role and structure of government, ranging from radically democratic to decidedly-NOT democratic (hence why the left tends to split off into so many factions).
+
+Agnostic in what possible sense? People aren't going to naturally form a socialist society. There has to be a mechanism of enforcement, as evidenced by every government ever also having one. That limits the possible implementations of socialism down, and thus we can limit the discussion to only those which have a remote possibility of working, or really to zero, because it never works. 
+
+> They tend to lump AOC, Bernie Sanders, and Nordic countries all under this "socialist" umbrella, when what all of these have in common is social democracy, not socialism.
+
+AOC and Bernies Sanders *are* democratic socialists.They want to see the [end of capitalism](https://www.vox.com/first-person/2018/8/1/17637028/bernie-sanders-alexandria-ocasio-cortez-cynthia-nixon-democratic-socialism-jacobin-dsa).
+
+> I’m a staff writer at the socialist magazine Jacobin and a member of DSA, and here’s the truth: **In the long run, democratic socialists want to end capitalism.** And we want to do that by pursuing a reform agenda today in an effort to revive a politics focused on class hierarchy and inequality in the United States. The eventual goal is to transform the world to promote everyone’s needs rather than to produce massive profits for a small handful of citizens. 
+
+The end of capitalism is fairly straight forward; no profit, no private property. You can sugar coat it in whatever flavorful language you want, but that's what it means to end capitalism; the outlawing of private ownership of the means of production.
+Likewise can we stop throwing around blanket terms on the other end of the spectrum. All this political discourse just turns into name calling and it’s as bad as a children’s playground.

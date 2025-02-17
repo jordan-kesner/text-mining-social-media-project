@@ -1,0 +1,67 @@
+Title: State of the Sub: February 2025
+
+Post:
+### New Mods
+
+Some of you may have noticed that we have two new members of the Mod Team! Apparently, there are still people out there who think that moderating a political subreddit is a good idea. So please join us in welcoming /u/LimblessWonder and /u/TinCanBanana. I'll let them properly introduce themselves in the comments.
+
+We'd like to thank all the applicants we received this year. Rest assured we will be keeping many of you in mind when the next call for new Mods goes out.
+
+### Paywalled Articles
+
+We're making a small revision to Law 2 that we're hoping will not affect many of you. Going forward, we are explicitly banning Link Posts to paywalled articles. This is a community that aims to foster constructive political discussion. Locking participation behind a paywall does not help achieve this goal.
+
+Exceptions will be made if a Starter Comment contains a non-paywalled, archived version of the article in question. Violations will also *not* be met with any form of punishment other than the removal of the post. We understand that some sites may temporarily allow article access, or grant users a certain number of "free" articles per month. We're not looking for this kind of confusion to cause any more of a chilling effect on community participation.
+
+### Law 5 Exceptions
+
+Over the past few months, we have been granting limited exceptions to content that was previously banned under Law 5. This is a trend we plan on continuing. Content may be granted an exception at Moderator discretion *if* the following criteria are true:
+
+* The federal government has taken a major action (SCOTUS case, Executive Order, Congressional legislation, etc.) around the banned content. 
+* Before posting, the user requests an exception from the Mod Team via Mod Mail or Discord. 
+* The submitted Link Post is to the primary government source for that major federal action.
+
+### 300,000 Members
+
+We have officially surpassed 300,000 members within the /r/ModeratePolitics community. This milestone has coincided with an explosion of participation over the past few weeks. To put this in perspective, daily pageviews doubled overnight on January 20th and have maintained that level of interaction ever since. We ask for your patience as we adjust to these increased levels of activity and welcome any suggestions you may have.
+
+### Transparency Report
+
+Anti-Evil Operations have acted 36 times in January.
+
+Top Comments:
+Just a reminder for everyone. If you want to discuss any specific moderators or moderator actions, please use modmail or the discord server.
+I wanted to start some discussion around Rule 2 - Submission Requirements.
+
+It seems to me that the reason for this rule is to stimulate engagement and discussion. All things considered it’s a good rule and I honestly believe that every subreddit should have it. However, I think that the rule should be expanded.
+
+There are several users and especially one in particular - and I won’t name them for obvious reasons - whose entire account is dedicated to posting articles here. While I think this isn’t great, there isn’t technically anything wrong with that. Their summaries/starter comments are often misleading or slanted. Again, this isn’t great, but not technically wrong. My issue is that they never, EVER follow up or respond to comments. I don’t believe that this respects the spirit of the rule.
+
+I believe that if you’re posting an article here, you should be willing to engage with the community. And this can work both ways, either your opinion gets validated or maybe you get your mind changed on something. But to have an entire account dedicated to posting articles and starting comments that are misleading or outright wrong feels nefarious - especially because the bulk of the articles they post are about inflammatory culture war topics.
+
+I propose a simple solution: expand Rule 2 such that the poster has to also have a follow up comment to another comment. It can be as simple as 1 follow up or maybe up to 2-3 or even 5. I don’t know the exact execution of this, but I feel that this would better fulfill the spirit of rule 2.
+
+Thoughts?
+I've long been an advocate for loosening Law 5, and I'm happy with the current policy. I think it's important that we be able to discuss LGBT issues- like it or not, trans rights are a major aspect of public discourse right now. That said, I don't want this sub to devolve into a culture war shitfest. If not being able to post 3rd-party articles and the latest mean tweet is the price to pay, fine.
+
+I also approve of the Law 2 change. I haven't noticed this being much of an issue, but I'm glad it's being dealt with.
+I am not saying I have a solution for actually enforcing this, but I think there needs to be a discussion about [sealioning](https://en.m.wikipedia.org/wiki/Sealioning#:~:text=It%20may%20take%20the%20form%20of%20%22incessant%2C,likened%20to%20a%20denial%2Dof%2Dservice%20attack%20targeted%20at) in this subreddit which is very clearly a violation of Rule 1, but doesn’t result in mod action because of how sealioning works and is meant to present itself as just “casually asking questions”.
+
+There are a number of users who will just spam every thread, responding to almost every post, often with the exact same comment, “just trying to explain things or ask questions”. They are not good faith comments, everyone knows they are not good faith comments, but the people who get disciplinary action are not the bad faith actors, they are the new-ish (or naive) users who don’t know they can’t call a spade a spade.
+
+Again, I don’t know how you fix this but it seems pointless to have a “good faith” rule when certain users are clearly not acting in good faith, they have just been here long enough to know what diction to use to skirt the rules while still being assholes.
+During election season, there was some confirmed manipulation of reddit, including of this particular subreddit, by political actors. Is there any concern that something similar is happening again with the recent overnight doubling in page views?
+Can we ban calls to Luigi people we disagree with?
+
+The rhetoric is heating up in many subs and the mods are stocking it.
+
+I'd love to hear a clear policy of warn/ban anyone who brings that type of language in here.
+Can we get rid/ban of all of the accounts that start with "throwaway"? There are countless numbers of these accounts that seem to purposefully create problems or act in bad faith. Since the election it seems like these accounts have multiplied and I see them in almost every thread now. The only one that I've seen that does behave and act in good faith is the one that submits a bunch of articles.
+I am grateful that this is one of the few subreddits with a sizable Conservative presence that allows open discussion between the two halves of the country. Given the current temperature, it most be hard to moderate and I appreciate there not being a blanket ban on left wing posters.
+>Going forward, we are explicitly banning Link Posts to paywalled articles.
+
+Happy about this in particular. Its been really annoying especially the past week or so.
+
+>Anti-Evil Operations have acted 36 times in January.
+
+lol wow

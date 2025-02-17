@@ -1,0 +1,45 @@
+Title: With a US ban almost here, what can save TikTok?
+Source: Android Central
+URL: https://www.androidcentral.com/apps-software/what-can-save-tiktok-from-united-states-ban
+
+TikTok is going to be banned in the U.S. this Sunday, January 19. Maybe.
+
+Last spring, the Biden administration passed legislation that would ban TikTok on national security grounds unless the parent company, ByteDance, sells off the U.S. version of the app to another company.
+
+If the ban passes as scheduled, Apple and Google would be forced to remove the app from their respective app stores, though existing users can still use the app if it was already installed. Eventually, though, the older versions of the app will stop working altogether.
+
+ByteDance hasn't shown much interest in selling off TikTok's U.S. assets, so TikTok has explored other options, such as appealing the legislation in the Supreme Court, saying it violates the U.S. Constitution's First Amendment protection against government infringement of free speech.
+
+It seems that the Supreme Court justices are willing to allow the ban to go forward, but no decision has been made at the time of this writing. TikTok has reportedly stated that it will shut down the app in the U.S. if the ban goes through. Android Central has reached out to TikTok regarding its plans and will update this article when we have more information
+
+TikTok does have another hope, though, and that lies with the U.S. Senate and President-elect Donald Trump.
+
+Trump has decided he doesn't want TikTok banned, though he has called for it in the past. He is urging the Supreme Court to halt or delay the ban until he has time to pursue negotiations.
+
+Be an expert in 5 minutes Get the latest news from Android Central, your trusted companion in the world of Android Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors
+
+According to a brief filed by Trump last Friday, "President Trump alone possesses the consummate deal-making expertise, the electoral mandate and the political will to negotiate a resolution to save the platform while addressing the national security concerns expressed by the government — concerns which President Trump himself has acknowledged."
+
+President Trump will be sworn into office on January 20, just one day after the ban. He could then pause the ban for 90 days if TikTok has shown a willingness to comply. Senators Rand Paul (R-KY) and ED Markey (D-MA) have also filed a brief with the court to delay the ban.
+
+Finally, Senator Markey, a member of the Commerce, Science, and Transportation Committee, also has introduced legislation to Congress to extend the ban by 120 days. Market acknowledges TikTok's dangers and possible security issues but says too many people depend on the app economically.
+
+“Let me be clear: TikTok has its problems. Like every social media platform, TikTok poses a serious risk to the privacy and mental health of our young people. I will continue to hold TikTok accountable for such behavior. But a TikTok ban would impose serious consequences on millions of Americans who depend on the app for social connections and their economic livelihood. We cannot allow that to happen.”
+
+(Image credit: Jay Bonggolto / Android Central)
+
+None of this may matter, and come Sunday, TikTok will be banned in the U.S. Some people will approve, some not, and others are apathetic over the situation.
+
+One thing to consider is that lawmakers — even the few who aren't tech luddites — who have seen the intelligence reports support some sort of action are the ones who called for the ban. Regular people who love or loathe TikTok have not seen it. That doesn't mean we can't have an opinion.
+
+My own? If there are true national security issues with TikTok and not just xenophobic drumming against China, ban it until they can be addressed. Go a step further and block it. Maybe even take the necessary action so it can't be accessed through a VPN (yes, that's 100% possible). Then extend the same scrutiny to all tech companies, not just the ones from China
+
+I've asked around the office and the internet-at-large, and opinions are mixed. I've heard things like, "I don't care, but my partner does," "I'm not in the U.S., so I'm unaffected," and people in India are just saying, "What's TikTok?" (The Indian government banned TikTok in 2020 over national security concerns.)
+
+People opposed to the ban bring up some very valid points — should the government infringe on TikTok's First Amendment protections, and why aren't Facebook, Twitter, or Instagram facing the same ban?
+
+The obvious answer is China. The U.S. and China are not on very friendly terms so any advantage China may gain through data collected by TikTok is concerning. Facebook and other U.S. companies can be forced to do things the government's way via legislation. Chinese companies can't.
+
+The First Amendment question may soon be answered by the Supreme Court; even a non-decision acknowledges that TikTok's protections can be limited.
+
+We'll know more on Sunday.

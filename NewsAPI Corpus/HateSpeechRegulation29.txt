@@ -1,0 +1,47 @@
+Title: Trump stand on online speech divides free speech ecosystem
+Source: BusinessLine
+URL: https://www.thehindubusinessline.com/news/trump-stand-on-online-speech-divides-free-speech-ecosystem/article69123919.ece
+
+US President Donald Trump’s light touch approach to online speech regulation has unsettled the fact-checking ecosystem. In India, critics of Trump’s call to “end censorship” online worry that the hands-off approach will increase instances of hate speech and misinformation while others say the move allows for a more open forum for expression online.
+
+Namrata Maheshwari, Senior Policy Counsel and Encryption Policy Lead at Access Now, figured among the former category who worried that the order may lead to more hate speech online.
+
+“Ultimately these platforms work on clickbait and algorithmic transparency is not yet a reality. They show you what they think you want to see and that is exactly why misinformation and disinformation spread so quickly. There is the argument that more diversity of information will lead to more perspectives, and more versions of the truth being out there. But the problem is also timing. Sometimes it’s too late before that factual information comes out and the misinformation and the hate speech has done the damage. Certainly there is an increased risk of such content circulating on these platforms.
+
+Referring to Meta that recently decided to replace its fact-checking system with a community notes method, Maheshwari said such companies are tone-deaf to the realities that plague regions like India, South Asia.
+
+“Meta has a history of making decisions centered entirely on US context. The moment there is a shift in power in the executive, companies like Meta are quick to fall in line, and in some ways, take a complete u-turn on previous commitments. Meta had committed to enhancing the fact-checking program and now, they’re allowing harmful speech against LGBTQ plus community online. This gives you a flavour of the direction in which the US and platforms are heading, which would be not just detrimental, but extremely disastrous for other countries,” she said.
+
+However, Sachin Dhawan, a technology lawyer formerly at CCG-NLUD, said it is hard to predict the exact impact of the order on hate speech in India.
+
+“Even in the US, legally speaking, this does not change the status quo because it’s already the case that the US executive branch cannot cross a certain line when it’s communicating with the social media platforms and trying to get them to moderate in a certain way,” he said.
+
+Even so, he anticipated some level of uptick in harmful content online with the existing infrastructure and efforts to combat misinformation being pared down.
+
+Content moderation
+
+“The content moderation approach that platforms take are often influenced by changing political winds and who’s in power. they try and adjust their approach to content moderation, keeping those factors in mind. So that will certainly have a spillover effect on India.
+
+At a glance, the Trump order also appeared to conflict with India’s IT Rules that some critics described as far too restrictive in terms of free speech. However, when asked whether the executive order will conflict with India’s existing IT laws, both legal experts said there’s no change in the legal status quo.
+
+“That conflict between a company’s own guidelines and policies which are developed in case of big tech with an eye towards US law, and domestic law in other countries has always existed. Importantly, there are international principles of business and human rights that need to be the baseline to make sure that platforms do not become a tool for oppression in countries with repressive regimes,” said Maheshwari.
+
+Meanwhile, Pranesh Prakash, Principal Consultant at Anekaanta Advisory and Co-Founder of the Centre for Internet and Society, welcomed the news a positive initiative. “Trump has merely signalled that the US federal government will not be engaging in any conduct that “would unconstitutionally abridge the free speech of any American citizen.” It only affects those US government officials who communicate with tech companies, asking or requiring them to to engage in speech regulation,” said Prakash. He pointed out that there have been secret communications, made public thanks to court cases, between US government employees and tech companies where one sees government officials threatening tech company employees. He argued that such attempts by any government to regulate speech via social media companies ought to happen in public, through duly enacted laws.
+
+When asked whether the order will benefit online speech in India, he said, “It’s welcome if secret direction by US government officials isn’t used to limit the online expression that Indian can see. Let’s see if the Trump administration actually abides by this executive order.”
+
+SHARE Copy link
+
+Email
+
+Facebook
+
+Twitter
+
+Telegram
+
+LinkedIn
+
+WhatsApp
+
+Reddit

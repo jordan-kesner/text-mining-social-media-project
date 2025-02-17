@@ -1,0 +1,45 @@
+Title: Political campaigns struggle to balance AI personalization and voter privacy
+Source: Help Net Security
+URL: https://www.helpnetsecurity.com/2025/02/10/mateusz-labuz-ifsh-ai-personalization-privacy/
+
+In this Help Net Security interview, Mateusz Łabuz, researcher at the IFSH, discusses the balance between using AI for personalized political campaigns and protecting voter privacy.
+
+Łabuz also discusses the potential of AI in fact-checking, the regulatory landscape, and the influence of AI on campaign strategies in authoritarian regimes.
+
+How can campaigns balance leveraging AI for personalization with concerns about eroding voter privacy, particularly in jurisdictions with weaker data protection laws?
+
+One way to counteract abuse of the modern technologies is to establish clear rules of the game, i.e. introduce regulations that will apply to political parties and candidates during campaigns. This should of course also comprise the problem of collecting information about recipients. Of course, regulations will not solve all the problems we already witnessed, and personalization creates a serious area for violations, but they will constitute a kind of protective barrier.
+
+We see such trends in the European Union, where we have an entire ecosystem of legal solutions aimed at ensuring that citizens are making informed choices. The culmination of these efforts may be a new regulation on the transparency and targeting of political advertising.
+
+Cooperation between regulators and digital platforms is also necessary to ensure that user data is properly protected and the personalization is limited. On an ethical level, it is also worth considering introducing codes of conduct that might be signed by the political parties, although we have to be realistic – if there are possibilities for personalization and using technology to their advantage, political actors will explore these capabilities.
+
+Are there early detection systems or frameworks that could mitigate the impact of AI-driven disinformation during the critical final days of an election?
+
+Yes, there are early detection systems, such as content analysis and social networking algorithms, that monitor the spread of disinformation in real time. In my opinion, targeting the entire disinformation supply chain is crucial. In this regard, the focus should be primarily on the role of digital platforms, which are responsible for amplifying specific content.
+
+Of course, in some jurisdictions, regulations that sanction the dissemination of disinformation or synthetic media of a misleading nature for several dozen days preceding the election period were already introduced (e.g. several US states), but let us remember that the necessary condition for their success is an effective enforcement. We know that actors of disinformation don’t care about the rules. The solution could be to intensify fact-checking activities in the said period, which would require increased expenditures, primarily on content moderation.
+
+How effective are existing regulations, like the EU’s Digital Services Act, in curbing the spread of AI-generated disinformation, and what gaps remain unaddressed?
+
+It is very difficult to talk about the effectiveness of regulations that have very recently come into force and are still in the testing phase. We will see how they will be used in the confrontation with the US digital platforms, which have announced their withdrawal from the previous fact-checking activities.
+
+At the moment, I would not comment on the effectiveness, because we need more time and more data to realistically assess the implementation of the rules. Of course, there are already some positives to be seen, such as greater transparency in content moderation processes and the ability of platforms that are subject to reporting obligations.
+
+The AI Act may also be helpful, as it creates some synergies with the DSA in terms of detecting and monitoring synthetic content. Of course, there are many gaps, or perhaps more risk areas, because in a democratic system it is impossible to introduce censorship and thus combat disinformation at the level of deciding what is acceptable and what is not, what can be considered true and what not. That is why disinformation can sometimes flourish under the guise of freedom of speech, expression of opinion, sense of humor, or satire.
+
+It is not without reason that one may talk about cognitive warfare, which can, for example, use meme creations to promote specific ideology and views and create negative or positive associations with particular actors and values. I think we should pay more attention to this issue and focus not only on the narratives themselves, but also on the mechanisms of their dissemination, on the connections between disinformation actors and their connections with individual countries.
+
+Could AI-driven tools be developed to fact-check disinformation in real-time during campaigns, and what would be the barriers to implementing them at scale?
+
+They are already being developed, for example in relation to sentiment analysis or automatic detection of amplification of content previously recognized as disinformation. The reference point may be databases of trusted fact-checking organizations. However, barriers to their large-scale implementation include the complexity of the language (and multilinguality), the need for access to up-to-date data, the risk of algorithm bias, and errors which are unavoidable during the automatic content moderation.
+
+Therefore, human supervision and cooperation with technology are still important. There are also tools for detecting synthetic media. After all, according to the EU AI Act, synthetic media are to be marked already at the providers’ level (in a machine-readable format) so that they can be automatically detected.
+
+How are global trends in AI adoption influencing campaign strategies in countries with entrenched authoritarian regimes?
+
+In the case of authoritarian regimes, artificial intelligence should be seen as another tool for exercising control over citizens. It will therefore be subordinate to ideology, whether for disseminating specific narratives or for supervising the information space and the citizens themselves.
+
+Global trends in AI are enabling authoritarian regimes to more advanced monitoring of society, or personalization of propaganda. All of these will be strengthening the control over political narratives. At the same time, AI might give activists the tools to counter authoritarian manipulation, however, I am quite realistic in that respect and I do not expect a breakthrough.
+
+There are a few examples where AI has been used in interesting ways to counter authoritarian rule. In Venezuela, persecuted journalists used avatars to provide uncensored information. These are, however, isolated cases. AI tends to amplify already observed power imbalances when equalization of opportunities is not possible due to control of information space.

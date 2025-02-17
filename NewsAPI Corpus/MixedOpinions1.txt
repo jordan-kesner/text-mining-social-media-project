@@ -1,0 +1,69 @@
+Title: Google defies European Union, refuses to include fact-checks in search results and YouTube videos
+Source: Naturalnews.com
+URL: https://www.naturalnews.com/2025-01-23-google-refusing-eu-order-mandatory-fact-checks.html
+
+Google defies European Union, refuses to include fact-checks in search results and YouTube videos
+
+Google is refusing to integrate fact-checking into its search results or YouTube videos, defying the EU’s updated Disinformation Code of Practice under the Digital Services Act.
+
+The company argues that mandatory fact-checking measures are “not appropriate or effective” and instead highlights its existing content moderation tools as sufficient to address misinformation.
+
+Google’s decision reflects a broader trend among tech companies, including Meta, to scale back fact-checking efforts in favor of crowdsourced models like X’s Community Notes.
+
+The EU’s Disinformation Code, initially voluntary, is now being enforced as mandatory under the DSA, but tech companies have been criticized for partial compliance and insufficient transparency.
+
+Google’s stance raises concerns about the spread of misinformation ahead of critical 2024 European elections, with critics warning it could undermine efforts to combat disinformation during pivotal political moments.
+
+Google has informed the European Union that it will not integrate fact-checking into its search results or YouTube videos, despite new EU rules aimed at combating so-called disinformation.
+
+The decision was outlined in a letter sent on Jan. 16 by Google's Global Affairs President Kent Walker to Renate Nikolay, the European Commission's deputy director for Communications Networks, Content and Technology.
+
+Google's refusal to comply with the EU's Disinformation Code of Practice signals a deepening rift over how to regulate online content and raises concerns about the spread of misinformation ahead of critical European elections. (Related: Google tried to manipulate 2024 election in key swing states by sending special go-vote reminders to Democrats.)
+
+The EU's updated Disinformation Code, part of the broader Digital Services Act (DSA), would require platforms like Google to incorporate fact-check results alongside search results and YouTube videos, as well as integrate fact-checking into their ranking algorithms.
+
+Walker argued in the letter that such measures “simply aren’t appropriate or effective for our services.” Instead, he pointed to Google's existing content moderation tools, such as SynthID watermarking and artificial intelligence disclosures on YouTube, as sufficient to address misinformation.
+
+"Our current approach to content moderation works," Walker wrote, citing the company's handling of misinformation during last year's "unprecedented cycle of global elections" as evidence.
+
+He also highlighted a YouTube feature launched last year that allows users to add contextual notes to videos, likening it to the Community Notes program on the social media platform X, formerly Twitter.
+
+Google's decision is part of a larger trend among tech companies to scale back fact-checking efforts. Previously, Meta announced it would end its third-party fact-checking program on Facebook, Instagram and Threads, opting instead for X's crowdsourced Community Notes model.
+
+Meta CEO Mark Zuckerberg defended the shift, stating in a video announcement, "Fact-checkers have been too politically biased and have destroyed more trust than they’ve created. What started as a movement to be more inclusive has increasingly been used to shut down opinions and shut out people with different ideas, and it's gone too far."
+
+Big Tech rebelling against EU's anti-disinformation regulations
+
+The EU’s Disinformation Code of Practice, first introduced in 2018, was designed as a voluntary framework for tech companies to self-regulate and combat misinformation. However, a 2024 study published in the Internet Policy Review found that companies were "only partly compliant" with the code, with reports often lacking detail or providing incomplete data. The European Commission has since pushed to convert the voluntary guidelines into mandatory rules under the DSA, which took effect in 2022.
+
+Google's refusal to comply comes at a critical juncture, as Europe prepares for a series of major elections in 2024, including parliamentary votes in Germany, Poland and the Czech Republic.
+
+These elections will serve as a litmus test for how well tech platforms can manage so-called misinformation without stricter regulatory oversight. Critics argue that Google's decision to abandon fact-checking commitments could exacerbate the spread of disinformation during these pivotal moments.
+
+Watch this clip from InfoWars warning about how the EU Commission is expected to react if the "wrong" party wins the German federal election.
+
+This video is from the InfoWars channel on Brighteon.com.
+
+More related stories:
+
+Europe's war on FREE SPEECH is igniting a revolution, as populist movements demand truth, freedom and accountability.
+
+Mike Adams and Team AGES: Zuckerberg's shift from censorship to freedom could spark TRUTH revolution.
+
+Meta's free speech shift has sent shockwaves through Europe's political establishment.
+
+Telegram's Pavel Durov: EU has stricter media controls than Russia.
+
+Big Government vs. Big Tech: Justice Department outlines proposal to break up Google.
+
+Sources include:
+
+ReclaimTheNet.org
+
+Axios.com
+
+SearchEngineJournal.com
+
+NewRepublic.com
+
+Brighteon.com

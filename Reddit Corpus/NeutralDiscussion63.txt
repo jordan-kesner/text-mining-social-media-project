@@ -1,0 +1,42 @@
+Title: TikTok shares your data more than any other social media app — and it’s unclear where it goes, study says
+
+Post:
+
+
+Top Comments:
+This is the best tl;dr I could make, [original](https://www.cnbc.com/2022/02/08/tiktok-shares-your-data-more-than-any-other-social-media-app-study.html) reduced by 87%. (I'm a bot)
+*****
+> With third-party trackers, it&#039;s essentially impossible to know who&#039;s tracking your data or what information they&#039;re collecting, from which posts you interact with - and how long you spend on each one - to your physical location and any other personal information you share with the app.
+
+> As the study noted, third-party trackers can track your activity on other sites even after you leave the app.
+
+> The third-party tracking still happened even when users didn&#039;t opt into allowing tracking in each app&#039;s settings, according to the study.
+
+
+*****
+[**Extended Summary**](http://np.reddit.com/r/autotldr/comments/snryaz/tiktok_shares_your_data_more_than_any_other/) | [FAQ](http://np.reddit.com/r/autotldr/comments/31b9fm/faq_autotldr_bot/ "Version 2.02, ~622227 tl;drs so far.") | [Feedback](http://np.reddit.com/message/compose?to=%23autotldr "PM's and comments are monitored, constructive feedback is welcome.") | *Top* *keywords*: **track**^#1 **app**^#2 **data**^#3 **TikTok**^#4 **collect**^#5
+Looks like I dodged multiple bullets by never making a TikTok account. Anything relevant on TikTok gets reposted everywhere anyway.
+We know exactly where the data goes. 
+
+The app is owned by ByteDance and the data is going directly to the Chinese govt and their army of analysts to probe for people they can exploit with said data.
+We’ve been discussing privacy and apps for years, but I’ve never seen it broken down simply. 
+  
+Hell, just even in a table - where the rows are the apps, the columns are the data categories, and in each cell is the detail of what is collected, how it is collected, and where it goes. 
+  
+Summarizing the issue would go a long way for folks to understand it. 
+  
+In understand it is more complex than what I’m proposing, but this - or something like this - is badly needed.
+Ever want to see that data in use?
+
+Look up all the recent people being arrested for selling US secrets. (not just gov, but US company trade-secrets too)
+
+Most people won't sell out their own country for less than $5-15 million, however there are a few who would do so for about $5k-$50k.
+
+I believe if you combined the last 10 people who did this, the total would be less than $100k, and that's just the people we know about publicly.
+
+&#x200B;
+
+Also you can use that data to find people susceptible to social engineering, such as dropping this comment into the right forum: "The rolls-royce Model AHC-6514 gas turbine only outputs 914 HP, not the 960 HP like they claim, why the heck does anyone use it anyhow?" and the subject matter expert will chime in with classified or company-secret information to correct that "RR engineer here, the AHC-6514 puts out just as much as the \[insert military version here\] which is 1141HP!" and then they'll probably post a picture of the test cell and some of the other performance data when other "fake" accounts reply with doubts. 
+
+It works way too often. I've seen critical company secrets posted on a forum by a stupid engineer on a power trip trying to prove a random person wrong. As an engineer it pisses me off that stuff I've worked for years to complete can get leaked out by some random person with no self control.
+American military and government officials are banned from downloading it because its completely known as Spyware for the CCP. I can't imagine why anyone would use it

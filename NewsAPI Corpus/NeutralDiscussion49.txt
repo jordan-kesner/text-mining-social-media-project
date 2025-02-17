@@ -1,0 +1,113 @@
+Title: The Attention Alchemists: crafting gold from social engineering
+Source: TechRadar
+URL: https://www.techradar.com/pro/the-attention-alchemists-crafting-gold-from-social-engineering
+
+We live in a world where a new breed of alchemist has emerged. These modern-day sorcerers aren't toiling over bubbling cauldrons or searching for the philosopher's stone. Instead, they're mining the most valuable resource of our age: human attention.
+
+The world of social engineering isn’t just about exploiting people for money - it's more about engaging people and competing for attention. Because once you’ve hooked someone, they become easier to influence and manipulate.
+
+Javvad Malik Social Links Navigation Lead security awareness advocate at KnowBe4.
+
+The Base Elements of Engagement
+
+At the heart of this digital alchemy lies a simple truth: humans are predictable in their unpredictability. “Dr. Firewall”, a cybersecurity elder, shared his thoughts with me. His meticulously crafted post on zero-day vulnerabilities was met by crickets, while a hastily scribbled doodle of a melancholic robot went viral.
+
+"People don't want to be educated," he mused, sipping a coffee that tasted of disillusionment. "They want to be entertained, outraged, or validated."
+
+And this observation lies at the heart of audience engagement - which are the same techniques and reactions that social engineers are looking for.
+
+Advertising: The original social alchemy
+
+Influencing human behavior isn’t new. Advertising agencies have been trying to understand and manipulate behavior since before the days of Mad Men. It’s not uncommon to see corporate giants like Nike and Pepsi experiment with the volatile elements of public opinion.
+
+Nike's 2018 campaign featuring Colin Kaepernick is a masterclass in corporate social alchemy. By embracing the controversial NFL quarterback, known for kneeling during the national anthem to protest racial injustice, Nike didn't just create an ad – they ignited a cultural firestorm.
+
+The initial reaction was explosive. #BoycottNike trended, videos of people burning their Nike shoes went viral, and the company's stock dipped briefly. But Nike had calculated this risk. They understood their core demographic and the power of taking a stand in a polarized world.
+
+The result? Nike's online sales jumped 31% in the days following the campaign launch. More importantly, they positioned themselves as a brand willing to stand for something, resonating deeply with younger, socially conscious consumers. This wasn't just marketing; it was social engineering on a massive scale, transforming potential controversy into brand loyalty and significant financial gain.
+
+On the flip side, Pepsi's 2017 ad featuring Kendall Jenner demonstrates how this corporate alchemy can go terribly wrong. The ad, which showed Jenner seemingly resolving tensions between protesters and police by offering an officer a Pepsi, was intended to project a message of unity and peace.
+
+Instead, it sparked immediate backlash, with critics accusing Pepsi of trivializing serious issues like police brutality and co-opting imagery from real protests. The ad was pulled within 24 hours, and Pepsi issued an apology.
+
+This miscalculation highlights the risks of corporate social engagement experiments. Pepsi misread the room, underestimating the complexity and sensitivity of the issues they were attempting to leverage. The backfire served as a reminder that in the attention economy, negative engagement can be just as viral. But while negative engagement can be damaging for brands, it sometimes can be the key to success for individuals.
+
+The Dark Arts of Virality
+
+Whereas negative engagement and ethical implications can prevent organizations from crossing certain thresholds, individuals, or anonymous entities on social media can exploit human nature with little to no restrictions. Turning our curiosity, outrage, desire for connection, and other emotions into a powerful tool of engagement.
+
+Take, for instance, the "rage-bait" phenomenon. Content creators intentionally post inflammatory or incorrect information, knowing it will trigger a flood of corrective responses. A YouTuber once confided, "I always mispronounce a popular tech brand in my videos. The comments section explodes with corrections, and engagement skyrockets." This tactic weaponizes our innate desire to be right, turning pedantry into profit.
+
+Another dark art is the "curiosity gap" technique. Headlines like "You won't believe what happened next..." or "This one weird trick..." prey on our inability to resist closure. It's the digital equivalent of a cliffhanger, leaving our brains itching for resolution. Studies show that this cognitive itch can be so powerful that we'll click even when we know we're being manipulated.
+
+The "outrage machine" is perhaps the most insidious of these dark arts. Platforms like Facebook have admitted that anger is the emotion that spreads most easily online. Content creators exploit this by crafting posts designed to provoke moral outrage. A seemingly innocuous tweet about pineapple on pizza can spiral into a viral storm of righteous fury, with each indignant share feeding the algorithm's hunger for engagement.
+
+Even more troubling is the rise of deepfake technology. In 2019, a manipulated video of Nancy Pelosi, altered to make her appear drunk, spread like wildfire across social media. Despite being quickly debunked, the video had already shaped perceptions for millions of viewers. This incident highlighted how our brains are wired to remember the initial emotional impact of content, even after we learn it's false.
+
+The "astroturfing" technique creates the illusion of grassroots support for ideas or products. In 2006, Sony faced backlash for creating a fake blog to promote their PSP console. More recently, investigations have uncovered networks of bots and paid actors creating artificial buzz around everything from political candidates to cryptocurrency schemes. These campaigns exploit our tendency to follow the crowd, manufacturing social proof out of thin air.
+
+Perhaps most pervasive is the art of "dopamine hacking." Social media platforms are designed to trigger small bursts of pleasure with each like, share, or notification. This creates a feedback loop that keeps us scrolling, much like a slot machine keeps gamblers pulling the lever. By understanding and exploiting the brain's reward system, these platforms turn our own neurochemistry against us.
+
+These dark arts of virality aren't just annoying or manipulative – they're reshaping our information landscape. They exploit the human element that cybersecurity experts have long warned about, turning our quirks into vulnerabilities. As these techniques become more sophisticated, the line between engagement and exploitation grows ever thinner.
+
+In this new frontier of social engineering, awareness is our first line of defense. By understanding these tactics, we can begin to recognize when we're being manipulated. The challenge lies not just in hardening our systems, but in cultivating a kind of behavioral immune system – one that can recognize and resist these viral incantations of the digital age.
+
+Weaponized Information
+
+With this new phase of social engineering, information itself has become a weapon of mass influence. This isn't just about fake news or propaganda; it's about the strategic deployment of information to manipulate emotions, shape perceptions, and even incite real-world action. The consequences of this weaponization stretch far beyond the digital realm, seeping into the fabric of our societies and democratic institutions.
+
+Take the case of the UK, where digital whispers transformed into physical violence. In 2020, conspiracy theories linking 5G networks to the COVID-19 pandemic spread like wildfire across social media platforms. The result? Over 70 cell towers were vandalized or burned in the UK alone. This incident starkly illustrates how misinformation, when weaponized, can leap from screens to streets, endangering lives and infrastructure.
+
+But the weaponization of information isn't always so overt. In 2016, the Cambridge Analytica scandal revealed how harvested Facebook data was used to create psychographic profiles of voters, allowing for hyper-targeted political messaging. This wasn't just advertising; it was a precision-guided information weapon, designed to exploit individual psychological vulnerabilities for political gain.
+
+The rise of "troll farms" adds another layer to this digital arms race. In 2018, the Internet Research Agency in Russia was indicted for interfering in the 2016 US election through a coordinated campaign of disinformation and social media manipulation. These operations don't just spread false information; they sow discord, amplify existing tensions, and erode trust in institutions.
+
+Even more insidious is the weaponization of truth itself. Techniques like "firehosing" – overwhelming the public with a rapid, continuous stream of information, regardless of its consistency or veracity – exploit our cognitive limitations. When faced with an onslaught of conflicting narratives, many people simply disengage, creating a fertile ground for further manipulation.
+
+The health sector hasn't been spared either. During the COVID-19 pandemic, we witnessed an "infodemic" alongside the viral outbreak. Anti-vaccine misinformation, often weaponized and spread by coordinated groups, led to vaccine hesitancy that cost lives. Here, the weaponization of information directly impacted public health outcomes.
+
+In the corporate world, "short and distort" schemes show how weaponized information can manipulate markets. Bad actors spread false negative information about a company to drive down its stock price, profiting from the artificial decline. This tactic has cost companies millions and undermined investor confidence.
+
+Countering this threat requires a multifaceted approach. Technical solutions like improved content moderation and AI-driven fact-checking are part of the puzzle. But equally important is fostering digital literacy and critical thinking skills among the general public. Some countries, like Finland, have incorporated media literacy into their national curriculum, aiming to create a citizenry resilient to information warfare.
+
+As cybersecurity professionals, our mandate has expanded. We're no longer just guardians of data and systems; we're on the front lines of a battle for the integrity of information itself.
+
+Defending the Human Element
+
+As the digital landscape evolves, so too must our approach to cybersecurity. Traditional measures like firewalls and antivirus software, while still crucial, are no longer sufficient in a world where the primary target is the human mind. Defending the human element requires a multifaceted approach that combines technological solutions with psychological insights and educational initiatives.
+
+1. Cultivating Digital Street Smarts
+
+The first line of defense is education, but not in the conventional sense. We need to move beyond dry, technical training and focus on developing "digital street smarts." This means teaching people to recognize the emotional triggers and cognitive biases that social engineers exploit.
+
+For example, the UK's National Cyber Security Centre has developed the "Cyber Aware" campaign, which uses relatable scenarios to teach basic cybersecurity hygiene. Similarly, Google's "Be Internet Awesome" curriculum for kids blends online safety with lessons on digital citizenship, teaching children to think critically about their online interactions from an early age.
+
+2. Leveraging Behavioral Science
+
+Understanding human behavior is key to defending against social engineering attacks.
+
+This is where the Human Risk Management approach comes into play. By understanding individuals’ behaviors and patterns, one can deploy personalized, relevant, and adaptive training and nudges to the people who need it the most at the time when it’s needed, and through a medium that they can engage with.
+
+3. Cyber Mindfulness
+
+Building mindful cyber practices can help us develop mental habits that act as a first line of defense against manipulation.
+
+The SIFT method (Stop, Investigate, Find, Trace) developed by digital literacy expert Mike Caulfield, teaches people to pause before sharing information, investigate the source, find better coverage, and trace claims back to their origins. This simple framework can significantly reduce the spread of misinformation.
+
+4. Fostering a Culture of Skepticism
+
+Creating an environment where it's okay to question and verify is crucial. This is where the value of regular simulated phishing comes into play. Allowing and drilling staff into understanding what to look out for, how to report it, and overall making skepticism a habit… not just a one-off training exercise.
+
+5. Embracing Transparency
+
+Finally, fostering a culture of openness about mistakes and near-misses is crucial. When employees feel safe reporting potential security incidents without fear of punishment, it creates a learning environment that strengthens overall security posture.
+
+To Summarize
+
+Defending the human element is an ongoing process, not a one-time fix. It requires constant adaptation as social engineering tactics evolve. By combining technological solutions with a deep understanding of human behavior, we can build a more resilient digital society.
+
+Corporate, societal, and individual challenges lie before us - and many may seem technical, whereas in fact they are deeply human. How do we foster genuine connection in a world of engineered interactions? How do we preserve truth when lies are crafted to be more appealing? These are the questions that will define the next era of digital security.
+
+Keep your business safe with the best network monitoring tool.
+
+This article was produced as part of TechRadarPro's Expert Insights channel where we feature the best and brightest minds in the technology industry today. The views expressed here are those of the author and are not necessarily those of TechRadarPro or Future plc. If you are interested in contributing find out more here: https://www.techradar.com/news/submit-your-story-to-techradar-pro

@@ -1,0 +1,90 @@
+Title: CMV: It should be illegal for government officials to suggest, call on or otherwise solicit tech companies to censor people
+
+Post:
+[The govnerment](https://www.dailywire.com/news/biden-surgeon-general-suggests-joe-rogan-podcast-should-be-censored-big-tech-has-important-role-to-play?%3Futm_source=twitter&utm_medium=social&utm_campaign=dwtwitter) should not be able to proxy censorship through industries like the tech industry. Wherever your feelings fall on the political spectrum, it should truly terrify people that the government is openly working straight around the first ammendment.
+
+Like many other things that we have seen over the past few years... and decades (patriot act), the government is using states if crises in order to justify heavy handed authoritarian overreach that violates our rights. The crisis here is public health vs free speech. If we allow this to continue, we will see censorship in all things. I'd remind everyone that not even a year ago our government was saying racism is a larger threat to public health than COVID. See it all coming together? 
+
+I really hope someone can CMV because it's a terrifying prospect.
+
+Edit: having trouble keeping up, I promise I'm not ignoring you.
+
+Edit 2: I'm having to spend too much time with strawmen or arguments that don't address my post. I will be addressing comments that directly try to convince me that it is a good thing for government officials to call industries that they have control over to violate free speech.
+
+Edit 3: replied to my last "if so and so killed somebody" comment. Sorry, I won't be convinced by blatant strawmen arguments about murder.
+
+Top Comments:
+Reading the article, the actual thing the doctor said was.... Really mild. There's a lot of spin in the article. 
+
+A real example of dangerous conduct of government leaning on private sector would be the way the American government did its witch-hunts on Hollywood and other parties, looking for Communists. This isn't close.
+>I'm having to spend too much time with strawmen or arguments that don't address my post. I will be addressing comments that directly try to convince me that it is a good thing for government officials to call industries that they have control over to violate free speech.
+
+It seems like the problem is that no one is actually advocating *for* what you are argueing against, the incident that inspired this CMV is not an example of what you are claiming, and that censorship doesn't mean what you think it means.
+
+What you are suggesting is, itself, censorship.
+This is just a fundamental misunderstanding of Free Speech doctrine. Several people have already discussed the government employee speech aspect of it, so I won't spend too much time on that. Government employees still have First Amendment rights when they are not acting in their official capacities. As for government employees speaking on behalf of the government, the [government speech doctrine](https://www.mtsu.edu/first-amendment/article/962/government-speech-doctrine) protects the right of the government to use its speech or influence where it wants to in many cases. If the government is not legislating to actually stop people from exercising their speech, the current understanding of government speech would likely extend to say that the government can express its own viewpoint. 
+
+In order to properly argue that any of your constitutional rights have been violated (with the exception of the Thirteenth Amendment), you have to show that a government actor is the one interfering. To show that a media company is a government actor, you would have to prove a lot more than that they made one decision based on the statement of opinion of a government official. Media companies are not contractors of the government, they are not fulfilling a government function, and they are not "entangled" with the government so that they can be considered government actors. 
+
+The case Norwood v. Harrison that I've seen you cite in the comments is about government funding of racially segregated private schools. The argument was that in providing some funding to the schools, the government was allowing the private schools to act in an unconstitutional way on the government's behalf. That's not really analogous here to a private company deciding who to allow on their platform or not. 
+
+There are certain kinds of "speech" that the government is allowed to compel (like filing a tax return every year or requiring private companies to put certain warnings on products like alcohol and tobacco) and certain things that they cannot (like self-incrimination under the Fifth Amendment, or forcing people to recite the pledge of allegiance or salute the flag). It's difficult to argue that the government, by expressing the opinion that someone (or some company) should do something, is forcing them to do that thing. Here, there isn't the threat of removing significant funding, as private companies don't generally receive government funding. Any sort of sanctions on the company for not censoring the person would also be challenged on their own First Amendment grounds. 
+
+Ultimately, the current understanding of what Free Speech is doesn't support your view that this would be a constitutional violation. It does support the idea that a government employee's superior could discipline, sanction, or terminate them for making these statements in an official capacity if they aren't supposed to be doing so. But the government does have the right to express these views.
+The government, and individual actors within it, can *say* whatever they like.  There's no enforcement mechanism that allows the surgeon general to force Spotify to remove Joe Rogan's podcast.
+
+The Surgeon General even says as much *in that article*:
+
+>“This not just about what the government can do,” he emphasized, “this is about companies and individuals recognizing that the only way we get past misinformation is if we are careful about what we say and use the power that we have to limit the spread of misinformation.”
+
+You're spinning a government official saying "hey, big tech companies should be more careful about misinformation presented on their platforms" into "the government is coming for the First Amendment".
+The Surgeon General has a responsibility to make sure Americans are getting accurate information about public health issues. Whether that's "[Hey, smoking is harmful, let's get smoking ads off TV](https://www.cdc.gov/tobacco/data_statistics/sgr/history/index.htm)" or "Hey, maybe companies shouldn't be profiting off of dangerous misinformation?- which really is the same thing atthe end of the day.
+
+Where do you draw the line? Is it just Joe Rogan? Would you object to the Surgeon General saying "[Hey, don't listen to the guy telling you to drink piss](https://www.theguardian.com/commentisfree/2022/jan/11/anti-vaxxers-covid-drinking-urine-misinformation)"?
+
+Misinformation is misinformation. A public health official has the obligation to point out misinfrmation, particularly when millions of people are being exposed ot the disinformation without balance.
+Simple example: anti-vaxxers. Is it acceptable to spread *demonstrably false information* that consequently leads to people making bad judgments that harm themselves *and others, in collateral damage?* Without any *legal* repercussions whatsoever?
+
+For example: **[measles outbreaks](https://www.usnews.com/news/health-news/articles/2021-03-12/driven-by-anti-vaxxers-measles-outbreaks-cost-everyone-money)** have occurred because of anti-vaxxers. This disease has been practically eradicated from Western civilization but has seen occasional, short-lived comebacks because of antivaccination sentiments. From the article:
+
+> FRIDAY, March 12, 2021 (HealthDay News) -- A single measles outbreak cost one U.S. county $3.4 million, a new government study estimates, underscoring the societal burden of inadequate vaccination rates.
+
+> The outbreak occurred in Clark County, Wash., in early 2019, and ultimately infected 71 people -- mostly children younger than 10 who hadn't received the measles-mumps-rubella (MMR) vaccine.
+
+Which brings me to my next argument...
+
+> The crisis here is public health vs free speech. If we allow this to continue, we will see censorship in all things.
+
+You're arguing that there is a slippery slope: from governments enforcing censorship thru private platforms, to complete censorship.
+
+What do you believe about other slopes then? Is there a slippery slope regarding the influence of blatantly false misinformation? I think we have already seen that this is a slippery slope because of 1) US congress got stormed by a mob threatening violence, and 2) the USA has so many COVID deaths that could have been avoided entirely, if it wasn't for misinformation. (Or maybe all these people would have found other reasons to justify their choices...)
+
+If you're going to accept the idea of slippery slopes here, where is your evidence that it applies for US government censorship? 
+
+The thing that bothers me with your idea of the slippery slope is this: consider all the money that large, private companies spend lobbying and getting their will pushed through US political processes. 
+
+1. These companies that you fear getting censored, are unlikely to ever get censored because US politicians know that *this is bad politics and you'll lose votes*. 
+2. The game in US politics and (large) businesses (large tech included) is **to spend money on Super-PACs/campaign donations to avoid negative consequences and reap benefits instead.** This is **demonstrably** visible, and this is information you can look up. US politicians can still trade stocks, and obviously they have insider information too. 
+
+So where's my evidence then, for a slippery slope regarding misinformation? Simple: US death count. Measles outbreaks. The number of Americans who believe the election was stolen, despite all the information that it clearly wasn't, the abhorrent lack of evidence that it was stolen, and even **Republicans** admitting it wasn't; their party is largely a cult of personality around Trump.
+
+\* Before you say "lack of evidence isn't evidence of absence": if you have searched **over and over and over again**, in every nook and cranny, for something you believe exists, the likelihood of being wrong increases. If I went into a shop with the belief that I'll find some product X, there is absolutely no reason to believe I'm right until I find it. The more time I spend without finding anything, the more likely I'm wrong.
+
+> it's a terrifying prospect
+
+**And it's precisely that**, it's not a likely outcome because everybody knows that censorship is *extremely bad politics* with exceptions like forbidding incitement to violence.
+> It should be illegal for government officials to suggest, call on or otherwise solicit tech companies to censor people
+
+The scope of a word like "suggesting" is very broad. It would include statements like "I believe that it's wrong for Facebook and Twitter to provide a free platform to person X".
+
+As long as they're not actually legislating for or demanding censorship in some official capacity, shouldn't government officials have the same free speech rights as everyone else?
+There's a *major* difference between the government "suggesting or calling on" someone to do something, and actually *legislating it*.
+
+Humanity as a whole has a moral obligation to stop dangerous propaganda that literally costs lives.  The government saying "hey, you guys really shouldn't give a platform to someone who is essentially murdering our citizens" isn't a scary concept.  Conversely, it's exactly what *needs* to be said.  And since they're not actually making, or even *truly pressuring*, any companies into doing so, I really don't see what the paranoia is about.
+This sort of thing is unenforceable so long as anything resembling the 1st amendment exists. Even if a constitutional amendment was added to create this sort of limit on speech of government officials, it would be impossible to enforce and would just as easily be circumvented. 
+
+The officials might state what their preferences would be in a hypothetical, perfect world...directing their speech to the open air rather than at the heads of companies directly.
+
+Their staffers could communicate directly with companies, "I hear that [specific powerful people] are displeased with [action]." etc.
+
+I get the premise of where you are coming from, but creating more rules is often a tool used FOR tyranny rather than AGAINST it.

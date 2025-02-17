@@ -1,0 +1,65 @@
+Title: CMV: Reddit as a whole has no left or right wing bias
+
+Post:
+Individual subs might and many definitely do, but the idea that "Redditors" can be classed as overwhelming tending to one political perspective is ludicrous. Especially when the accusations are typically of radically right or left wing ideology, rather than much more common moderate opinions espoused by most people, and therefore most Reddit users 
+
+To be clear, I am not a centrist or anything. I'm far left, I have been told radically so, I consider myself an anarcho-communist, I believe gender should be abolished, I think landlords shouldn't exist, etc. I am very much a lefty. 
+
+Right wingers think Reddit is leftwing because sometimes they get told off for being bigoted, and some of those sometimes they didn't mean to be bigotted, but this isn't censorship by a leftwing cabal. It's a company protecting it's investment from lawsuits, and individual, politically diverse people who just think that what you said was mean, or at the very least not appropriate for their forum. 
+
+Left wingers think Reddit is right wing mostly because of all the bigotted subs and comments that don't get moderated, but don't think that we don't also get moderated for leftwing opinions that challenge the status quo. I have been in trouble with mods for saying that America is a bad place, or that we should fight fascists, even once for providing evidence that child grooming is prevalent on the right in the US but essentially nonexistent in the drag community. This is, again, not a site wide right wing canal. It's a company protecting it's investment from lawsuits, and individual, politically diverse people who just think that what you said was mean, or at the very least not appropriate for their forum, and also narrow-minded conservatives who naturally don't like evidence that doesn't confirm their biases
+
+Edit: Well, I regret this. I see now that I was arguing against a premise that was not nearly as widely held as I believed it was, and I was deeply, tragically unclear as to my argument in the post itself. I don't think my view has been changed, because as it turns out nobody wants to change it, because it's obvious, and the people I thought were making the case for it were not. Sorry for wasting everyone's time
+
+
+Top Comments:
+>Individual subs might and many definitely do, but the idea that "Redditors" can be classed as overwhelming tending to one political perspective is ludicrous. 
+
+You can prove this wrong by going to a sub that is not dedicated to politics such as /r/pics or /r/funny and looking at the political makeup of posts and comments there.  They definitely tend to lean left.
+Here’s an almost 10 year old poll, but I think it’s still relevant. You can see Reddit skews disproportionately Left compared to real life; I would say with political discourse becoming even more polarized today that if that poll were to be retaken it would look slightly more Left-wing.
+
+ https://www.pewresearch.org/journalism/2016/02/25/reddit-news-users-more-likely-to-be-male-young-and-digital-in-their-news-preferences/
+Do an experiment then. Go on any of the ten largest non-political subreddits and make two posts: one positive Trump post and one positive Harris post.
+
+Let’s see what the upvotes look like. If you don’t get banned outright for the Trump post, that is.
+The admins let violent posts in a sub about memes for punks literally calling for violence stay up as "not violations" becasue it was against "nazi"'s. A friend of mine used the exact same wording except he changed nazi for socialist and communist and got a 7 day ban.
+>To be clear, I am not a centrist or anything. I'm far left, I have been told radically so, I consider myself an anarcho-communist, I believe gender should be abolished, I think landlords shouldn't exist, etc. I am very much a lefty.
+
+There's your answer right there. You don't see how left-wing most of Reddit is because most of it is not as left-wing as you are. That does not mean it isn't generally and pervasively left wing by the standards of American political thought.
+
+If you want evidence that the average American is more to the Right than the average Redditor, look no further than the most recent election. Most Redditors (on the order of 80%) cannot fathom voting for Trump. Many are convinced that to do so is to tacitly support Nazism, and even those who disagree on that point still find Trump utterly detestable. Yet Trump won the popular vote by 2 million. AT LEAST 77 million Americans are further Right (often significantly) than the average Redditor, which by definition indicates that Reddit has a Left Wing bias.
+
+It might not be *sufficiently* left wing for your tastes, but that doesn't mean it isn't left wing in comparison to American society in general.
+The other person said to make a pro-Trump and pro-Harris post, but I have a better one for you: This very sub! Make any political post that is critical of Trump. In a sub in which the rule is "You must comment a disagreement", people will STILL comment "Yeah Trump bad Conservatives evil rah rah", and any actual discussion (on the ChangeMyView sub btw) is heavily downvoted!
+
+Reddit is overwhelmingly Left Wing. This is straight fact at this point!
+Reddit as a whole has a leftwing bias because its rules protect explicitly leftwing topics.  The administration has specifically targeted and banned /r/The_Donald and the administrators are open about their leftward politics. 
+
+The userbase is culled to favor leftwing users and that's why studies show Reddit, as a whole, is the most leftwing of social media.
+Reddit is left wing, if I have a dollar for every Trump bad post I have seen i could buy France
+As a whole is a huge data set and I don’t know anyone who has broken it down - like literally pulled all of Reddit and did a sentiment analysis.   However data taken from the five most popular subs by subscribers, the sample leans left. 
+
+https://surajkarak.github.io/projects/NLP-Reddit-Political-Bias/
+
+Note the following text describing the data pull from the top five subs “This shows that the training dataset itself will not be perfectly balanced, as **there are more left-biased samples than others.**”.  Emphasis added. 
+
+So, although not definitively proven this is strongly indicative of a left leaning bias. 
+
+This makes sense logically too. Redditors tend to be younger and tech savvy, qualities that are generally associated with skewing left. 
+
+Given your self described political leanings, I think you will find the odds are ever in your favor that at least the most popular subs skew left.  
+
+Do you have a different take on the data?
+Reddit as a whole can be summed up by looking at r/all or r/popular.  Looking at popular   
+  
+\* the 3rd post right now is mocking MAGA.  
+\* the 6th post is "Trump = hilter".  
+\* the 16th is a comic mocking Trump.
+
+there were a couple posts about political topics which i thought were non-bias.  You could look at the comments in those posts sorting by best to get more evidence of any net bias on the site.
+
+there were zero posts that mocked democratic, liberal ideas, or which advocated or praised republicans or conservative ideas.
+
+there was also zero anarcho-communist posts.  Nothing in favor of anarcho-communism.
+
+you can find pockets of reddit which are conservative bias.  I don't know if r/thedonald still exists but it was an example of a conservative subreddit.  But as a whole and on average there is a strong liberal bias.  pro-conservative posts don't make it to r/popular.

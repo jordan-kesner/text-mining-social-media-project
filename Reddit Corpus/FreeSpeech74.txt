@@ -1,0 +1,115 @@
+Title: Possible solution to free speech censorship by tech companies?
+
+Post:
+I have read and listened a lot about the censorship debate, specifically from a US viewpoint.
+
+Contrasting views can perhaps be summarised as free-speech advocates (strangely, people on the right) saying that tech companies should not censor, and censorship advocates (equally strangely, people on the left) saying that tech companies are private and they should be able to do what they want. 
+
+This is the reverse of the discussion around whether for example bakers should be forced to make cakes for gay weddings – here the left is saying the state must force them to provide this service, whereas the right says bakers should have freedom in their commercial decisions.
+
+There is a legal concept in the EU which might be helpful here. In the EU, questions such as the cake issue would be legally solved by looking at the *market dominance* of the players involved. Companies can do what they want and refuse business to anybody, unless they are dominant in their market. Market dominance is determined by looking at the market share (i.e. share of sold products in the relevant geographic region). If the relevant market share is above 40 %, market dominance is assumed and special rules apply.
+
+So, if you have three bakers in your town, it is assumed that free competition exists and consumer choice will take care of any issues. If you have only two bakers, they cannot refuse to do business with you. If they do, they face fines. While this government regulation is curtailing the freedom to contract, this is actually required within free market economics, as monopolistic structures destroy free markets.
+
+Isn’t this – morally, legally and commercially – the best solution, also for social media and big tech? If a company, such as YouTube or Twitter, has more than 40 % market share, they have to obey legal free-speech requirements. If they are smaller, and there is sufficient competition, they can do what they like. 
+
+Opinions?
+
+PS: The EU competition law is explained here in a simplified version, and sadly, it does not apply to free speech treatment by big tech/social media companies. However, in my view it could and should.
+
+Top Comments:
+> I have read and listened a lot about the censorship debate, specifically from a US viewpoint.
+
+I'll be replying from a USA view point. 
+
+> people on the right) saying that tech companies should not censor,
+
+Which is a philosophical statement, but not a legal one. 
+
+> saying that tech companies are private and they should be able to do what they want.
+
+It is true that they are private (non-government). "Whatever they want" is generally shorthand for their wide liberties to make decisions. But, there are constraints. 
+
+> This is the reverse of the discussion around whether for example bakers should be forced to make cakes for gay weddings
+
+Jack Phillip did not have to make that case. He won that case on First Amendment grounds. The gay couple could have purchased a cake from him. He would sell it. They wanted him to make a special cake for their wedding, which would be an act of expression. He did not agree with the expression. 
+
+
+> There is a legal concept in the EU which might be helpful here. In the EU, questions such as the cake issue would be legally solved by looking at the market dominance of the players involved. 
+
+In the USA, the size and popularity of an entity does not impact their First Amendment rights. Trying to selectively remove the legal protections that an entity has would violate our 14th Amendment. 
+
+> Companies can do what they want and refuse business to anybody, unless they are dominant in their market.
+
+Here, in its rendering of services considered public accommodations, irrespective of size a company typically cannot refuse services because of someone's sex, religion, (so on) but can generally refuse services for any other reason. There is more nuance, but that description is a starting point. 
+
+ 
+> So, if you have three bakers in your town, it is assumed that free competition exists and consumer choice will take care of any issues. If you have only two bakers, they cannot refuse to do business with you. If they do, they face fines. 
+
+Yeah, we don't do that here. If there is one baker in your town and he is annoyed with you, you may have to make your own cup cakes. 
+
+
+> Isn’t this – morally, legally and commercially – the best solution, also for social media and big tech? 
+
+Legally? I don't think so. It isn't consistent with our other laws. Morally? That depends on value judgments. 
+
+
+
+>  If a company, such as YouTube or Twitter, has more than 40 % market share
+
+Their size or market share doesn't change the application of the First Amendment. Ancillary question, what would Twitter's market be? 
+
+
+
+> they have to obey legal free-speech requirements.
+
+In the USA our speech law is that the government can't interfere with speech decisions (with a few exceptions). Since Twitter et al are not the government, they don't have that constraint. Trying to get the government to affect Twitter's decision-making on speech would violate our free speech law that the government can't interfere with speech decisions.
+One big problem with applying any rule like that to websites is that any measurement of market dominance is going to be incredibly subjective, and attempts to quantify that will come up with radically different answers depending on a ton of factors.
+
+First, what even is the product that we're measuring market dominance for? Where is the line between two websites that are providing slightly different versions of the same product, and two websites that are in different markets? If you are too specific about what the market is, then almost every successful company is a monopolist, because the only way to not be a monopolist is if other businesses that are almost indistinguishable from your own exist. Are Reddit and Twitter competitors? Maybe the experience on both sites is sufficiently different, or maybe they're both just providing a place to discuss things online. But however you answer, there are infinitely many ways the two services could be more or less similar to each other, and there's no clear point where they stop or start being competitors.
+
+Then how do you define market share? Unique users? Active users per day/month/year? Amount of content posted? Ad revenue? All of those have problems and are easily manipulable. Different tools that say how many people are visiting a website aren't very consistent with each other either.
+
+This problem gets even bigger if you consider the likely possibility that some users might prefer a given website because of how it's moderated. So, say I post on some website. It reaches a market share over whatever number has been decided is too high, and now it is not allowed to block anything that would be considered free speech. Now if I want to start a discussion on some topic, and someone wants to post 50 photos of fecal matter as a response, mods can't do anything except maybe suggest that people choose to block it on their own. Maybe I then want to leave and go to a similar service that is smaller and thus still allowed to moderate. If enough people are like that, then achieving "market dominance" means you suddenly lose the ability to do the thing that people enjoyed about your service. And having sites yo-yo between moderating and not doing so, or desperately trying to keep some particular number down doesn't seem like a very good situation.
+>it does not apply to free speech treatment by big tech/social media companies. However, in my view it could and should.
+
+And the same reason it won't apply in the U.S.: money and lobbying.
+
+I do not vote for politicians who are corrupt and bend to corporate interests. This gets called /r/ENLIGHTENEDCENTRISM by leftists. Sadly, people on the left and people on the right continue to vote for the same politicians over and over.  
+
+
+Good post OP, you have posted the sanest analysis I've seen in weeks.
+Much simpler: if a tech company (or any of its direct or indirect shareholders) is publicly traded, it's automatically classified as a common carrier and cannot discriminate based on the person, or the content being shared. 
+
+This concept (without the stock exchange requirement) has existed since the 19th century, and has worked well with regards to transportation companies, and later telecoms.
+The reason the left says that a company cannot do the wedding cake thing but can do the free speech thing is this: you cannot discriminate based on inherent traits that someone IS. You can by what someone CHOOSES. 
+
+No one chooses to be gay or straight or black or white- so no discrimination.  
+
+But you absolutely do choose your words, not discrimination.
+Thanks for that. I’m a little surprised that in a country with a free market history like the US so little thought and legislation appears to be given to restrict monopolistic exploitation of the markets, and to ensure free and fair commerce via competition.
+
+Can large companies really freely rule over private consumers in the US, squeeze them out and hang them to dry? Is there no cartel or monopolies commission ensuring that free markets continue to exist?
+
+How and why were the US telephone companies split up in the past, for example?
+
+But to your question:
+> Ancillary question, what would Twitter's market be?
+
+The market would be defined as microblogging, the market share would be based on number of users and posts as share of the entire market in the US. It is a case-by-case decision, of course, but usually not so difficult. Naturally, you can present your case for or against specific market definitions in court, if you are unhappy with the ruling of the competition authority.
+Thanks for your input, here are the replies to your questions to the best of my knowledge:
+
+> Do you know why this framework does not apply to tech companies in the EU?
+
+The legislation is decades old and was only designed for the provision of goods and services, and the upkeep of the free market.
+
+> Also, does this framework take into account the ease or difficulty of entering a certain market? For example, if I was the only provider of a nonessential service with a very low barrier to entry, would I be found less likely to have market dominance?
+
+No, just the market share as measured.
+Well, you need the concept of market dominance and anti-monopoly legislation anyway to guarantee free markets. Of course you are right in saying the devil is in the detail, but that‘s no sufficient argument.
+
+For example: Your house might have only one water, gas, electricity or telecoms connection. Maybe there is only one garbage pickup service in your street, or only one shop selling basic foodstuffs in your area.
+
+These companies can now shut you out, or squeeze you dry by increasing prices, misusing their monopolies. You have the same definition problems here: Gas can be replaced by electricity, electricity can be created by a Diesel generator, or it would take only six weeks to get a phone line installed by another company or you could use satellite internet or drive 50 km to drop your garbage off. 
+
+Naturally, market definitions depend on a case-by-case decisions. But you can appeal to a court with your arguments against a ruling of a competition authority. However, it‘s usually not that complicated. If you can reach 100 million active users via Twitter and only 10 million via competitors, than Twitter has market dominance.

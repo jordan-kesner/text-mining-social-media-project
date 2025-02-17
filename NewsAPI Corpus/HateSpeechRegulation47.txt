@@ -1,0 +1,325 @@
+Title: Enshittification isn't caused by venture capital
+Source: Pluralistic.net
+URL: https://pluralistic.net/2025/01/20/capitalist-unrealism/
+
+
+
+
+
+Today's links
+
+
+
+
+
+Enshittification isn't caused by venture capital (permalink)
+
+Many of us have left the big social media platforms; far more of us wish we could leave them; and even those of us who've escaped from Facebook/Insta and Twitter still spend a lot of time trying to figure out how to get the people we care about off of them, too.
+
+It's lazy and easy to think that our friends who are stuck on legacy platforms run by Zuckerberg and Musk lack the self-discipline to wean themselves off of these services, or lack the perspective to understand why it's so urgent to get away from them, or that their "hacked dopamine loops" have addicted them to the zuckermusk algorithms. But if you actually listen to the people who've stayed behind, you'll learn that the main reason our friends stay on legacy platforms is that they care about the other people there more than they hate Zuck or Musk.
+
+They rely on them because they're in a rare-disease support group; or they all coordinate their kids' little league carpools there; or that's where they stay in touch with family and friends they left behind when they emigrated; or they're customers or the audience for creative labor.
+
+All those people might want to leave, too, but it's really hard to agree on where to go, when to go, and how to re-establish your groups when you get somewhere else. Economists call this the "collective action problem." This problem creates "switching costs" – a lot of stuff you'll have to live without if you switch from legacy platforms to new ones. The collective action problem is hard to solve and the switching costs are very high:
+
+https://pluralistic.net/2022/10/29/how-to-leave-dying-social-media-platforms/
+
+That's why people stay behind – not because they lack perspective, or self-discipline, or because their dopamine loops have been hacked by evil techbro sorcerers who used Big Data to fashion history's first functional mind-control ray. They are locked in by real, material things.
+
+Big Tech critics who ascribe the legacy platforms' "stickiness" to users' moral failings or platforms' technical prowess are their own worst enemies. These critics have correctly identified that legacy platforms are a serious problem, but have totally failed to understand the nature of that problem or how to fix it. Thankfully, more and more critics are coming to understand that lock-in is the root of the problem, and that anti-lock-in measures like interoperability can address it.
+
+But there's another major gap in the mainstream critique of social media. Critics of zuckermuskian media claim those services are so terrible because they're for-profit entities, capitalist enterprises hitched to the logic of extraction and profit above all else. The problem with this claim is that it doesn't explain the changes to these services. After all, the reason so many of us got on Twitter and Facebook and Instagram is because they used to be a lot of fun. They were useful. They were even great at times.
+
+When tech critics fail to ask why good services turn bad, that failure is just as severe as the failure to ask why people stay when the services rot.
+
+Now, the guy who ran Facebook when it was a great way to form communities and make friends and find old friends is the same guy who who has turned Facebook into a hellscape. There's very good reason to believe that Mark Zuckerberg was always a creep, and he took investment capital very early on, long before he started fucking up the service. So what gives? Did Zuck get a brain parasite that turned him evil? Did his investors get more demanding in their clamor for dividends?
+
+If that's what you think, you need to show your working. Again, by all accounts, Zuck was a monster from day one. Zuck's investors – both the VCs who backed him early and the gigantic institutional funds whose portfolios are stuffed with Meta stock today – are not patient sorts with a reputation for going easy on entrepreneurs who leave money on the table. They've demanded every nickel since the start.
+
+What changed? What caused Zuck to enshittify his service? And, even more importantly for those of us who care about the people locked into Facebook's walled gardens: what stopped him from enshittifying his services in the "good old days?"
+
+At its root, enshittification is a theory about constraints. Companies pursue profit at all costs, but while you may be tempted to focus on the "at all costs" part of that formulation, you musn't neglect the "profits" part. Companies don't pursue unprofitable actions at all costs – they only pursue the plans that they judge are likely to yield profits.
+
+When companies face real competitors, then some enshittificatory gambits are unprofitable, because they'll drive your users to competing platforms. That's why Zuckerberg bought Instagram: he had been turning the screws on Facebook users, and when Instagram came along, millions of those users decided that they hated Zuck more than they loved their friends and so they swallowed the switching costs and defected to Instagram. In an ill-advised middle-of-the-night memo to his CFO, Zuck defended spending $1b on Instagram on the grounds that it would recapture those Facebook escapees:
+
+https://www.theverge.com/2020/7/29/21345723/facebook-instagram-documents-emails-mark-zuckerberg-kevin-systrom-hearing
+
+A company that neutralizes, buys or destroys its competitors can treat its users far worse – invade their privacy, cheap out on moderation and anti-spam, etc – without losing their business. That's why Zuck's motto is "it is better to buy than to compete":
+
+https://www.trtworld.com/magazine/zuckerberg-its-better-to-buy-than-compete-is-facebook-a-monopoly-42243
+
+Of course, as a leftist, I know better than to count on markets as a reliable source of corporate discipline. Even more important than market discipline is government discipline, in the form of regulation. If Zuckerberg feared fines for privacy violations, or moderation failures, or illegal anticompetitive mergers, or fraudulent advertising systems that rip off publishers and advertisers, or other forms of fraud (like the "pivot to video"), he would treat his users better. But Facebook's rise to power took place during the second half of the neoliberal era, when the last shreds of regulatory muscle that survived the Reagan revolution were being devoured by GW Bush and Obama (and then Trump).
+
+As cartels and monopolies took over our economy, most government regulators were neutered and captured. Public agencies were stripped of their powers or put in harness to attack small companies, customers, and suppliers who got in the way of monopolists' rent-extraction. That meant that as Facebook grew, Zuckerberg had less and less to fear from government enforcers who might punish him for enshittification where the markets failed to do so.
+
+But it's worse than that, because Zuckerberg and other tech monopolists figured out how to harness "IP" law to get the government to shut down third-party technology that might help users resist enshittification. IP law is why you can't make a privacy-protecting ad-blocker for an app (and why companies are so desperate to get you to use their apps rather than the open web, and why apps are so dismally enshittified). IP law is why you can't make an alternative client that blocks algorithmic recommendations. IP law is why you can't leave Facebook for a new service and run a scraper that imports your waiting Facebook messages into a different inbox. IP law is why you can't scrape Facebook to catalog the paid political disinformation the company allows on the platform:
+
+https://locusmag.com/2020/09/cory-doctorow-ip/
+
+IP law's growth has coincided with Facebook's ascendancy – the bigger Facebook got, the more tempting it was to interoperators who might want to plug new code into it to protect Facebook users, and the more powers Facebook had to block even the most modest improvements to its service. That meant that Facebook could enshittify even more, without worrying that it would drive users to take unilateral, permanent action that would deprive it of revenue, like blocking ads. Once ad-blocking is illegal (as it is on apps), there's no reason not to make ads as obnoxious as you want.
+
+Of course, many Facebook employees cared about their users, and for most of the 21st century, those workers were a key asset for Facebook. Tech workers were in short supply until just a couple years ago, when the platforms started round after round of brutal layoffs – 260,000 in 2023, another 150,000+ in 2024. Facebook workers may be furious about Zuckerberg killing content moderation, but he's not worried about them quitting – not with a half-million skilled tech workers out there, hunting for jobs. Fuck 'em. Let 'em quit:
+
+https://www.404media.co/its-total-chaos-internally-at-meta-right-now-employees-protest-zuckerbergs-anti-lgbtq-changes/
+
+This is what changed: the collapse of market, government, and labor constraints, and IP law's criminalization of disenshittifying, interoperable add-ons. This is why Zuck, an eternal creep, is now letting his creep flag fly so proudly today. Not because he's a worse person, but because he understands that he can hurt his users and workers to benefit his shareholders without facing any consequences. Zuckerberg 2025 isn't the most evil Zuck, he's the most unconstrained Zuck.
+
+Same goes for Twitter. I mean, obviously, there's been a change in management at Twitter – the guy who's enshittifying it today isn't the guy who enshittified it prior to last 2023. Musk is speedrunning the enshittification curve, and yet Twitter isn't collapsing. Why not? Because Musk is insulated from consequences for fucking up – he's got a huge cushion of wealth, he's got advertisers who are desperate to reach his users, he's got users who can't afford to leave the service, he's got IP law that he can use to block interoperators who might make it easier to migrate to a better service. He was always a greedy, sadistic asshole. Now he's an unconstrained greedy, sadistic asshole. Musk 2025 isn't a worse person than Musk 2020. He's just more free to act on his evil impulses than he was in years gone by.
+
+These are the two factors that make services terrible: captive users, and no constraints. If your users can't leave, and if you face no consequences for making them miserable (not solely their departure to a competitor, but also fines, criminal charges, worker revolts, and guerrilla warfare with interoperators), then you have the means, motive and opportunity to turn your service into a giant pile of shit.
+
+That's why we got Jack Welch and his acolytes when we did. There were always evil fuckers just like them hanging around, but they didn't get to run GE until Ronald Reagan took away the constraints that would have punished them for turning GE into a giant pile of shit. Every economy is forever a-crawl with parasites and monsters like these, but they don't get to burrow into the system and colonize it until policymakers create rips they can pass through.
+
+In other words, the profit motive itself is not sufficient to cause enshittification – not even when a for-profit firm has to answer to VCs who would shut down the company or fire its leadership in the face of unsatisfactory returns. For-profit companies chase profit. The enshittifying changes to Facebook and Twitter are cruel, but the cruelty isn't the point: the point is profits. If the fines – or criminal charges – Facebook faced for invading our privacy exceeded the ad-targeting revenue it makes by doing so, it would stop spying on us. Facebook wouldn't like it. Zuck would hate it. But he'd do it, because he spies on us to make money, not because he's a voyeur.
+
+To stop enshittification, it is not necessary to eliminate the profit motive – it is only necessary to make enshittification unprofitable.
+
+This is not to defend capitalism. I'm not saying there's a "real capitalism" that's good, and a "crony capitalism" or "monopoly capitalism" that's bad. All flavors of capitalism harm working people and seek to shift wealth and power from the public and democratic institutions to private interests. But that doesn't change the fact that there are, indeed, different flavors of capitalism, and they have different winners and losers. Capitalists who want to sell apps on the App Store or reach customers through Facebook are technofeudalism's losers, while Apple, Facebook, Google, and other Big Tech companies are technofeudalism's great winners.
+
+Smart leftism pays attention to these differences, because they represent the potential fault lines in capitalism's coalition. These people all call themselves capitalists, they all give money and support to political movements that seek to crush worker power and human rights – but when the platforms win, the platforms' business customers lose. They are irreconcilably on different sides of a capitalism-v-capitalism fight that is every bit as important to them as the capitalism-v-socialism fight.
+
+I'm saying that it's good praxis to understand these divisions in capitalism, because then we can exploit those differences to make real, material gains for human thriving and worker rights. Lumping all for-profit businesses together as identical and irredeemable is bad tactics.
+
+Legacy social media is at a turning point. Two new systems built on open standards have emerged as a credible threat to the zuckermuskian model: Mastodon (built on Activitypub) and Bluesky (built on Atproto). The former is far more mature, with a huge network of federated servers run by all different kinds of institutions, from hobbyists to corporations, and it's overseen by a nonprofit. The latter has far more users, and is a VC-backed corporate entity, and while it is hypothetically federable, there are no Bluesky services apart from the main one that you can leave for if Bluesky starts to enshittify.
+
+That means that Bluesky has a ton of captive users, and has the lack of constraint that characterizes the enshittified legacy platforms it has tempted tens of millions of users away from. This is not a good place to be in, because it means that if the current management does choose to enshittify Bluesky, they can, and it will be profitable. It also means that the company's VCs understand that they could fire the current management and replace them with willing enshittifiers and make more money.
+
+This is why Bluesky is in a dangerous place: not because it is backed by VCs, not because it is a for-profit entity, but because it has captive users and no constraints. It's a great party in a sealed building with no fire exits:
+
+https://pluralistic.net/2024/12/14/fire-exits/#graceful-failure-modes
+
+Last week, I endorsed a project called Free Our Feeds, whose goals include hacking some fire exits into Bluesky by force majeure – that is, independently standing up an alternative Bluesky server that people can retreat to if Bluesky management changes, or has a change of heart:
+
+https://pluralistic.net/2025/01/14/contesting-popularity/#everybody-samba
+
+For some Mastodon users, Free Our Feeds is dead on arrival – why bother trying to make a for-profit project safer for its users when Mastodon is a perfectly good nonprofit alternative? Why waste millions developing a standalone Bluesky server rather than spending that money improving things in the Fediverse?
+
+I believe strongly in improving the Fediverse, and I believe in adding the long-overdue federation to Bluesky. That's because my goal isn't the success of the Fediverse – it's the defeat of enshtitification. My answer to "why spend money fixing Bluesky?" is "why leave 20 million people at risk of enshittification when we could not only make them safe, but also create the toolchain to allow many, many organizations to operate a whole federation of Bluesky servers?" If you care about a better internet – and not just the Fediverse – then you should share this goal, too.
+
+Many of the Fediverse's servers are operated by for-profit entities, after all. One of the Fediverse's largest servers (Threads) is owned by Meta. Threads users who feel the bite of Zuckerberg's decision to encourage homophobic, xenophobic and transphobic hate speech will find it easy to escape from Threads: they can set up on any Fediverse server that is federated with Threads and they'll be able to maintain their connections with everyone who stays behind.
+
+The existence of for-profit servers in the Fediverse does not ruin the Fediverse (though I wouldn't personally use one of them). The fact that multiple neo-Nazi groups run their own Mastodon servers does not ruin the Fediverse (though I certainly won't use their servers). Not even the fact that Donald Trump's Truth Social is a Mastodon server does anything to ruin the Fediverse (not using that one, either).
+
+This is the strength of federated, federable social media – it disciplines enshittifiers by lowering switching costs, and if enshittifiers persist, it makes it easy for users to escape unshitted, because they don't have to solve the collective action problem. Any user can go to any server at any time and stay in touch with everyone else.
+
+Mastodon was born free: free code, with free federation as a priority. Bluesky was not: it was born within a for-profit public benefit corporation whose charter offers some defenses against enshittification, but lacks the most decisive one: the federation that would let users escape should escape become necessary.
+
+The fact that Mastodon was born free is quite unusual in the annals of the fight for a free internet. Most of the internet was born proprietary and had freedom foisted upon it. Unix was born within Bell Labs, property of the convicted monopolist AT&T. The GNU/Linux project set it free.
+
+SMB was born proprietary within the corporate walls of Microsoft, another corporate monopolist. SAMBA set it free.
+
+The Office file formats were also born proprietary within Microsoft's walled garden: they were set free by hacker-activists who fought through a thick bureaucratic morass and Microsoft fuckery (including literally refusing to allow chairs to be set for advocates for Open Document Format) to give us formats that underlie everything from LibreOffice to Google Docs, Office365 to your web browser.
+
+There is nothing unusual, in other words, about hacking freedom into something that is proprietary or just insufficiently free. That's totally normal. It's how we got almost everything great about computers.
+
+Mastodon's progenitors should be praised for ensuring their creation was born free – but the fact that Bluesky isn't free enough is no reason to turn our back on it. Our response to anything that locks in the people we care about must be to shatter those locks, not abandon the people bound by the locks because they didn't heed our warnings.
+
+Audre Lorde is far smarter than me, but when she wrote that "the master's tools will never dismantle the master's house," she was wrong. There is no toolset better suited to conduct an orderly dismantling of a structure than the tools that built it. You can be sure it'll have all the right screwdriver bits, wrenches, hexkeys and sockets.
+
+Bluesky is fine. It has features I significantly prefer to Mastodon's equivalent. Composable moderation is amazing, both a technical triumph and a triumph of human-centered design:
+
+https://bsky.social/about/blog/4-13-2023-moderation
+
+I hope Mastodon adopts those features. If someone starts a project to copy all of Bluesky's best features over to Mastodon, I'll put my name to the crowdfunding campaign in a second.
+
+But Mastodon has one feature that Bluesky sorely lacks – the federation that imposes antienshittificatory discipline on companies and offers an enshittification fire-exit for users if the discipline fails. It's long past time that someone copied that feature over to Bluesky.
+
+Hey look at this (permalink)
+
+DOJ Closes Tulsa Massacre Probe as Trump Takes Office https://prospect.org/justice/2025-01-20-doj-closes-tulsa-massacre-probe-as-trump-takes-office/
+
+Martin Luther King Jr's prescient criticism of technology and power https://www.bloodinthemachine.com/p/martin-luther-king-jrs-prescient
+
+Faiz Shakir Would Like the DNC to Do Something https://prospect.org/politics/2025-01-20-faiz-shakir-would-like-dnc-do-something
+
+
+
+
+
+Object permanence (permalink)
+
+#20yrsago American Airlines invents reasons to ask me for a dossier on my friends’ home addresses https://memex.craphound.com/2005/01/21/american-airlines-invents-reasons-to-ask-me-for-a-dossier-on-my-friends-home-addresses/
+
+#15yrsago TSA plants baggie of white powder in traveller’s bag https://www.inquirer.com/philly/news/local/20100121_Daniel_Rubin__It_was_no_joke_at_security_gate.html
+
+#15yrsago Hand, Hand, Fingers, Thumb: classic kids’ book about drumming beatnik monkeys https://memex.craphound.com/2010/01/21/hand-hand-fingers-thumb-classic-kids-book-about-drumming-beatnik-monkeys/
+
+#15yrsago Does the Uncanny Valley exist? https://web.archive.org/web/20100123181533/https://www.popularmechanics.com/science/robotics/4343054.html
+
+#10yrsago Alien overlord: stop blaming me for your city’s housing bubble! https://www.newyorker.com/humor/daily-shouts/stop-complaining-zathbog-planet-cibwarv-inflating-u-s-housing-prices
+
+#5yrsago Boda Boda fashion show: equipping Nairobi motor taxi drivers with outfits to match their glorious bikes https://janhoek.net/BODA-BODA-MADNESS
+
+#5yrsago China announces ban of single-use plastic bags and straws https://www.dw.com/en/china-to-ban-single-use-plastic-bags-and-straws/a-52065123https://www.cnn.com/2020/01/21/business/greta-thunberg-davos/index.html
+
+#5yrsago Riot Baby: an afrofuturist science fiction novella of race, rage and fierce resistance https://memex.craphound.com/2020/01/21/riot-baby-an-afrofuturist-science-fiction-novella-of-race-rage-and-fierce-resistance/
+
+Upcoming appearances (permalink)
+
+Picks and Shovels with Ken Liu (Boston), Feb 14
+
+https://brooklinebooksmith.com/event/2025-02-14/cory-doctorow-ken-liu-picks-and-shovels
+
+https://brooklinebooksmith.com/event/2025-02-14/cory-doctorow-ken-liu-picks-and-shovels Picks and Shovels with Charlie Jane Anders (Menlo Park), Feb 17
+
+https://www.keplers.org/upcoming-events-internal/cory-doctorow
+
+Picks and Shovels with Wil Wheaton (Los Angeles), Feb 18
+
+https://www.dieselbookstore.com/event/Cory-Doctorow-Wil-Wheaton-Author-signing
+
+Picks and Shovels with Dan Savage (Seattle), Feb 19
+
+https://www.eventbrite.com/e/cory-doctorow-with-dan-savage-picks-and-shovels-a-martin-hench-novel-tickets-1106741957989
+
+Picks and Shovels with John Hodgman (NYC), Feb 26
+
+https://www.eventbrite.com/e/cory-doctorow-john-hodgman-picks-and-shovels-tickets-1131132841779
+
+Picks and Shovels (Penn State), Feb 27
+
+https://www.bellisario.psu.edu/assets/uploads/CoryDoctorow-Poster.pdf
+
+Picks and Shovels at the Doylestown Bookshop (Doylestown, PA), Mar 1
+
+https://www.eventbrite.com/e/cory-doctorow-picks-and-shovels-a-martin-hench-novel-tickets-1146230880419
+
+Picks and Shovels at Red Emma's (Baltimore), Mar 2
+
+https://redemmas.org/events/cory-doctorow-presents-picks-and-shovels/
+
+Picks and Shovels with Lee Vinsel (Richmond, VA), Mar 5
+
+https://fountainbookstore.com/events/1795820250305
+
+Picks and Shovels at First Light Books (Austin), Mar 10
+
+https://thethirdplace.is/event/cory-doctorow-picks-shovels-1
+
+Picks and Shovels at Dark Delicacies (Burbank), Mar 13
+
+https://www.darkdel.com/store/p3257/Thu%2C_Mar_13th_6_pm%3A_Pick_%26_Shovel%3A_A_Martin_Hench_Novel_HB.html#/
+
+Cloudfest (Europa Park), Mar 17-20
+
+https://cloudfest.link/
+
+Picks and Shovels at Imagine! Belfast (Remote), Mar 24
+
+https://www.eventbrite.co.uk/e/cory-doctorow-in-conversation-with-alan-meban-tickets-1106421399189
+
+Teardown 2025 (PDX), Jun 20-22
+
+https://www.crowdsupply.com/teardown/portland-2025
+
+DeepSouthCon63 (New Orleans), Oct 10-12, 2025
+
+http://www.contraflowscifi.org/
+
+
+
+
+
+Recent appearances (permalink)
+
+Right to Repair with Karen Sandler (Software Freedom Conservancy):
+
+https://videos.trom.tf/w/q1AAL629GYMFtN6nCy15WE
+
+https://videos.trom.tf/w/q1AAL629GYMFtN6nCy15WE Just Say It's Capitalism (This Week in Tech)
+
+https://twit.tv/shows/this-week-in-tech/episodes/1014?autostart=false
+
+Lost Dollar Business Club
+
+https://www.youtube.com/watch?v=uuLGgMQfFCk
+
+
+
+
+
+Latest books (permalink)
+
+The Bezzle: a sequel to "Red Team Blues," about prison-tech and other grifts, Tor Books (US), Head of Zeus (UK), February 2024 (the-bezzle.org). Signed, personalized copies at Dark Delicacies (https://www.darkdel.com/store/p3062/Available_Feb_20th%3A_The_Bezzle_HB.html#/).
+
+"The Lost Cause:" a solarpunk novel of hope in the climate emergency, Tor Books (US), Head of Zeus (UK), November 2023 (http://lost-cause.org). Signed, personalized copies at Dark Delicacies (https://www.darkdel.com/store/p3007/Pre-Order_Signed_Copies%3A_The_Lost_Cause_HB.html#/)
+
+"The Internet Con": A nonfiction book about interoperability and Big Tech (Verso) September 2023 (http://seizethemeansofcomputation.org). Signed copies at Book Soup (https://www.booksoup.com/book/9781804291245).
+
+"Red Team Blues": "A grabby, compulsive thriller that will leave you knowing more about how the world works than you did before." Tor Books http://redteamblues.com. Signed copies at Dark Delicacies (US): and Forbidden Planet (UK): https://forbiddenplanet.com/385004-red-team-blues-signed-edition-hardcover/.
+
+"Chokepoint Capitalism: How to Beat Big Tech, Tame Big Content, and Get Artists Paid, with Rebecca Giblin", on how to unrig the markets for creative labor, Beacon Press/Scribe 2022 https://chokepointcapitalism.com
+
+"Attack Surface": The third Little Brother novel, a standalone technothriller for adults. The Washington Post called it "a political cyberthriller, vigorous, bold and savvy about the limits of revolution and resistance." Order signed, personalized copies from Dark Delicacies https://www.darkdel.com/store/p1840/Available_Now%3A_Attack_Surface.html
+
+"How to Destroy Surveillance Capitalism": an anti-monopoly pamphlet analyzing the true harms of surveillance capitalism and proposing a solution. https://onezero.medium.com/how-to-destroy-surveillance-capitalism-8135e6744d59?sk=f6cd10e54e20a07d4c6d0f3ac011af6b) (signed copies: https://www.darkdel.com/store/p2024/Available_Now%3A__How_to_Destroy_Surveillance_Capitalism.html)
+
+"Little Brother/Homeland": A reissue omnibus edition with a new introduction by Edward Snowden: https://us.macmillan.com/books/9781250774583; personalized/signed copies here: https://www.darkdel.com/store/p1750/July%3A__Little_Brother_%26_Homeland.html
+
+"Poesy the Monster Slayer" a picture book about monsters, bedtime, gender, and kicking ass. Order here: https://us.macmillan.com/books/9781626723627. Get a personalized, signed copy here: https://www.darkdel.com/store/p2682/Corey_Doctorow%3A_Poesy_the_Monster_Slayer_HB.html#/.
+
+
+
+
+
+Upcoming books (permalink)
+
+Picks and Shovels: a sequel to "Red Team Blues," about the heroic era of the PC, Tor Books, February 2025
+
+Enshittification: Why Everything Suddenly Got Worse and What to Do About It, Farrar, Straus, Giroux, October 2025
+
+https://us.macmillan.com/books/9780374619329/enshittification/
+
+Unauthorized Bread: a middle-grades graphic novel adapted from my novella about refugees, toasters and DRM, FirstSecond, 2025
+
+
+
+
+
+Colophon (permalink)
+
+Today's top sources:
+
+Currently writing:
+
+Enshittification: a nonfiction book about platform decay for Farrar, Straus, Giroux. Status: second pass edit underway (readaloud)
+
+A Little Brother short story about DIY insulin PLANNING
+
+Picks and Shovels, a Martin Hench noir thriller about the heroic era of the PC. FORTHCOMING TOR BOOKS FEB 2025
+
+Latest podcast: Picks and Shovels Chapter One https://craphound.com/overclocked/2025/01/10/picks-and-shovels-chapter-one/
+
+This work – excluding any serialized fiction – is licensed under a Creative Commons Attribution 4.0 license. That means you can use it any way you like, including commercially, provided that you attribute it to me, Cory Doctorow, and include a link to pluralistic.net.
+
+https://creativecommons.org/licenses/by/4.0/
+
+Quotations and images are not included in this license; they are included either under a limitation or exception to copyright, or on the basis of a separate license. Please exercise caution.
+
+How to get Pluralistic:
+
+Blog (no ads, tracking, or data-collection):
+
+Pluralistic.net
+
+Newsletter (no ads, tracking, or data-collection):
+
+https://pluralistic.net/plura-list
+
+Mastodon (no ads, tracking, or data-collection):
+
+https://mamot.fr/@pluralistic
+
+Medium (no ads, paywalled):
+
+https://doctorow.medium.com/
+
+Twitter (mass-scale, unrestricted, third-party surveillance and advertising):
+
+https://twitter.com/doctorow
+
+Tumblr (mass-scale, unrestricted, third-party surveillance and advertising):
+
+https://mostlysignssomeportents.tumblr.com/tagged/pluralistic
+
+"When life gives you SARS, you make sarsaparilla" -Joey "Accordion Guy" DeVilla

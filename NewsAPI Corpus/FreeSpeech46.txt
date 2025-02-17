@@ -1,0 +1,43 @@
+Title: The Supreme Court’s decision upholding the TikTok ban, explained
+Source: Vox
+URL: https://www.vox.com/scotus/395462/supreme-court-tik-tok-garland-first-amendment-china
+
+is a senior correspondent at Vox, where he focuses on the Supreme Court, the Constitution, and the decline of liberal democracy in the United States. He received a JD from Duke University and is the author of two books on the Supreme Court.
+
+Sarah Baus of Charleston, South Carolina, holds a sign that reads “Keep TikTok,” as she and other content creators stand outside the Supreme Court. Andrew Harnik/Getty Images
+
+On Friday, the Supreme Court unanimously upheld a federal law that effectively bans the social media app TikTok in the United States, unless the platform’s China-based owner sells TikTok. Though Justices Sonia Sotomayor and Neil Gorsuch disagreed somewhat with the unsigned majority opinion’s rationale, no justice dissented.
+
+It’s also worth noting that all three of the lower court judges who heard this case, known as TikTok v. Garland, agreed that the law should be upheld. That means that no judge has determined that the law is unconstitutional.
+
+SCOTUS, Explained Get the latest developments on the US Supreme Court from senior correspondent Ian Millhiser. Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
+
+Despite that, it’s uncertain what the decision means longterm for TikTok and its users. Congress passed a law banning the app that the Supreme Court has now upheld, but it’s not clear whether the government will actually enforce it, which prohibits US companies — including Apple and Google, which make the TikTok app available on their app stores — from providing services to TikTok.
+
+The law takes effect on Sunday, one day before President Joe Biden leaves office. Biden has said that he will not enforce the ban in his final day as president, and it would be unrealistic anyway to expect the federal government to bring an enforcement proceeding to completion in a single day.
+
+Incoming President Donald Trump, meanwhile, has made vague noises suggesting that he may not enforce the ban, but it’s unclear how he intends to proceed with TikTok after he takes office on Monday. Trump filed a brief in the Supreme Court claiming that he “alone possesses the consummate dealmaking expertise, the electoral mandate, and the political will to negotiate a resolution to save the platform while addressing the national security concerns expressed by the Government.”
+
+That said, the law will now take effect on Sunday, and the statute of limitations for the government to enforce the law is five years. So US companies that decide not to comply with the law — even if they are shielded by an executive branch that ignores the law — face extraordinary risk. Even if Trump does not enforce the law, his successor might.
+
+So why did the Court uphold the law?
+
+A short summary of the Court’s holding in TikTok v. Garland is that the justices believed that the risk of China using TikTok to spy on Americans is so great that it dwarfs any free speech concerns that arise out of this law. As the Court repeatedly notes, about 170 million people in the United States use TikTok. And the app collects a vast array of information from its users that could potentially be obtained by the Chinese government.
+
+As the Court writes, TikTok’s Beijing-based owner, ByteDance, “is subject to Chinese laws that require it to ‘assist or cooperate’ with the Chinese Government’s ‘intelligence work’ and to ensure that the Chinese Government has ‘the power to access and control private data’ the company holds.”
+
+Among other things, the Court cites a congressional report that found that “TikTok’s ‘data collection practices extend to age, phone number, precise location, internet address, device used, phone contacts, social network connections, the content of private messages sent through the application, and videos watched.’” This information could potentially be used by the Chinese government to target or even blackmail federal officials or high-ranking corporate executives — suppose, for example, that TikTok’s data revealed that a Cabinet secretary was repeatedly in the same hotel room with a woman that is not his wife.
+
+It should be noted that the government has long prohibited foreign nations and companies from owning key US communications infrastructure, so the Court’s decision is consistent with that history. The Radio Act of 1912, for example, only permitted US citizens to obtain a radio operator’s license. And current US law includes similar prohibitions on foreign control of broadcast radio stations.
+
+Related TikTok should lose its big Supreme Court case
+
+Despite this law and precedent, the Court did go out of its way to emphasize that its decision is narrow and should not be read to broadly permit the government to decide who should own media companies. As the Court says, “TikTok’s scale and susceptibility to foreign adversary control, together with the vast swaths of sensitive data the platform collects, justify differential treatment” from other such companies.
+
+The Court adds that “a law targeting any other speaker would by necessity entail a distinct inquiry and separate considerations.”
+
+One important legal question in TikTok was what “level of scrutiny” should apply to the TikTok ban. In First Amendment cases, courts apply a particularly skeptical legal test (known as “strict scrutiny”) to any law that attempts to regulate the content of speech — meaning that the law targets which message a particular speaker intends to convey. Courts give less rigorous review to laws that do not target the content of speech, even if that law has some incidental effect on free speech.
+
+Though the TikTok opinion does not fully resolve this question, it does conclude that the TikTok ban is “facially content neutral” and is not subject to strict scrutiny. As the Court writes, the law is justified by the government’s desire to prevent “China from collecting vast amounts of sensitive data from 170 million U.S. TikTok users.” It is not motivated by a desire to suppress any particular idea or viewpoint. If TikTok sells itself to an American company tomorrow, the law will permit any speaker to convey any message they want on TikTok.
+
+In any event, the upshot of Friday’s opinion is that the courts will not intervene in this dispute over whether TikTok should be allowed to operate in the United States so long as it is subject to Chinese control. That does not mean that the law will be fully enforced. And it does not mean that incoming President Trump will not find some way to neutralize the law, if he wants to.

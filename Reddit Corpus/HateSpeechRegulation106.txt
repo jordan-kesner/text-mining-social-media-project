@@ -1,0 +1,83 @@
+Title: A note in regard to recent events
+
+Post:
+Hello all,
+
+I'd like to try clear up a few things.
+
+**Rules**
+
+We tend to moderate /r/technology in three ways, the considerations are usually:
+
+1) Removal of spam. Blatent marketing, spam bots (e.g. http://i.imgur.com/V3DXFGU.png). There's a lot of this, far more than legitimate content.
+
+2) Is it actually relating to technology? A lot of the links submitted here are more in the realms of business or US politics. For example, one company buying another company, or something relating to the American constitution without any actual scientific or product developments.
+
+3) Has it already been posted many times before? When a hot topic is in the news for a long period of time (e.g. Bitcoin, Tesla motors (!), Edward Snowden), people tend to submit anything related to it, no matter if it's a repost or not even new information. In these cases, we will often be more harsh in moderating.
+
+The recent incident with the Tesla motors posts fall a bit into 2) and a bit of 3).
+
+I'd like to clarify that **Tesla motors is not a banned topic**. The current top post ([link](http://www.reddit.com/r/technology/comments/21q07g/model_s_now_comes_with_titanium_under_body_shield/)) is a fine bit of content for this subreddit. 
+
+**Moderators**
+
+There's a screenshot floating around of one of our moderators making a flippant joke about a user being part of Tesla's marketing department.
+
+This was a poor judgement call, and we should be more aware that any reply from a moderator tends to be taken as policy. We will refrain from doing such things again.
+
+A couple of people were banned in relation to this debacle, they've now been unbanned.
+
+I am however disappointed that this person has been witch-hunted in this manner. It really turns us off from wanting to engage with the community. Ever wonder why we rarely speak in public - it's because things like this can happen at the drop of a hat. I don't really want to make this post.
+
+It's a big subreddit, a rule-breaking post can jump to the top in a few short hours before we catch it.
+
+Apologies for not replying to all the modmails and PMs immediately (there were a lot), hopefully we can use this thread for FAQs and group feedback.
+
+Cheers.
+
+Top Comments:
+I'm sorry but a blanket ban on the word "Tesla" followed by the banning of any user who questioned it, with no response from the mods = you fucked up big time. All the backtracking in the world won't change that. 
+
+This is just a poor attempt at damage control. If the wider community hadn't found out about this censorship you would have let it continue.
+
+I'm joining the many other users in unsubscribing from /r/technology. 
+I could give a shit about this--just an interested bystander watching a train wreck in slow motion. But after reading this entire thread, plus the plethora of linked "evidence" from many sides, it puzzles me that you are willing to take so much heat from what seems to be half of Reddit and trade in some of the trust you have built in the communuty, all for a mod who comes off as very rude, childish, and vindictive.
+>There's a screenshot floating around of one of our moderators making a flippant joke about a user being part of Tesla's marketing department.
+
+Sorry, but based on his following comments, I don't believe that for one second. He was serious when he said that. Him, and you, claiming it was a joke all along, is obvious backpedaling, and further deteriorates trust, if there is any left, in the entire moderating team of this sub. I will remain unsubscribed until this central issue of this debacle is properly admitted to, and publicly apologized for. 
+> I'd like to clarify that Tesla motors is not a banned topic.
+
+But it was.
+
+And should not have been.
+
+> I am however disappointed that this person has been witch-hunted in this manner.
+
+Witch-hunted in what way? I hope "witch-hunted" here doesn't mean, "mocked, ridiculed, and criticised", because that's just one of the consequences of making bad decisions.
+
+Reddit moderators have thankless unpaid jobs. I get that. But it's a responsibility, and when they screw up that responsibility and then the communities they moderate object vocally to that, mods shouldn't publicly sob about it.
+
+Anyway, glad you're clearing it up.
+**EDIT:** While I had been [accused of a witch hunt](http://www.reddit.com/r/teslamotors/comments/21lurz/tesla_is_banned_from_rtechnology_and_so_am_i_for/cged4u9) by a different mod earlier, /u/Skuld wrote me to let me know that I wasn't the one being talked about in this case. Other people had said some ugly things, including in private messages, which is obviously not cool. Here's my earlier post:
+
+---
+
+I'm a bit sad about this term, "witch hunt." Can you shed some light on what you mean when you say it? Here is a [dictionary definition to help us out:](http://www.merriam-webster.com/dictionary/witch-hunt)
+
+>the act of unfairly looking for and punishing people who are accused of having opinions that are believed to be dangerous or evil
+
+And here are two potential things that could be construed as witch hunts:
+
+One is, I said that posts with the word "Tesla" in them were banned, I said that I was banned, and I quoted the explanation of the moderator who did the banning. I refrained from comparisons to fascists and New Jersey governors, and the tossing around of terms like "censorship" and "power trips," because I thought they were inflammatory, and I wanted to be somewhat even-handed about what happened, even though I was obviously a participant in the story.
+
+You, /u/qgyh2, and /u/agentlame have all called this a witch hunt.
+
+On the other hand, users were banned for submitting posts about, or asking moderators about, Tesla. [This really is the totality of the conversation that led to me being banned.](http://i.imgur.com/FbXBuKE.png). /u/agentlame said that I was also banned for submitting two posts about Tesla that didn't have the word "Tesla" in them, something I did to test the hypothesis that posts with the word "Tesla" in them were banned. I didn't want to make an unsubstantiated claim to that effect.
+
+So is publishing what happened a witch hunt, or is the banning of critics a witch hunt?
+
+Personally, I don't think the term "witch hunt" should be thrown around by anyone here. It's unnecessarily inflammatory.
+
+I'm really not upset about what happened anymore, and I'm happy that I was unbanned, but the reason I'm concerned about the term "witch hunt" is because I'd like to talk about other aspects of /r/technology in the future without being accused of engaging in a witch hunt. I understand not wanting to be in the spotlight, and that moderators are only volunteers, but you did volunteer for this role, and you do have a lot of power as moderators of a default subreddit. We should be able to talk about what happens here. This isn't Fight Club.
+
+I'm glad we're working this out.

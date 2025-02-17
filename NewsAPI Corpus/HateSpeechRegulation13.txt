@@ -1,0 +1,78 @@
+Title: Majority support moderation on social media platforms
+Source: Idw-online.de
+URL: https://nachrichten.idw-online.de/2025/02/11/majority-support-moderation-on-social-media-platforms
+
+Majority support moderation on social media platforms
+
+Most people want harmful social media content such as physical threats and defamation to be restricted. This also applies in the USA where several social media platforms have recently modified their policies in favor of unrestricted free speech. However, the majority of users believe that intolerance and hate have become unavoidable on social media. This was revealed in a large-scale survey conducted by the Technical University of Munich (TUM) and the University of Oxford in 10 countries in Europe, America, Africa and Australia. The study also highlights differences among countries.
+
+Research results, Scientific Publications
+
+The global debate on whether and how social media content should be regulated has flared up again in recent months. Citing freedom of expression, the platform operators X and Meta have relaxed regulations intended to restrict discriminatory statements. Meanwhile, Australia has banned social media access for children under 16.
+
+However, the discussions and research on these issues focus mainly on the attitudes of companies, policy makers and the media. So far little attention has been paid to the opinions of social media users. To address this gap, a team of researchers at TUM and the University of Oxford surveyed around 13,500 people in six European countries and in the USA, Brazil, South Africa and Australia in the autumn of 2024. In this representative study the respondents answered an extensive questionnaire on the conflicting objectives of freedom of expression and safeguarding against digital abuse and misinformation.
+
+Online safety preferred to unlimited freedom of expression
+
+A clear majority of 79% of the respondents believe that incitements to violence should be removed, with the strongest approval (86%) recorded in Germany, Brazil and Slovakia. A majority of US respondents also agrees with this statement, although to a lesser extent (63%).
+
+Only 14% of all respondents believe that threats should remain online so that users can respond to them.
+
+Only 17% think that users should be permitted to post offensive content to criticize certain groups of people. The country with the highest level of support for this stance is the USA (29%) and support is lowest in Brazil (9%). In Germany 15% hold this view.
+
+The respondents were also asked to indicate their preferred vision on a scale between two opposite poles: a social media platform with unlimited freedom of expression and one free of hate or misinformation. In all countries the majority tended towards safety from digital violence and misleading information.
+
+No universal consensus
+
+“Influential entrepreneurs like Mark Zuckerberg and Elon Musk have argued that free speech must take precedence over content moderation in social media. The study shows that the majority of people in democracies want platforms that reduce hate speech and abuse. This applies even in the USA, a country with a long-standing commitment to freedom of speech in the broadest sense,” says study leader Yannis Theocharis, Professor of Digital Governance at the Munich School of Politics and Public Policy at TUM and co-leader of the Content Moderation Lab of the TUM Think Tank.
+
+“But the results also show that we do not necessarily have a universal consensus with regard to all specific trade-offs between freedom of expression and moderation. People’s beliefs are strongly dependent on cultural norms, political experiences and legal traditions in the various countries. This makes global regulation more difficult,” adds Spyros Kosmidis, Professor of Politics at the University of Oxford and co-leader of the Content Moderation Lab of the TUM Think Tank.
+
+30% believe that governments are accountable
+
+Differences were also seen in the question of who should be mainly responsible for creating a safe environment in social media. The share of respondents who believe that accountability should rest mainly with platform operators is relatively similar across the investigated countries, ranging between 39% in Germany, the UK and Brazil and 29% in France, South Africa and Greece. However, there were larger differences among those who prefer government responsibility. Compared to 37% of German and French respondents, just 14% favor a government-led approach in Slovakia.
+
+There is a similar variation among countries with regard to the percentage who believe that individual citizens should mainly bear responsibility, ranging from a high of 39% in Sweden to a low of 17% in Germany. Looking at the aggregate picture, 35% of respondents across all countries chose platform operators, 31% chose individual citizens and 30% chose governments as the preferred responsible party.
+
+“Acclimatization effect is a huge problem”
+
+However, 59% of those surveyed think that exposure to rudeness, intolerance or hate are unavoidable in social media. 65% expect aggressive comments when expressing their views on platforms. In South Africa, this applies to 81%, in the USA to 73%.
+
+“We are noticing widespread resignation,” says Yannis Theocharis. “People obviously have the impression that despite all of the promises to deal with offensive content, nothing is improving. This acclimatization effect is a huge problem because it is gradually undermining societal norms and normalizing hate and violence.”
+
+Nevertheless, a large majority of people believe that the platforms can certainly be venues for civilized discussion. Only 20% of those surveyed say it is sometimes necessary to be rude in social media to get one’s own opinion across.
+
+Further information:
+
+For the representative study, around 13,500 people aged 16–69 in Australia, Brazil, Germany, France, Greece, the UK, Sweden, Slovakia, South Africa and the USA answered questionnaires in October and November 2024. The survey was coordinated by the public opinion research institute Bilendi & Respondi.
+
+The project was part of the Content Moderation Lab of the TUM Think Tank, which brings together actors from the realms of science, civil society, politics and business to jointly develop proposals and instruments to address urgent problems.
+
+The Chair of Digital Governance is part of the Munich School of Politics and Public Policy at TUM, which is dedicated to research and education on the interactions of politics and technology, which play a decisive role in almost all political spheres today. Through these activities it makes a significant contribution toward understanding and shaping the societal transformation resulting from rapid technological developments.
+
+Wissenschaftlicher Ansprechpartner:
+
+Prof. Dr. Yannis Theocharis
+
+Technical University of Munich (TUM)
+
+Chair of Digital Governance
+
+Tel.: +49 89 289 22778 (press office)
+
+yannis.theocharis@hfp.tum.de
+
+www.hfp.tum.de/en/digitalgovernance
+
+Originalpublikation:
+
+Theocharis, Y., Kosmidis, S., Zilinsky, J., Quint, F. & Pradel-Sinaci, F. (2025). Content Warning: Public Attitudes on Content Moderation and Freedom of Expression. Content Moderation Lab at TUM Think Tank. DOI: 10.17605/OSF.IO/F56BH
+
+https://osf.io/9gdrs
+
+Weitere Informationen:
+
+https://tumthinktank.de TUM Think Tank
+
+https://www.hfp.tum.de/en/ Munich School of Politics and Public Policy at TUM
+

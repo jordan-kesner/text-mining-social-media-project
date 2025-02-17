@@ -1,0 +1,77 @@
+Title: Kanye West's 4 days of controversy: a Super Bowl ad, a swastika T-shirt, and a Shopify shutdown
+Source: Business Insider
+URL: https://www.businessinsider.com/kanye-west-yeezy-website-shopify-swastika-shirt-super-bowl-ad-2025-2
+
+Kanye West's Super Bowl ad pointed people to YEEZY.com, which was later updated to feature only a swastika T-shirt.
+
+After the listing received backlash, Shopify removed the website on Tuesday.
+
+Shopify has faced criticism before for hosting controversial stores, leading to policy changes.
+
+Four days of Kanye West controversy came to a head on Tuesday when the artist's website was taken offline after facing backlash.
+
+The website was removed by the vendor powering it, Shopify, less than 48 hours after West's Super Bowl ad directed viewers to a storefront selling a single item: a swastika T-shirt labeled "HH-01."
+
+A Shopify spokesperson confirmed to BI on Tuesday morning the company had removed the store.
+
+"All merchants are responsible for following the rules of our platform. This merchant did not engage in authentic commerce practices and violated our terms so we removed them from Shopify," the spokesperson said.
+
+On Friday, West, whose legal name is Ye, posted a slew of social media posts on X praising Adolf Hitler, describing himself as a Nazi, and defending music mogul Sean "Diddy" Combs, who was arrested in September and charged with racketeering conspiracy, sex trafficking, and transportation to engage in prostitution. Combs has pleaded not guilty to the charges.
+
+Ye also purchased a 30-second ad that aired during Super Bowl LIX. Unlike the national Super Bowl ads that reached a cost of north of $8 million for 30 seconds of airtime this year, the Yeezy team instead purchased ad slots on local stations — which would have come at a lower price.
+
+The ads ran on local Fox stations in Los Angeles, Philadelphia, and Atlanta, and some other affiliate stations, according to USIM, the media agency that brokered the buy.
+
+Doug Livingston, president and chief operating officer of USIM, said the agency immediately ceased working with Yeezy LLC after seeing the "disparaging and vile comments" Ye had posted on X on Friday.
+
+Livingston said Fox had said the media buy was "non-cancelable."
+
+"We informed Fox that they should cease airing any remnant spots immediately upon learning that Yeezy, LLC was promoting vile content," he said.
+
+A Fox insider told BI they received no communication from the agency about requesting to drop the ad until Monday morning after the Super Bowl spot had aired.
+
+The Yeezy Super Bowl spot, which purported to be shot on an iPhone and featured the rapper sitting in a dentist's chair showing off his new teeth, was unlikely to have caused alarm when it was submitted and subsequently approved for broadcast because it didn't contain any obscenities.
+
+"So whassup guys, I spent like all the money for the commercial on these new teeth. So, once again I had to shoot it on the iPhone. Um, um, um, go to Yeezy.com," Ye said in the sparse ad. (Yeezy.com also ran a local spot during last year's Super Bowl, starring Ye.)
+
+At the time of the ad's approval and airing, the Yeezy store displayed a number of items for sale. It was only after the ad was shown that the website was updated to display the swastika T-shirt for sale, according to screenshots of the site captured by the Internet Archive's Wayback Machine.
+
+USIM's Livingston said the agency was unaware that Ye had intended to change the nature of the store's offerings.
+
+"The commercial was to promote general athletic apparel listed on the website," Livingston said.
+
+Along with his website, Ye's X account appears to also be deactivated on the platform as of Tuesday morning.
+
+"Ye is an intergenerational artist and icon who continues to redefine the limits of creativity and free expression. He has deactivated his X account for the time being," spokesperson Milo Yiannopoulos said in a statement to NBC News. Yiannopoulos declined to comment further on the matter to Business Insider.
+
+Ye was previously banned from X, then known as Twitter, in 2022 after he tweeted an image containing a swastika and the Star of David. His account was later reinstated.
+
+In the hours following the Super Bowl ad airing, many called for the Yeezy site to be taken down.
+
+This week, the Anti-Defamation League, which called the T-shirt listing "further proof of Kanye's antisemitism," encouraged people to sign an open letter calling on Fox Sports to condemn Ye's ad. At the time of writing, the letter had more than 9,000 signatories.
+
+"The swastika is the symbol adopted by Hitler as the primary emblem of the Nazis," the ADL said in a statement posted to X on Monday. "It galvanized his followers in the 20th century and continues to threaten and instill fear in those targeted by antisemitism and white supremacy."
+
+"If that wasn't enough, the t-shirt is labeled on Kanye's website as 'HH-01,' which is code for 'Heil Hitler,'" the statement said.
+
+On Tuesday, talent agent Daniel McCartney of 33 & West announced on Instagram that he would no longer represent Ye "due to his recent harmful and hateful remarks."
+
+Shopify under pressure
+
+Several former Shopify executives, including former chief product officer Craig Miller and former senior director of investor relations Katie Keita, spoke out against the company's hosting of the Yeezy store before it was taken down.
+
+Related stories
+
+"Even if @Shopify views it as 'morally ambiguous' to empower the exponential buildup of hate toward a religion/ethnicity, it is, at the very least, a grave public disservice," Keita said in a post on X.
+
+It wasn't the first time Shopify has faced criticism for its hosting of an online store. Shopify CEO Tobi Lütke frequently defends free speech and has said he doesn't view it as Shopify's role to police points of view.
+
+In 2020, a legal defense fund was set up for Kyle Rittenhouse via Shopify. After several weeks of criticism, Shopify shut the store down. It also removed sites affiliated with President Donald Trump after a group of pro-Trump rioters stormed the US Capitol on January 6, 2021.
+
+In 2022, critics called for Shopify to remove the store for Libs of TikTok, saying it violated Shopify's acceptable use policy. At the time, that policy said Shopify's platform could not be used to "promote or condone hate or violence against people based on race, ethnicity, color, national origin, religion, age, gender, sexual orientation, disability, medical condition, veteran status or other forms of discriminatory intolerance."
+
+Shopify did not remove the Libs of TikTok store as it did not find it to be in violation of the policy, a spokesperson told Business Insider in 2022. That decision frustrated some employees, including some in customer support who fielded complaints from angry customers.
+
+Shopify adjusted its acceptable use policy last year, removing some of the more specific language.
+
+"There are activities we don't allow on the platform because they breach the social contract of commerce," it now reads, in part. "This means you can't call for, or threaten, violence against specific people or groups. And you can't sell products that facilitate intentional self-harm."

@@ -1,0 +1,97 @@
+Title: CMV: The migration from TikTok to RedNote in response to the ban in the United States is not logical, unless you legitimately support the CCP. There are other courses of action which would make far more sense. 
+
+Post:
+To be clear, I'm not American, so I do not want to focus on arguments about the United States versus China or other comparative political issues, particularly with respect to American users of RedNote claiming that they were 'lied to about China', in spite of my disagreement with that idea.
+
+What I do disagree with is *censorship.* I apply this standard globally. I believe that banning TikTok in the United States constitutes censorship and therefore I do not agree with it, regardless of my personal feelings on the app or its userbase.
+
+However, I also realize that RedNote and other Chinese applications face a considerable degree of internal censorship, enforced through their respective terms of services. I believe that these forms of internal censorship on the Chinese applications via the terms of service go much further than the degree of content restrictions and moderation, particularly regarding political subjects, than their Western counterparts.
+
+Whether the terms of service of an application constitutes censorship alone is a separate question. However, I believe that the terms of services of the Chinese applications (Douyin, RedNote, BiliBili, etc) are reflections of the Chinese political apparatus, in the same way that their national internet firewall is.
+
+I have gathered various instances of censorship on RedNote, known in China as Xiaohongshu, from well before this TikTok migration:
+
+[Xiaohongshu social media account blocked after Tiananmen post](https://www.bbc.com/news/world-asia-china-57374879)
+
+>**A social media account for popular Chinese e-commerce app Xiaohongshu has been blocked after it issued a post on the anniversary of the 1989 Tiananmen Square crackdown.**
+
+>It had posted "Tell me loudly: what's the date today?" on microblogging platform Weibo.
+
+>The post to its 14 million followers was swiftly deleted.
+
+>Its Weibo page has been replaced by a message saying it is being investigated for violations of laws and regulations.
+
+>Xiaohongshu has yet to comment publicly on the matter. As of Monday morning, its account on Weibo remained locked, but the app - which has an estimated 300 million users - was still working.
+
+>It is unclear whether the post was intended to reference the crackdown. One person familiar with the matter [told the Wall Street Journal](https://www.wsj.com/articles/chinese-internet-regulators-investigate-startup-after-tiananmen-square-anniversary-post-11622970523) that the post had not been linked to the anniversary.
+
+>Xiaohongshu, backed by Chinese internet giants Alibaba and Tencent, has been described as China's Instagram with e-commerce and is mostly used by young, urban Chinese women.
+
+>It shares the same name in Chinese - Little Red Book - as the famous book of quotations by Mao Zedong, the father of Communist China.
+
+[List of Derogatory Nicknames for Xi Leaked Amid Crackdown on “Typos](https://chinadigitaltimes.net/2022/07/list-of-derogatory-nicknames-for-xi-leaked-amid-crackdown-on-typos/)”
+
+>A crackdown on “typos” used to spread “illegal and harmful information,” and the censorship of an unpublished draft novel, have illustrated the further narrowing of online speech in China ahead of [the upcoming 20th Party Congress expected this fall](https://www.scmp.com/news/china/diplomacy/article/3185727/china-asks-european-leaders-meet-xi-november-will-they-accept). 
+
+>Chinese netizens have long employed a rich range of homophones, variant characters, and “typos” to evade the grasp of the censors and automatic filtering for designated sensitive words. In mid-July, Weibo and Bilibili [announced](https://weibo.com/1642088277/LC4pMypIY) a [crackdown](https://www.sohu.com/a/569096870_361784?scm=9010.8000.0.0.1021) on “typos” used to spread “illegal and harmful information.” CDT has archived and translated a plethora of such “typos” in our [Grass-Mud Horse Lexicon](https://chinadigitaltimes.net/space/Category:Lexicon). (“Grass-Mud Horse” is itself homophonous internet slang for “F\*ck Your Mother.”) Despite attempts to quash it, the language used to evade censorship  is still developing, as a leaked trove of censorship documents from social media platform Xiaohongshu reveals. [**The site’s content moderators discovered 546 nicknames, or “typos,” for Xi Jinping over a two-month period**](https://chinadigitaltimes.net/space/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%AE%A1%E6%9F%A5%E7%99%BE%E7%A7%91%EF%BC%9A%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%95%8F%E6%84%9F%E8%AF%8D%E5%BA%93). Xi’s name generally triggers automatic censorship of social media posts. Some machine translation apps have also recently begun [refusing to render his name](https://twitter.com/wafarris/status/1545012608058925057). Even innocent misprints of Xi’s name are no small matter—[one in the West Strait Morning Post in 2013](https://chinadigitaltimes.net/2013/11/censorship-vault-miswriting-xi-jinpings-name/) resulted in an order from the Xiamen Municipal Propaganda Department demanding all papers containing the error be removed from shelves and those responsible “severely punished.” Deeply obscure nicknames for Xi are also censored: a recent example saw a group of students convinced they’d discovered [a WeChat “bug” that was, in fact, automatic censorship triggered by an insult for Xi Jinping unknown to them](https://chinadigitaltimes.net/2022/03/wechat-bug-turns-out-to-be-obscure-insult-for-xi-jinping/). CDT has translated a portion of the Xiaohongshu list of nicknames for Xi, many of which play on long-established jokes that Xi resembles [Winnie the Pooh](https://chinadigitaltimes.net/2019/11/translation-wechat-suspends-account-after-winnie-the-pooh-comment/), is [a new-era emperor](https://chinadigitaltimes.net/2018/02/sensitive-words-emperor-xi-jinping-ascend-throne/), or is [accelerating China’s demise](https://chinadigitaltimes.net/space/Accelerator-in-Chief): 
+
+[How Xiaohongshu Censors “Sudden Incidents”](https://chinadigitaltimes.net/2022/07/how-xiaohongshu-censors-sudden-incidents/)
+
+>A leaked internal document from Xiaohongshu reveals how the Instagram-like social media and e-commerce company deals with censoring discourse about  “sudden incidents” on its platform. The document is [part of a hundred-plus-page trove](https://chinadigitaltimes.net/space/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%AE%A1%E6%9F%A5%E7%99%BE%E7%A7%91) that details how the company censors its users in compliance with Beijing’s commands. Last week, we published a partial translation of [546 derogatory nicknames for Xi Jinping](https://chinadigitaltimes.net/2022/07/list-of-derogatory-nicknames-for-xi-leaked-amid-crackdown-on-typos/), compiled over the course of two months, that was included in the leak.
+
+>The document on “sudden incidents”—an [official designation for accidents, natural disasters, and political disturbances](https://chinadigitaltimes.net/2017/08/interview-jeremy-brown-learning-lessons-maintaining-stability-accidents-disasters/)—is titled “Public Opinion Monitoring System & Management Procedures,” and reveals both what Xiaohongshu considers sensitive and the process by which it censors it with “no omissions.” It begins with a detailed and expansive list of incident types likely to require special treatment. The list include carjackings, landslides, the “Two Sessions,” illegal cult activity, outbreaks of disease among livestock, labor strikes, geographic discrimination, public criticism of the Chinese Communist Party, student suicides, and even the introduction of products that might compete with Xiaohongshu for its user base’s eyes—seemingly blurring the line between censorship and anti-competitive practices. Sudden incidents that occur in Shanghai and Beijing are treated with extra scrutiny. A note underneath the list reads: “If a sudden incident is confirmed to have occurred in Beijing or Shanghai, report it to the Government Relations Team \[1\] immediately.”
+
+>The document goes on to detail the precise mechanisms by which Xiaohongshu quashes discussion of the potential incidents listed above, a process that differs depending on where the censorship order comes from. Censorship directives issued by the Cyberspace Administration of China are to be implemented in “real-time,” whereas internal censorship directives require a response within a comparatively lax five-minutes. In both cases, Xiaohongshu builds new lexicons of “sensitive” words that it keeps on an internal server and “banned” words that it reports to a higher authority, either its Shanghai Operation Security Group or a separate Shanghai-based organization. The lexicon includes derivative variants of both “sensitive” and “banned” words.
+
+There have also been further instances of post-migration censorship, particularly with respect to American users joining the platform.
+
+Based on this, the extent to which RedNote as a Chinese platform internally censors content is indisputable - what separates it from something like Reddit's terms of service is the fact that its terms of service and its moderation policies are a reflection of the Chinese political apparatus on the internet, which they are forced to comply with.
+
+The US government censoring TikTok was wrong in my view. The Chinese government's internal censorship of its social media platforms is also wrong. The outright bans of Western social media in China, including Reddit and others is far worse than anything currently in place in the United States, purely as a quantitative matter. The Chinese firewall in place is far more expansive than the individual TikTok ban.
+
+People moved to RedNote with no consideration of anything I have mentioned. This leaves essentially three possibilities:
+
+1. They support the Chinese government's censorship but do not support the American government's censorship.
+2. They did it to spite the American government and do not care about the ethical implications of directly supporting the censorship of another country.
+3. They did not think about it at all.
+
+All of these possibilities are disappointing.
+
+* The first possibility is the most logical if that is genuinely their belief; that the Chinese government censoring things is good. I don't need to specify why I think that is wrong.
+* The second possibility is illogical and immoral.
+* The third possibility is sad.
+
+There were, however, far more logical alternatives to joining RedNote which makes very little sense for the reasons I have specified, particularly in response to a form of censorship.
+
+* They *could* have popularised the Tor network. This would be a very legitimate way of opposing any form of censorship performed by any government. The Tor network, funnily enough, is officially banned in China, though actually making it unusable is quite difficult.
+* They *could* have joined a decentralised, free and open-source alternative like PixelFed.
+* They *could* have moved to apps like Session, Signal, or something more suitable for mass-communication, Telegram.
+
+There are likely other alternatives that I did not mention. If those moving from TikTok to RedNote did not think of ANY of these, or anything similar, then they are either severely uninformed, have no principles that they are willing to stand behind unconditionally, or actually support the CCP.
+
+Top Comments:
+/u/Heavy-Mongoose1561 (OP) has awarded 4 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/1i4cx4m/deltas_awarded_in_cmv_the_migration_from_tiktok/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+I don't know that the "fuck you, I'm going to comply in the most malicious way possible to piss you off" reaction is logical. But it 100% predictable
+Lots of people trust a Chinese company more with their data than they do Mark Zuckerberg at Meta. It’s the opposite of a “devil you know” proposition: we know Mark Zuckerberg is a piece of shit who will use our data to increase his own wealth and power with complete disregard for our privacy because he’s been doing it for the last 20 years and we’ve directly felt the impact. 
+>They did it to spite the American government and do not care about the ethical implications of directly supporting the censorship of another country
+
+You say this is illogical and immoral, but how so? It's the most direct and obvious form of protest. The US government's justification for banning TikTok was primarily rooted in "concern" that data from the app was being sent to China, and that the Chinese government could control the platform. 
+
+Thus, the most direct way to protest the law is by moving to an alternative that has all the same "problems" the government cited dialed up to 11, as a way of demonstrating that the people using the app, the people the government is supposed to be representing, do not agree with the principles behind the ban. What's illogical about that? You may disagree about the values behind it, but the logical basis is sound.
+You’re missing something here. I’m in my thirties. I protested the Patriot Act when it happened, and ever since, my friends and I joke about the fed forced to watch us/listen to our calls.
+
+The US made their whole anti-TikTok ban about our data being used by others, when we all get letters about data leaks from AT&T and the government wants access to women’s period data to control them from Fitbit and Clue. and the like. They think those companies *should* comply because they’re American. Clue has said they won’t, but it’s been asked. *No one* I know thinks their data is safe. 
+
+As far as I know all those apps you list are American based—though I could be wrong. The point was to go to a non-US app. China was for the poetic justice.
+Protest is about being seen and making waves. A Rednote migration got them on CNN. No other choice would have been as outrageous or made the tiktok ban look like it backfired more than Rednote, and so it was the ideal choice.
+The best argument I’ve heard is “become ungovernable”. If the US govt is gonna take away speech with out even a fig leaf of justification then show them some resistance as you can. We can’t stop the government but that doesn’t mean we have to completely cave in and lick their boots.
+How many people have heard of those other apps? The only one I've heard of is telegram and it's for right wing terrorists. Pretty much the opposite of tik toks user base.
+Social media is addictive. You can't steal an addicts object of focus and not expect them to reach out for the next closest thing. Also stealing from an addict is the fastest way to make them hate you and do things to just spite you. Also people with agendas often prey on addicts because its easier to pursued them.
+
+We know this. This is logical behavior from an addicts perspective.

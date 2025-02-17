@@ -1,0 +1,105 @@
+Title: At Davos, Spanish President Pedro Sánchez Just Said the Quiet Part Out Loud on Online Anonymity and Digital Identity
+Source: Nakedcapitalism.com
+URL: https://www.nakedcapitalism.com/2025/01/at-davos-spanish-pm-pedro-sanchez-just-said-quiet-part-out-loud-on-online-anonymity-and-digital-identity.html
+
+“In our countries, no one can walk the streets with a mask on their face,” and “yet we allow people to roam freely on the Internet without linking their profiles to a real identity.”
+
+Spain’s Prime Minister Pedro Sánchez was uncharacteristically candid on a range of sensitive issues in his speech this week at the World Economic Forum’s annual meeting. He suggested not only putting an end to online anonymity on social media but also forcing “media platforms to link every user account to a European digital identity wallet.”
+
+In other words, what we’ve been warning about for a few years now — the worldwide emergence of digital identity systems and how they will be used, in the words of a 2018 WEF report, to “open up [or close off]” access to basic online (and offline) services — is now being openly discussed at Davos by a senior European politician. Eight months after the EU launched its digital identity program, the race is on to sell it to the public.
+
+Ripping the Mask Off
+
+Below is the relevant clip of Sánchez’s speech which includes the bizarre words: “in our countries, no one can walk the streets with a mask on their face,” and “yet we allow people to roam freely on the Internet without linking their profiles to a real identity.” Of course, not that long ago, no one could walk the streets of Spain and other European countries without a mask on their face, a fact that Sánchez, who was president of Spain throughout the pandemic, seems to have conveniently forgotten.
+
+At the WEF, Spanish PM Pedro Sanchez calls "TO END ANONYMITY ON SOCIAL MEDIA" and that the EU should "FORCE THESE PLATFORMS TO LINK EVERY USER ACCOUNT TO A EUROPEAN DIGITAL IDENTITY WALLET" #wef25
+
+This is making the rounds on Spanish-speaking media https://t.co/GRWM499OzP pic.twitter.com/NmkD07MPHl — Tim Hinchliffe (@TimHinchliffe) January 22, 2025
+
+Sánchez’s proposal ostensibly seeks to curb the toxic effects of social media networks on what he calls “European democracy”, which is a bit rich given that the EU has done more than anyone to undermine European democracy. As the great, late British MP Tony Benn once said, “the powers that rule us talk about [democracy]. But they resist it with all the wiles and techniques at their command.”
+
+The EU and national EU governments have been doing this for decades, as NC reader vao pointed out in a recent comments thread:
+
+Case in points: the various referenda that took place in the past. 1) Referendum on the EU Constitution. As soon as that treaty was rejected in the Netherlands and France, the ratification process was interrupted, including in countries where referenda were to be held, and the process re-launched in a form that made sure popular opinion would have no impact on the final decision. 2) Except in Ireland, where a referendum was compulsory. When the Irish answered “incorrectly”, they had to vote again to make sure the new EU organization was accepted. Again, politicians will never take “no” for an answer. 3) A similar procedure was attempted regarding the compensations of losses of British and Dutch banks following the financial melt-down in Iceland. The voters rejected the loan guarantee packages twice. The Dutch and British government then attempted to get their way via judicial means. 4) Netherlands introduced the possibility of a consultative referendum in 2015. In 2016, a referendum was demanded regarding the EU-Ukraine association agreement — which treaty was rejected by 61% of the voters. After a period of dithering, the government decided to ignore the result and ratify the treaty anyway. A second referendum was held regarding a new intelligence and security services act — which law was also rejected. Again, the government passed the law anyway after minimal modifications. This was the second and last referendum to be held; by then, Dutch politicians were enough pissed off by the popular opinion and had already repelled the law instituting the possibility of a referendum.
+
+The EU’s assault on European democracy has become even more brazen of late. In November, it tried to overturn an election in Georgia, which is not even an EU member, to no avail. It then had more success in pressuring Romania’s Constitutional Court to cancel the first round of the country’s election in Romania after a right-ring populist who favoured better ties with Russia won the most votes.
+
+A few days ago, the former Commissioner for the EU’s Internal Market, Thierry Breton, who used to describe himself as the “enforcer” of the EU’s Digital Services Act before stepping down from that role, said the same could happen to Germany if the voters there also make the wrong choice in the upcoming elections.
+
+“We have to prevent outside meddling and make our laws apply,” Breton said, referring to allegations of Russian involvement, based on bogus intel from the state intelligence services, before admitting actual EU interference. “We did it in Romania, and we will obviously have to do it in Germany, if necessary.”
+
+BREAKING NEWS!
+
+Former French European Commissioner Thierry Breton speaks about cancelling elections in #Germany.
+
+At French television RMC he declared:
+
+"Let's keep our cool and enforce our laws in Europe when they risk being circumvented and when they can, if not enforced, lead… pic.twitter.com/HjrUvvSJ1P — Mocanu Ingrid Luciana (@Ingrid_Mocanu) January 10, 2025
+
+This is the model of European democracy Sánchez wants to protect — one that has zero regard for elections in national member states. Incidentally, Breton joined Bank of America as an advisor just weeks after resigning from the Commission, in direct contravention of the EU’s own rules on lobbying bans for ex-commissioners. According to the Commission’s Code of Conduct, outgoing commissioners must respect a two-year cooling-off period before taking up a new role that involves lobbying or a potential conflict of interest.
+
+Full Weaponisation of the EU’s Digital Services Act
+
+In his speech, Sánchez also called for “the European regulation of Digital Services to be fully applied” as well as sanctions to be imposed on those who do not comply with it. Sánchez accused the owners of the social media platforms of wanting to increase their political power “by undermining our democratic institutions”. Many of those social media owners were not at the Davos this year since it clashed with Donald J Trump’s inauguration, and this time round Trump is their ticket to direct political power ally.
+
+“We must ensure that social media executives are responsible for compliance with the rules on platforms, as is the case in other sectors,” said Sánchez.
+
+Of course, Sánchez has one particular Big Tech owner in mind: Elon Musk, whose X platform, formerly known as Twitter, has been under investigation for over a year under the EU’s Digital Services Act (DSA) over how it tackles the spread of illegal content and information manipulation. The company has been accused of manipulating the platform’s systems to give far-right posts and politicians greater visibility over other political groups. In recent months, Musk has intensified his meddling in countries around Europe, including the UK.
+
+Sánchez also has one particular country in mind when it comes to spreading mis-and dis-information that is supposedly harmful to European democracy. No prizes for guessing which: Russia, he said, is “weakening democratic institutions and forces.”
+
+Sánchez’s proposed plan to deal with the problems of online hate, misinformation and tech billionaires’ increasing influence over political processes revolves around three main measures:
+
+Ending anonymity on social networks by linking people’s profiles to their EU digital identity system, which became a legal reality in May 2024. Forcing transparency of algorithms. Establishing criminal liability for the platforms’ owners.
+
+The proposal to end online anonymity is nothing new; politicians on both sides of the Atlantic have been talking about banning or discouraging the use of anonymity on the Internet for almost as long as the Internet has existed. In 1999, Microsoft even launched Passport, a single sign-in and digital wallet service for communication and commerce on the Internet that was supposed to allow users to easily access information and purchase goods on multiple Web sites using a single login and password (h/t Rev Kev).
+
+Needless to say, the idea didn’t take off. But in the past year, the topics of online anonymity, age verification and digital identity have gained a lot more attention as governments have begun moving from words to action.
+
+A License to W*nk
+
+Spain’s Sánchez government was one of the first movers in this area. In the early summer, it unveiled plans to push the boundaries of Internet control by launching a digital age verification system to prevent minors from being able to access pornographic websites. The proposed system will be based on a digital wallet app through which adult porn users will be able to obtain anonymous digital access credentials. And those credentials, the government says, will soon be necessary to enter digital spaces hosting adult content.
+
+As we reported at the time, the digital wallet is not only intended to close off access to porn websites to minors; it will also ration the number of times adult users can access pornography websites. The Spanish government also spoke of requiring a similar digital identity wallet to access other online platforms. Carmen Cabanillas, director general of Governance at the Ministry of Digital Transformation, said that the tool could be used by messaging applications, social networks or browsers to check the age of users, as well as presumably other things.
+
+In October, Ireland adopted its Online Safety Code, which mandates that digital services protect people, especially children, from harm online. It calls on video-sharing platforms to, among other things, use age-assurance mechanisms to prevent children from accessing pornography or gratuitous violence. Ireland’s age verification rules will apply to all video-sharing platforms that have their EU headquarters in the country including Facebook, YouTube, X, TikTok, LinkedIn, Tumblr, and Instagram.
+
+Australia, which launched its own digital identity app, myID, in early 2024, in November became the first Western democracy to pass legislation banning all under-16s from social media platforms. For its part, the UK is pushing for digital identity to be used to verify the age of pub and clubgoers. As we noted at the time, it seems that online age verification will be the Trojan House for the mass rollout of digital identity systems:
+
+For governments around the world, one of the great advantages of age verification, or assurance as the Austrian government is now calling it, is that it traps everyone in its web — not just under-16s but just about anyone who wants to use the Internet. As members of the Australian government recently admitted, everyone will soon have to prove their age to use social media. And that will presumably mean having to use the government’s recently launched digital ID app, myID.
+
+RE: Social Media Ban for Under16's (aka the trojan horse Digital ID for ALL Australians) So the Federal Labor Gov't have confirmed at Senate Estimates that ALL Australians will have to go through an age verification process to access social media, not just under 16 year olds.… pic.twitter.com/LgPu5DXdek — Glen Schaefer (@hardenuppete) November 10, 2024
+
+Australia’s social media ban is scheduled to come into effect in just under a year’s time. Digital researchers have warned that there are no guarantees that the as-yet unspecified technology the Australian government plans to use to enforce the social media ban — which will presumably rely on biometrics and/or the government’s fledgling digital identity system — will work. As the BBC reports, critics have also sought assurances that privacy will be protected:
+
+They have also warned that restrictions could easily be circumvented through tools like a VPN – which can disguise a user’s location and make them appear to be logging on from another country. Children who find ways to flout the rules will not face penalties, however. Polling on the reforms, though limited, suggests it is supported by a majority of Australian parents and caregivers. “For too long parents have had this impossible choice between giving in and getting their child an addictive device or seeing their child isolated and feeling left out,” Amy Friedlander, who was among those lobbying for the ban, recently told the BBC. “We’ve been trapped in a norm that no one wants to be a part of.” But many experts say the ban is “too blunt an instrument” to effectively address the risks associated with social media use, and have warned it could end up pushing children into less regulated corners of the internet.
+
+Protecting the Children: A Perfect Pretext
+
+Protecting the children from online evils is, it seems, the chosen pretext for unleashing digital identity and imposing online anonymity on a largely unsuspecting world. According to Sánchez, “in a democracy, citizens have a right to privacy, not to anonymity or impunity,” especially when it comes to pernicious acts committed online such as cyberbullying, sexual offenses or violence.
+
+However, banning the use of anonymity online can have very serious consequences, warned Gabriella Coleman, author of Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous, in a 2014 op-ed for the New York Times:
+
+Debates about trolls routinely conflate anonymity with incivility but a broader look at online activities reveals that public good can come when users can hide their identity. For example, medical patients and mothers discuss sensitive issues (be they clinical or related to parenting) in pseudonymous forums, allowing for candid discussions of what might otherwise be stigmatizing subjects. Anonymous activists rely on the web for whistle-blowing or to speak truth to power without fear of retribution. And, in a strange twist, victims of hate crimes use anonymity to speak out as well: anonymity can empower those who seek consolation and justice to speak out against assailants enabled by the same processes. Anonymous expression has been a foundation of our political culture since its inception, underwriting monumental declarations like the Federalist Papers. At its best, it puts the attention on the message, rather than the messenger. For these reasons, we should stay away from sweeping and blunt prohibitions on anonymity. Requiring real identities online would chill a vibrant democracy.
+
+But saving the children is, I believe, the last thing on the minds of the political establishment. It is just a pretext, albeit a very seductive one; the real goal, as the US tech analyst Tim Hinchliffe notes, is “to end online anonymity while giving governments and corporations the power to manipulate, coerce, or incentivize human behaviour.”
+
+With the Digital Services Act, the EU plans to stamp out as much as feasibly possible the dissemination on social media of what the EU Commission, national governments and their handsomely rewarded armies of private-sector fact checkers deem to be dis-, mis-, and mal-information. For those who may not know, mal-information is, in the words of Wikipedia, “based on fact, but removed from its original context in order to mislead, harm, or manipulate”. It is, even by Wikipedia’s moral standards, a “controversial concept”.
+
+The primary objective with all this is to choke public expression and debate on sensitive issues, as the retired German judge Manfred Kölsch warned in 2023. Those issues could include the EU’s support for genocide in Palestine, Germany’s rapid deindustrialisation, Europe’s crumbling economy, the rampant corruption at the very top of the EU Commission and Parliament, the EU’s ever-diminishing democratic legitimacy (I’m sure you can think of more).
+
+If it is successful in this endeavour, the inevitable and desired result will be that EU citizens will begin self-censoring to align their messages on the platforms with what is currently acceptable in Brussels’ and NATO’s corridors of power.
+
+But that is just part of the process. By simultaneously rolling out digital identity as stealthily as possible — as far as we could tell, no mainstream media outlet bothered to even cover its launch in May — and then making it a prerequisite for accessing and using social media platforms, as Sánchez is suggesting here, the EU intends to close the circle by killing online anonymity.
+
+As NC readers are well aware, digital identity is also an essential prerequisite for the rollout of central bank digital currencies, or CBDCs, which threaten to revolutionise money in ways that are unlikely to favour the common man.
+
+At the same time, Brussels, like the UK and other Five-Eye nations, has its sights set on encryption. Just a few days ago, the chief of Europol urged tech firms to cooperate with law enforcement in unlocking encrypted messages. A failure to stamp out encrypted messages threatens European democracy, she said. Her actual words were (emphasis my own): “You will not be able to enforce democracy without it.”
+
+“Enforcing” democracy must surely rank as one of the most Orwellian terms of this fledgling year. In his 2013 article for the Guardian, “How Cryptography Is a Key Weapon in the Fight Against Empire States”, Julian Assange wrote: “Strong cryptography is a vital tool in fighting state oppression.” But fighting state oppression is the last thing on the EU’s collective mind right now, given it is the EU itself and its member states that are increasingly meting out that oppression, much of which is taking place online.
+
+It has been a similar story in the US — until recently. Just yesterday, Rob Urie revealed on this site how hundreds of his articles were essentially disappeared during the Biden administration. In December, those articles magically reappeared just a day or two after a Federal entity called the Global Engagement Center (GEC) — an offshoot of the US State Department tasked with censoring legal political speech on the internet, was closed after Congress stopped funding it. It was a positive early move by the Trump administration.
+
+However, it remains to be seen how Trump’s decision to surround himself with some of Silicon Valley’s most powerful overlords, including, of course, Elon Musk and Peter Thiel, the founder of Palantir, the Israel-linked, CIA-funded spytech firm, who paints himself as an economic libertarian while denouncing competition as “for losers“, will ultimately pan out. My guess is that it won’t be pretty. Meanwhile, in Europe the EU is preparing to escalate and expand its war on freedom of speech, encrypted communications and online anonymity.
+
+Julian Assange’s warning in his foreword to Cypherpunks: Freedom and the Future of the Internet, the 2012 book he co-authored with Jacob Appelbaum, Andy Muller-Maguhn, and Jérémie Zimmermann, has proven to be sadly prescient: “the Internet, our greatest tool for emancipation, has been transformed into the most dangerous facilitator of totalitarianism we have ever seen”.

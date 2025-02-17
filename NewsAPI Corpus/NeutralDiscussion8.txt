@@ -1,0 +1,239 @@
+Title: Rogan Misses The Mark: How Zuck’s Misdirection On Gov’t Pressure Goes Unchallenged
+Source: Techdirt
+URL: https://www.techdirt.com/2025/01/16/rogan-misses-the-mark-how-zucks-misdirection-on-govt-pressure-goes-unchallenged/
+
+Rogan Misses The Mark: How Zuck’s Misdirection On Gov’t Pressure Goes Unchallenged
+
+from the reality-distortion-podcast dept
+
+If you only remember two things about the government pressure campaign to influence Mark Zuckerberg’s content moderation decisions, make it these: Donald Trump directly threatened to throw Zuck in prison for the rest of his life, and just a couple months ago FCC Commissioner (soon to be FCC chair) Brendan Carr threatened Meta that if it kept on fact-checking stories in a way Carr didn’t like, he would try to remove Meta’s Section 230 protections in response.
+
+Two months later — what do you know? — Zuckerberg ended all fact-checking on Meta. But when he went on Joe Rogan, rather than blaming those actual obvious threats, he instead blamed the Biden administration, because some admin officials sent angry emails… which Zuck repeatedly admits had zero impact on Meta’s actual policies.
+
+Mark Zuckerberg may be done with fact-checking, but we can still fact-check Mark Zuckerberg. And especially some of the misleading narratives coming out of his latest interview with Joe Rogan.
+
+Indeed, this very fact check may be a good example of what I talked about regarding Zuckerberg’s decision to end fact-checking, which is that it’s not as straightforward as some people think, as layers of bullshit may be presented misleadingly around a kernel of truth, and peeling back the layers is important for understanding.
+
+Indeed, this is my second attempt at writing this article. I killed the first version soon after it hit 10,000 words and I realized no one was going to read all that. So this is a more simplified version of what happened, which can be summarized as: the actual threats came from the GOP, to which Zuckerberg quickly caved. The supposed threats from the Biden admin were overhyped, exaggerated, and misrepresented, and Zuck directly admits he was able to easily refuse those requests.
+
+All the rest is noise.
+
+I know that people who dislike Rogan dismiss him out of hand, but I actually think he’s often a good interviewer for certain kinds of conversations. He’s willing to speak to all sorts of people and even ask dumb questions, taking on the role of listeners/viewers. And that’s actually really useful (and enlightening) in certain circumstances.
+
+Where it goes off the rails, such as here, is where (1) nuance and detail matter and (2) where the person he is interviewing has an agenda to push with a message that he knows Rogan will eat up, and knows Rogan does not understand enough to pick apart what really happened.
+
+This is not the first time that Zuckerberg has gone on Rogan and launched a narrative by saying things that are technically true in a manner that is misleading, likely knowing that Rogan and his fans wouldn’t understand the nuances, and would run with a misleading story.
+
+Two and a half years ago, he went on Joe Rogan and said that the FBI had warned the company about the potential for hack and leak efforts put forth by the Russians, which Rogan and a whole bunch of people, including the mainstream media, falsely interpreted as “the FBI told us to block the Hunter Biden laptop story.”
+
+Except that’s not what he said. He was asked about the NY Post story (which Facebook never actually blocked, they only — briefly — blocked it from “trending”), and Zuckerberg very carefully worded his answer to say something that was already known, but which people not listening carefully might think revealed something new:
+
+The background here is that the FBI came to us – some folks on our team – and was like ‘hey, just so you know, you should be on high alert. We thought there was a lot of Russian propaganda in the 2016 election, we have it on notice that basically there’s about to be some kind of dump that’s similar to that’.
+
+But the fact that the FBI had sent out a general warning to all of social media to be on the lookout for disinfo campaigns like that was widely known and reported on way earlier. The FBI did not comment specifically on the Hunter Biden laptop story, nor did they tell Facebook (or anyone) to take anything down.
+
+Still, that turned into a big thing, and a bunch of folks thought it was a big revelation. In part because when Zuck told that story to Rogan, Rogan acted like it was big reveal, because Rogan doesn’t know the background or the details or the fact that this had been widely reported. He also doesn’t realize there’s a huge difference between a general “be on the lookout” warning and a “hey, take this down!” demand, with the former being standard and the latter being likely unconstitutional.
+
+In other words, Zuck has a history of using Rogan’s platform to spread dubious narratives, knowing that Rogan lacks the background knowledge to push back in the moment.
+
+After that happened, I was at least open to the idea that Zuck just spoke in generalities and didn’t realize how Rogan and audience would take what he said and run with it, believing a very misleading story. But now that he’s done it again, it seems quite likely that this is deliberate. When Zuckerberg wants to get a misleading story out to a MAGA-friendly audience, he can reliably dupe Rogan’s listeners.
+
+Indeed, this interview was, in many ways, similar to what happened two years ago. He was relating things that were already widely known in a misleading way, and Rogan was reacting like something big was being revealed. And then the media runs with it because they don’t know the details and nuances either.
+
+This time, Zuckerberg talks about the supposed pressure from the Biden administration as a reason for his problematic announcement last week:
+
+Rogan: What do you think started the pathway towards increasing censorship? Because clearly we were going in that direction for the last few years. It seemed like uh we really found out about it when Elon bought Twitter and we got the Twitter Files and when you came on here and when you were explaining the relationship with FBI where they were trying to get you to take down certain things that were true and real and certain things they tried to get you to limit the exposure to them. So it’s these kind of conversations. Like when did all that start?
+
+So first off, note the framing of this question. It’s not accurate at all. Social media websites have always had content moderation/content policy efforts. Indeed, Facebook was historically way more aggressive than most. If you don’t, your platform fills up with spam, scams, abuse, and porn.
+
+That’s just how it works. And, indeed, Facebook in the early days was aggressively paternalistic about what was — and what was not — allowed on its site. Remember its famously prudish “no nudity” policy? Hell, there was an entire Radiolab podcast about how difficult that was to implement in practice.
+
+So, first, calling it “censorship” is misleading, because it’s just how you handle violations of your rules, which is why moderation is always a better term for it. Rogan has never invited me on his podcast. Is that censorship? Of course not. He has rules (and standards!) for who he platforms. So does Meta. Rejecting some speech is not “censorship”, it’s just enforcing your own rules on your own private property.
+
+Second, Rogan himself is already misrepresenting what Zuckerberg told him two years ago about the FBI. Zuck did not say that the FBI was trying to get Facebook to “take down certain things that were true and real” and “limit the exposure to them.” They only said to be on the lookout for potential attempts by foreign governments to interfere with an election, leaving it up to the platforms to decide how to handle that.
+
+On top of that, the idea that the simple fact of how content moderation works only became public with the Twitter Files is false. The Twitter Files revealed… a whole bunch of nothing interesting that idiots have misinterpreted badly. Indeed we know this because (1) we paid attention, and (2) Elon’s own legal team admitted in court that what people were misleadingly claiming about the Twitter Files wasn’t what was actually said.
+
+From there, Zuck starts his misleading but technically accurate-ish response:
+
+Zuck: Yeah, well, look, I think going back to the beginning, or like I was saying, I think you start one of these if you care about giving people a voice, you know? I wasn’t too deep on our content policies for like the first 10 years of the company. It was just kind of well known across the company that, um, we were trying to give people the ability to share as much as possible. And, issues would come up, practical issues, right? So if someone’s getting bullied, for example, we deal with that, right? We put in place systems to fight bullying, you know? If someone is saying hey um you know someone’s pirating copyrighted content on on the service, it’s like okay we’ll build controls to make it so we’ll find IP protected content. But it was really in the last 10 years that people started pushing for like ideological-based censorship and I think it was two main events that really triggered this. In 2016 there was the election of President Trump, also coincided with basically Brexit in the EU and sort of the fragmentation of the EU. And then you know in 2020 there was COVID. And I think that those were basically these two events where for the first time we just faced this massive massive institutional pressure to basically start censoring content on ideological grounds….
+
+So this part is fundamentally, sorta, kinda accurate, which sets up the kernel of truth around which much bullshit will be built. It’s true that Zuck didn’t pay much attention to content policies on the site early on, but it’s nonsense that it was about “giving people a voice.” That’s Zuck retconning the history of Facebook. Remember, they only added things like the Newsfeed (which was more about letting people talk) when Twitter came about and Zuck freaked out that Twitter would destroy Facebook.
+
+Second, he then admits that the company has always moderated, though he’s wrong that it was so reactive. From quite early on (as mentioned above) the company had decently strict content policies regarding how the site was moderated. And, really, much of that was based around wanting to make sure that users had a good experience on the site. So yes, things like bullying were blocked.
+
+But what is bullying is a very subjective thing, and so much of content moderation is just teams trying to tell you to stop being such a jackass.
+
+It is true that there was pressure on Facebook to take moderation challenges more seriously starting in 2016, and (perhaps?!?) if he had actually spent more time understanding trust & safety at that time, he would have a better understanding of the issues. But he didn’t, which meant that he made a mess of things, and then tried to “fix it” with weird programs like the Oversight Board.
+
+But it also meant that he’s never, ever been good at explaining the inherent tradeoffs in trust & safety, and how some people are always going to dislike the choices you make. A good leader of a social network understands and can explain those tradeoffs. But that’s not Zuck.
+
+Also, and this is important, Zuckerberg’s claims about pressure to moderate on “ideological” grounds are incredibly misleading. Yes, I’m sure some people were putting pressure on him around that, but it was far from mainstream and easy to ignore. People were asking him to stop potentially dangerous misinformation that was causing harm. For example, the genocide in Myanmar. Or information around COVID that was potentially legitimately dangerous.
+
+In other words, it was really (like so much of trust & safety) an extension of the “no bullying” rule. The same was true of protecting marginalized groups like LGBTQ+ users or on issues like Black Lives Matter. The demands from users (not the government in those cases) were about protecting more marginalized communities from harassment and bullying.
+
+I’m going to jump ahead because Zuck and Rogan say a lot of stupid shit here, but this article will get too long if I go through all of it. So let’s jump forward a couple of minutes, to where Zuckerberg really flubs his First Amendment 101 in embarrassing ways while trying to describe how Meta chose to handle moderation of COVID misinformation.
+
+Zuckerberg: Covid was the other big one. Where that was also very tricky because you know at the beginning it was, you know, it’s like a legitimate “public health crisis,” you know, in the beginning. And it’s… even people who are like the most ardent First Amendment defenders… that the Supreme Court has this clear precedent, that’s like all right you can’t yell fire in a crowded theater. There are times when if there’s an emergency your ability to speak can temporarily be curtailed in order to get an emergency under control. So I was sympathetic to that at the beginning of Covid, it seemed like, okay you have this virus, seems like it’s killing a lot of people. I don’t know like we didn’t know at the time how dangerous it was going to be. So, at the beginning, it kind of seemed like okay we should give a little bit of deference to the government and the health authorities on how we should play this. But when it went from, you know, two weeks to flatten the curve to… in like in the beginning it was like okay there aren’t enough masks, masks aren’t that important to, then, it’s like oh no you have to wear a mask. And you know all the, like everything, was shifting around. It just became very difficult to kind of follow.
+
+In trying to defend Meta’s approach to COVID misinformation, Zuck manages to mangle First Amendment law in a way that’s both legally inaccurate and irrelevant to the actual issues at play.
+
+There’s so much to unpack here. First off, he totally should have someone explain the First Amendment to him. He not only got it wrong, he even got it wrong in a way that is different than how most people get it wrong. We’ve covered the whole “fire in a crowded theater” thing so many times here on Techdirt, so we’ll do the abbreviated version:
+
+It’s not a “clear precedent.” It’s not a precedent at all. It was an offhand comment (in legal terms: dicta, so not precedential) in a case about jailing someone for handing out anti-war literature (something most people today would recognize as pretty clearly a First Amendment problem). The Justice who said it, Oliver Wendell Holmes, appeared to regret it almost immediately, and in a similar case very shortly thereafter changed his tune and became a much more “ardent First Amendment defender.” Most courts and lawyers (though there are a few holdouts) insist that whatever precedent there was in Schenck (which again, did not include that line) was effectively overruled a half century later in a different case that rejected the test in Schenck and moved to the “incitement to imminent lawless action” test.
+
+So, quoting “fire in a crowded theater” these days is generally used as a (very bad, misguided) defense of saying “well, there’s some speech that’s so bad it’s obviously unprotected,” but without being able to explain why this particular speech is unprotected.
+
+But Zuck isn’t even using it in that way. He seems to have missed that the whole point of the Holmes dicta (again, not precedent) was to talk about falsely yelling fire. Zuck implies that the (not actual) test is “can we restrict speech if there’s an actual fire, an actual emergency.” And, that’s also wrong.
+
+But, the wrongness goes one layer deeper as well, because the First Amendment only applies to restrictions the government can put on speakers, not what a private entity like Meta (or the Joe Rogan Experience) can do on their own private property.
+
+And then, even once you get past that, Zuck isn’t wrong that there was a lot of confusion about COVID and health in the early days, including lots of false information that came under the imprimatur of “official” sources, but… dude, Meta deliberately made the decision to effectively let the CDC decide what was acceptable even after many people (us included!) pointed out how stupid it was for platforms to outsource their decisions on “COVID misinfo” to government agencies which almost certainly would get stuff wrong as the science was still unclear.
+
+But it wasn’t the White House that pressured Zuck into following the CDC position. Meta (alone among the major tech platforms) publicly declared early in the pandemic (for what it’s worth, when Trump was still President) that its approach to handling COVID misinformation would be based on “guidance” from official authorities like the CDC and WHO. Many of us felt that this was actually Meta abdicating its role and giving way too much power to government entities in the midst of an unclear scientific environment.
+
+But for him to now blame the Biden admin is just blatantly ahistorical.
+
+And from there, it gets worse:
+
+Zuckerberg: This really hit… the most extreme, I’d say, during it was during the Biden Administration, when they were trying to roll out um the vaccine program and… Now I’m generally, like, pretty pro rolling out vaccines. I think on balance the vaccines are more positive than negative. But I think that while they’re trying to push that program, they also tried to censor anyone who was basically arguing against it. And they pushed us super hard to take down things that were honestly were true. Right, I mean they they basically pushed us and and said, you know, anything that says that vaccines might have side effects, you basically need to take down. And I was just like, well we’re not going to do that. Like, we’re clearly not going to do that.
+
+Rogan then jumps in here to ask “who is they” but this is where he’s showing his own ignorance. The key point is the last line. Zuckerberg says he told them “we’re not going to do that… we’re clearly not going to do that.”
+
+That’s it. That’s the ballgame.
+
+The case law on this issue is clear: the government is allowed to try to persuade companies to do something. That’s known as using the bully pulpit. What it cannot do is coerce a company into taking action on speech. And if Zuckerberg and Meta felt totally comfortable saying “we’re not going to do that, we’re clearly not going to do that,” then end of story. They didn’t feel coerced.
+
+Indeed, this is partly what the Murthy case last year was about. And during oral arguments, Justices Kavanaugh and Kagan (both of whom had been lawyers in the White House in previous lives) completely laughed off the idea that White House officials couldn’t call up media entities and try to convince them to do stuff, even with mean language.
+
+Here was Justice Kavanaugh:
+
+JUSTICE KAVANAUGH: Do you think on the anger point, I guess I had assumed, thought, experienced government press people throughout the federal government who regularly call up the media and — and berate them. Is that — I mean, is that not — MR. FLETCHER: I — I — I don’t want JUSTICE KAVANAUGH: — your understanding? You said the anger here was unusual. I guess I wasn’t — MR. FLETCHER: So that — JUSTICE KAVANAUGH: — wasn’t entirely clear on that from my own experience.
+
+Later on, he said more:
+
+JUSTICE KAVANAUGH: You’re speaking on behalf of the United States. Again, my experience is the United States, in all its manifestations, has regular communications with the media to talk about things they don’t like or don’t want to see or are complaining about factual inaccuracies.
+
+Justice Kagan felt similarly:
+
+JUSTICE KAGAN: I mean, can I just understand because it seems like an extremely expansive argument, I must say, encouraging people basically to suppress their own speech. So, like Justice Kavanaugh, I’ve had some experience encouraging press to suppress their own speech. You just wrote about editorial. Here are the five reasons you shouldn’t write another one. You just wrote a story that’s filled with factual errors. Here are the 10 reasons why you shouldn’t do that again. I mean, this happens literally thousands of times a day in the federal government.
+
+“Literally thousands of times a day in the federal government.” What happened was not even that interesting or unique. The only issue, and the only time it creates a potential First Amendment problem, is if there is coercion.
+
+This is why the Supreme Court rejected the argument in the Murthy case that this kind of activity was coercive and violated the First Amendment. The opinion, written by Justice Coney Barrett, makes it pretty clear that the White House didn’t even apply that much pressure towards Facebook on COVID info beyond some public statements, and instead most of the communication was Facebook sending info to the government (both admin officials and the CDC) and asking for feedback.
+
+The Supreme Court notes that Facebook changed its policies to restrict more COVID info before it had even spoken to people in the White House.
+
+In fact, the platforms, acting independently, had strengthened their pre-existing content moderation policies before the Government defendants got involved. For instance, Facebook announced an expansion of its COVID–19 misinformation policies in early February 2021, before White House officials began communicating with the platform. And the platforms continued to exercise their independent judgment even after communications with the defendants began. For example, on several occasions, various platforms explained that White House officials had flagged content that did not violate company policy. Moreover, the platforms did not speak only with the defendants about content moderation; they also regularly consulted with outside experts.
+
+All of this info is public. It was in the court case. It’s in the Supreme Court transcript of oral arguments. It’s in the ruling in the Supreme Court.
+
+Yet Rogan acts like this is some giant bombshell story. And Zuckerberg just lets him run with it. And then, the media ran with it as well, even though it’s a total non-story. As Kagan said, attempts to persuade the media happen literally thousands of times a day.
+
+It only violates the First Amendment if they move over into coercion, threatening retaliation for not listening. And the fact that Meta felt free to say no and didn’t change its policies makes it pretty clear this wasn’t coercion.
+
+But, Zuckerberg now knows he’s got Rogan caught on his line and starts to play it up. Rogan first asks who was “telling you to take down things” and Zuckerberg then admits that he wasn’t actually involved in any of this:
+
+Rogan: Who is they? Who’s telling you to take down things that talk about vaccine side effects? Zuckerberg: It was people in the um in the Biden Administration I think it was um… you know I wasn’t involved in those conversations directly…
+
+Ah, so you’re just relaying the information that was publicly available all along and which we already know about.
+
+Rogan then does a pretty good job of basically explaining my Impossibility Theorem (he doesn’t call it that, of course), noting the sheer scale of Meta properties, and how most people can’t even comprehend the scale, and that mistakes are obviously going to happen. Honestly, it’s one of the better “mainstream” explanations of the impossibility of content moderation at scale
+
+Rogan: You’re moderating at scale that’s beyond the imagination. The number of human beings you’re moderating is fucking insane. Like what is… what’s Facebook… what how many people use it on a daily basis? Forget about how many overall. Like how many people use it regularly? Zuck: It’s 3.2 billion people use one of our services every day Rogan: (rolls around) That’s…! Zuck: Yeah, it’s, no, it’s wild Rogan: That’s more than a third of the planet! That’s so crazy and it’s almost half of Earth! Zuck: Well on a monthly basis it is probably. Rogan: UGGH! But just I want I want to say that though for there’s a lot of like hypercritical people that are conspiracy theorists and think that everybody is a part of some cabal to control them. I want you to understand that, whether it’s YouTube or all these and whatever place that you think is doing something that’s awful, it’s good that you speak because this is how things get changed and this is how people find out that people are upset about content moderation and and censorship. But moderating at scale is insane. It’s insane. What we were talking the other day about the number of videos that go up every hour on YouTube and it’s banana. It’s bananas. That’s like to try to get a human being that is reasonable, logical and objective, that’s going to analyze every video? It’s virtually impossible. It’s not possible. So you got to use a bunch of tools. You got to get a bunch of things wrong. And you have also people reporting things. And how how much is that going to affect things there. You could have mass reporting because you have bad actors. You have some corporation that decides we’re going to attack this video cuz it’s bad for us. Get it taken down. There’s so much going on. I just want to put that in people’s heads before we go on. Like understand the kind of numbers that we’re talking about here.
+
+Like… that’s a decent enough explanation of the impossibility of moderating content at scale. If Zuckerberg wanted to lean into that, and point out that this impossibility and the tradeoffs it creates makes all of this a subjective guessing game, where mistakes often get made and everyone has opinions, that would have been interesting.
+
+But he’s tossed out the line where he wants to blame the Biden administration (even though the evidence on this has already been deemed unproblematic by the Supreme Court just months ago) and he’s going to feed Rogan some more chum to create a misleading picture:
+
+Zuckerberg: So I mean like you’re saying I mean this is… it’s so complicated this system that I could spend every minute of all of my time doing this and not actually focused on building any of the things that we’re trying to do. AI glasses, like the future of social media, all that stuff. So I get involved in this stuff, but in general we we have a policy team. There are people who I trust there. The people are kind of working on this on a day-to-day basis. And the interactions that um that I was just referring to, I mean a lot of this is documented… I mean because uh you know Jim Jordan and the the House had this whole investigation and committee into into the the kind of government censorship around stuff like this and we produced all these documents and it’s all in the public domain… I mean basically these people from the Biden Administration would call up our team and like scream at them and curse. And it’s like these documents are… it’s all kind of out there! Rogan: Gah! Did you record any of those phone calls? God! Zuckerberg: I don’t no… I don’t think… I don’t think we… but but… I think… I want listen… I mean, there are emails. The emails are published. It’s all… it’s all kind of out there and um and they’re like… and basically it just got to this point where we were like, no we’re not going to. We’re not going to take down things that are true. That’s ridiculous…
+
+Parsing what he’s saying here is important. Again, we already established above a few important facts that Rogan doesn’t understand, and either Zuck doesn’t understand or is deliberately being coy in his explanation: (1) government actors are constantly trying to persuade media companies regarding their editorial discretion and that’s not against the law in any way, unless it crosses the line into coercion, and Zuck is (once again) admitting there was no coercion and they had no problem saying no. (2) He’s basing this not on actual firsthand knowledge but on stuff that is “all kind of out there” because “the emails are published” and “it’s all in the public domain.”
+
+Now, because I’m not that busy creating AI glasses (though I am perhaps working on the future of social media), I actually did pay pretty close attention to what happened with those published emails and the documents in the public domain, and Zuckerberg is misrepresenting things, either on purpose or because the false narrative filtered back to him.
+
+The reason I followed it closely is because I was worried that the Biden administration might cross the First Amendment line. This is not the case of me being a fan of the Biden administration, whose tech policies I thought were pretty bad almost across the board. The public statements that the White House made, whether from then press secretary Jen Psaki or Joe Biden himself, struck me as stupid things to say, but they did not appear to cross the First Amendment line, though they came uncomfortably close.
+
+So I followed this case closely, in part, because if there was evidence that they crossed the line, I would be screaming from the Techdirt rooftops about it.
+
+But, over and over again, it became clear that while they may have walked up to the line, they didn’t seem to cross it. That’s also what the Supreme Court found in the Murthy case.
+
+So when Zuckerberg says that there are published emails, referencing the “screaming and cursing,” I know exactly what he’s talking about. Because it was a highlight of the district court ruling that claimed the White House had violated the First Amendment (which was later overturned by the Supreme Court).
+
+Indeed, in my write-up of that District Court ruling, I even called out the “cursing” email as an example that struck me as one of the only things that might actually be a pretty clear violation of the First Amendment. Here’s what I wrote two years ago when that ruling came out:
+
+Most of the worst emails seemed to come from one guy, Rob Flaherty, the former “Director of Digital Strategy,” who seemed to believe his job in the White House made it fine for him to be a total jackass to the companies, constantly berating them for moderation choices he disliked. I mean, this is just totally inappropriate for a government official to say to a private company: Things apparently became tense between the White House and Facebook after that, culminating in Flaherty’s July 15, 2021 email to Facebook, in which Flaherty stated: “Are you guys fucking serious? I want an answer on what happened here and I want it today.”
+
+But then I dug deeper and saw the filing where that quote actually comes from, realizing that the judge in the district court was taking it totally out of context. The ruling made it sound like Flaherty’s cursing outburst was in response to Facebook/Zuck refusing to go along with a content moderation demand.
+
+If that were actually the case, then that would absolutely violate the First Amendment. The problem is that it’s not what happened. It was still inappropriate in general, but not an unconstitutional attack on speech.
+
+What had happened was that Instagram had a bug that prevented the Biden account from getting more followers, and the White House was annoyed by that. Someone from Meta responded to a query, saying basically “oops, it was a bug, our bad, but it’s fixed now” and that response was forwarded to Flaherty, who acted like a total power-mad jackass with the “Are you guys fucking serious? I want an answer on what happened here and I want it today” response.
+
+So here’s the key thing: that heated exchange had absolutely nothing to do with pressuring Facebook on its content moderation policies. That “public domain” “cursing” email is entirely about a bug that prevented the Biden account from getting more followers, and Rob throwing a bit of a shit fit about it.
+
+As Zuck says (but notably no one on the Rogan team actually looks up), this is all “out there” in “the public domain.” Rogan didn’t look it up. It’s unclear if Zuckerberg looked it up.
+
+But I did:
+
+We can still find that response wholly inappropriate and asshole-ish. But it’s not because Facebook refused to take down information on vaccine side effects, as is clearly implied (and how Rogan takes it).
+
+Indeed, Zuckerberg (again!) points out that the company’s response to requests to remove anti-vax memes was to tell the White House no:
+
+Zuck: They wanted us to take down this meme of Leonardo DiCaprio looking at a TV talking about how 10 years from now or something um you know you’re going to see an ad that says okay if you took a Covid vaccine you’re um eligible you you know like uh for for this kind of payment like this sort of like class action lawsuit type meme. And they’re like, “No, you have to take that down.” We just said, ‘No, we’re not going to take down humor and satire. We’re not going to take down things that are true.“
+
+He then does talk about the stupid Biden “they’re killing people” comment, but leaves out the fact that Biden walked that back days later, admitting “Facebook isn’t killing people” and instead blaming people on the platform spreading misinformation and saying “that’s what I meant.”
+
+But it didn’t change the fact that Facebook refused to take action on those accounts.
+
+So even after he’s said multiple times that Facebook’s response to whatever comments came in from the White House was to tell them “no,” which is exactly what the Supreme Court made clear showed there was no coercion, Rogan goes on a rant as if Zuckerberg had just told him that they did, in fact, suppress the content the White House requested (something Zuck directly denied to Rogan multiple times, even right before this rant):
+
+Rogan: Wow. [sigh] Yeah, it’s just a massive overstepping. Also, you weren’t killing people. This is the thing about all of this. It’s like they suppressed so much information about things that people should be doing regardless of whether or not you believe in the vaccine, regardless… put that aside. Metabolic health is of the utmost importance in your everyday life whether there’s a pandemic or there’s not and there’s a lot of things that you can do that can help you recover from illness. It prevents illnesses. It makes your body more robust and healthy. It strengthens your immune system. And they were suppressing all that information and that’s just crazy. You can’t say you’re one of the good guys if you’re suppressing information that would help people recover from all kinds of diseases. Not just Covid. The flu, common cold, all sorts of different things. High doses of Vitamin C, D3 with K2 and magnesium. They were suppressing this stuff because they didn’t want people to think that you could get away with not taking a vaccine.
+
+Dude, Zuck literally told you over and over again that they said no to the White House and didn’t suppress that content.
+
+But Zuck doesn’t step in to correct Rogan’s misrepresentations, because he’s not here for that. He’s here to get this narrative out, and Rogan is biting hard on the narrative. Hilariously, he then follows it up by saying how the thing that Zuck just said didn’t happen, but which Rogan is chortling along as if it did happen, proves the evils of “distortion of facts” and…. where the hell is my irony font?
+
+Rogan: This is a crazy overstep, but scared the shit out of a lot of people… redpilled as it were. A lot of people, because they realized like, oh, 1984 is like an instruction manual… Zuck: Yeah, yeah. Rogan: It’s like this is it shows you how things can go that way with wrong speak and with bizarre distortion of facts.
+
+I mean, you would know, wouldn’t you, Joe?
+
+From there, they pivot to a different discussion, though again, it’s Zuckerberg feeding Rogan lines about how the US ought to “protect” the US tech industry from foreign governments, rather than trying to regulate them.
+
+A bit later on, there actually is a good discussion about the kinds of errors that are made in content moderation and why. Rogan (after spending so much time whining about the evils of censorship) suddenly turns around and says that, well, of course, Facebook should be blocking “misinformation” and “outright lies” and “propaganda”:
+
+Rogan: But you do have to be careful about misinformation! And you have to be careful about just outright lies and propaganda complaints, or propaganda campaigns rather. And how do you differentiate?
+
+Dude, like that’s the whole point of the challenge here. You yourself talked about the billions of people and how mistakes are made because so much of this is automated. But then you were misleadingly claiming that this info was taken down over demands from the government (which Zuckerberg clearly denied multiple times), and for you to then wrap back around to “but you gotta take down misinformation and lies and propaganda campaigns” is one hell of a swing.
+
+But, as I said, it does lead to Zuck explaining how confidence levels matter, and how where you set those levels will cover both how much “bad” content gets removed, but also how much is left up and how much innocent content gets accidentally caught:
+
+Zuck: Okay, you have some classifier that’s it’s trying to find say like drug content, right? People decide okay, it’s like the opioid epidemic is a big deal, we need to do a better job of cracking down on drugs and drug sales. Right, I don’t I don’t want people dealing drugs on our networks. So we build a bunch of systems that basically go out and try to automate finding people who are who are dealing with dealing drugs. And then you basically have this question, which is how precise do you want to set the classifier? So do you want to make it so that the system needs to be 99% sure that someone is dealing drugs before taking them down? Do you want to to be 90% confident? 80% confident? And then those correspond to amounts of… I guess the the statistics term would be “recall.” What percent of the bad stuff are you finding? So if you require 99% confidence then maybe you only actually end up taking down 20% of the bad content. Whereas if you reduce it and you say, okay, we’re only going to require 90% confidence now maybe you can take down 60% of the bad content. But let’s say you say, no we really need to find everyone who’s doing this bad thing… and it doesn’t need to be as as severe as as dealing drugs. It could just be um I mean it could be any any kind of content of uh any kind of category of harmful content. You start getting to some of these classifiers might have you know 80, 85% Precision in order to get 90% of the bad stuff down. But the problem is if you’re at, you know, 90% precision that means one out of 10 things that the classifier takes down is not actually problematic. And if you filter… if you if you kind of multiply that across the billions of people who use our services every day that is millions and millions of posts that are basically being taken down that are innocent. And upon review we’re going to look at and be like this is ridiculous that this thing got taken down. Which, I mean, I think you’ve had that experience and we’ve talked about this for for a bunch of stuff over time. But it really just comes down to this question of where do you want to set the classifiers so one of the things that we’re going to do is basically set them to… require more confidence. Which is this trade-off. It’s going to mean that we will maybe take down a smaller amount of the harmful content. But it will also mean that we’ll dramatically reduce the amount of people who whose accounts were taken off for a mistake, which is just a terrible experience.
+
+And that’s all a good and fascinating fundamental explanation of why the Masnick Impossibility Theorem remains in effect. There are always going to be different kinds of false positives and false negatives, and that’s going to always happen because of how you set the confidence levels of the classifiers.
+
+Zuck could have explained that many of the other things that Rogan was whining about regarding the “suppression” of content around COVID (which, again, everyone but Rogan has admitted was based on Facebook’s own decision-making, not the US government), was quite often a similar sort of situation, where the confidence levels on the classifiers may have caught information it shouldn’t have, but which the company (at the time) felt had to be set at that level to make sure enough of the “bad” content (which Rogan himself says they should take down) gets caught.
+
+But there is no recognition of how this part of the conversation impacts the earlier conversation at all.
+
+There’s more in there, but this post is already insanely long, so I’ll close out with this: as mentioned in my opening, Donald Trump directly threatened to throw Zuck in prison for the rest of his life if Facebook didn’t moderate the way he wanted. And just a couple months ago, FCC Commissioner (soon to be FCC chair) Brendan Carr threatened Meta that if it kept on fact-checking stories in a way Carr didn’t like, he would try to remove Meta’s Section 230 protections in response.
+
+None of that came up in this discussion. The only “government pressure” that Zuck talks about is from the Biden admin with “cursing,” which he readily admits they weren’t intimidated by.
+
+So we have Biden officials who were, perhaps, mean, but not so threatening that Meta felt the need to bow down to them. And then we have Trump himself and leading members of his incoming administration who sent direct and obvious threats, which Zuck almost immediately bowed down to and caved.
+
+And yet Rogan (and much of the media covering this podcast) claims he “revealed” how the Biden admin violated the First Amendment. Hell, the NY Post even ran an editorial pretending that Zuck didn’t go far enough because he didn’t reveal all of this in time for the Murthy case. And that’s only because the author doesn’t realize he literally is talking about the documents in the Murthy case.
+
+The real story here is that Zuckerberg caved to Trump’s threats and felt fine pushing back on the Biden admin. Rogan at one point rants about how Trump will now protect Zuck because Trump “uniquely has felt the impact of not being able to have free speech.” That seems particularly ironic given the real story: Zuckerberg caved to Trump’s threats while pushing back on the Biden admin.
+
+Zuckerberg knew how this would play to Rogan and Rogan’s audience, and he got exactly what he needed out of it. But the reality is that all of this is Zuck caving to threats from Trump and Trump officials, while feeling no coercion from the Biden admin. As social media continues to grapple with content moderation challenges, it would be nice if leaders like Zuckerberg were actually transparent about the real pressures they face, rather than fueling misleading narratives.
+
+But that’s not the world we live in.
+
+Strip away all the spin and misdirection, and the truth is inescapable: Zuckerberg folded like a cheap suit in the face of direct threats from Trump and his lackeys, while barely batting an eye at some sternly worded emails from Biden officials.
+
+And that’s my fact check.
+
+Filed Under: 1st amendment, brendan carr, coercion, content moderation, donald trump, fact checking, free speech, jawboning, joe biden, joe rogan, mark zuckerberg, podcast, rob flaherty
+
+Companies: facebook, meta

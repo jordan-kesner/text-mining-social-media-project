@@ -1,0 +1,56 @@
+Title: No, Conscripting The App Stores Doesn’t Solve The Problems With Age Verification
+Source: Techdirt
+URL: https://www.techdirt.com/2025/01/30/no-conscripting-the-app-stores-doesnt-solve-the-problems-with-age-verification/
+
+No, Conscripting The App Stores Doesn’t Solve The Problems With Age Verification
+
+from the it's-still-very-bad dept
+
+Lawmakers show no sign of slowing down with laws to limit minors’ use of social media. State and federal legislation mandating that sites verify users’ age and adjust their social media experiences accordingly are still popular, despite the fact that they have repeatedly failed court challenges. As of late, policymakers have turned to a different model where parents have to consent to app store downloads made by their children. But this new approach is just as doomed as others because of inescapable functional and constitutional issues.
+
+Many advocacy groups that have supported other attempts to block youth access to social media have grabbed hold of the app store mandate as an easier, more technologically feasible approach than prior proposals like mandating content filtering at the mobile-device level. In practice, however, these proposals run into all of the basic concerns with constitutionality, efficacy, and cybersecurity that R Street and others have warned are inherent in any attempt to age-gate access to general-purpose digital services.
+
+The idea of using the app store as a checkpoint for restricting youth access to harmful content caught steam after Meta endorsed it in 2023. An early attempt to enact the proposal into law was blocked in Louisiana late last year, and a similar amendment at the federal level was introduced by Rep. John James (R-Mich.) but did not advance. Rep. James and Sen. Mike Lee (R-Utah) subsequently introduced similar bills, H.R. 10364 and S. 5364, at the very end of 2024. These two federal bills share a title (the “App Store Accountability Act”) but use different mechanisms to require age verification, although the net result of either would be largely the same.
+
+Presumably, these last-minute federal bills anticipate a more serious effort in the coming year, and similar legislation is expected to pop up in a number of states in 2025. South Carolina’s H. 3405, also called the “App Store Accountability Act,” is the first to have been actually filed, followed by Alaska’s H.B. 46 and Utah’s S.B. 142.
+
+App-store versus social media–level age verification doesn’t change anything
+
+The primary, unavoidable problem with these proposals is that they would require the app stores to use some method to verify the age of every person in the United States who wishes to use any of the large app stores on their mobile devices and to obtain “verifiable parental consent” when a minor wishes to access an app or in-app purchases.
+
+South Carolina’s H. 3405, for example, forces age verification on every person in the state as soon as the law takes effect. “Beginning January 1, 2026, using commercially available methods, app store providers shall determine the age category for every individual located in this State that purchases or uses apps from their app store and verify that user’s age,” reads the proposal.
+
+This would result in the same problem that any other age verification and parental consent scheme with no better chance of being found constitutional. Specifically, full age verification requires documentation like government IDs, Social Security numbers, or credit card information. And even if the laws are tailored or interpreted to merely allow age estimation, the most widely available commercial technologies to accomplish this would still force every app store customer to submit to an intrusive—and, for younger adults, error-prone—biometric scan.
+
+In either case, obtaining parental consent requires some form of documentation proving that the permission-giver is both an adult and a legal parent or guardian of the specific teenager or child. There is no way around this, meaning the bills require not just age verification, but identity verification. This poses a host of problems. For example, not all children and parents share the same last name; some minors have nontraditional families and multiple legal guardians, and some children might simply obtain their parents’ information and impersonate them. And whatever personal information parents have to provide about themselves or their children becomes vulnerable to hackers, as proven by recent leaks of these very age and identity verification systems.
+
+Because other, easily accessible tools already exist for parents to restrict their children’s access to apps and the app stores, it is very unlikely that courts would agree that universal age verification constitutes the least-restrictive means of achieving the goal of protecting children from harmful content on their devices. Being unable to pass the least-restrictive-means test under First Amendment precedent sets these laws up for failure.
+
+Indeed, there have never been more options for parents to lock down and monitor what their children access online. Virtually all modern cell phones and devices have easy-to-use parental controls at the device, app store, and browser levels, and there are websites dedicated to walking parents through their use. There is also a thriving marketplace for third-party software that can be downloaded to provide even more granular and comprehensive restrictions on what online services children can access on their devices, and when. This does not mean the task is easy for parents, but they do have an abundance of options that are more effective than this type of legislation would be.
+
+Even if these bills could work, gating at the app-store level is a poor fit
+
+Another oddity of specifying the app stores as the means to protect children from harm is that the internet’s worst material cannot even be accessed through the app store. For example, one of the primary justifications for the App Store Accountability Act is to protect minors from sexually explicit content, yet adults-only apps with this type of content are not even allowed in the Android or Apple app stores, and other similar sites like OnlyFans do not even have an app. Sometimes app updates attempt to evade these prohibitions or apps find other ways around the rules initially, but the app stores eventually find them and remove them. This also used to happen by using a program meant for employee-only apps. This means that the most concerning app for children is whichever web browser they prefer where they can already directly access adult content.
+
+Of note, app ratings are also designed to help parents and caregivers. The social media apps that allow adult content, such as Reddit and X (formerly Twitter), are rated M for mature, whereas other social media apps like Instagram, TikTok, and SnapChat are rated T for teen, meaning caregivers can block children’s access with simple parental controls.
+
+Once again, age-gating access to general-purpose platforms is unconstitutional
+
+The main effect of these app store mandates is to shift liability from companies that own individual apps to the owners of the app stores themselves. Sen. Lee’s version allows any parent a full private right of action to sue app store owners for exposure to harmful content, using this as the teeth to coerce app store owners into enacting age verification by providing a safe harbor from liability if they do. South Carolina’s version appears to lack any explicit safe harbor, meaning that the app stores could be liable in spite of their best efforts to comply. The lack of safe harbor creates a perverse incentive for app store owners to block access to any apps that might host content that could get them sued. In general, laws that cause this sort of “collateral censorship” of otherwise-protected speech have failed First Amendment scrutiny in the courts, with California’s Age Appropriate Design appearing destined to fall for just such an infringement.
+
+Aside from questions about their practicality or efficacy, all of these bills contain other constitutional problems. Sen. Lee’s bill seeks to limit minors’ access to content that is “any graphic image or video of real or simulated violence.” This would not only implicate apps that might house content like disturbing war and true crime footage but also potentially important historical content. Such a provision would not stand up in court. Plus, it runs into similar under-inclusivity constitutional issues as past laws that were found unconstitutional, in that it seeks to limit access to violent content on apps, but not on websites, in movies, or in video games.
+
+Shockingly, every bill like this mentioned in this post also requires that app developers verify user age or age category and obtain parental consent, regardless of the app type. This means that parents would have to consent to their children using calculator apps, bible apps, history apps, or anything else innocuous and rated for all ages. As Justice Antonin Scalia wrote in Brown v. Entertainment Merchants’ Association, in which the Supreme Court found that laws cannot condition children’s access to non-obscene speech on parental permission, “we note our doubts that punishing third parties for conveying protected speech to children just in case their parents disapprove of that speech is a proper governmental means of aiding parental authority.”
+
+This has no effect on laptops
+
+A final and important point is that most of these proposals really don’t have much impact on content access on laptop computers. Sure, the text of the bills account for them, but downloading apps outside of device app stores is a common practice on laptops. Parents can already prevent their minors from downloading external software if they adjust the laptop settings, which gets to the original issue—these bills cause constitutional issues in an effort to force certain companies to give parents features that already exist.
+
+Conclusion
+
+The benefits parents stand to gain from this type of legislation are severely limited and account for features that already abound. If these requirements were to be put into law and force parental consent, they would create massive cybersecurity and privacy problems, including heightened opportunities for identity theft. They would also violate the First Amendment many times over. Instead of continually searching for new and creative ways to force age-gating mandates onto online services, legislators should focus on strategies to help parents understand the power they already have to manage their children’s access to online content.
+
+Originally posted to R Street’s series on “The Fundamental Problems with Social Media Age-Verification Legislation.”
+
+Filed Under: 1st amendment, age verification, app stores, enforcement, free speech, privacy
+

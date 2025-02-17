@@ -1,0 +1,10 @@
+Title: What is the best amount/method of moderation?
+
+Post:
+I recently released a social media that is focused on community comments/conversation and I am trying to nail down my stance on and level of moderation. Since it is focused on comments and doesn’t support images, I already solve a lot of problems. However, trying to come up with defined boundaries is difficult. There are obvious things like personal information, doxxing, etc. that are removed. But when it comes to comments that contain language, hate speech, or are irrelevant, I am having a hard time defining the parameters. Community input like voting helps with this, but also can have negative affects, like creating echo chambers. Any thoughts, strategies, or opinions appreciated. 
+
+Top Comments:
+If this post [doesn't follow the rules](https://www.reddit.com/r/socialmedia/about/rules/), please report it to the mods.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*

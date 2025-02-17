@@ -1,0 +1,46 @@
+Title: CMV: At the time of his trial, the evidence did not support Galileo
+
+Post:
+For those of you who aren't aware, Galileo was a renaissance scientist and engineer who was tried by the inquisition for heresy, following the publication of a book arguing for the Copernican model of the solar system - i.e., for saying that the earth went around the sun.
+
+I want to be very focused in this CMV, so I am going to ignore anything to do with whether or not this episode in history says anything about science vs. religion (I don't think it does, but that's a whole other post), or whether censorship is good or not (generally against.)
+
+Instead, I'm going to side with the church in one small way: based on the scientific evidence available at the time, Galileo could not support his claims. Specifically, the Copernican model made a number of predictions, which were well known to both Galileo and the church, which had not been observed. In modern parlance, we might suggest that Copernicanism was falsified.
+
+The scientific objections to Copernicanism in his day were to the idea that the Earth moved - in fact, Copernicanism gave the earth a "double" motion. That is, it moved along it's orbit around the sun, and it also rotated. So I will present two arguments against the motion of the earth, again, based on evidence available at the time of Galileo.
+
+1) The argument from Parallax:
+
+If the earth is moving around the sun, then we should observe stellar parallax. In other words, the positions of distant stars should appear to move, in the same way that you'll see slightly different views of a car at the end of the block depending on which side of the street you are on. No such parallax had been observed, despite very careful observation. Thus, the earth does not move around the sun.
+
+2) The argument from Coriollis:
+
+If the earth is rotating, then the top of a tall building is necessarily moving faster than the base. Therefore a heavy object dropped from the top of the building should be deflected somewhat to the side, relative to an observer on the ground. No such deflection has been recorded, therefore the earth does not move.
+
+Again I want to be clear: this is based on the evidence available at the time of Galileo's trial. We have better evidence now, I'm not some weird flat earther or geocentrist.  My whole point (and the view I'm asking to have challenged) is that it was 100% rational not to be persuaded by Galileo, or to oppose Copernicanism at the time.  In fact, of course, we now know that Copernicanism was wrong - it's Kepler's model of the solar system that was basically accurate. But Copernicus was accidentally right, the earth does move.
+_____
+
+> *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
+
+Top Comments:
+I think it's important to say that as much as you want this to be a strictly fact and science based post and discussion, this was not the case for Galileo's trial. His thoughts and books were well known by the church nearly 20 years before his trial. In fact, he had direct correspondences with Pope Urban who actually opposed Galileo's condemnation by the church in 1616. It wasn't until Galileo's *Dialogue Concerning the Two Chief World Systems*, where Galileo tried to present both sides of the heliocentric/geocentric argument (at the request of Pope Urban), when he either intentionally or unintentionally insulted the pope by implying that he was an idiot (Simplicio) for being the proponent for heliocentrism. 
+
+His trial was as much about his perceived insult towards the church as it was about his evidence/beliefs. His beliefs were well known to the church; he'd been condemned for them and was officially ordered to not promote heliocentrism over geocentrism. Galileo was free to discuss the merits/evidence of either belief, *so long as he didn't promote heliocentrism over geocentrism*. And he was quite careful to do so. But given that he had directly talked to church officials about his beliefs years before his trial, and that he wasn't tried *until he (allegedly) insulted the church*. This tells me that his trial *was not about a fact based argument*, but was rather the result of Galileo playing with fire by questioning church views one too many times. 
+
+Restricting the arguments of Galileo to purely fact based evidence, something he lacked, is not a fair argument as the church was not concerned whether or not he had ample evidence. Even if he did have mathematical evidence that could undeniably prove his claim, he likely still would've been put on trial for insulting the pope (which was something he probably didn't even mean to do). 
+
+
+There was good evidence for many models. Just because the Copernican model had about as much evidence for it as Tycho Brahe model doesn't mean the evidence didn't support Galileo's view. It would be like saying someone was wrong for pushing one flavour of String Theory over another today. We just don't have enough evidence to choose one model over the other, but we do have evidence that suggests some of them might not be wrong.
+
+Now if you want to argue that Galileo didn't present their theories well, I'd agree with you. But no one did the math on how big and far away stars would have to be to not observe the parallax.
+
+More importantly, he stuck with epicycles to explain what we now know today as elliptical motions. By occam's razor solar centric sucks. If you want to keep your perfect circles, then the Copernican model is much more complex than the Tycho model for its predictive power. However, if anyone had the idea to apply non-circles to the evidence, then the Copernican model has and has had (since before even discovering the moons of Jupiter) the best evidence.
+The Church did not care about the scientific evidences, regardless if they supported the Church or not; the Church wasn't the professor who is testing your preparation during the exam, the Church was testing whether or not Galileo theories were compatible with Church's teaching (they were not). Whether Galileo was right or wrong (scientifically speaking) was not the point of his trial.
+I don’t think that you, I or any of the people here knows enough about the topic to give a definitive answer (might not be possible to give a definitive answer at all), but r/askhistorians might be able to help
+Let's hypothetically say it did look like Galileo was wrong at the time. Why would you put someone on trial for being wrong?
+
+And although I'm happy to be proven wrong, I highly doubt anyone had even thought of the Corriolis effect back then. Let alone use it as an argument against Galileo.
+
+The evidence may not have supported him, but did the alternate theories have any more evidence?  If not, then why should Galileo's claim be dismissed for having the same lack of evidence?
+
+What is the Church’s burden of proof in a heresy prosecution? Beyond a reasonable doubt? More likely than not? Better safe than sorry so let’s burn the guy no matter what? 

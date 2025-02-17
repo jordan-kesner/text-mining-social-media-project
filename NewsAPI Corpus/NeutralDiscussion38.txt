@@ -1,0 +1,25 @@
+Title: Software engineer exploits Unicode quirks to conceal information within emoji characters
+Source: TechSpot
+URL: https://www.techspot.com/news/106755-software-engineer-exploits-unicode-quirks-conceal-information-within.html
+
+In a nutshell: A recent blog post by software engineer Paul Butler has shed light on a novel technique for concealing data within Unicode characters, specifically emojis. The post explains the concept and its potential for misuse and provides a tool to experiment with this method.
+
+The concept revolves around Unicode's system of representing text as a sequence of codepoints, with each codepoint being a number assigned meaning by the Unicode Consortium. While most users are familiar with the one-to-one mapping between codepoints and visible characters in Latin-based scripts, the situation becomes more intricate with other writing systems where multiple codepoints may represent a single on-screen character.
+
+The key to this data-encoding method lies in Unicode's "variation selectors." These 256 special codepoints labeled VS-1 through VS-256 have no visible representation but can modify the presentation of the preceding character. Most Unicode characters don't have associated variations, but the Unicode standard mandates that these selectors be preserved during text transformations, even if their meaning is unknown to the processing software.
+
+Since writing the unicode message smuggling post a bunch of people have wondered if AI can decode it.
+
+
+
+It doesn't work 100% of the time, but Claude Sonnet is pretty consistent. Gemini 2.0 Flash had one impressively fast solve but I can't seem to reproduce it for a video. https://t.co/56oMAl3VDh pic.twitter.com/7aK2IHiQKr – Paul Butler (@paulgb) February 13, 2025
+
+This preservation characteristic opens the door to a clever encoding scheme. Since 256 variations can represent a single byte of data, it becomes possible to "hide" one byte within any Unicode codepoint. Taking this concept further, by concatenating multiple variation selectors, one can represent any arbitrary byte string, effectively encoding unlimited data within a single character.
+
+While this discovery presents fascinating possibilities, it raises serious concerns about misuse. Hackers could exploit this method to bypass human content filters. Since the encoded data becomes invisible once rendered, moderators wouldn't detect its presence, allowing malicious actors to slip harmful or prohibited content past moderation systems.
+
+The technique also has the potential to watermark information. Encoding data in variation selectors allows the originator to mark identical messages for different recipients. If leaked, the sender could trace the text back to a specific recipient, raising serious privacy and whistleblower protection concerns.
+
+Butler also explored the impact of this encoding method on language models (LLMs). Initial findings suggest that while tokenizers generally preserve variation selectors as tokens, most models seem reluctant to decode them internally. However, when paired with a code interpreter, some advanced models have demonstrated the capability to solve these hidden data puzzles.
+
+Butler also created an encoder/decoder that allows users to hide arbitrary data within Unicode characters, particularly emojis. Users can input text, which the tool encodes into any Unicode character, including emojis. The resulting character appears normal to the eye but contains hidden data that anyone can extract with Butler's tool. He posted the encoder online if you'd like to experiment with it.

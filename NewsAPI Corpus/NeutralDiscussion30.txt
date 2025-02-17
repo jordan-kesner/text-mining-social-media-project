@@ -1,0 +1,69 @@
+Title: In America’s news deserts, Meta’s retreat from fact-checking severs a last link to fact-based news
+Source: Poynter
+URL: https://www.poynter.org/fact-checking/2025/effect-facebook-fact-checking-partnership-news-deserts/
+
+This article was originally published by Northwestern University’s Medill Local News Initiative and is republished here with permission.
+
+Meta CEO Mark Zuckerberg’s announcement that Facebook is eliminating fact-checking may amount to a double whammy for people living in this country’s ever-expanding news deserts.
+
+Having lost their primary local news sources, these communities often turn to social media and other alternatives to try to stay informed. Now one of those key sources is removing safeguards against the spread of misinformation.
+
+“It’s absolutely correct that it’s in areas that are underserved by professional journalism that this move will have the harshest impact,” said Lucas Graves, author of the 2016 book “Deciding What’s True: The Rise of Political Fact-Checking in American Journalism.” “We know there are places where people are forced to rely on platforms like Facebook for news, and the only other outlets available are ‘pink slime’ or really partisan, almost fake newspapers or local commercial papers that are mainly vehicles for advertising and don’t do much serious coverage. So, yeah, I think it’s absolutely something to be concerned about.”
+
+Angie Drobnic Holan, director of the International Fact-Checking Network at Poynter, agreed that Meta’s dropping of fact-checking could have a disproportionate impact on communities already bereft of reliable news reporting. “I think anywhere where there’s a lack of access to news and to high-quality education, including media literacy, there are going to be problems,” she said.
+
+In chronicling the spread of news deserts, the Medill Local News Initiative’s 2024 State of Local News Report identified 206 U.S. counties, populated by more than 3.5 million people, that lack local news outlets consistently producing original content.
+
+Graves, a professor in the University of Wisconsin-Madison’s School of Journalism and Mass Communication, noted that Meta’s elimination of fact-checking will come in conjunction with another key change: an increase in political content on its platforms, as Zuckerberg announced in a video posted on Jan. 7.
+
+“For a while the community asked to see less politics because it was making people stressed,” Zuckerberg said. “So we stopped recommending these posts. But it feels like we’re in a new era now, and we’re starting to get feedback that people want to see this content again.”
+
+To Graves, this move likely will compound the problem. “After deciding several years ago that they would downplay news content in favor of updates from friends and family, it appears that they’ll be pivoting back toward attuning their algorithms to news and politics but without the benefit of fact-checking,” Graves said. “So I think people will be exposed to a lot of misleading headlines.”
+
+In another move, Meta is loosening standards on subjects that might have veered into hate speech. “We’re getting rid of a number of restrictions on topics like immigration, gender identity and gender that are the subject of frequent political discourse and debate,” says the Meta statement posted with Zuckerberg’s video.
+
+“They’re making a number of changes to how they moderate content, and the fact-checking program is just one of those changes,” Holan said. “The other changes may have more dramatic results. We’ll just have to wait and see.”
+
+Reversing course
+
+Meta’s cancellation of fact-checking — to be replaced by “community notes” a la Elon Musk’s X — reverses policies the company instituted in December 2016 in the face of criticism that Facebook had been a misinformation vehicle in the run-up to the 2016 presidential election. The company launched its fact-checking program “to identify and address viral misinformation, particularly clear hoaxes that have no basis in fact,” an October 2023 Facebook statement explains. “Fact-checking partners prioritize provably false claims that are timely, trending and consequential.”
+
+Meta’s fact-checking partners — which totaled nearly 100 working in 60 languages, according to the 2023 statement — could flag problematic content, but only the platforms themselves (Facebook, Instagram, Threads) retained the power to remove it. “When a politician shares a specific piece of content — for example, a link to an article, video or photo created by someone else that has been previously debunked on Facebook and Instagram — we will demote that content, display a warning and reject its inclusion in ads,” the 2023 explainer notes.
+
+Yet in the Jan. 7 video, Zuckerberg blamed the fact-checkers for prompting his company’s about-face.
+
+“After Trump first got elected in 2016, the legacy media wrote nonstop about how misinformation was a threat to democracy,” he said. “We tried in good faith to address those concerns without becoming the arbiters of truth. But the fact-checkers have just been too politically biased and have destroyed more trust than they’ve created, especially in the U.S.”
+
+Zuckerberg also announced that Meta was moving its safety, trust, content review systems from California to Texas to “help us build trust to do this work in places where there is less concern about the bias of our teams.”
+
+As the accompanying Meta statement put it: “A program intended to inform too often became a tool to censor.”
+
+“It’s pretty rich to accuse the fact-checkers of being censors,” Graves said, noting that Zuckerberg had adopted then-incoming President Donald Trump’s rhetoric in reversing course. “There’s really no question whatsoever that this move is in response to the coming of the Trump administration, which has been very clear about its opposition to content moderation and to fact-checking.”
+
+Holan said it’s “hard to say” what impact the removal of fact-checkers will have specifically on local news. She considered Facebook’s fact-checking program to be “effective,” if not “a perfect solution. It was more of steady incremental improvement in promoting information integrity on Facebook and its associated platforms. It put a speed bump in the way of the worst of the worst misinformation purveyors.”
+
+While public Facebook groups were subject to fact-checking, private ones generally were not — and much of the fact-checking applied to national politics. “There’s not nearly as much fact-checking of local issues, though there is some, and what’s been done is promising,” Holan said.
+
+She cited the work of Wisconsin Watch, which bills itself as “a nonpartisan, nonprofit investigative news outlet” as it offers explainers and debunks misinformation throughout the state. In a Wisconsin Watch column posted Jan. 15, Tom Kertscher called on the public to help fill the vacuum being left by Facebook’s fact-checkers.
+
+“(T)he loss of Meta’s program underscores the importance of citizen involvement in fact-checking — whether it’s checking claims made on social media or anywhere at all,” Kertscher wrote.
+
+In a subsequent interview, Kertscher said his hope is that Zuckerberg’s move “raises awareness that there’s less fact-checking going on, makes people aware that, hey, they can participate. This type of fact-checking is going away, but there’s still others of us out there, and we’re going to need more eyes and ears than before.”
+
+Wisconsin Watch was not one of Facebook’s fact-checking partners, though PolitFact, where Kertscher previously worked, was.
+
+“When the program first emerged, I was trying to discern whether Facebook was genuinely trying to clean up its site, or was it more public relations?” Kertscher said. “You had to give them credit for doing it in a serious way, but I always wondered how long that would stick around.”
+
+After all, he noted, monitoring the site’s content is not Facebook’s central mission. “To me it’s not really their thing,” Kertscher said. “They’re social media. They want to be as open as possible and include as many people as possible and have as many posts as possible.”
+
+Graves views Zuckerberg’s move as “the latest chapter in a long-running war on independent media, that begins with (President Richard) Nixon and (his vice president) Spiro Agnew. That’s now a more-than-50-year project, and that’s the very same strategy that’s being used to delegitimize fact-checking. And it’s proven successful.”
+
+Holan characterized Meta’s actions as “a real-world experiment in what happens when you dismantle a fact-checking program and revise your trust and safety programs all in one go. And Meta has a longstanding issue of not releasing data that journalists and academic researchers can use to analyze misinformation campaigns and trends in misinformation.”
+
+But she expressed hope that the truth will find other ways to come out.
+
+“The fact-checking journalists were doing this before Facebook, and while this is a blow and it will mean less fact-checking, fact checking is not going away by any means,” Holan said. “And maybe Meta will roll out all these changes, and maybe they’ll change their mind when they see what kind of results they get. I’m not holding my breath, but I am hopeful.”
+
+What Kerscher knows is that the job of fighting false claims will now be harder for people who already had their hands full.
+
+“There’s moments where you feel like we’re just a finger in the dyke,” Kertscher said. “There’s just so much misinformation and so few of us. You step back and go, ‘This is really daunting,’ and you have to buck yourself up. You can only do what you can do, but I want to be part of putting out factual information and correcting what is false.”

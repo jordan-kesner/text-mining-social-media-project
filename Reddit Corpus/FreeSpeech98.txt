@@ -1,0 +1,59 @@
+Title: When people label big tech censorship as capitalism..
+
+Post:
+Is it really though? I feel like there is some context missing. We don't have free markets and there are a lot of regulations in US markets. I'll admit that I'm not familiar with internet regulations, but I would not be surprised if they were more catered to help companies like we have now than the little guys. If we had free markets then I think this labeling of capitalism would be true, since they are "private companies" and can choose who uses their services. Are they truly private companies though? Surely when you think of that term, your last thought is Facebook and Twitter. The question that keeps popping up in my mind is not so much concerned with regulating big tech, but why is it SO hard for other social media apps to compete? So many people complain about these apps and want an alternative. So it seems like there IS demand in the market for other apps, but the alternative apps keeping getting squashed by collusion between other tech giants whom also have a larger pool of capital and investor interest. So is that really capitalism? Or to put it another way, if we were under a truly capitalist libertarian administration, would things be different?
+
+Top Comments:
+The thing about social media companies is that they are network effect products, i.e. the more people use them, the more valuable they become. Twitter isn't very valuable to anyone with a total userbase of 300 people, but it's extremely valuable with a userbase of 300 million+. It's extremely hard for new companies to reach these kinds of userbases quickly. So the largest social media corps will have fundamental network advantages over newcomers that make it more difficult for new market entrants to compete - people don't want to use a platform that only reaches hundreds of people when they could use one that reaches millions, especially when everyone they know already uses the latter.
+
+However, it's clearly not IMPOSSIBLE to compete. There used to be many successful social media companies that duked it out over the previous decade (MySpace, anyone?) until the best product, decided by the free market, won their market share. There are even several "alternative" social media sites that sometimes cater to extreme free speech views - 4chan, 8chan, Bitchute, MeWe, Minds, and of course Gab and Parler. There are also dozens of conservative message boards out there - freerepublic.com, for one. These are also just the clearnet sites - we aren't even discussing the various darknet social communities like Dread.
+
+The barriers to entry to start an online social media site are actually pretty low. Traditional server-client model social media sites are not "high tech" anymore. The difficulty is building a platform that's good enough to steal significant userbase away from the top dogs. Perhaps taking a free speech angle will be sufficient, though I doubt it - the problem with extreme free speech platforms is that they tend to attract the actual worst people in the room, the completely serious neonazis and KKK types, which completely turns off the normal people the companies need to survive, even if the normal types agree with the company's mission. Look at 4chan - the ultimate anonymous free speech forum, which is completely unpopular among regular people because they don't want to look at snuff films, neonazi propaganda, and hardcore porn in between their political debates.
+
+TL;DR: It's hard to build a successfully competitive social media site, but it's not hard to try. If it's not hard to try (i.e. barriers to entry are low) there is no solid case for government intervention, in my opinion.
+Defacto monopoly. Fixed it! Lol
+
+But in all seriousness, I think they are private companies and you sign a TOS when starting an account. Furthermore the first amendment side of thing, which IMO does NOT apply to private companies, does not protect hate speech or direct threats of violence. Not even HIPPA protects those things or attorney client privilege. 
+
+So if one were to say that the social media platforms are no technically private thus subject to precedents by the first amendment, then the censorship is still valid. 
+
+Now the part the remainder people are worried about is whether it will grow. But saying that private companies refusing service is growth, I disagree.
+The alternatives is telling the business they don’t have a right to free association. A business is free to have an app if they want, and another business should be allowed to host it on their server, or not, at their own discretion.
+
+We can argue about a pseudo-monopoly all day, but that’s a separate issue. This is an issue of free association. Political ideology is generally not protected when it comes to anti-discrimination, so it’s different from association based on race/gender/religion etc.
+
+The only argument here is whether to break up the tech companies. That’s a discussion I’d be open to having, but there is no argument (in my opinion) that is even relevant when trying to argue discrimination, and it’s absolutely not a free speech issue.
+
+Edit just to add: there have been many competitors that have been successful. They almost all decided to sell off to the larger companies. That’s really what’s fueling the monopolies, imo, but it is of course their right to sell. Government has intervened in the past, so they’d have to decide if the big companies hold enough of the market share or tech infrastructure to consider whether they need to be considered a monopoly. It’s no secret that these huge companies have many ways to control competition in their markets. The question is, when is it too much?
+If you don't like it, you can build your own data center and sign your own internet peering agreements with the intention of allowing whatever content you want.
+
+The only barrier is capital. If you don't have the capital to enter the market, that's a *you* problem. There isn't anything inherently anti-competitive that prevents you from entering this market.
+
+If every single peering company refused to do business with you, then *maybe* you have an argument, but that's very unlikely to be the case and even it was, you still have options within the free market.
+
+So yes, it's capitalism.
+> I'll admit that I'm not familiar with internet regulations, but I would not be surprised if
+
+To sum it up: You admit you don't know what you're talking about, but still feel the need to talk.
+The current state of social media is one of the reasons I don't believe in capitalism. As a developer, I can guarantee you that there are gazillion alternatives. The problem is that the consumer isn't the homo oeconomicus classical theory would expect them to be. The consumer is neither informed enough to make a decision not willing to change that fact. Media monopolies will therefore get worse.
+
+
+For any kind of regulation, the question of responsibility/actor becomes relevant. As a newspaper, the responsibility of what is printed falls on the publisher/owner. With user generated content like on Twitter, this is a bit different. However, what currently fuels the debate is that as soon as any form of censorship occurs, one could claim that the content is curated and therefore within the legal responsibility of what would then be a publisher.
+The people here don’t want free markets, they want the companies that currently control the market not to be slowed on their path to world domination.
+Big tech having the power to censor citizens and kill smaller competition is a prime example of capitalism. I hate to break it to you.
+That's a good argument. That's a valid point about it attracting the extremist types and scaring off the target audience. I think it would be reasonable to have a platform that has mostly free speech but also does not allow actual threats of violence or pornography. Maybe the real issue is that our version of the truth just doesn't sell well. When I say that though I'm speaking for those of us who do have an issue with the censorship on Twitter and the selective enforcement of their guidelines. But apparently a lot of people do not have a problem with it and in fact I see users celebrating the censorship on Twitter. So as long as the majority is OK with it, Twitter doesn't really have an incentive to change. Maybe it's just one of those hard pills to swallow that, from my perspective, the censorship sells better than free speech and therefore censorship wins.
+>  The question is, when is it too much?
+
+When it starts costing the consumer money. When facebook becomes dominant enough that users need to pay a monthly subscriber fee.
+
+All the tech companies are fighting each other . There's not one dominant company. OneDrive and google drive are the same price, but i get microsoft office free with onedrive.
+
+Facebook is trying to compete with Amazons Twitch right with their own gaming streaming platform. 
+
+Holding marketshare shouldn't be the issue, but whether or not the consumer is adversely affected by it. (e.g seeing rising costs due to lack of competition) 
+
+People are still innovating and creating stuff. Look at discord. Innovation has not been stifled. 
+
+[China is planning on nationalizing Alibaba and breaking up Tencent](https://www.oodaloop.com/briefs/2021/01/08/china-ccp-to-nationalize-jack-mas-alibaba-and-ant-group/)
+
+ I really don't want to see that kind of thing happening in America.

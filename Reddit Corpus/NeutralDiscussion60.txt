@@ -1,0 +1,29 @@
+Title: I investigated millions of tweets from the Kremlin’s ‘troll factory’ and discovered classic propaganda techniques reimagined for the social media age
+
+Post:
+
+
+Top Comments:
+Gentlemen, we interfered, we interfere, and we will interfere … Carefully, precisely, surgically, and in our own way, as we know how. During our pinpoint operations, we will remove both kidneys and the liver at once.
+
+These are the words of the architect of Russian online disinformation, Yevgeny Prigozhin, speaking in November 2022, just before the US midterm elections. Prigozhin founded the notorious Russian “troll factory”, the Internet Research Agency (the agency) in 2013.
+
+Since then, agency trolls have flooded social media platforms with conspiracy theories and anti-western messages challenging the foundations of democratic governance.
+
+I have been investigating agency tweets in English and Russian since 2021, specifically examining how they twist language to bend reality and serve the Kremlin. My research has examined around 3 million tweets, taking in three specific case studies: the 2016 US presidential election, COVID-19, and the annexation of Crimea. It seemed that wherever there was fire, the trolls fanned the flames.
+
+Though their direct impact on electoral outcomes so far remains limited, state-backed propaganda operations like the agency can shape the meaning of online discussions and influence public perceptions. But as another US election looms, big tech companies like X (formerly Twitter) are still struggling to deal with the trolls that are spreading disinformation on an industrial scale.
+Such an important story people need to take seriously. We can’t wait for sites to police themselves because they have no incentive to weed out fake accounts or nefarious users. They are driven by user data and ad revenue, we need regulation.
+
+Thanks for the award and upvotes
+Wasn't there a dashboard that was tracking some well-known sockpuppet accounts and could essentially deliver real time info as to what the messaging of the Russian propaganda outlets were pushing at that moment or for the last number of hours? Was so interesting to see them react to current news.
+This wasn't obvious without giving kremlin bots engagement? Their entire tactic of inundating all discourse with endless lies, poisoning the well, spreading existential dread, promoting alcoholism, all to cause the population to become completely jaded, detached, resigned and apathetic is a century old at this point. 
+
+Purge lists a la Lavrenti Beria, total censorship of all news and media à la Goskomizdat, storing kompromat and mining private communications in the Semantic Archive, sending unequipped and untrained soldiers to die à la order 227, working dissenters to death in gulags, encouraging snitching, state terrorism à la Red Terror, targeting vital infrastructure to eradicate Ukrainians à la the Holodomor... 
+
+Putin has no original cell in his scared little brain. All these tactics are copied and pasted from Stalin.
+Anyone who admins a network-level firewall - just drop (not even deny, full on drop) all traffic coming from Russian IP ranges. Nothing of value will be lost. We used to get our daily security logs filled to the brim with stupid, useless brute force attempts on "asmith bsmith csmith" usernames etc.
+
+We drop all traffic from Russia and Belarus now. Our logspam went down about 90%.
+
+Fuck Russia.

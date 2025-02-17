@@ -1,0 +1,42 @@
+Title: 'Right to be forgotten' could threaten global free speech, say NGOs - The “right to be forgotten” online is in danger of being transformed into a tool of global censorship through a test case at the European court of justice (ECJ) this week, free speech organisations are warning.
+
+Post:
+
+
+Top Comments:
+Don't be fooled into supporting more regulation. Get off Twitter and venture into small forums. Stay anonymous lol. You want better ISPs that will provide internet? Keep harping on how bad the government is handling their monopolies and showcase the benefit of ISP competition. It's clear as day their regulation doesn't work, don't support regulations just because they "protect you". Supporting deregulatory measures > supporting further economic restrictions for your group. Everyone wins when we deregulate, no one wins when we regulate winners.
+-EU's restricting to free speech inside it is bad enough.
+
+-Expanding it globally would be far worse.
+
+-Even worse is that would indicate that it's OK for countries to demand their censorship laws to be followed everywhere. China would probably be happy to demand search engines censor Tienanmen square everywhere, etc.
+Jeff Jarvis nails it with this article.
+
+https://www.huffingtonpost.com/jeff-jarvis/the-right-to-remember-dam_b_5420765.html
+
+> The court has undertaken to control knowledge — to erase what is already known — which in concept is offensive to an open and modern society and in history is a device used by tyrannies; one would have hoped that European jurists of all people would have recognized the danger of that precedent.
+The requirements for this as an engineer are *crazy*.
+
+Like, deleting you from DBs is no big deal.  But there's a requirement to purge you from old *logs*, including an attempt to purge request logs that don't even contain any information about you but correspond to requests made by you.
+
+It's actually nuts and borders on impossible for any non-trivially complicated web app.
+There is no such thing as a "Right to be forgotten."  There is no natural way to enforce such a right.  In fact, just the opposite is true.  I have a right to remember, and even augment that memory if I so choose.  You can't naturally force me to forget something.
+
+You do have a natural right to pursue anonymity.  That said, I also have a right to try to identify (de-anonymize) you.
+> Just stay anonymous
+
+She typed, from the cell phone that's tagged to her name, address, around credit card number and GPS-tracking her every movement.
+this is not unlike other EU rules tbh, there is a reason why many of our companies leave for US/UK.
+> There is no natural way to enforce such a right. In fact, just the opposite is true. I have a right to remember,
+
+The issue's not so simple though.
+
+Until the late 20th century, your brain's memory was the only memory there was... and no one complained about it. No one cared if you personally remembered that they did something embarrassing, for instance.
+
+Sure, there was print, but the capacity for print was limited such that only celebrities, politicians, and notorious criminals (I repeat myself) might find their gaffes recorded for all eternity.
+
+Now it's digital, and now the capacity has expanded to such a degree that even if I knew what it was I'd have to write the number in scientific notation.
+
+Now everyone's humiliation can last forever. There's no limiting factor.
+
+The EU and their absurd "right to be forgotten" thing is the wrong solution, but don't pretend that there's not a problem here now that didn't exist before.

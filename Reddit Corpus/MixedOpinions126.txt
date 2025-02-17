@@ -1,0 +1,99 @@
+Title: So You Want to Fix Gun Control, Part 1: The Second Amendment
+
+Post:
+So you want to fix gun control. An admirable goal, and one that most would agree must be done. But before we jump straight into proposing new legislation, we as a community/nation should take a step back and educate ourselves on the Second Amendment, the current national/state laws, the different goals of gun control, and what options we can pursue. 
+
+Before we begin, I should first stress that I am by no means an expert. I want this to be an open dialog. If I got something incorrect, feel free to correct me. My goal is for this to be educational to everyone in the community, including myself. So with that said, let's start from the top: the Second Amendment.
+
+The Second Amendment reads, "A well regulated Militia, being necessary to the security of a free State, the right of the people to keep and bear Arms, shall not be infringed." Let's break it down further:
+
+###**"A well regulated Militia, being necessary to the security of a free State..."** 
+
+This phrase is considered the prefatory (introductory) clause. Everything that follows is considered to be the operative (essential, critical) clause. DISTRICT OF COLUMBIA v. HELLER addresses the significance (or lack thereof) of the prefatory clause within the first page of the ruling. That is, the "prefatory clause announces a purpose, but does not limit or expand the scope of the second part, the operative clause. The operative clause’s text and history demonstrate that it connotes an individual right to keep and bear arms." The takeaway: according to the Supreme Court, the Second Amendment guarantees individuals a right, regardless of whether or not they are part of a militia (http://www.supremecourt.gov/opinions/07pdf/07-290.pdf)
+
+###**"...the right of the people..."** 
+
+Several interesting discussions arise from the next phrase, and all of them have to do with the many different definitions of a right. These won't play that major of a role in the greater conversation, but they are essential to understanding precisely what a "right" is.
+
+The first discussion is around the difference between natural rights and legal rights. Natural rights are universal, inalienable, and unrestrained. Legal rights are bestowed onto a person by a given legal system, which implies that these rights can be modified, repealed, and restrained. Within the topic of rights in the US, the Declaration of Independence firmly states that many rights in question are "endowed by their creator", claiming that they are indeed "unalienable rights". The Bill of Rights is not the source of your rights; it is there to protect your natural rights from the Government. Still, there is much debate around this topic, and finding a clear Supreme Court ruling around this is difficult. (https://en.wikipedia.org/wiki/Natural_and_legal_rights)
+
+The second discussion is around the difference between negative rights and positive rights. Negative rights oblige inaction by outside parties, while positive rights oblige action by outside parties. As an example, if one's right to life is a negative right, then others are merely prevented from killing. If one's right to life is positive, then others are obligated to act in a manner which preserves that life. Once again, this becomes a complex issue that in part requires the discussion of rights vs. duties. A positive right can be considered a duty, as action is required. The takeaway for our purpose: the Second Amendment would be considered a negative right, as no one is obligated to any sort of duty to preserve that right. (https://en.wikipedia.org/wiki/Negative_and_positive_rights)
+
+The final discussion is around the difference between an individual right and a collective right. Individual rights are held by individual people, whereas collective rights are held by a group. This becomes an important topic when discussing the prefatory clauses of the Second Amendment. As already discussed, DISTRICT OF COLUMBIA v. HELLER addresses this: "The operative clause’s text and history demonstrate that it connotes an individual right to keep and bear arms." For further reading, several researchers have conducted an analysis of the history and context of gun rights as it relates to this topic. Researchers examined two databases: the Corpus of Founding Era American English (COFEA), and the Corpus of Early Modern English (COEME). Based on this analysis, the researchers concluded that context and history supports both a collective AND an individual right to bear arms. (https://www.theatlantic.com/ideas/archive/2020/02/big-data-second-amendment/607186/)
+
+###**"...to keep and bear Arms..."** 
+
+We get to the fundamental phrase of the Second Amendment here, as it defines the right in question. From case law, we can break this down into three distinct rights: the right to purchase/sell, the right to own, and the right to use.
+
+The right to purchase or sell is never explicitly stated within the Second Amendment, and the courts are divided on whether those rights are equally protected. Recent cases such as JOHN TEIXEIRA V. COUNTY OF ALAMEDA explore this topic in detail. Specifically, do zoning laws that make it effectively impossible to own and operate a gun store within the county violate the Second Amendment? The takeaway here: we may have to wait for the Supreme Court to rule on this. (https://www.scotusblog.com/case-files/cases/teixeira-v-alameda-county-california/)
+
+The right to keep Arms is addressed once again in DISTRICT OF COLUMBIA v. HELLER, which claims that "the most natural reading of 'keep Arms' in the Second Amendment is to 'have weapons'". The takeaway: people can own guns. (http://www.supremecourt.gov/opinions/07pdf/07-290.pdf)
+
+As for the right to bear Arms, DISTRICT OF COLUMBIA v. HELLER clarifies once again that "at the time of the founding, as now, to 'bear' meant to 'carry'. In numerous instances, 'bear arms' was unambiguously used to refer to the carrying of weapons outside of an organized militia." Once again, we see the assurance by SCOTUS that an organized militia plays no major role in exercising one's Second Amendment rights. The takeaway here: the people have a right to carry the Arms they own (albeit with many caveats). (http://www.supremecourt.gov/opinions/07pdf/07-290.pdf)
+
+###**"...shall not be infringed."** 
+
+The final phrase, and it's one at the heart of "gun control", as this specifically determines whether or not limitations can be placed on the rights previously described. Once again, we can go to DISTRICT OF COLUMBIA v. HELLER for clarification: "Like most rights, the Second Amendment right is not unlimited. It is not a right to keep and carry any weapon whatsoever in any manner whatsoever and for whatever purpose... We think that limitation is fairly supported by the historical tradition of prohibiting the carrying of 'dangerous and unusual weapons'." This is in line with other Constitutionally-protected rights, where limitations most definitely exist. Free speech, for example, has numerous limitations: "false statements of fact", child porn, "fighting words", trademarks, etc. That said, 
+
+The Supreme Court has ruled that there is a limit to these limitations. i.e. excessive limitation can be deemed unconstitutional. Specifically, limitations on constitutionally-protected rights generally must pass "strict scrutiny", where there must be a "compelling government interest" to justify any limitation. In keeping with the trend, I'll turn once again to DISTRICT OF COLUMBIA v. HELLER, where two examples of unconstitutional limitations are at the heart of the ruling. In the first case, the Supreme Court ruled that a total ban on the ownership of handguns is unconstitutional because it "amounts to a prohibition on an entire class of 'arms' that Americans overwhelmingly choose for the lawful purpose of self-defense." In the second case, the Supreme Court ruled that requiring trigger locks on all firearms when not in use is similarly unconstitutional because it "makes it impossible for citizens to use arms for the core lawful purpose of self-defense." (https://en.wikipedia.org/wiki/United_States_free_speech_exceptions)
+
+So there we have it. The Second Amendment as interpreted by the Supreme Court and the basis for most gun control debates. I highly suggest anyone interested in gun control to read the full text of DISTRICT OF COLUMBIA v. HELLER, as it is a great example for both sides of the issue. In closing, it's worth reminding everyone that the Second Amendment can be changed. It's by no means easy, but if the nation decided tomorrow that the right to keep and bear arms should no longer be constitutionally protected, the Second Amendment could be modified or repealed. Unless that occurs though, any proposed gun legislation must be legally consistent with the Second Amendment and the interpretation of it under the Supreme Court.
+
+Until next time.
+
+Top Comments:
+I think the a 2A type law is more important now than ever in a society and I want to give a few reasons why. None of these reasons have to deal protecting yourself or what have you. 
+
+1. In a world that is fast becoming more interconnected and online we have issues (nothing new, but worse) with the truth. We had a recent election where foreign propaganda was used (to what extent) to try and sway the election. When searching online we have to be very careful of what is true these days. It is very easy to find “fake news” or basically trash articles. Bots are another problem with this and to the average person (not savvy redditors) they may even pass a Turing test. The reason that “arms” should be allowed because of all this is, while our current nation (no matter what the news says) is running ok, we could end up in a situation in the future where we can be lied to soooo much that the difference of “free” and “slave” is blurred. We may not have shackles, but would our choices be our own? Or would they be manufactured? The ability to own “arms” (not the necessity) may be the only canary in the mine to demonstrate whether you are “free”. 
+
+2. Building on that, since ancient times only free persons have been allowed weapons. Slaves and peasants could not own them. If one wants a sure fire physical manifestation of if they are free, or if they are not, then the right to own “arms” is the easiest. I’m not saying that everyone has to own one or 40. What I am saying is that it is a sort of token that can easily demonstrate freedom. 
+
+3. This is the big one and possibly the one you should focus on. Currently the “left, liberals, democrats, Karens” care about these “assault weapons”. They are scary. Just like D&D and satanists in the 80s. Side note, go watch that Tom Hanks movie about D&D, it is hilarious in its portrayal about the hysteria. The thing about these scary weapons is, they have been available to buy for 60 years at least. There are ar15s that should be coming up on the curio and relic list, lol. While these things are old and people focus on them, they do not focus on the real terrifying crap that people could make with a trip to Home Depot. I’m not going to list stuff here, but there are so many things that a person with a basic knowledge of chemistry or biology could do if the biggest expenditure was time. Technology is always going to become easier. Like they have in pharmaceuticals, the first person that makes the drug spends a billion, the next 5 cents. We need to stop looking at the “means” of a crime or action and really start working on the “motives” of an action, because if we continue to live life 50 years ago, then we are not going to fix problems that come out with todays technology.
+I haven’t an agenda on gun control. 
+
+Yet, this is a wonderful example of why lawyering is despised. 
+
+This showcases how one can take plain language on any topic and by parsing its segments without relation to the whole, twist the meaning to suit any conclusion. 
+
+The same words in the amendment could just as readily, through a different lens, been used to exercise greater control on the right to bear arms. 
+
+I don’t say what we have evolved to is wrong - just that it required some lawyering to get here, and I don’t think lawyering and simple truth go hand in hand.
+Good breakdown of the issue. I’m curious to see what your part 2 will be about. While I think I think your analysis is correct, it really depends on if the courts enforce it. The lower courts seem to be ignoring Heller recently and the Supreme Court doesn’t seem to want to take up any 2nd amendment cases recently. Which makes the whole thing seem kinda moot to me. What’s the point of having the bill of rights if the courts just ignore it.
+I have never been interested in guns, but I live in Philadelphia, and after the riots I was fairly motivated to buy a rifle. I haven't yet, but I might. 
+
+You are engaging in "legalese" nonsense in your post. 
+
+I say that because I'm a public servant and have been one for 31 years. I work in psychology in Philly and it is filled with high level sociopaths. My main career focus has been with criminals and in ghetto areas of the city. We literally have tens of thousands of sociopaths in this city who are very violent people with no regard for life, children, etc. 
+
+During the riots, there were rumors that it was going to extend to burning residential areas. Meanwhile, a half mile up the street there's a bunch of car dealerships which the sociopaths broke into and were literally racing and destroying cars randomly while setting off explosives. 
+
+I live in a Russian area and a group of men formed a "militia" and began patronizing the streets. A group of orthodox jewish guys I know have guns and formed their own to protect jewish stores. 
+
+I did not have a gun but do have other weapons and thought since I know the population of criminals well, what was the most demoralizing and grotesque thing I could do to scare them away if they came to my apartment building. After that, I thought of buying a gun to create less work if I had to kill people. 
+
+There were no police involved in anything going on near me or almost anywhere in the city. It was too much going on at once and the police were frankly afraid, due the PC labels being placed on them. So, they were letting looting happen and allowing cars to literally be totalled on the street near the dealerships. Explosions were going off all over the city as well. 
+
+This is why gun ownership cannot be regulated.  
+
+The US has the ILLUSION of being organized, but it is not. We have so much crime and murder in a city like this because the government has no control or authority over the people, at all. If you get enough sociopaths in one place, the government bows out. So, all the protests about police brutality are in fact a misdirection. There is next to no police influence in the places these people live and no fear in them about police. 
+
+I suspect that the Floyd police trial will end with the case being dismissed. The people in question, since they have low education and no real interest in the US, will not understand this and the riots round two will occur with more gusto than the first. If that's the case, we will need armed militias of people with guns to frighten sociopaths to go elsewhere. Such people only harm people they can because they are cowards. 
+
+A long time ago the militia were called "minute men" because they were fast to be ready and defend people. That same need may arise sooner than you think and getting caught up in phrasing from 1776 will not mean anything.
+I believe my natural rights to defend myself supersede the constitution, but [here's](https://www.youtube.com/watch?v=Hx23c84obwQ) a Penn & Teller video I always like to share on the wording of the 2nd amendment.
+> A well regulated Militia, being necessary to the security of a free State...
+
+This is the height of 18th/19th century thinking on the matter of how a democracy should defend itself.  I don't think it has much relevance to the 21st. All modern democracies have decided that having a standing army and professional police services are the appropriate way to empower a government. The idea that citizens should be moonlighting as militiamen doesn't make any sense.  America won't ever even use its ability to draft people, let alone rely on private organized militias.
+To preface, I want to say in general I’m anti gun. 
+
+That being said, I think it’s dumb to attempt to ban guns at this point because there are SO MANY available in the country anyways. So even if you make them completely illegal, people will still seek them out and get them. See prohibition and abortion bans. 
+
+If the left really wants to make progress on guns, we need to take a multi sided approach to the issue. 
+
+We need pretty aggressive improvements to economic, educational, healthcare, and social aspects of our society. The “basement” of our society needs to be significantly raised. 
+
+At the same time we need to work on disarming police to make them look less militarized as crime drops. We need fewer police handling non violent situations and more social workers if we can. Basically we need to work on removing the fear of needing guns to fight “the man”, and cops need to feel safer when interacting with general society. 
+
+After all that, MAYBE we can actually approach gun bans in a real way, because society will hopefully find less need for them outside of hunting. Any gun bans would need to be paired with gun manufacturing bans, import bans, and really really aggressive buy back programs with no consequences if the gun is legal or illegal, buy everything and anything. Police would need to be disarmed in their day to day duties as well. 
+
+Basically the left needs to understand, there’s A LOT of heavy lifting that needs to be done in order to “ban guns” in any sort of logical and safe way. Tragedy isn’t enough for this country to want to rid ourselves of guns, Sandy Hook proved that. People need to feel safe and happy before they’ll give up guns.

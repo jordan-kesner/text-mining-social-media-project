@@ -1,0 +1,84 @@
+Title: CMV: Consensus is not a reliable measure, yet is the backbone of democracy. Free speech is the only counter to this shortcoming.
+
+Post:
+The late, great Christopher Hitchens once said "Don't take refuge in the false security of consensus." 
+
+Consensus in anything, science, politics, morality, etc, does not necessarily confirm the veracity or validity of the consensus conclusion. Just because the majority of a population agrees on a particular conclusion does not mean that conclusion is true or beyond question. 
+
+Simply relying on consensus to argue one's position, make claims about the world, or create the ideal society is not sufficient reasoning for doing any of those things. People, especially people in a group, can be wrong or misguided. This results in so-called "following the herd." 
+
+Democracy is rule of the majority. Thus, whatever the majority consensus is, that is the law of the land. Democracy without free speech can never overcome this problem. Ergo, free speech is the only counter to this shortcoming in democracy. All points of view, especially those contrary to the consensus of society, need to be protected regardless of content in order to balance out the inherent failures of democracy. Without the shared value of free speech, democracy will surely devolve into mob rule. 
+
+If the consensus of society is that the right to free speech is absolute, then so too should the anti-free speech voices be able to be heard. If the consensus is that fascism is the bane of humanity, then the fascist voices ought to be given a platform the same as other voices.
+
+To paraphrase Hitchens once more in closing, the right to free speech of the speaker also comes with the right to listen of the listeners. If someone is silenced, then I am deprived of the right to hear. CMV.
+
+Top Comments:
+So first of all, you are correct in that a consensus doesn’t equate to a “correct” view. That’s bandwagon fallacy. 
+
+However, I think there are a few caveats in your argument that you are ignoring.
+
+The first is that absolute free speech isn’t necessary in a civilized democracy. For example, threats, whether explicit or implicit, are not about  the exchange the ideas but forcing an idea. 
+
+Extending from that, ideas like fascism are inherently threatening to certain groups of people. Any idea that espouses extreme authoritarian viewpoints, promotes nationalism through discrimination, vilification, segregation, or genocide, all while advocating for stronger military power is explicitly life threatening to people who have traditionally been the target of those ideals (and that isn’t to say people who aren’t normally the target can’t become the target, but history has been less kind of certain people’s than others so we’re working off precedence.) 
+
+Even implicit threats must be taken seriously. If someone says that “racial group A is secretly ruining the country and must be stopped at all cost” that is pretty much a call to arms and might lead someone to try and “do something” about it. 
+
+As long as fascism promotes ideas that we associate with fascism, it cannot be viewed as anything other than a threat to the lives of marginalized groups and therefore shouldn’t really be protected by free speech. 
+ 
+Second, I’m assuming that this CMV is inspired by a certain event happening on YouTube and other events about a guy concerned with frog sexuality (if not I’m sure some people are thinking about it), private organizations are exercising their free speech by choosing not to let their resources be used by someone they fundamentally disagree with. In addition, those companies usually have terms of service and being removed from that platform for violating those terms of service (which often times restrict  one’s abilities to make threats) is that company enforcing their own rules, not denying someone’s free speech. 
+
+Tl;dr free speech is nice, but there has to be rules on it because some speech is inherently violent and unproductive to a society. 
+Free speech is not reliably valuable for any complicated activities that require advanced knowledge, such as medicine, engineering, logistics.
+
+What is needed is trusting the consensus and widely known knowledge of scientific and advanced knowledge. Freedom of speech means the freedom of uneducated people to spread dumb opinions. 
+
+So, as an alternate to mob rule you can have technocratic rule. Rather than relying on public opinions to decide how to sew up a wound, say, you can rely on doctors. Rather than relying on mob opinions and free speech to build a bridge you can rely on trained engineers and bridges. 
+
+In terms of fascism, the issue is that highly educated and smart organizations have noted that their views are dangerous and toxic. They organize a lot of terrorism, violence, torture, and they're inaccurate in a lot of their opinions. Their freedom of speech causes massive social issues, and many value freedom to not be killed over freedom of speech.
+/u/jailthewhaletail (OP) has awarded 1 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/97tg5e/deltas_awarded_in_cmv_consensus_is_not_a_reliable/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+Have you heard of the paradox of intolerance?
+
+In theory, it sounds good to tolerate everyone's view, but in practice, that means we—a society valuing free speech, according to you—must tolerate the intolerant.
+
+However, the intolerant tautologically hinder free speech, so those who allow such people to speak aren't upholding free speech but are actually destroying it.
+>Thus, whatever the majority consensus is, that is the law of the land. 
+
+Unless the will of the majority contradicts the constitution, in which case you have to have a larger than majority investment in order to make it so. Assuming you are American, the framers were very wary of mob rule, which is why we have representative and not direct democracy, why we have an electoral college, why we have both a senate and a house, why we have seperation of the three branches of government and checks and balances. Your depiction of democracy doesn't actually describe any democratic government that I am aware of.
+
+>To paraphrase Hitchens once more in closing, the right to free speech of the speaker also comes with the right to listen of the listeners. If someone is silenced, then I am deprived of the right to hear.
+
+Can you spell this out in practical terms instead of vague pronouncements? Does that mean that if I own a publishing company, I am obligated to publish every manuscript that is submitted to me, or else I am censoring someone?
+Even american free speech under the first amendment isn't absolute. There is no right that's absolute. Absolute right's inherently lead to paradox. For example, can you use your freedom of speech to prevent someone else from using their freedom of speech? If the right was absolute you could, and is the reason right's have exceptions and are not absolute.
+I think you're right that consensus isn't a reliable measure, but the goal of democracy is not  "truth", it's _maximizing welfare of the  citizens_.   In that regard, consensus is _the measure_ of this aggregation-of-subjective-perspectives.  
+
+While I'm not going to argue that  free speech is not  critical, the _reason_ it's critical is because without it we lack efficiency between experience of  the people and legislation/governance. 
+
+It's meaningless in society to be  "right",  but have the citizens thing  you're wrong.  
+I have a three arguments to try to change your view. 
+
+The first is that democracy can function as majority rule + minority rights. In a complex pluralist society, we are all likely to be part of a majority on some issues and of a minority in other issues, so this protects us both. Free speech does not on itself provide protection for either truth or for minorities, since it can lead to majorities drowning out minority voices, stigmatise minority groups and so on. It can also support some minorities and minorities within minorities, and it may in some circumstances cause a consensus to shift, but this requires a particular attitude among the majority. 
+
+In my opinion, the argument you put forward has utility in attempting to persuade majorities to take a liberal view towards the speech of minorities. But it is actually selective propaganda - describing a world as you would like it to be rather than the real world where free speech does nothing to promote greater truthfulness if a majority used its free speech to stigmatise the free speech of minorities. 
+
+The second argument is that while there is no consensus on truth, free speech may make it more difficult to get towards any truth by also fragmenting ideas of what counts as truth, as standards of truth, of authorities and of what can and cannot be considered credible. 
+
+This strengthens the power of tribal authorities that persuade followers to believe whatever is convenient for the tribe as a price of belonging, with the further trade-off that it reduces cognitive load and uncertainty for believers as well as giving them a way to show loyalty. Free speech may mean it is possible to speak “truth” but may make it less likely to provide any corrective to a consensus. 
+
+And no consensus may anyway exist to affect when gatekeepers of established truth no longer have broad consent, because, for example, the majority have bought an argument that consensus in a democracy is a mark of lazy thinking that needs to be challenged by free-speaking. 
+
+The third argument is that democracy is not about uncovering empirical truth but choosing the values by which we organise societies. Free speech over which are the correct values is useful not because there are necessarily any objectively correct values or because free speech brings us closer to any such values if they do exist. Its benefit is that the contest (over which values prevail) is undertaken nonviolently. 
+
+Conclusion: free speech may be useful, useless or dangerous depending on context. In many contexts it may help some people achieve a better understanding of reality. But in contexts of tribal competition, bad faith argumentation, unequal power to manipulate presentation and where intimidatory speech is not suppressed any truthfulness is beside the point. That is how trolling can be effective. Why unmoderated forums can end up as cess-pits of meaningless aggression. And  may be why arguments for free speech are viewed by some with suspicion as a  fig leaf for promoting bigotry and hate in society while stigmatising and silencing those who believe bigotry and hate should be suppressed. 
+
+Free speech is not the only counter to the bandwagon fallacy. Two other counters to it are: 1) epistemology and 2) political economic reality. 
+
+Epistemology is study of acquisition of knowledge. As you know, consensus does not necessarily yield knowledge. By logically examining how knowledge is discovered, explained, proved, and learned, one may independently assess whether a the consensus is worthy, even if one may not speak about one’s discovery due to a lack of free speech. Such is the counter to consensus for intellectuals. 
+
+Political economic reality is how the world eventually affects everyone personally. Consensus would guide collective actions, and actions would have consequences for members of the consensus. If such consequences are negative, then the negatively impacted members would stop agreeing to the consensus, even though they may not speak about their troubles due to a lack of free speech. Such is the counter to consensus for laymen. 

@@ -1,0 +1,51 @@
+Title: A collective open letter to Mark Zuckerberg from the IFCN Arabic Coalition
+Source: Poynter
+URL: https://www.poynter.org/fact-checking/2025/a-collective-open-letter-to-mark-zuckerberg-from-the-ifcn-arabic-coalition/
+
+Dear Mr. Zuckerberg,
+
+We, the IFCN Arabic Coalition, Arabic-speaking signatories of the International Fact-Checking Network (IFCN), write to express our deep disappointment and growing concern over Meta’s decision to end its third-party fact-checking (3PFC) program in the United States. While this decision has been framed as a response to concerns about censorship and makes no reference to the Middle East-North Africa (MENA) region, its ramifications extend far beyond the United States, with potentially devastating consequences for fragile information ecosystems like ours.
+
+Our coalition comprises seven fact-checking entities operating across countries such as Sudan, Palestine, Lebanon, Iraq, Syria, Jordan, Egypt and others across the MENA region. This region encompasses 22 countries and is home to approximately 473.27 million people. These are contexts where mainstream media are captured by politicians or politically affiliated businessmen and independent media entities are scarce with narrow outreach, systematic propaganda thrives, and misinformation often exacerbates hate speech, discrimination, harassment and bullying — especially during times of conflict and political unrest. In these environments, the fact-checking program has been a critical tool for mitigating harm and preserving the integrity of information.
+
+However, we would like to point out that Meta has already been falling behind in the MENA region. Meta’s algorithms and content moderation practices have a significant impact on independent media and fact-checkers in the region, where the platform dominates as a primary source of information and communication for millions. For instance, Facebook in Egypt boasts an audience of 46.52 million, while Instagram has 18.24 million users in Iraq and 18.15 million in Egypt, highlighting the platform’s pervasive influence and the critical need for effective moderation and support systems. Yet journalists and media organizations often face unfair labeling, shadow banning or content suppression, particularly when reporting on sensitive political or social issues. The opaque nature of these algorithms, combined with automated decision-making processes, frequently results in the reduced reach and visibility of critical, fact-based journalism. This undermines the ability of independent media to hold power to account, especially in a region where access to free, reliable information is already limited. By curbing the reach of independent and fact-checked content, Meta is inadvertently enabling misinformation and reducing the space for credible, fact-driven journalism that is crucial for the health of democracies in the region.
+
+The Arab region has witnessed numerous critical electoral events in recent years, including the 2024 elections in Egypt and Iraqi Kurdistan. Looking ahead, we expect new government formations in Syria, parliamentary elections in Iraq in late 2025, and elections in Lebanon in May 2026. Each of these events presents a high risk of misinformation campaigns that could endanger public trust and stability. Moreover, ongoing crises in the region further exacerbate the risks associated with misinformation. Yemen’s devastating civil war continues to fuel one of the world’s worst humanitarian crises, while Tunisia faces democratic backsliding, economic challenges, and political instability. Libya remains fragmented by rival administrations and armed factions, the ongoing Gaza war and Sudanese civil war have further destabilized the region, compounding these challenges. Additionally, disinformation and hate speech targeting refugees are pervasive across North African countries. Without a robust fact-checking framework, Meta risks amplifying false narratives that could further destabilize these already fragile contexts.
+
+By maintaining and strengthening the fact-checking program in this region along with other support for fact-checkers, Meta has the opportunity to make a meaningful impact in preserving democratic processes and safeguarding communities from harmful disinformation.
+
+We remind Meta that in countries like ours, your platform has historically relied heavily on the expertise of local journalists and activists to navigate diverse cultural and linguistic contexts. Meta’s internal systems and algorithms alone were insufficient to address the nuances of our regions. Through trusted partnerships with local media and fact-checkers, Meta was able to respond effectively to crises, flag harmful content and provide users with accurate information. The decision to phase out this program instead of expanding it jeopardizes years of collaboration and progress.
+
+While Meta has expressed intentions to replace fact-checking with the Community Notes system, we worry that this approach will be inadequate in addressing the unique challenges of misinformation in regions with fragile democracies or unstable political contexts. A “one size fits all” solution cannot account for the vast differences between the United States and countries like ours.
+
+We urge Meta to carefully consider the potential aftermath of this decision not only within the U.S. but also in global contexts where democratic resilience depends on robust fact-checking mechanisms.
+
+We echo the sentiments expressed in the IFCN’s open statement: An open letter to Mark Zuckerberg from the world’s fact-checkers, nine years later. It is critical to acknowledge the vital role that fact-checkers play in reducing harm and fostering informed communities. Removing this infrastructure now risks undoing nearly a decade of progress.
+
+In closing, we urge Meta to reconsider this decision and to engage with the global fact-checking community, particularly those in vulnerable regions, to ensure that accuracy and accountability remain central to the platform’s operations. Fact-checking is not just about correcting misinformation — it is about safeguarding truth in spaces where misinformation has life-altering consequences.
+
+We stand ready to collaborate with Meta in reimagining solutions that balance freedom of expression with the need for trustworthy information.
+
+Respectfully,
+
+About the IFCN Arabic Coalition
+
+The IFCN Arabic Coalition within the International Fact-Checking Network (IFCN) comprises organizations dedicated to fact-checking and content production in Arabic. Established to address the unique challenges faced by the Arabic region — marked by conflicts, political propaganda, and restricted freedoms — the coalition aims to enhance collaboration among IFCN members to counter information disorder. Its objectives include fostering a unified voice within international institutions, promoting joint projects, engaging with social media platforms to improve policies for Arabic content, and advocating for media and information literacy and truth preservation. Membership is exclusive to IFCN-certified organizations, ensuring credibility and transparency.
+
+Arabic-Speaking Signatories of the International Fact-Checking Network
+
+AkhbarMeter Media Observatory – Egypt
+
+Beam Reports – Sudan
+
+Fatabyyano – Jordan
+
+Kashif – Palestine
+
+Maharat Foundation – Lebanon
+
+Tech4Peace – Iraq
+
+Verify – Syria
+
+This letter originally appeared on Tech4Peace and is republished here with permission.

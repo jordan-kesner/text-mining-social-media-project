@@ -1,0 +1,57 @@
+Title: Google Is Now Actively Working Against Free Speech
+
+Post:
+ 
+
+An internal company briefing produced by Google argues that due to a  variety of factors, including the election of President Trump, the  “American tradition” of free speech on the internet is no longer viable.
+
+Despite leaked video footage showing top executives declaring their   intention to ensure that the rise of Trump and the populist movement is   just a [“blip” in history](https://www.breitbart.com/tech/2018/09/12/the-google-tape-google-global-affairs-vp-kent-walker-history-is-on-our-side/), Google has repeatedly [denied](https://abcnews.go.com/Politics/responding-leaks-google-denies-political-bias/story?id=57785899) that the political bias of its employees filter into its products.
+
+But the 85-page briefing, titled “The Good Censor,” admits that **Google  and other tech platforms now “control the majority of online   conversations” and have undertaken a “shift towards censorship”** in  response to unwelcome political events around the world.
+
+Responding to the leak, an official Google source said the document   should be considered internal research, and not an official company   position.
+
+The briefing labels the ideal of unfettered free speech on the   internet a “utopian narrative” that has been “undermined” by recent  global events as well as “bad behavior” on the part of users. 
+
+It acknowledges that major tech platforms, including Google, Facebook   and Twitter initially promised free speech to consumers. “This free   speech ideal was instilled in the DNA of the Silicon Valley startups   that now control the majority of our online conversations,” says the   document.
+
+The briefing argues that Google, Facebook, YouTube and Twitter are   caught between two incompatible positions, the “unmediated marketplace   of ideas” vs. “well-ordered spaces for safety and civility.”
+
+The first approach is described as a product of the **“American  tradition” which “prioritizes free speech for democracy, not civility.”   The second is described as a product of the “European tradition,”  which  “favors dignity over liberty and civility over freedom.” The  briefing  claims that all tech platforms are now moving toward the  European  tradition.**
+
+The briefing associates Google’s new role as the guarantor of   “civility” with the categories of “editor” and “publisher.” This is   significant, given that Google, YouTube, and other tech giants publicly   claim they are not publishers but rather neutral platforms — a   categorization that grants them special legal immunities under Section   230 of the Communications Decency Act. Elsewhere in the document, Google  admits that Section 230 was designed to ensure they can remain neutral  platforms for free expression.
+
+What is also clear is that many of the briefing’s recommendations are   now reflected in the policy of Google and its sibling companies.
+
+The document also bemoans that the internet allows “have a go   commenters” (in other words, ordinary people) to compete on a level   playing field with “authoritative sources” like the *New York Times.* Google-owned YouTube now [promotes](https://www.breitbart.com/tech/2018/07/10/youtube-to-fund-handpicked-authoritative-news-sources-and-push-them-on-users/) so-called “authoritative sources” in its algorithm. The company did not specifically name which sources it would [promote.](https://www.breitbart.com/tech/2018/10/09/the-good-censor-leaked-google-briefing-admits-abandonment-of-free-speech-for-safety-and-civility/)
+
+Key points in the briefing can be found at the following page numbers:
+
+​[https://www.scribd.com/document/390521673/The-Good-Censor-GOOGLE-LEAK#from\_embed](https://www.scribd.com/document/390521673/The-Good-Censor-GOOGLE-LEAK#from_embed)
+
+&#x200B;
+
+* P2 – The briefing states that “users are asking if the openness of   the internet should be celebrated after all” and that “free speech has   become a social, economic, and political weapon.”
+* P11 – The briefing identifies Breitbart News as the media publication most interested in the topic of free speech.
+* P12 – The briefing says the early free-speech ideals of the internet were “utopian.”
+* P14 – The briefing admits that Google, along with Twitter and Facebook, now “control the majority of online conversations.”
+* P15 – Section 230 of the Communications Decency Act is linked to   Google’s position as a platform for free expression. Elsewhere in the   document (p68), Google and other platforms’ move towards moderation and   censorship is associated with the role of “publisher” – which would not   be subject to Section 230’s legal protections.
+* PP19-21 – The briefing identifies several factors that allegedly   eroded faith in free speech. The election of Donald Trump and alleged   Russian involvement is identified as one such factor. The rise of the   populist Alternative fur Deutschland (Alternative for Germany) party in   Germany – which the briefing falsely smears as “alt-right” – is  another.
+* PP26-34 – The briefing explains how “users behaving badly”   undermines free speech on the internet and allows “crummy politicians to   expand their influence.” The briefing bemoans that “racists,   misogynists, and oppressors” are allowed a voice alongside   “revolutionaries, whistleblowers, and campaigners.” It warns that users   are “keener to transgress moral norms” behind the protection of   anonymity.
+* P37 – The briefing acknowledges that China – for which Google has   developed a censored search engine – has the worst track record on   internet freedom.
+* P45 – After warning about the rise of online hate speech, the   briefing approvingly cites Sarah Jeong, infamous for her hate speech   against white males (Google is currently facing a lawsuit alleging it   discriminates against white males, among other categories).
+* P45 – The briefing bemoans the fact that the internet has until   recently been a level playing field, warning that “rational debate is   damaged when authoritative voices and ‘have a go’ commentators receive   equal weighting.”
+* P49 – The document accuses President Trump of spreading the   “conspiracy theory” that Google autocomplete suggestions unfairly   favored Hillary Clinton in 2016. (Trump’s suspicions were actually   correct – independent research has [shown](https://www.washingtonpost.com/news/the-switch/wp/2017/03/14/could-google-rankings-skew-an-election-new-group-aims-to-find-out/?noredirect=on&utm_term=.06ed9376c59e) that Google did favor Clinton in 2016).
+* P53 – Free speech platform Gab is identified as a major destination   for users who are dissatisfied with censorship on other platforms.
+* P54 – After warning about “harassment” earlier in the document, the   briefing approvingly describes a 27,000-strong left-wing social media   campaign as a “digital flash mob” engaged in “friendly   counter-commenting.”
+* P57 – The document juxtaposes a factoid about Russian election interference with a picture of Donald Trump.
+* P63 – The briefing admits that when Google, GoDaddy and CloudFlare   simultaneously withdrew service from website The Daily Stormer, they   were “effectively booting it off the internet,” a point also made by the   Electronic Frontier Foundation and the FCC in their subsequent  warnings  about online censorship.
+* P66-68 – The briefing argues that Google, Facebook, YouTube and   Twitter are caught between two incompatible positions, the “unmediated   marketplace of ideas” vs. “well-ordered spaces for safety and civility.”   The first is described as a product of the “American tradition” which   “prioritizes free speech for democracy, not civility.” The second is   described as a product of the “European tradition,” which “favors   dignity over liberty and civility over freedom.” The briefing claims   that all tech platforms are now moving toward the European tradition.
+* P70 – The briefing sums up the reasons for big tech’s “shift towards   censorship,” including the need to respond to regulatory demands and   “expand globally,” to “monetize content through its organization,” and   to “protect advertisers from controversial content, \[and\] increase   revenues.”
+* P74-76 – The briefing warns that concerns about censorship from   major tech platforms have spread beyond the right-wing media into the   mainstream.
+
+Top Comments:
+Google: "we probably shouldn't show search results calling for the death of all sand niggers and forceful removal of dirty Jew cucks."
+
+Alt right dipshits: "WE'RE BEING CENSORED REEEEEEEEEEEÉ"
+Do we have any reason to believe that this is a legitimate internal Google document? The group that supposedly produced it (the Google Insights Lab) does not actually exist, as far as I can tell.

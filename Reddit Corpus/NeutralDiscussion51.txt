@@ -1,0 +1,83 @@
+Title: Another Federal legislative attempt at banning Tik Tok is afoot in the U.S. and proceeding rapidly. Prior attempts have failed. Government claims it has addressed the First Amendment concerns. Is the anticipated new ban likely to survive court challenges?
+
+Post:
+The underlying motivation to ban Tik Tok app in the U.S. as expressed by the U.S. government is its national security concerns.  Although TikTok doesn’t operate in China the concern is that the Chinese government enjoys significant leverage over Tik Tok; the theory goes that ByteDance \[the parent company\], and thus indirectly, TikTok, could be forced to cooperate with a broad range of security activities, including possibly the transfer of TikTok data. U.S. government plans to force ByteDance to divest any interest in Tik Tok app \[sell\] it to a U.S. based company \[such as Microsoft\] if it wants to continue to do business in the U.S.     
+  
+“It’s not that we know TikTok has done something, it’s that distrust of China and awareness of Chinese espionage has increased,” said James Lewis, an information security expert at the Center for Strategic and International Studies. “The context for TikTok is much worse as trust in China vanishes.”
+
+The US government has said it’s worried China could use its national security laws to access the significant amount of personal information that TikTok, like most social media applications, collects from its US users.
+
+To date, there is no public evidence that Beijing has actually harvested TikTok’s commercial data for intelligence or other purposes.  
+  
+Chew, the TikTok CEO, has publicly said that the Chinese government has never asked TikTok for its data, and that the company would refuse any such request.
+
+TikTok has about 170 million users in the United States. 60% are female, 40% are male. 60% are between the ages of 16-24. Tik Tok has encouraged its users to influence the legislators from enacting into legislation banning the app download. Furthermore, Tik Tok intends to challenge any forthcoming legislation in courts as a violation of its users First Amendment Rights.    
+
+Previously Trump also tried banning Tik Tok, but now he has changed his position stating: “If you get rid of TikTok, Facebook and Zuckerschmuck will double their business.” “...I don’t want Facebook, who cheated in the last Election, doing better. They are a true Enemy of the People!”
+
+The measure that sailed unanimously through the House Energy and Commerce Committee would prohibit TikTok from U.S. app stores unless the social media platform — used by roughly 170 million Americans — is quickly spun off from its China-linked parent company, ByteDance.  
+  
+If enacted, the bill would give ByteDance 165 days, or a little more than five months, to sell TikTok. If not divested by that date, it would be illegal for app store operators such as Apple and Google to make it available for download. The bill also contemplates similar prohibitions for other apps “controlled by foreign adversary companies.”
+
+If not divested in 165 days from the date of enactment, it would be illegal for app store operators such as Apple and Google to make it available for download. The bill also contemplates similar prohibitions for other apps “controlled by foreign adversary companies.”
+
+Is the anticipated new ban likely to survive court challenges? 
+
+Prior Court Challenges Link: [https://www.cnn.com/2023/12/02/tech/fresh-legal-blows-tiktok-ban-court-challenges/index.html](https://www.cnn.com/2023/12/02/tech/fresh-legal-blows-tiktok-ban-court-challenges/index.html)
+
+&#x200B;
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+If they just passed data ownership/export laws, with some sort of oversight mechanism, they could do what they want to accomplish without banning TikTok and increasing consumer rights. Unfortunately, our congress is too beholden to corporations to bother, and instead keep looking to pass laws that are legally dubious since they exist to target just TikTok.
+I think its more of a question if Biden will sign it. I think he will because its a very bipartisan bill, but I'm sure his campaign staff has already told him its going to make young people dislike him even more.
+Bytedance could share data with the Chinese state without Tiktok knowing.
+
+Bytedance has an internal CCP comittee, officially linking the CCP to Bytedance.
+
+The CCP is the only major party in China's state.
+
+Chinese government has engaged in a large amount of espionage against the US and other nations.
+
+So Bytedance is directly supporting and party to a foreign adversary, using American data and money to do so through their ownership of Tiktok.
+
+Tiktok has access to files, messages, and other sensitive data on all their users' phones. As well as all interactions with the app. There is no reason to *trust* that their parent company, Bytedance, isn't siphoning some amount of data or analytics from Tiktok. There is every reason to expect that Bytedance is profiting from Tiktok while supporting and party to a foreign adversary. 
+
+The US state has been irresponsible for allowing this to occur, but may have engaged in valuable counterespionage through the process. There is no reason to suspect the Supreme Court will find in China's favor over the US.
+I'm a huge fan of Tik Tok, and probably spend to much time on it endlessly scrolling.
+
+Even so, banning it might not be the worst idea. All social media apps from Facebook to Twitter collect data, but Tik Tok surpasses them in both quantity of collection, and purposely obfuscates the data that it is collecting.
+
+That's not to say that other social media companies should be off the hook, only that Tik Tok seems to be the current preeminent threat.
+I am not convinced that Tik Tok is a bigger threat than the multitude of American companies that collect and sell our Data to anyone they want. This feels more like Facebook & Friends paid a lot of lobbyist to kill a business rival.
+
+It sets a bad precedent for any corporation that does business with China.
+
+Why would the US government only stop at TikTok?  
+
+If it can force Tiktok to divest from Bytedance why wouldn't they be able to force Home Depot and Lowes to divest from purchasing Chinese-manufactured appliances?  If they have any sort of smart technology, those appliances could be just as much of a national security threat as TikTok. 
+
+You might not care about Tiktok, but there are a lot of Americans who work for corporations that have a commercial relationship with China.
+The fastest way to convince people to champion a platform and drive new users to it is to try to ban it.  Politicians are hardly tech literate.  What do they think they can do?  IP block it?  People will just use a VPN.  That's what people do in countries that attempt this sort of overreach.  The politicians behind this have no idea what they are doing.  People don't need to use an App store to download an app.  There are lots of ways to gets apps.
+Honestly, this could go either way.
+
+While it will be unpopular with Americans, banning tik tok based on security concerns is pretty valid. This is even more obvious when you start considering the weakness inherent in the internet of things coupled with a large portion of American's lack of want for informational security & privacy (Or at least a general lack of understanding in regard to how vulnerable one's information is).
+
+I think a lot of pushback can be made though on the method in which they are trying to ban. Forcing the sell is really nothing short of a Hostile takeover of a lucrative business. This sets a pretty bad precedent & the look for America. The president in his capacity as the face of Foreign Affairs should really be looking at this not only from a security perspective.
+
+The question is do they change how they approach the ban, will Americans care more about security than entertainment, or do we ignore that Tik Tok can be weaponized as a propaganda platform by foreign actors & local politicians all together?
+
+There is even an argument to be made for banning tik tok simply for the good of the American people regardless of security or entertainment concerns. There is no lack of content creators on both sides of the political spectrum that have weaponized statistical data in a form of propaganda for views, likes, and money.
+It feels like the most reasonable and courts-resilient way to achieve what is ostensibly the aim here is not to go after TikTok per se but just to implement something along the lines of data privacy laws that the EU, Canada, etc. have put into place.
+
+If there are meaningful limits on what TikTok could collect and fatal financial penalties for transmitting its data on US citizens to China that pretty well would solve the problem... and also restrain some domestic companies that could use it.

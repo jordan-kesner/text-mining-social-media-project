@@ -1,0 +1,41 @@
+Title: Safety Takes A Backseat At Paris AI Summit, As U.S. Pushes for Less Regulation
+Source: Time
+URL: https://time.com/7221384/ai-regulation-takes-backseat-paris-summit/
+
+Safety concerns are out, optimism is in: that was the takeaway from a major artificial intelligence summit in Paris this week, as leaders from the U.S., France, and beyond threw their weight behind the AI industry.
+
+Although there were divisions between major nations—the U.S. and the U.K. did not sign a final statement endorsed by 60 nations calling for an “inclusive” and “open” AI sector—the focus of the two-day meeting was markedly different from the last such gathering. Last year, in Seoul, the emphasis was on defining red-lines for the AI industry. The concern: that the technology, although holding great promise, also had the potential for great harm.
+
+But that was then. The final statement made no mention of significant AI risks nor attempts to mitigate them, while in a speech on Tuesday, U.S. Vice President J.D. Vance said: “I’m not here this morning to talk about AI safety, which was the title of the conference a couple of years ago. I’m here to talk about AI opportunity.”
+
+The French leader and summit host, Emmanuel Macron, also trumpeted a decidedly pro-business message—underlining just how eager nations around the world are to gain an edge in the development of new AI systems.
+
+Once upon a time in Bletchley
+
+The emphasis on boosting the AI sector and putting aside safety concerns was a far cry from the first ever global summit on AI held at Bletchley Park in the U.K. in 2023. Called the “AI Safety Summit”—the French meeting in contrast was called the “AI Action Summit”—its express goal was to thrash out a way to mitigate the risks posed by developments in the technology.
+
+The second global gathering, in Seoul in 2024, built on this foundation, with leaders securing voluntary safety commitments from leading AI players such as OpenAI, Google, Meta, and their counterparts in China, South Korea, and the United Arab Emirates. The 2025 summit in Paris, governments and AI companies agreed at the time, would be the place to define red-lines for AI: risk thresholds that would require mitigations at the international level.
+
+Paris, however, went the other way. “I think this was a real belly-flop,” says Max Tegmark, an MIT professor and the president of the Future of Life Institute, a non-profit focused on mitigating AI risks. “It almost felt like they were trying to undo Bletchley.”
+
+Anthropic, an AI company focused on safety, called the event a “missed opportunity.”
+
+The U.K., which hosted the first AI summit, said it had declined to sign the Paris declaration because of a lack of substance. “We felt the declaration didn't provide enough practical clarity on global governance, nor sufficiently address harder questions around national security and the challenge AI poses to it,” said a spokesperson for Prime Minister Keir Starmer.
+
+Racing for an edge
+
+The shift comes against the backdrop of intensifying developments in AI. In the month or so before the 2025 Summit, OpenAI released an “agent” model that can perform research tasks at roughly the level of a competent graduate student.
+
+Safety researchers, meanwhile, showed for the first time that the latest generation of AI models can try to deceive their creators, and copy themselves, in an attempt to avoid modification. Many independent AI scientists now agree with the projections of the tech companies themselves: that super-human level AI may be developed within the next five years—with potentially catastrophic effects if unsolved questions in safety research aren’t addressed.
+
+Yet such worries were pushed to the back burner as the U.S., in particular, made a forceful argument against moves to regulate the sector, with Vance saying that the Trump Administration “cannot and will not” accept foreign governments “tightening the screws on U.S. tech companies.”
+
+He also strongly criticized European regulations. The E.U. has the world’s most comprehensive AI law, called the AI Act, plus other laws such as the Digital Services Act, which Vance called out by name as being overly restrictive in its restrictions related to misinformation on social media.
+
+The new Vice President, who has a broad base of support among venture capitalists, also made clear that his political support for big tech companies did not extend to regulations that would raise barriers for new startups, thus hindering the development of innovative AI technologies.
+
+“To restrict [AI’s] development now would not only unfairly benefit incumbents in the space, it would mean paralysing one of the most promising technologies we have seen in generations,” Vance said. “When a massive incumbent comes to us asking for safety regulations, we ought to ask whether that safety regulation is for the benefit of our people, or whether it’s for the benefit of the incumbent.”
+
+And in a clear sign that concerns about AI risks are out of favor in President Trump’s Washington, he associated AI safety with a popular Republican talking point: the restriction of “free speech” by social media platforms trying to tackle harms like misinformation.
+
+With reporting by Tharin Pillay/Paris and Harry Booth/Paris

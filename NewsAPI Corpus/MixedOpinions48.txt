@@ -1,0 +1,59 @@
+Title: Too little, too late? Meta abandons fact-checkers for crowdsourced moderation
+Source: Naturalnews.com
+URL: https://www.naturalnews.com/2025-01-31-meta-abandons-fact-checkers-for-crowdsourced-moderation.html
+
+Too little, too late? Meta abandons fact-checkers for crowdsourced moderation
+
+Meta CEO Mark Zuckerberg announced that Facebook would transition from relying on fact-checkers to a crowdsourced system similar to community notes on X (formerly Twitter).
+
+The new system has been met with skepticism, particularly from experts like Dr. Matthew Wielicki, who believes it's "too little too late." Critics argue that Facebook's approach to climate-related content remains unchanged and that the company has a history of censoring voices that challenge the prevailing narrative on climate change.
+
+There are several cases where Facebook's fact-checkers labeled truthful content as "disinformation" or "misleading." Examples include Bjorn Lomborg's claim about deaths from cold and heat, John Stossel's video on California forest fires and Dr. Roger Pielke Jr.'s post about weather-related natural disasters.
+
+The move raises concerns about the potential bias in fact-checking organizations like Climate Feedback, with documented instances of inaccurate or misleading fact checks. These issues have led to legal action, such as Stossel's defamation lawsuit against Facebook, which was ultimately dismissed because fact checks are opinions.
+
+Meta CEO Mark Zuckerberg has announced that Facebook's content moderation system would transition from relying on fact-checkers to a crowdsourced system similar to community notes on X, formerly known as Twitter. However, critics argue that the company's approach to climate-related content remains unchanged.
+
+For years, Facebook has faced criticism for censoring voices that challenge the prevailing narrative on climate change, including those of credentialed experts and Nobel Prize recipients. The new system, which is set to take effect, promises to foster open debate on climate and energy issues, but many skeptics remain unconvinced.
+
+Dr. Matthew Wielicki, a former assistant professor in the Department of Geological Sciences at the University of Alabama, expressed skepticism about the change. "I don't really go over there much. I don't see myself going back either. Too little too late," Wielicki said. (Related: Zuckerberg faces backlash as leaked recordings reveal Facebook's alleged role in censoring COVID-19 vaccine dissent.)
+
+Facebook's fact checks often inaccurate
+
+Facebook has a long history of labeling truth as "disinformation."
+
+One notable case involves a post by Bjorn Lomborg, a Danish political scientist and president of the Copenhagen Consensus Center. Lomborg's claim, based on a study published in the medical journal The Lancet, stated that nine times more people die globally from the cold than from the heat. This assertion implies that, as temperatures rise, deaths from temperature extremes are actually decreasing. However, Facebook's fact-checkers, with the assistance of Climate Feedback, deemed this claim as false, leading to its censorship.
+
+Lomborg has since provided extensive documentation on his website, defending his claims and demonstrating that Facebook's fact check was inaccurate.
+
+Another case involves John Stossel, a prominent journalist and commentator, who faced "shadow banning" for a video discussing the impact of government mismanagement on California's forest fires. Stossel argued that the video did not dispute the impact of climate change on forest fires but rather emphasized the role of government mismanagement in exacerbating the situation. Climate Feedback, however, labeled the video as "misleading," leading to its reduced visibility on Facebook.
+
+Stossel responded by filing a defamation lawsuit against Facebook in federal court. However, the case was dismissed when Meta, Facebook's parent company, argued that its fact checks are mere opinions and therefore not subject to defamation claims.
+
+Dr. Roger Pielke Jr., a retired professor of environmental studies at the University of Colorado at Boulder, also found his post removed from Facebook without any explanation. Pielke alleged that an MIT scientist working for Climate Feedback had incorrectly claimed that "weather-related natural disasters have been increasing greatly," which he stated was demonstrably false.
+
+Stossel has documented five additional instances where Climate Feedback's fact checks were deemed misleading or false, further raising concerns about the organization's accuracy and potential bias.
+
+Head over to Censorship.news for similar stories.
+
+Watch this Fox Business report about Rob Flaherty's involvement in the VIP censorship portal used by Facebook to silence content critical of COVID-19.
+
+This video is from the NewsClips channel on Brighteon.com.
+
+More related stories:
+
+Zuckerberg exposes Biden admin's 'screaming' demands to censor COVID posts.
+
+Zuckerberg slams Biden for censoring vaccine opposition, takes aim at Apple in Rogan.
+
+Zuckerberg: Biden admin pressured Meta to censor posts about COVID-19 vaccine side effects.
+
+Zuckerberg's sudden censorship thaw is not free speech.
+
+Zuckerberg’s Rogan interview exposes Big Pharma’s grip on COVID censorship.
+
+Sources include:
+
+ClimateDepot.com
+
+Brighteon.com

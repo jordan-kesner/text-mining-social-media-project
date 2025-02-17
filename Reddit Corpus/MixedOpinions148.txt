@@ -1,0 +1,71 @@
+Title: CMV: The (mostly US) way of writing a date "month/day/year" is inferior to writing the date as "day/month/year" and should be changed nationwide.
+
+Post:
+While both systems may seem completely arbitrary, I believe the day/month/year (DMY) or year/month/day (YMD) follows the logical rules of ascending/descending order and therefore is more intuitive to a person not familiar with either system. Furthermore, time is written in either ascending or descending order (seconds/minutes/hours) and it makes little sense to write date in a different way. Thus, I believe that the DMY is superior to the MDY for these reasons.
+
+Why it should be changed nationwide:
+
+The usage of the MDY system in in the minority and it only causes confusion across countries. Unlike imperial units, which, if stated as imperial units, can be converted to metric units (and vice versa), the date is usually just written as three numbers separeted by a period/slash and therefore you have literally no way telling which way it is written in (except for cases that one number is larger than 12, or when the month is written as a word with letters, not as a number). It would not be the first time a crucial mistake happened somewhere in the world that caused unnecessary hassle because of the way some people write dates. 
+
+I believe that unlike imperial vs metric units, this would actually require little costs compared to the benefits and since the inferior system is also the minority, the DMY system should be implemented across all the states that use the MDY system. 
+_____
+
+> *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
+
+Top Comments:
+Why not YMD? That way, sorting files alphanumerically will automatically organize them chronologically, rather than lumping together all the files from every 1st of the month ever.
+
+EDIT: I can't believe a quick throwaway comment about date formats and file sorting has got so much attention. Y'all can sort your files however you want! I've literally never thought about it once in my life before coming across this post. I don't even name my files by YMD in real life. I do MDY like an animal.
+# Standard adopted by ISO is YYYY-MM-DD
+
+Prevalent in the software industry globally. Notice how easily  it can sort chronologically.
+I prefer DMY or YMD to MDY. But at a software and system standpoint, making the change will require a lot of technology changes. And that change will be expensive and painful. 
+
+Our system works - even if it is not ideal. And such an expensive change usually is driven by need not optimization. For example, the Y2K update. 
+
+(Actually, I prefer YMD. It’s far superior for sorting files.) 
+`YYYY-MM-DD` is the ideal format, because it's big-endian. While that sounds confusing, it's just the computer scientist's way of saying the "big end" comes first, and every digit to that comes after it is smaller. This doubles as an easy way for computers to lexically (alphabetically) sort dates, even when they're stored as text instead of a "real" date/time data type.
+
+`DD/MM/YYYY` (which I grew up with in Australia), while straightforward and in common use in much of the world, has the drawback that while the _groupings_ are in a consistent order, the magnitude of each digit is staggered:
+
+1. Tens of days
+2. Ones of days (smaller)
+3. Tens of months (bigger)
+4. Ones of months (smaller)
+5. Thousands of years (bigger)  
+... etc
+
+It's clear to me that because of this difference, YYYY-MM-DD is superior to all other ways of textually representing dates in the Gregorian calendar.
+
+It's also an ISO standard: [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601).
+In the majority of cases, people do not say the date with the year included.  If someone asks you when a concert it, you say it's on July 25.  Not July 25, 2018.  ** (See footnote)
+
+Given that, the M/D convention is more in line with how everything else is counted, with the largest unit expressed first, and the smaller unit last.
+
+You don't say that there are "Four, Twenty, Three Hundred, and Four Thousand marbles in this jar."  You don't say that something is "6 inches and 5 feet tall."  
+
+Everything else is counted from largest to smallest, so why would the date be any different?
+
+** Edit:  To everyone telling me that in the UK (and elsewhere) people say "25th of July", I know that.  That's not the point I was making.  I was saying that in the US, we typically exclude the year when telling someone the date, and so it just becomes a matter of whether you say month/day or day/month, and given that, it makes logical sense to go from largest to smallest, as we do with everything else. 
+Consider how much useful information can pass through your brain as you read the different formats left to right. 
+
+If you read M of a M/D/Y format your brain is already able to narrow it down to how far in the future/past the date is in rough ~30 day chunks, what other events are happening around that time, or even a season and what the weather will be like. Without even getting to the second field you can already think to yourself "that's about 90 days away, I should start preparing" or "that's in September, oh so-and-so is visiting in September, let me make sure it's not the same weekend."
+
+But when you read the D field of D/M/Y you have not narrowed it down at all. It's completely useless on its own. You will find your brain going "ok great, what month though?" and moving straight to the second field. Only then can you start thinking about what the timestamp really means.
+
+And moving Y to the front for a YMD format is the least useful of all. If you're scanning a bunch of dates that span decades, both the MDY and DMY already allow your eyes to skip straight to the end which is what you probably want to see anyway.
+
+TL;DR Whatever the format, the middle element is the hardest for your brain to pick out, while the first characters and the last characters are the easiest. And the Month unit of measurement is generally the most useful time unit for people, while day (on its own) is generally useless. So why put the most useful unit in the hardest to read place?
+ Have you considered that the MDY format is, actually in ascending order, just not chronologically: It's in ascending order of possible range of numbers. 
+
+As there are 12 possible months, 31 possible days, and an infinite number of years, the month number is the one which narrows down the date the least. So, by reporting M then D then Y, you are increasing the specificity of the date (in a strictly numerical sense) as the date is read. 
+I am an American working in China where they write dates year/month/day. Their reasoning is that they like to go from biggest unit to smallest. It makes things easy to find when sorted on the computer I think, as the computer would sort files by smallest to largest number (like it sorts by alphabetical order) 
+e.g. 
+2018.01.18
+2018.01.23
+
+Thats fine for when you need to save files, but I feel that the month/day/year system tells a lot more when looking at the problem from the point of view of understanding a situation. If I have my main focus on month, it tells me what the time of year is, what season it is, and I probably can make assumptions on what the weather was like, what people where wearing, etc.
+I like the information that quickly comes to mind from the month/day/year system.
+
+I personally think the day/month/year system in the worst. You cant assume much information just from knowing what day of a month it is. The year/month/date system's main focus on the year at least can give you a general idea of what was happening in society at the recorded time. 
+We write it the same way we speak it.  Usually when you say a date you start with the month: "January 17, 2018." Changing it would lead to years of confusion before any benefits kicked in, it would have to be a huge logistical undertaking for something that would only produce minor benefits.  Sure, its a bit strange that its different, but unlike the metric / imperial thing, what's being communicated isn't actually different, the units are the same, its just the order that changes.  Seems like a lot of effort for something that would produce incredibly minor benefits. 

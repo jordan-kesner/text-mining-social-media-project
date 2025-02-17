@@ -1,0 +1,52 @@
+Title: What would be the effect of repealing Section 230 on Social Media companies?
+
+Post:
+The statute in [Section 230(c)(2)](https://www.law.cornell.edu/uscode/text/47/230) provides "Good Samaritan" protection from civil liability for operators of interactive computer services in the removal or moderation of third-party material they deem obscene or offensive, even of constitutionally protected speech, as long as it is done in good faith. As of now, social media platforms cannot be held liable for misinformation spread by the platform's users. 
+
+If this rule is repealed, it would likely have a dramatic effect on the business models of companies like Twitter, Facebook etc. 
+
+* What changes could we expect on the business side of things going forward from these companies? 
+
+* How would the social media and internet industry environment change? 
+
+* Would repealing this rule actually be effective at slowing the spread of online misinformation?
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+I’m curious to see what other people have to say on this question but is it fair to say repealing Section 230 result in media companies switching to an approval based model rather than one where anyone can make an account and post things? Repealing it would make social media companies liable for misinformation as you mentioned so could that liability mean that companies would create a model like that to prevent facing said legal worries?
+[More of an FYI on what Section 230 really means, from popehat. He gives some good links, including to the EFF.](https://popehat.substack.com/p/section-230-is-the-subject-of-the)
+
+
+TL;DR: most people have a poor understanding of what it really means. Repealing it would probably lead to far more censorship from companies, not less.
+I think it's interesting that Parler required users to provide a Drivers License as well as a Social Security Number in order to become a "verified" user (whatever that means). I imagine that would probably be the first step. Everything you post online would be publicly tied to your actual name. Basically everyone would have to dox themselves if they want to post in any forum, make a comment, or do anything involving publishing anything online.
+
+The right wing has got 230 all wrong. They're not being "censored" because of their views, they're being "censored" because their views make it hard to make ad friendly content at a higher rate than those on the left.
+I feel like a good response to this question can only come from someone that understands the law pretty well. For example, if the law is repealed, could Reddit and Facebook be held responsible for their users publishing Stop the Steal misinformation, much like were are seeing in the dominion lawsuits?  
+
+One interesting point is that there seems to be bipartisan support for regulating these companies. I see a lot of conservatives claim that want 230 repealed. But would that be the exact opposite of the situation they are hoping for? Shouldn’t they want to protect 230 so the misinformation stream can flow freely?  
+
+It’s interesting that both sides want to regulate big tech but for such different reasons.
+From the business side of things, you'd see companies like Facebook, Twitter, and Instagram banning half the GOP for making violent or defamatory comments that they could be sued for.
+
+It would have the effect of social media companies drastically ramping up "censorship" under the direction of their lawyers.
+This would effectively outlaw social media. It might even effectively outlaw email. Imagine if every time someone email-spammed some political attack (true or not), offended parties could then sue all the companies who passed that email along. Very quickly those companies would exit that business.
+
+The idea is a complete non-starter and will never be passed. Ever.
+
+No reason to discuss it past that.
+My guess is it would lead to more stricter TOS agreements because now these companies would face litigation for what their users post. So this would imediately backfire on the right wing people that support its repeal.
+> even of constitutionally protected speech
+
+**Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances.**
+
+The law only applies to the government, does not apply to private companies or citizens.

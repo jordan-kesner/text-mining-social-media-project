@@ -1,0 +1,27 @@
+Title: Celebrated Lawyer ‘Fires’ Meta As A Client Over Zuck’s ‘Neo-Nazi Madness’
+Source: Techdirt
+URL: https://www.techdirt.com/2025/01/15/celebrated-lawyer-fires-meta-as-a-client-over-zucks-neo-nazi-madness/
+
+Celebrated Lawyer ‘Fires’ Meta As A Client Over Zuck’s ‘Neo-Nazi Madness’
+
+from the consequences dept
+
+Mark Lemley is one of, if not the biggest names in IP law. So when Lemley makes a move, it’s worth paying attention. And that’s exactly what happened this week when he announced that he has “fired Meta as a client.”
+
+There are various lists that come out from time to time about the “most cited” law professors, and on recent lists Lemley is always highly ranked. On IP law/Cyberlaw in particular, he’s almost always at the top. Here’s a list from 2013-2017 that shows him not just as the most cited cyberlaw professor, but with the number of citations to his works that is more than double the second person on the list (Lemley’s 2200 citations to Robert Merges’ 920).
+
+Even outside of cyberlaw, he is near the top of the list. UChicago’s big “most cited legal scholars of all time” list has him at number eight, and given that some of the names ahead of him are dead and that list is from three years ago (and he keeps publishing, which I know because I have a bunch of his papers that I have open in tabs that I intended to write about but haven’t yet gotten to…), he’s likely even higher on that list.
+
+No matter how you count it, Lemley is in the Michael Jordan/LeBron James realm of legal scholars, widely recognized as one of the greatest.
+
+Anyway, beyond being an incredibly insightful and prolific legal scholar, he has also been a practicing lawyer for many years as well, working on a number of high-profile cases.
+
+And earlier this week, he announced that he has “fired Meta as a client.” Lemley was representing Meta in the Kadrey v. Meta lawsuit regarding Meta’s use of books in training its AI. And, as the docket shows, on Monday, he withdrew as an attorney for Meta:
+
+As Lemley noted on various social media profiles, he cannot stomach what he sees as Zuckerberg’s embrace of nonsense and this is how he is responding to “Mark Zuckerberg and Facebook’s descent into toxic masculinity and Neo-Nazi madness.”
+
+I know that some people will get all huffy about this (you know who you are, commenters), but this is a principled stand. And it’s also one that could have a real impact on Meta, given Lemley’s knowledge, legal skills, and respect in the legal community.
+
+Filed Under: ai, content moderation, copyright, mark lemley, neo-nazi
+
+Companies: meta

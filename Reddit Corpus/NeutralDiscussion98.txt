@@ -1,0 +1,82 @@
+Title: How to Write a PROPER letter about S. 3398 (the EARN IT Act) to your representatives.
+
+Post:
+Honestly. This touches 7 different flairs in my opinion. 
+
+I'll sorry for the clickbait title; I  skip to the chase. After watching what level of explanations are given  by lobbyists to the town hall meetings at the State level. (Louis  Rossman being commited to "right to repair" and going state to state  videos.)
+
+I find that the  verbage/wording/grammar style of the form letter that the EFF seemed a bit "unconnected" (IMHO) of what the EARN IT act attempts to do and the  response from some Senators I've read. (a.k.a. a response from Senator Fienstein on the [r/thehatedone](https://www.reddit.com/r/thehatedone/))
+
+[https://www.reddit.com/r/thehatedone/comments/fso6r6/us\_senator\_dianne\_feinstein\_responding\_to\_my/](https://www.reddit.com/r/thehatedone/comments/fso6r6/us_senator_dianne_feinstein_responding_to_my/)
+
+I used the tool from [https://act.eff.org/action/protect-our-speech-and-security-online-reject-the-graham-blumenthal-bill](https://act.eff.org/action/protect-our-speech-and-security-online-reject-the-graham-blumenthal-bill) to "Look up your representatives".
+
+I URGE you to please view "Look up your representatives"... And attempt  to contact them directly In one case the form required the last 4 digits  of your zip code. My other representatives? required a second phone  number. and another was retired. So ONLY 2 representatives could be  contacted.
+
+One contact went through via [senate.gov](https://senate.gov/) and the other [house.gov](https://house.gov/)
+
+The  United States Senate is supposed to have TWO representatives per state.  However the EFF site only gave me one. The email form I submitted the  to the [senate.gov](https://senate.gov/) was accepted properly (the form said "Thank You" after completion.)
+
+And  the "House of Representatives are apportioned by state according to   population, with each state receiving a minimum of one representative.  My state has over 10. [https://www.britannica.com/topic/United-States-House-of-Representatives-Seats-by-State-1787120](https://www.britannica.com/topic/United-States-House-of-Representatives-Seats-by-State-1787120)  However the EFF site only gave me one. The email form I submitted returned a 404 after submittal.
+
+I  will postulate that perhaps MY writing style, grammar seem simplistic  however I want to bring up 2 points 1.) Double checking to see if the  information you provided via the [EFF.org](https://eff.org/) form is enough. 2.) Ensuring that you communicate at a level that our Senators and Congress people can understand.
+
+I will include the form response that the EFF as it currently stands now:
+
+`As your constituent, I urge you to reject the EARN IT Act (S. 3398).`
+
+`The Graham-Blumenthal bill would give the Attorney General far too much power to dictate how Internet companies must operate. Attorney General William Barr has made it clear that he would use that authority to undermine our right to private and secure communications by blocking encryption.`
+
+`The bill would create a commission tasked with creating “best practices” for owners of Internet platforms to “prevent, reduce, and respond” to child exploitation online. But far from mere recommendations, those “best practices” would be approved by Congress as legal requirements. The EARN IT Act’s structure would let Barr strong-arm the commission to include requirements that tech companies weaken their own encryption systems in order to give law enforcement access to our private communications. Companies could also be required to over-censor speech to comply with the government’s demands, or to bend to future governments’ political agendas in other ways.`
+
+`Regulations relating to restrictions on speech must reflect a careful balance of competing policy goals and protections for civil liberties. Congress can only strike that balance through an open, transparent lawmaking process. It would be deeply irresponsible for Congress to offload that`
+
+`duty to an unelected commission, and especially not a commission controlled by unelected government officials.`
+
+`Please publicly oppose the EARN IT Act.`
+
+The best take away is the 2nd to last line that explains what the commission is.
+
+My email was written as Follows
+
+`I am writing with DEEP CONCERN in regards to the EARN IT Act (S. 3398)`
+
+`The bill does NOTHING to equip or train law enforcement agencies or it doesn’t seek to provide resources on how to either investigate NOR how to use online platforms to catch perpetrators.`
+
+`It’s underlying objective is to attack our First Amendment Rights AND Security of ALL U.S. Citizens online.`
+
+`It will attempt to create another commission that will want funding for NO OTHER REASON then to create “best practices”… And those practices MUST be approved by Congress as Legal Requirements.`
+
+`If a platform failed to adhere to them it would lose any protections from free speech.`
+
+`The most simplistic method of said “best practice” would be to break encryption.`
+
+`To put it in the most simplistic terms. “All U.S. citizens doors, windows, cellphone, computer locks should be removed.” Perhaps even to postulate that there should be one skeleton key able to open any and all locks at any time.`
+
+`This would allow online criminals both domestic and foreign to flourish and would set levels that would allow corporate espionage to divest the United States of America any research and technologies that we need to stay competitive.`
+
+`We already KNOW that Jeffrey Epstein didn’t need technology to do the things. Nor do any nefarious groups and individuals need technology to do so either.`
+
+`Please OPPOSE the EARN IT Act (S. 3398) knowing in good faith that this is meant to target American Citizens and American Companies only and allow exploitation of all of the United States of America companies and Citizens alike.`
+
+`Even to the point if said individual or company was in opposition of a viewpoint; the lack of encryption or skeleton key can be USED to PLANT FAKE EVIDENCE and CREATE both civil & criminal LIABILITIES.`
+
+`I urge you please communicate with other Senators and Congressmen and ask them or their neighbors; “if they would ever consider to remove all the locks on their homes and online”.`
+
+`Clearly, this is NOT… “for the children”`
+
+`Thank you for your time.`
+
+`Sincerely,`
+
+`|//////|`
+
+I want to preface again perhaps my writing is too "simplistic". And Perhaps I should have prefaced it with "As a U.S. Citizen and Resident of Your State". Perhaps the EFF correspondence is "just right".
+
+Regardless, Please Check how many Representatives you personally are able to contact. Attempt to contact them directly. And cut and paste or rewrite passages as you see fit. As a U.S. citizen who files taxes and pays the salaries of these individuals and government.
+
+Honestly, We may have to print out, sign, address the envelops, affix the Stamp and use the postal service.
+
+We have a (STILL) have a right to have our voices heard. Thank you all.
+
+Top Comments:

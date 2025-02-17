@@ -1,0 +1,48 @@
+Title: CMV: Despite getting heavily downvoted, u/spez was not wrong about what he said about racism and free speech
+
+Post:
+In case you don't know what I'm talking about, in the r/announcements transparency thread yesterday, one user simply asked if racism, including racial slurs, is against the rules on reddit. Here was u/spez response:
+
+"It's not. On Reddit, the way in which we think about speech is to separate behavior from beliefs. This means on Reddit there will be people with beliefs different from your own, sometimes extremely so. When users actions conflict with our content policies, we take action.
+
+Our approach to governance is that communities can set appropriate standards around language for themselves. Many communities have rules around speech that are more restrictive than our own, and we fully support those rules."
+
+That comment got over 1.3k downvotes, and an incredible amount of hate. But personally I don't think he's wrong. First of all, racism SHOULD be allowed on any social media platform. This is not only because protecting free speech and other opinions/viewpoints is important, it's also because the line of what can be called racism is very blurred. Is simply being anti-migrant racist? Is using the n-word as a joke a bannable offense? It's very tough to regulate and does more harm than good, all while tearing apart free speech. Now, I understand that the main problem people had with this answer is that u/spez has continued to refrain from banning r/the_donald, despite that subreddit doing many things that probably break the T.O.S. And I also understand that many racist remarks may include something that breaksbthe terms of service, for example saying "I'm going to fucking kill all Muslims" or something like that. So maybe he's not exactly being consistent. But racism in itself should not be a reason for being banned, and therefore u/spez is right.
+
+Top Comments:
+There are several issues with Spez's statement, many of which are shown in the thread below his comment:
+
+* Spez is being hypocritical and going back on previous promises regarding hate speech. [Spez has claimed "we have always banned hate speech, and always will."](https://www.reddit.com/r/reddit.com/comments/6m87a/can_we_ban_this_extremely_racist_asshole/c0497kd/?st=JDV3R8OI&sh=594a37d7) He has also said [hate speech "is not something we tolerate."](https://www.reddit.com/r/reddit.com/comments/6m87a/can_we_ban_this_extremely_racist_asshole/c0494ag/?st=JDV3PVMA&sh=faa004b1) This implies that his stance on hate speech or racism is not based on bedrock principles; it looks far more like he views tolerating racism as generally profitable for Reddit through gildings, and is using free speech as the least-bad explanation for why it is allowed.
+* Subs that frequently act out in hateful ways can be "quarantined" and denied advertisements. This shows that Spez and Reddit are, in fact, willing to take action against hateful subreddits... but only to ensure Reddit remains advertiser friendly. If there was a commitment to ideological free speech, these subreddits would not be restricted at all. If there was a concern about hate speech more severe than "advertisers might wind up next to this post", the subs would be banned entirely. The middle ground shows Reddit wants to have its cake and eat it too.
+* "Separate behavior from beliefs" is a meaningless phrase here. Reddit is a forum. Posting *is* behavior. In no other instance does Reddit say "well we can't moderate posts, because those are beliefs, and we don't want to moderate beliefs." Spez is using this phrasing to conflate banning people for their opinions with banning people for taking actions that serve to dehumanize others. The issue with tolerating racist speech is not simply that racists are allowed to exist Reddit, but that racists are allowed to take actions that serve to make others feel unwelcome. If Spez wants to defend that as an acceptable sacrifice for free speech, fine, but he needs to own the fact that he thinks limiting racist behavior is less important than free speech (or the extra traffic and gildings that result from creating an environment that doesn't drive away racist behavior).
+The downvotes were not for that comment in a vacuum..  They were for that comment in the context of a conversation about another subreddit in question.
+
+So I'm not sure if downvotes are the appropriate metric to determine how unpopular that specific quote is. 
+
+There is nothing wrong with the saying "Different strokes for different folks." Now if I use it as a rebuttal in a conversation about female genital mutilation....
+
+So I agree that there is nothing wrong with what he said in a vacuum but the context in which he said it makes it debatable.
+Honestly, I don't think the reason he got downvoted was because of what he said. I think it was how he said it. 
+
+No one is going to appreciate racism being called 'beliefs different from your own'. It equates 'I hate black people' with 'I don't hate black people'.
+I agree with this past statement, but wasn't spez also the guy editing conservative comments to make them look worse? 
+*EDIT* He edited his name out of comments and then tagged other sub moderators instead 
+Since my other reply was primarily about Spez himself, some quick comments on your personal views at the end.
+
+First: Plenty of social media is meant to be private, friendly, and welcoming. Allowing racism on those platforms is self-defeating, because they have eliminated their purpose to exist. Further, "free speech" is super nebulous, and saying that nobody should be allowed to create a private platform with rules is kind of saying *their* right to free speech is less important than the people who want to spew racist shit on that platform.
+
+Second: "The line can be blurred" is not really a compelling argument. Every rule on CMV, for instance, is a line that can be blurred, but they still all make the community a better place than if those rules were not in place. With private communities where the consequences for being banned are generally low (you can no longer participate), it is not a huge sacrifice for the rules to be a fuzzy line with "at moderator discretion" posted nearby.
+
+Third: Forcing platforms to allow racist or hateful speech does not necessarily lead to more "open" or productive discussions, because you run the risk of allowing voices that are currently discriminated against to be shouted down or feel unwelcome/unsafe in the community. For instance, if you allow violent anti-Muslim rhetoric in your community, do you really expect that Muslims will want to participate there? Even if you somehow view all opinions as equal and simply want the most open discussion possible, you're not guaranteed to get that by allowing people to treat other posters as subhuman.
+For the most part I agree - it's not for spez to define what racism is, but that would have to happen to enforce a policy banning racism. As he said, there are other rules that can take care of things that need taking care of.
+
+I disagree with you that Reddit (or any private entity) has a need or responsibility to protect free speech. The Constitutional right is only protection against government intervention in free speech. Beyond that, private companies and people can censor or berate things said in the spirit of 'free speech' as much as they like. And that's necessary. If MGOTW decided to invade TwoX, they would likely get banned from the sub immediately, and rightfully so. 
+
+That's why places like CMV exist - to talk about things, some of which may be uncomfortable, and maybe grow in that thinking. With a flat ban on certain speech, places like this where people can come and discuss contentious things could devolve into [a meme.](https://memeguy.com/photo/294569/change-my-mind)
+/u/budderboymania (OP) has awarded 1 delta in this post.
+
+All comments that earned deltas (from OP or other users) are listed [**here**](/r/DeltaLog/comments/8bmyi7), in /r/DeltaLog.
+
+Please note that a change of view [doesn't necessarily mean a reversal](https://www.reddit.com/r/changemyview/wiki/index#wiki_what_is_a_.27view.27.3F), or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)

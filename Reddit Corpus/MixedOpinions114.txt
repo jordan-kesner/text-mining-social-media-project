@@ -1,0 +1,44 @@
+Title: Subreddit News, Changes, and other Meta Topics
+
+Post:
+Firstly, thank you all for bearing with us as we determine some fundamental questions about the settings and organizational structure of the subreddit. I know some of you greatly disliked some of this trial period, but now we are getting ready to make a decision and move on. The poll stickied to the top of the subreddit will hang around for a few days, and you are welcome to comment below.
+
+Secondly, we are adding two new rule changes. As usual these rules are designed to raise the quality of the subreddit. 1) All meta-comments must be contained to meta posts. - This is a political subreddit not a drama subreddit. Anyone is welcome to make a meta post and anyone may comment within those meta posts. However, when we click on a political article or link, we want to discuss that content, not how you feel about this or other subreddits. This rule is not designed to stifle criticism of the moderators, the subreddit, or other subreddits, but it is designed to keep that meta discussion organized and away from political content. 2) No video links will be allowed unless they are video of primary sources.  - This rule will stop all video commentary and self-promotion. Youtube, Vimeo, news reports etc, of direct/live recordings of events will be allowed as primary sources. For example, the videos that were posted about the impeachment hearings would be accepted under this rule. CSPAN, FOX, and CNN all had direct video of the impeachment. However, video of Tucker Carlson, Anderson Cooper or Bill Maher commenting on the news of the day would not be acceptable. 
+
+Finally, we are a growing subreddit with many new members who haven't figured out what this subreddit is here for. I want to clearly reiterate the mission and purpose of the subreddit. **We are NOT a politically moderate subreddit.** We are a subreddit that discusses politics in a moderate fashion. We exist so that opposing opinions can engage with each other. We prioritize the differing opinion, and we encourage its expression so long as it follows our very limited ruleset on what is "moderately expressed". We do not curate content, and we do not curate quality. We curate personal attacks and subreddit formatting, that's it. To that end we will be making an automod sticky message at the top of every post which will clearly dictate that message. In the past, we have avoided that because the rules have stood for themselves, but it is becoming clear that we need to remind users every step of the way. As long as users stick to content and refrain from discussing character in any way, you will be on the good side of our rules.
+
+Please enjoy the rest of the subreddit, offer differing opinions and upvote quality content! Feel free to comment below on these changes, offer suggestions, thoughts, questions and smart remarks.
+
+Top Comments:
+Any more thoughts on keeping karma hidden while a thread is still relatively new but keeping everything else like up/downvotes and sort by the same?
+Please re-write the meta-comment mod message.  As it sits now it tells us to reply to the message ***or*** use modmail, yet if we reply we get our comment removed with the same useless message appended to it.  Addressing mod action is kind of inherently a meta comment so telling us to respond to the comment and then deleting it is kind of a really confusing instruction.
+Dude, I legit just finished writing a post asking to implement a rule about how meta comments should be restricted to meta posts. Thank you so much for this. The other rule change is fantastic as well. Great job, /u/RECIPR0C1TY and other mods. 
+
+For the record, here was what I was about to post: 
+
+_____
+
+> While rules changes are being discussed, I'd like to suggest a change that could really improve the quality of conversation: 
+> 
+> **No meta commentary except on on meta threads.** 
+> 
+> This would mean no comments about moderators, sub rules, sub bias or karma. So many threads get taken over by people with complaints about how /r/moderatepolitics is or is run. I don't want to detract from those complaints because people clearly want the sub to improve and many of the complaints make sense. 
+> 
+> That said, these comments often overwhelm substantive political discussion and the conversation ends up devolving to "this sub sucks/doesn't suck" rather than "I agree/disagree with this article because..."
+> 
+> To clarify, meta commentary wouldn't be banned, they would have to have their own thread as to keep political discussions about politics. 
+> 
+> Am I off base here? I had [a post last week](https://www.reddit.com/r/moderatepolitics/comments/gibuo4/meta_request_to_keep_comments_section_substantive/) discussing on the same topic. Is there a reason why this change wouldn't improve discourse on the sub?
+> stick to content and refrain from discussing character
+
+Would seem to imply that subjects, articles, primary sources focused on individuals or groups of individuals would be unwelcome in this subreddit since it can be quite difficult to discuss actions divorced from motives, and motives often trace back to character.
+
+From a different perspective, how much evidence would be required to write that a particular person or organization were misogynist? Can self-professed members of the KKK be labeled *racist*? Can groups which explicitly deny the validity of science be labeled *antiintellectual*? More concretely, can ISIS/ISIL be labeled *blood-thirsty*? What adjectives would be *haram* when discussing Boka Haram?
+Curious to see how the polling goes. Downvotes are a key part of Reddit, so I’d stop trying to tune the sub around those. (but why not stop downvotes at 0?)
+
+Controversial sort seems just as likely to make top post out of a “battleground for debate” as it does “le Reddit dumpster fire”. Even when it’s a battleground for debate, that doesn’t seem to fit the spirit of the sub. 
+
+I actually liked Contest Mode with hidden scoring. I like randomness, but really it’s because Contest/Hidden kills hivemind. (I would like to see scoring after a few hours, though.)
+> 2) No video links will be allowed unless they are video of primary sources. - This rule will stop all video commentary and self-promotion. Youtube, Vimeo, news reports etc, of direct/live recordings of events will be allowed as primary sources. For example, the videos that were posted about the impeachment hearings would be accepted under this rule. CSPAN, FOX, and CNN all had direct video of the impeachment. However, video of Tucker Carlson, Anderson Cooper or Bill Maher commenting on the news of the day would not be acceptable. 
+
+So does this mean no "talking head" videos in general, or just for well-known political commentators? In the past, there have been a lot of posts of YouTube videos of relatively no-name people breaking down political events or theory - could that fall under the category of "primary source" or "self post"?

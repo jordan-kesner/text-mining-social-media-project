@@ -1,0 +1,87 @@
+Title: Trump has talked up a US government stake in TikTok. Legal analysts say it could be a logistical nightmare.
+Source: Business Insider
+URL: https://www.businessinsider.com/why-us-government-tiktok-stake-could-be-logistical-nightmare-2025-1
+
+President Trump has proposed that the US government get a stake in TikTok as part of a sale.
+
+But can the government actually own a piece of TikTok?
+
+Legal analysts said it could spark free-speech issues that would make the app hard to run.
+
+TikTok needs to find a new owner for its US app to comply with a divest-or-ban law. Could it be the government?
+
+Since taking office, President Donald Trump has repeatedly proposed that the government get some type of stake in TikTok.
+
+"What I'm thinking about saying to somebody is buy it and give half to the United States," he said during a January 21 press conference.
+
+In its bid to buy TikTok, AI company Perplexity AI answered Trump's call. This week, the company updated its proposal to merge TikTok's US business with its own by offering the US government half of the new entity. That's on the condition that it goes public at a valuation of at least $300 billion, a source familiar with the offer told Business Insider.
+
+But what would happen to TikTok if the US government owns part of it? Is there a precedent for this?
+
+While the government has controlling shares in other companies, such as Amtrak, owning a piece of a major social app would be new territory.
+
+"It's a social-media company that has a significant platform demonstrably for political reach and communication," said Aram Gavoor, associate dean at the George Washington University Law School who focuses on issues in tech, regulation, and national security. The ownership would bring about "novel constitutional questions with regard to speech," he said.
+
+For a TikTok sale involving the government to work, the dealmakers would need to set up editorial guardrails to prevent the US from encroaching on its users' First Amendment rights. Even then, legal analysts told BI that TikTok's content moderation, such as removing videos that violate its policies, could create an avalanche of legal challenges from the app's users.
+
+"What would be necessary, though I'm not sure it would be sufficient, is an extremely strict separation between the government and this new TikTok entity, especially when it comes to anything editorial," said Alan Rozenshtein, an associate professor at the University of Minnesota Law School who previously served as an advisor at the Justice Department.
+
+Let's walk through some of the big questions around a TikTok deal.
+
+Can the government legally own TikTok?
+
+If the government grabs a stake in TikTok, it wouldn't be the first time it's done so in a company in a moment of flux.
+
+During the Great Recession, the government was deeply involved in various businesses, bailing out automakers and banks and taking a controlling stake in AIG, for example.
+
+It also owns consumer-facing institutions like the US Postal Service and Amtrak.
+
+There is some precedent for the government's financial involvement in media companies, too. The government funds the broadcasting network Voice of America, and Congress partially funds NPR and PBS through appropriations to the Corporation for Public Broadcasting.
+
+Each of those organizations has strict guidelines to protect editorial independence, however. NPR's ethics handbook says that its journalists have "full and final authority over all journalistic decisions." PBS said its content "must be free of undue influence from third-party funders, political interests, and other outside forces." And Voice of America has a firewall that "prohibits interference by any U.S. government official in the objective, independent reporting of news."
+
+A version of TikTok partially owned by the government would likely need to establish similar editorial barriers as its media counterparts and provide assurances of independence.
+
+TikTok CEO Shou Chew attended Donald Trump's inauguration in January. Shawn THEW / POOL / AFP
+
+Even if a TikTok deal establishes a government firewall, it might not hold up in court
+
+Even if TikTok sets up contract language to keep the government out of its editorial work, it may not matter in the courts. Other government-owned entities that have attempted to define themselves as independent have faced First Amendment lawsuits and lost.
+
+In 1994, Amtrak was sued after it tried to block a billboard from displaying political content in one of its stations. The Supreme Court ruled that the company, as a government entity, had violated the First Amendment rights of the billboard's creator.
+
+The Supreme Court said that Amtrak, by virtue of being federally owned and controlled, "was subject to First Amendment restrictions in the same way as any other federal actor," said Jennifer Safstrom, a law professor at Vanderbilt University Law School who directs its First Amendment clinic.
+
+In its opinion on the case, the court wrote that even though Congress attempted to establish Amtrak as independent from the US government, "it is not for Congress to make the final determination of Amtrak's status as a Government entity for purposes of determining the constitutional rights of citizens affected by its actions."
+
+The case establishes that the government's self-characterization of how it owns a company may not stand on its own. "Courts will look beyond formal language to assess the extent of the government's entanglement," Safstrom said.
+
+Would a government-owned TikTok be allowed to block porn and hate speech?
+
+Many social apps block pornography and hate speech (and a ton of other stuff like content promoting eating disorders) as part of their community guidelines. But those types of expression are generally protected under the First Amendment, and a government-owned TikTok may face a flurry of legal challenges if it removes videos.
+
+Related stories
+
+These are "uncharted waters," Safstrom said. "It's hard to know how expansive that world of litigation could be given the volume of users on that platform."
+
+If TikTok continually gets challenged for pulling down hate speech and other unsavory content and stops a lot of its moderation work, it would be "essentially unusable and certainly very unprofitable," Rozenshtein said.
+
+Who would control the TikTok algorithm?
+
+The First Amendment protects the speech of TikTok users. But what about TikTok's algorithm? If the US government owns a part of TikTok, can it limit what users see?
+
+That question remains up in the air, as algorithm decisions may qualify as "government speech," legal analysts said.
+
+"If the government has a platform, it's not obligated to promote every person's particular point of view," Rozenshtein said. The government often makes choices as to what content it shares or doesn't share, such as last year when the State Department worked with the private sector to promote a set of music artists internationally as part of a diplomacy initiative.
+
+He said the postal service offers a possible comparison for understanding why the government may have more discretion over the TikTok algorithm versus users' videos. The post office gets to decide what art it features on stamps, but it doesn't have the authority to limit most of what people write in the letters they send in the mail.
+
+TikTok creators like Vitus Spehar, who posts as @underthedesknews, use the app to talk about news and current events. Nathan Posner/Anadolu Agency via Getty Images
+
+Ultimately, there are many unknowns as to what will happen around a TikTok sale, if ByteDance opts to sell it at all. Earlier this month, TikTok's lawyer said divesting its US app from its parent company would be "extraordinarily difficult" over any timeline.
+
+And, of course, the Chinese government could block a ByteDance deal.
+
+Asked on January 21 about a TikTok sale, China's Foreign Ministry spokesperson seemed open to letting a deal be "independently decided," though he added that "China's law and regulations should be observed."
+
+Representatives for the White House, TikTok, and ByteDance did not respond to requests for comment.

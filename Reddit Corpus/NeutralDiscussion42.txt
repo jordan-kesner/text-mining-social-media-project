@@ -1,0 +1,44 @@
+Title: Is it a violation of free speech to force NRA TV from broadcasting in the US?
+
+Post:
+There’s a loud movement right now asking companies like Apple, YouTube, Amazon and others to pull the NRA TV channel from airing. 
+
+I realize that these aren’t traditional TV mediums, and I don’t know if they air their channel through companies like Comcast or Time Warner. Even if they did, would it be any different than asking YouTube to pull them?
+
+I don’t know how accurate a comparison this would be, but the only other similar case I can think of is outlawing advertisement of cigarettes through most mediums (TV, online, but not some print I believe).
+
+So, are the calls to pull this channel a violation of free speech?
+
+Edit: no it’s not. 
+
+Top Comments:
+Freedom of speech applies only towards the government. 
+
+People/groups can call for boycotting of ads from tv as much as they want.
+No. A private company has complete freedom to bar a broadcast on their platform if they choose to.
+
+It would be a violation of free speech if the government were to ban the NRA from broadcasts, but that's not what is being requested.
+Is it a violation of free speech for a network to be forced to broadcast NRA TV?
+
+Of course it is. Companies are free to discriminate against anyone who is not a part of a protected class. 
+It may be helpful to clarify what you mean when you say "violation of free speech".  Are you talking about violations of some law which is meant to protect the freedom of speech, or do you mean something that is somehow (but not legally) contrary to a general principle that speech should be free?
+Legally, no. A private company doesn't have to provide anyone a platform. 
+
+I worry if these companies, which have a lot of control over the information we get, make these kind of decisions for political reasons there's going to be a push to restrict them from doing so. I hope they use their power to censor very judiciously, and pulling NRA TV (even though I probably disagree with much of its message) doesn't meet my threshold. Basically, I want them to keep their current control so they can censor Nazis and such, people who are truly terrible, and I worry if they pull things like NRA TV over normal political disagreements, lawmakers are going to intervene to restrict them and end up empowering the truly bad actors in the process.
+
+But no, under current law it would not be a violation of any legally protected free speech right.
+One exception: The public owns the airwaves, and the FCC acts in the public’s best interest. So, the government can, to a degree, regulate what goes out over the air. But, as you noted, online streaming and cable channels are not over-the-air broadcasts. So the govt can not regulate NRA-TV. 
+Youtube and the rest can refuse to host any content they wish. It has absolutely nothing to do with free speech.. 
+The common idea is that the first amendment doesn't apply to speech on private property but that isn't exactly the case. [Marsh v. Alabama](https://en.wikipedia.org/wiki/Marsh_v._Alabama) extended first amendment rights to private property in some circumstances.
+
+Relevant bit from the wiki:
+
+>The State attempted to analogize the town's rights to the rights of homeowners to regulate the conduct of guests in their home. The Court rejected that contention, noting that ownership "does not always mean absolute dominion." The court pointed out that the more an owner opens his property up to the public in general, the more his rights are circumscribed by the statutory and constitutional rights of those who are invited in.
+
+>In its conclusion, the Court stated that it was essentially weighing the rights of property owners against the rights of citizens to enjoy freedom of press and religion. The Court noted that the rights of citizens under the Bill of Rights occupy a preferred position. Accordingly, the Court held that the property rights of a private entity are not sufficient to justify the restriction of a community of citizens' fundamental rights and liberties.
+
+[Pruneyard Shopping Center v. Robins](https://en.wikipedia.org/wiki/Pruneyard_Shopping_Center_v._Robins) went further by strengthening first amendment rights on private property even more than Marsh v. Alabama on the basis that State constitutions can take free speech protections further than the first amendment can at the federal level. This applies specifically to California where Apple and Youtube HQs are located and where the California Supreme Court has taken a "liberally construed *affirmative* right to free speech".
+
+The case against the NRA is [Lloyd Corp. v. Tanner](https://en.wikipedia.org/wiki/Lloyd_Corp._v._Tanner), where the Supreme Court established that free speech can be restricted on private property if the same effect could be made using public property. Looking at the internet specifically, [Cyber Promotions v. America Online](https://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1181&context=btlj) (PDF) established that a private company could block an organization's speech through email via a spam filter.
+
+As far as I can find there's still a bit of a void in constitutional case law regarding something like this so it's hard to say exactly how a court would see it. I do think it's a lot more complicated than people are making it out to be though.

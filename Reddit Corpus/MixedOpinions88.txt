@@ -1,0 +1,96 @@
+Title: CMV: Mods Should Not Be Able to Permanently Ban Users
+
+Post:
+Reddit is meant to be a place for open discussion, but many subreddits have become echo chambers. One major reason for this is that moderators have the power to permanently ban users, often for minor disagreements or for questioning the majority opinion in a sub. This kind of moderation silences different perspectives and makes Reddit less engaging.
+
+Permanently banning someone for a single misstep or unpopular opinion feels heavy-handed and unfair. Sure, moderators need tools to keep communities organized, but this level of power often gets abused. A 48-hour cap on bans could solve a lot of these issues while still allowing mods to enforce rules.
+
+Here’s why Reddit would benefit:
+
+**Fairer Moderation:** Temporary bans allow users to reflect and come back without feeling completely alienated. This keeps moderation from feeling like a personal vendetta.
+
+**Less Abuse of Power:** Mods have biases and make mistakes. Permanent bans leave no room for second chances and give mods too much control over who gets to participate.
+
+**Healthier Communities:** Echo chambers might feel comfortable for some, but they’re terrible for fostering real discussion. Letting different perspectives in is better for everyone.
+
+**Room to Fix Mistakes:** A temporary ban gives users a chance to learn from their mistakes and rejoin the community instead of being shut out forever.
+
+To be clear, I’m not saying there should never be long term bans. For serious stuff like harassment or hate speech, exceptions can be made, ideally through some sort of review process. But giving mods the ability to permanently ban users on a whim? That’s not good for Reddit or its communities.
+
+Top Comments:
+/u/Empty_Alternative859 (OP) has awarded 3 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/1gvl07c/deltas_awarded_in_cmv_mods_should_not_be_able_to/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+> Reddit is meant to be a place for open discussion, but many subreddits have become echo chambers.
+
+Not all subreddits are "*a place for open discussion*" though. There are also specific subs that only contain professional, well-supported replies by professionals or specialists with a track record in their respective areas of expertise. Examples are /r/AskHistorians, /r/AskBiology, /r/askphilosophy and /r/AskDocs.
+
+In those subs it would be a disservice to the users who come there *specifically* to ask for help from professionals, if anyone with some half-formed opinion was able reply to their serious questions about medical problems, the views of historians etc.
+You are making an assumption that all Redditors are reasonable and engaging in good faith.
+
+So I should not permanently ban a user who comments “I am glad <insert name here> died. They are better off away from you.” in a grief support subreddit?
+
+What if those are their only comments in the subreddit?
+
+Should I only give a 1 day ban to a user who makes a comment that would cause OP’s pet to die if followed? 
+
+Moderators have a duty to protect their communities. Banning is one tool. It should be used judiciously (warnings, temp bans, permanent bans). 
+
+In a perfect world, we would not need permanent bans. However, this is not a perfect world, and whereas some users are reasonable and willing to adjust future behavior to accommodate the subs rules, more often than not, they are not willing to be reasonable. Most dog subs are either R+ (Reward Only) or LIMA (Least Intrusive Minimally Aversive), a Redditor coming in and commenting “you should use a prong collar regardless of what sub rules state” is not engaging in good faith.
+
+The reason that r/petloss has so many more moderators than it used to was because of 1 troll that came in telling people that the were glad that the their pets were dead. They used many alternate accounts, evaded bans like crazy (Reddit had fewer ban evasion tools at this time) and were causing immense mental anguish to people. And as we adjusted the automod and sub settings to a point that we were pretty much always intercepting this person before their comments made it to the subs grieving Redditors, they would start harvesting names of people posting in our sub and making nasty comments in other subs that didn’t have the same tooling we had created. Can you honestly tell me that person does not deserve a permanent ban as the first step?
+What about spam bots?
+
+Those appear as normal users but can destroy a community in days by posting and commenting hundreds on times.
+As a person who has been a social media manager for very large organizations, as well as a volunteer moderator for assorted communities on various social media platforms, I believe there is a sincere misunderstanding as to the purpose of banishment.
+
+Communities, both off-line and online, tend to have a problem with condemning bad behavior for the sake of avoiding conflict. Most folks in social setting are there to have a good time, to learn, to engage in a hobby, whatever that looks like and inherently as a part of that, conflict is not something you would seek out. But what that ends up creating are dynamics where individuals with malicious intent or a critical lack of interpersonal skills flourish.
+
+We’ve all experienced that person in the social circle who pushes things too far, or who uses phrases like if you can’t handle me at my worst, or hides behind I’m just a blunt person and I tell it like it is. That person might be sexually aggressive toward members of the group, that person might be mildly or even prominently bigoted, that person might cause active disruption to the social cohesion, but normally that will go unresolved for much longer than it should out of a sense of conflict avoidance. “Oh, that’s just Chris, everybody knows how they are, we just have learned to live with them. nobody wants to say anything because they’ll get upset and cause a scene, it’s better just to ignore them.”
+
+In certain nerd circles, this is called the broken stair theory. When you live in a house where one of the stairs in the staircase is broken and no one has the will or the expertise or the resources to fix it, you just learn to step over it. You ignore the fact that it is dangerous and could cause a tremendous amount of harm because eventually you just become inured to noticing it at all. It usually takes an outside observer to either become injured by it or to point it out to get it fixed.
+
+Likewise, broken stairs in social circles are usually time bombs waiting to explode. Everyone simply gets used to them and has no interpersonal resources available to understand how to fix the problem, and it very often ends with a newcomer to the social circle realizing what a toxic individual that is and reacting very negatively toward sexual aggression or blowing up at offensive behavior to get everyone else to realize just how bad things have gotten.
+
+So all that said, let’s talk about the value of banishment. It’s easy to believe that the purpose of banishment is to punish the individual perpetrating bad behavior. Punitive actions are usually designed to create behavioral change and so you might think banning that person would lead to a change in behavior such a temporary banishment would result in that person changing their ways and returning to the group, a better and more cohesive actor. That is not the purpose of banishment.
+
+Banishment allows the other people in the group to enjoy their time in the group without the presence of the bad actor. If you have a social circle of 20 individuals, one of whom is a malicious person, banishment means 19 people have a happier life. It doesn’t matter that the one person has been punished or now has a less happy life, part of that person’s happiness was derived from making other people miserable, and that is unacceptable in the social contract. By banishing that person, everyone else is made happier and more whole. It is not the responsibility of the 19 people to fix the one; that person is responsible for themselves.
+
+We can certainly hope that the experience of banishment give them an opportunity to improve as a person and that the next group they join will not have the issues with them. But the people that have already had to endure their bad behavior should not be subject to the possibility that when they return, they will return to the bad behavior. The people who remain are not responsible for sacrificing their own potential enjoyment for the sake of the possible enjoyment of one person who may or may not learn from their mistakes and become a better person.
+
+This is why permanent banishment is a perfectly acceptable solution to malicious behavior. It’s highly unlikely that the person who is banished can’t find other opportunities to interact with people in a more healthy manner once they have reformed. If you get kicked out of your D&D group for being a jackass, you can probably find another D&D group. If your church kicks you out for hitting on first time visitors, you can probably find another church. If a particular subreddit bans you for being a troll, you can likely find another one that discusses the same topic. And even if you can’t, that is not the responsibility or the problem of everyone left in that community. They now have been given the chance to enjoy their participation more through your absence. And they don’t owe you anything, not a second chance, not rehabilitation, nothing.
+
+With very few exceptions, all social interaction is optional. No one is required to interact with anyone they don’t want to. And if the consensus of a group is that someone in that group is a greater detriment than benefit to the group, there’s no reason they are absolutely required to put up with that person. I think we would all enjoy our lives more if we cut out tumors that are simply feeding off the harm they are doing to others.
+I moderate a German mental health subreddit. People try to help each other, talk about their experience and the like. I want to specifically attack your central formulation of your view: "Mods Should Not Be Able to Permanently Ban Users"
+
+
+I think this would cause great grief in mental health subreddits. The harmful behaviour reaches from advertising your "service" or "solutions" to desperate people, to trolls trying to get people to kill themselves.
+
+
+I think the only adequate response to those things is a permanent ban, everything else is dangerous to a rather vulnerable group of people, namely people looking for mental health support in subreddits.
+Subreddits are communities, communities are run by people, and people have subjective standards. Your speech isn't protected from being banned from communities that aren't hosted by the government in the US anyway, and certainly not from virtual communities hosted by a private company. I can't think of any reason why your speech would enjoy such protections on a private platform to begin with.
+
+Your view would subject subreddits like r/TwoXChromosomes to a nearly endless barrage of misogyny from the worst types when it is very literally supposed to be a space for women to talk about experiences and thoughts they have as a woman, with women. Pick your other flavor of subreddit of any similar kind and their hate group would likely become their loudest audience without permabans, since by the nature of subreddits they're easy to target being about specific topics.
+
+Further, Reddit doesn't, and never will employ enough admins to deal with the huge amount of extra moderation work this would create by taking this power from moderators.
+
+In summary, if your view succeeds it creates great harm to active members of many communities for some small benefit of protecting your ability to be present and express yourself in niche online communities.
+I think mods should be able to police their communities as they see fit. But I do think there should be transparency in the rules that lead to bans, and ideally warnings in the case of behavior or content that is not harassment or hate speech.
+
+Only community I have been banned from was for a weird reason - "posting a controversial opinion", and it was a permanent ban on first offense. Was strange to me as I wasn't saying anything particularly controversial, didn't incite a bunch of negative comments or downvotes even but a day later I got a mail from a mod banning me permanently. 
+
+I guess it's their right but yeah, does make it a bit echo chambery.
+If someone has convinced the moderation team that they're a troll who has no intention of being a good-faith participant, there's no reason to require the moderation team to re-ban them every 48 hours. 
+
+Sure, permanent bans can potentially be abused, but if a moderator does that, there's nothing stopping users from getting together and creating a new subreddit with a different moderation team.  It's happened many times before.  Literally anyone can create a new subreddit.
+The vast majority of subreddits are not intended to foster the kind of discussion it looks like you think they are. 
+
+Many subreddits are in fact specifically for people with a particular view. For instance r/askfeminists does not allow non-feminist perspectives in its top level comments, and bans are issued frequently. Why should it be any other way?
+
+Furthermore, other subreddits are not for having deep discussions at all, and are merely a bit of escapism. That’s okay too! 
+
+Your statement has an assumption. You assume that genuine discussion is the point of Reddit, and while it is the point of some of Reddit, like here, it is not the point of most of it. Thus nobody cares that bans may restrict the amount of perspectives, thereby leading to a less healthy debate. That’s just not the point.

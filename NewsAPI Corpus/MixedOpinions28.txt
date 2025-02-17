@@ -1,0 +1,259 @@
+Title: The Wire China – All In
+Source: Thewirechina.com
+URL: https://www.thewirechina.com/2025/01/19/all-in-kai-fu-lee-ai/
+
+Illustration by Luis Grañena
+
+In May 2019, the Beijing-based venture capitalist Kai-Fu Lee was serenaded by a children’s choir in Oak Ridge, Tennessee. The song was “Rocky Top,” a wistful state anthem. “Rocky Top, you’ll always be home-sweet-home to me,” the children sang, as Lee, then 58, looked on graciously in a baby blue tie.
+
+An excerpt from an article published by The East Tennessee Catholic covering Kai-Fu Lee’s visit to St. Mary School in Oak Ridge, May 6, 2019. Credit: The Diocese of Knoxville
+
+A former executive at Google, Microsoft and Apple, Lee had forged an exalted career navigating the lucrative liminal spaces between the Chinese and American tech industries. In China, his social media accounts boasted tens of millions of followers, and in 2013, Time named him one of the most influential people in the world.
+
+But it was in Oak Ridge, as the teenage son of immigrant Taiwanese parents in the 1970s, that Lee learned English from a Catholic nun. That May in 2019, he was visiting his old high school, St. Mary’s, to receive a Distinguished Alumni award. Presenting it to him on stage, a nun underscored the humanity in his technological accomplishments. “He has done so much good in the world,” she said. “He has really helped so many people.”
+
+At the time, Lee was drowning in adulation. A year earlier, his book AI Superpowers: China, Silicon Valley and the New World Order, received radiant reviews, reaching number six on the New York Times Best Sellers list. Microsoft CEO Satya Nadella blurbed it as “clear-eyed and a must-read.” U.S. senators devoured advance galleys. With sagely confidence, Lee predicted in the ghost-written book that the “AI world order will combine winner-take-all economics with an unprecedented concentration of wealth in the hands of a few companies in China and the United States.”
+
+“In the age of AI, where data is the new oil,” he wrote, “China is the new Saudi Arabia.”
+
+Kai-Fu Lee delivers a TED talk titled ‘How AI can save our humanity’, April 12, 2018, Vancouver, Canada. Credit: Bret Hartman/TED via Flickr
+
+Suddenly, for every media outlet and conference organizer, Lee became America’s eloquent oracle from the Far East, heralding glittering, if frightening, visions of an AI-empowered future overshadowed by America’s greatest rival.
+
+“He became a rockstar,” says Raj Reddy, a computer scientist at Carnegie Mellon University and Lee’s 1990 dissertation advisor. “He has become an AI guru.”
+
+In the years before OpenAI released the first version of ChatGPT in November of 2022, it really did appear that China might dominate the emerging AI era. In 2017, Beijing released its strategy, “New Generation Artificial Intelligence Development Plan,” which laid out how China would become a global AI leader by 2030. And the market was responding: in 2017, Chinese AI start-ups accounted for nearly half of all AI funding dollars, surpassing U.S. start-ups for the first time, according to data collected by CB Insights.
+
+An excerpt from China’s ‘New Generation Artificial Intelligence Development Plan’, released July 20, 2017. Translation via DigiChina
+
+“The AI world order will combine winner-take-all economics with an unprecedented concentration of wealth in the hands of a few companies in China and the United States,” Lee warned in AI Superpowers.
+
+Yet, just shy of a decade later, the world that Lee foresaw has not yet come to pass. In the global tech industry, AI has indeed become the coin of the realm, minting new billion dollar firms and supercharging pre-existing ones. But most of this activity has taken place within the bounds of only one superpower: the United States.
+
+“I heard an apocryphal story,” says James Andrew Lewis, a senior vice president at the Center for Strategic and International Studies (CSIS). “A senior Chinese official called up Kai-Fu Lee and said, ‘Hey, you said we were going to be the AI superpower. How come the Americans came up with Chat-GPT?’” (Through a spokeswoman, Lee declined an interview with The Wire.)
+
+Indeed, China’s AI promise has been notably underwhelming — at least in Generative AI. America not only boasts leading industry behemoths like OpenAI, Google, Microsoft and Anthropic but also the firms designing the most advanced AI chips like Nvidia and AMD.
+
+China accounts for more patents and research papers on AI than any other country. And it produces nearly half of the world’s AI talent, according to the research group MacroPolo. But the size of its AI sector, which has produced few companies known outside of China, is only a quarter the size of America’s. According to data compiled by Glass.AI, which tracks global industry trends, China’s AI sector is about the same size as the United Kingdom’s — hardly “superpower” status.
+
+“The prediction that China would lead the world in AI certainly seems to have been premature,” says Arun Sundararajan, a tech-focused business professor at New York University. “From both an impactful research point of view and from a product point of view, the U.S. is dominating today.”
+
+Kai-Fu Lee at the World Economic Forum Annual Meeting, January 17, 2024. Credit: WEF via Flickr
+
+Despite the flub, Lee is still in the predictions business. He pontificates regularly, on Chinese and English business podcasts and at prestigious forums like the World Economic Forum in Davos, the Philanthropy Forum in Singapore and the Future Investment Initiative in Riyadh, to name just a few he attended in 2024.
+
+“I would predict that this year, 2025, is the year of AI apps,” he said just this week, at the Asian Financial Forum in Hong Kong. Moreover, he added, it will be China’s year to catch up since China’s mobile apps have long been ahead of America’s: “We all know that WeChat is much better than WhatsApp. TikTok is much better than Instagram, and Temu and Shein are bright new stars in the mobile app area,” he said. “The Chinese teams have figured out how to find product-market fit within China and globally, and that will transfer to AI apps. So I would predict that 2025 will be the year of AI apps, and it will be the year in which people will see China shine again in apps.”
+
+I viewed him as somebody who had the kind of drive and initiative that would help us pull together the research lab in China. Once he came on board, he immediately started building relationships within the academic community and the technical, scientific parts of the Chinese government. Rick Rashid, founder of Microsoft Research
+
+Lee has thrown himself directly into this competition. In March 2023, he started his own company for the first time, a generative AI start-up called 01.AI (pronounced “zero one”). 01.AI develops large language models similar to Chat-GPT and is creating a suite of AI-powered apps targeting business customers. It has a $1 billion valuation, according to Lee, whose own venture capital outfit, Sinovation Ventures, is backing it, and in January, Alibaba announced that it was partnering with 01.AI to build an “industrial large model laboratory” to develop new AI models for Alibaba’s business clients.
+
+A post made by Kai-Fu Lee on Weibo, April 27, 2013. Image via Free Weibo
+
+Lee is Taiwanese by birth. He was a naturalized U.S. citizen until 2011, when he renounced his American citizenship after being attacked online by Chinese nationalists. After relocating to the People’s Republic of China (PRC) to work, he wrote in a 2013 Weibo post, “I began to feel more and more deeply that China is the land that really belongs to ethnic Chinese.” (He does not have PRC citizenship but has said he is a permanent resident of Hong Kong.) He chose to base 01.AI in Beijing, he has said, because he was worried about the economic well-being of his adopted country. With a suite of sanctions and export restrictions, Washington is working hard to stymie AI development in the Middle Kingdom — a development that undermines Lee’s belief in the neutrality of technology.
+
+“I saw the world dividing up into parallel universes and that someone needed to do a [generative AI platform] for China,” he said in a recent podcast with former Microsoft president Brad Smith. “Otherwise, Chinese businesses and people would fall way behind. All the work that Deng Xiaoping did to bring China forward could be lost if the world had GenAI but China didn’t. So I thought I would do it.”
+
+Credit: Kai-Fu Lee via Facebook
+
+During his meteoric rise, Lee was often in this position of bringing American tech and corporate leadership to China. As head of the influential Beijing-based research lab Microsoft Research Asia, and then as president of Google China, he became the preeminent example of a 21st-century haigui, or sea turtle, the colloquial term for overseas Chinese who relocate to the motherland to work. He teetered elegantly between the two poles even as he spoke out publicly about the need for China to adopt more liberal values.
+
+“China’s technological progress is rooted in these transnational linkages,” says Scott Kennedy, a CSIS Chinese technology expert. “Kai-Fu is the prime example of that.”
+
+But in an era of export controls, trade wars and entity lists, many of those linkages have been torn asunder under geopolitical strain. With his liminal space becoming something of a no-man’s land, Lee has been forced to choose his preferred territory.
+
+“He was one of the first well-known, established Silicon Valley business and technology executives to set up shop in China, more or less permanently,” says Jimmy Goodrich, a Chinese technology expert and advisor to RAND. “He’s not the only one, but he’s certainly the most prominent.”
+
+Kai-Fu Lee speaks during a Sinovation Ventures trend sharing meeting on “New Opportunities from AI 1.0 to AI 2.0”, held at Sinovation’s headquarters in Beijing, March 14, 2023. Credit: Sinovation Ventures
+
+“He’s squarely in the China camp,” says a Chinese-American partner at a San Francisco venture capital firm who requested anonymity to speak freely. “Everyone sees Kai-Fu as very Chinese.”
+
+Lee’s choice to go all in on China is not without consequences. Some of Sinovation’s non-Chinese companies, for instance, have faced scrutiny in the U.S. because of their association with him, according to recent reporting by The Information. 01.AI is also having to cope with being cut off from leading-edge chips and making do with Chinese-made ones, a process Lee has called “not fun.” And although Lee and his 01.AI co-founder, Qi Ruifeng, hope to make their firm a “global company,” Lee has said so far it is only focused on China, where the AI competition is fierce and only growing fiercer. Some 4,500 companies are now battling it out for survival. The foment reminds insiders of past epic brawls in Chinese tech, like the War of a Thousand Groupons. The major difference in this go-around is the pivotal role that Washington, with its newfound penchant for aggressive regulation and sanctions, plays.
+
+Kai-Fu Lee’s A Walk Into the Future, published October 2006, by the People’s Publishing House.
+
+“He has picked a side,” says Lewis. “He’s bet on China. I’m just not sure it’s a winning bet.”
+
+Machine Learning
+
+In the early 2000s, Lee released nine business and leadership-oriented books in China, four of which catered to young readers. These covered topics such as how to build a career, how to study hard, and how to navigate a rapidly globalizing world.
+
+“I felt that Chinese students were not as exposed to a lot of the mentorship and [entrepreneurial] thinking that American students were more privileged to,” he recalled in a 2020 presentation hosted by Rice University. “It was something that my heart told me to do.”
+
+At the time, his corporate public relations agents tried to dissuade him from becoming a motivational father figure of this kind because he “didn’t grow up in mainland China,” he added. His Sichuanese father, Li Tianmin, was a Chinese nationalist legislator and political historian who had fled to Taiwan after the Chinese civil war. Lee had never lived in the PRC until 1998, when he became the first director of Microsoft Research Asia (MSRA). But that didn’t seem to matter. Lee was soon a fixture on university campuses, and has estimated that he’s spoken to over 500,000 students.
+
+Kai-Fu Lee delivers a speech titled ‘I learn and I grow’ to students at China Jiliang University, in Hangzhou, November 10, 2007. Credit: China Jiliang University
+
+“He spoke to the media, he spoke to university students, he went on lecture tours,” says Yu Zhou, a geographer at Vassar College who wrote a book on the origins of the Chinese tech industry. “He became very, very visible.”
+
+In the heady twilight of the Hu Jintao administration, it was a good time to be visible. China’s supercharged economy was growing at an average of 10 percent per year. Multinationals were flocking to Beijing, Shanghai and Shenzhen with billion-customer dreams. And China’s technology giants, like Alibaba, Baidu and Tencent, were becoming globally competitive.
+
+Microsoft had tapped Lee to lead MSRA thanks to his stellar reputation in academia for research and in Silicon Valley for leadership. As a graduate student at Carnegie Mellon University, his 1990 dissertation on speech recognition had caused a sensation. “The whole thesis was a major breakthrough,” says Reddy, his dissertation advisor and a celebrated computer scientist.
+
+An excerpt from Kai-Fu Lee’s dissertation, ‘An overview of the SPHINX speech recognition system’, 1990. Credit: Robotics Institute Carnegie Mellon University
+
+“He was always very calm,” recalls Sanjoy Mahajan, who, as an undergraduate, worked with Lee on an award-winning computer program at the university. “Nothing flustered him.” Mahajan says that Lee often invited him and others to his house to enjoy his wife’s Taiwanese dumplings. (The couple met in Taipei and have two daughters.) “Working with him, he was not greedy at all,” Mahajan says. “He shared ideas and credit.”
+
+Apple Computers CEO John Sculley and Kai-Fu Lee present “Casper” on Good Morning America, March 2, 1992. Credit: Brian Roemmele via YouTube
+
+Lee did a short stint as an assistant professor at Carnegie Mellon before Apple recruited him to oversee the development of speech recognition programs. He often jokes that he worked there “between Jobs,” meaning during the period that Steve Jobs was absent. But he was instrumental in developing a speech recognition program called Casper, which he was able to demonstrate on Good Morning America alongside Apple CEO John Sculley in 1992.
+
+Four years later, Lee was poached by Silicon Graphics, an ill-fated computer hardware company in Mountain View, California. In July 1998, just days before the company reported $460 million in losses for the fiscal year, Lee resigned to relocate to China with Microsoft.
+
+Microsoft opened seven other such research centers around the world, from Cambridge to Bangalore, but MSRA, the largest one, was notable for its impact. Much of MSRA’s work concerned deep-learning, speech recognition and natural language and image processing. Under Lee’s leadership, MSRA quickly became regarded as China’s most prestigious training ground for ambitious software engineers. Based in Beijing’s techy Zhongguancun neighborhood, the center focused on developing cutting-edge software for use in both China and beyond. Running it, Lee earned a reputation as an effective navigator of the young, tumultuous Chinese internet economy.
+
+“I viewed him as somebody who had the kind of drive and initiative that would help us pull together the research lab in China,” recalls Rick Rashid, founder of Microsoft Research. “Once he came on board, he immediately started building relationships within the academic community and the technical, scientific parts of the Chinese government.”
+
+[Kai-Fu Lee] really towed back to the Party line. But his change in tone has made a lot of money for him. a Chinese technology expert
+
+After two years in Beijing, Lee returned to America as a corporate vice president at Microsoft’s Washington state headquarters. He worked there for five years, including on projects with Bill Gates, before another tech giant, yet again, worked to woo him away. This time it was Google, who wanted Lee to return to Beijing to lead its embattled China operation.
+
+Eric Schmidt, then CEO of Google, with Kai-Fu Lee, then Vice President of Google China, and Johnny Chou, then President of Google China at a press conference in Beijing announcing Google’s entry into China, April 12, 2006. Credit: Peter Parks/AFP via Getty Images
+
+Lee, who had been growing bored at Microsoft, as he recalled in the Rice University presentation, had actually emailed Google President Eric Schmidt asking to be considered for a job. Google was “the hottest company everyone wanted to work for,” Lee recalled. “People would joke that if they didn’t get invited to an interview, they must not be very smart. I thought I had to get myself an interview.”
+
+But Microsoft, which was in the throes of a fierce battle with Google over internet search, put up a multimillion dollar stink. They sued Google, claiming that Lee had violated his employment contract. They aimed to disbar Lee from working on projects that risked divulging Microsoft trade secrets. It was a bitter exit.
+
+A statement from Microsoft concerning the lawsuit filed against Kai-Fu Lee and Google, July 19, 2005. Credit: Microsoft
+
+“He certainly burned a bunch of bridges with people at Microsoft at the time,” says Rashid, who is still friendly with Lee.
+
+Google countersued, accusing Microsoft of “a shocking display of hubris” in court documents. The press swarmed. Overwhelmed by the attention and accusations, Lee has called it “the darkest moment of my life.” He couldn’t sleep. He grew depressed. He lost weight. He took refuge in reciting the serenity prayer that he learned at catholic school in Oak Ridge.
+
+But the companies eventually settled privately, and Lee went on to develop a reputation as a strong president with a quirky style at Google China. At the company cafeteria, for instance, he had the chefs serve his mother’s Taiwanese beef noodle recipe. At the time, Google China was competing mainly against Baidu in hopes of dominating the internet search market. Lee had promised to make “Google Chinese search the best search that exists.” But a number of issues, including an overbearing Chinese regulatory regime, made this ultimately impossible to fulfill. In January 2010, Google announced it was discontinuing search censorship in China, effectively ending its business there.
+
+A Weibo post from Kai-Fu Lee commemorating the 10 year anniversary of Sinovation Ventures, formerly known as Innovation Works, September 7, 2019.
+
+Although Google failed in China, Lee’s reputation prospered.
+
+“He was very charming,” says Chen Qiufan, who worked under Lee there. “He was very good at communicating goals and expectations.”
+
+As Lee had demonstrated at Silicon Graphics, he also had an uncanny ability to divine the corporate trade winds. In September 2009, four months before Google’s announcement, Lee resigned. Within three days, he announced that he had raised $115 million to launch a tech incubator-cum-venture capital firm, called Innovation Works, in Beijing. Backers included YouTube co-founder Steve Chen and Foxconn Technology Group.
+
+“We’re going to collect the best ideas, and we’re going to hire the best engineers and entrepreneurs,” Lee told the New York Times at the time. “After one year, we’ll send the companies into the open. If they get venture capital funding, great; if they don’t, they won’t live.”
+
+Kai-Fu Lee, then President of Google Greater China, was interviewed by Sina Technology, September 2, 2008. Credit: Sina Weibo
+
+System Reboot
+
+As the free market supercharged tech and other industries in China, many predicted political change to follow. During this time, the belief that economic development would lead to political liberalization in China was practically de rigueur in the west as well among many Chinese elites. If Sina Weibo, China’s equivalent to Twitter, was any indication, this liberalization was well underway.
+
+“The ‘universal values,’ ‘political liberal’ type of commentators were dominating Weibo at the time,” says Xiao Qiang, a Chinese internet expert at the University of California, Berkeley.
+
+A snapshot of Kai-Fu Lee’s Weibo page on August 10, 2013. Image via the Wayback Machine
+
+With some 52 million followers, Kai-Fu Lee was among the five biggest Weibo accounts, and in 2012, Weibo rated him as the number one most influential account on the platform. He posted half a dozen times a day, mostly on topics related to the economy and business. Though no Ai Weiwei (the dissident artist now in exile in Portugal), Lee was a persistent critic of government censorship and heavy-handedness. To followers, his politics seemed clear.
+
+“He became aligned with a group of prominent voices on Weibo who were clearly in favor of political liberal values in China,” says Qiang.
+
+This all changed, however, after Xi Jinping assumed the presidency in March 2013. Almost immediately, the new president empowered the newly formed Central Cyberspace Affairs Commission to crack down on online speech seen as detrimental to the Party. Among the first targeted were the Big Vs, the colloquial term for the largest verified Weibo accounts. Lee, whose account was suspended for three days around this time, was among a handful of Big Vs invited to a 2013 dinner in Beijing’s Legation Quarter with Lu Wei , director of the Cyberspace Administration.
+
+A Weibo post from Kai-Fu Lee highlighting GitHub’s censorship in China, January 22, 2013. Image via CSDN
+
+“Wei basically threatened all of them and said, ‘Look, if you guys don’t stop what you’re saying on Weibo, I’m going to take you all down,’” says one Chinese technology expert who knew Lee at the time but requested anonymity to speak freely. “[Lee] was one of the few that listened.” (Through a spokeswoman, Lee denied this description of the meeting but confirmed he attended.)
+
+One Weibo personality who did not listen was Charles Xue, a billionaire investor and liberal firebrand. In August 2013, Xue was arrested on charges of soliciting a prostitute and had his detention paraded on national television. As if this was not enough, he was then featured again on television reciting a self-criticism of his online behavior and expressing support for government restrictions on online speech.
+
+Lee, meanwhile, sought solace in his birthplace of Taiwan. He had a convenient, if alarming, excuse to lay low. In the fall of 2013, he had received a diagnosis of stage IV follicular non-Hodgkin’s lymphoma. “That totally shook my whole life,” he recalled recently on a podcast. “It really led to a lot of revelation and even enlightenment in thinking about the meaning of life, the meaning of artificial intelligence, the meaning of my family and so on.”
+
+Kai-Fu Lee speaks on his meeting with Master Hsing Yun, during a presentation at Rice University, September 1, 2020. Credit: Rice University
+
+During and after treatment, Lee embarked on a soul-searching mission. He read Bronnie Ware’s book, The Top Five Regrets of the Dying. Before one major surgery, Lee recalled in the Rice University presentation, he spent a weekend with Master Hsing Yun, a renowned Buddhist monk, who asked Lee why he was so focused on his work. Lee replied that he wanted to make an impact on the world. The monk responded that he often doubted this kind of selfless motive, saying that he wondered if such people “‘are really doing something altruistically for the world or are they just trying to make themselves more famous?’”
+
+“I could not tell him I was fully altruistic,” Lee said.
+
+In Taiwan, medical treatment managed to cure Lee’s cancer. But the stay also seemed to cure Lee of his liberal leanings. By the time he returned to Beijing in 2015, his Weibo musings had become decidedly apolitical. He had conformed to the new parameters of Xi’s China.
+
+“He really towed back to the Party line,” says the Chinese technology expert. “But his change in tone has made a lot of money for him.”
+
+Companies featured on Sinovation Ventures’ website with valuations of over $100 million. Credit: Sinovation Ventures
+
+Indeed, Lee’s venture capital firm, which rebranded to Sinovation Ventures in 2016, has done well. It counts over 400 companies under its umbrella (most of them in the internet and AI space), and it manages $3 billion. Many of its limited partners, according to WireScreen, are Chinese government entities, such as the Xiamen Municipal Finance Bureau (which invested roughly $68 million).
+
+More than 20 of Sinovation’s companies are “unicorns” with billion dollar-plus valuations (e.g., Meitu, WeRide, Megvii, Mobike) while many more have over $100 million valuations. In 2013, Sinovation opened an office in Silicon Valley, but the vast majority of its investments have been in China.
+
+“If you just look at the Sinovation investment portfolio, it’s kind of a who’s who of successful companies in China,” says Goodrich.
+
+Still, Sinovation has not quite lived up to its original promise. One of the firm’s early lead investors, Peter Liu, said at its launch that hiring Lee was “a miracle.” “He can identify the next Google in China or the next Baidu,” he said. But Sinovation is still small compared to Chinese venture heavyweights like Hongshan Capital Group (formerly known as Sequoia Capital China), which manages $56 billion worth of assets, and Qiming Venture Partners (with $9.5 billion in assets under management).
+
+A slide on Sinovation’s ‘VC Investment Strategy’ presented by Kai-Fu Lee at the City University of Hong Kong, July 17, 2021. Credit: wlchui via Flickr
+
+“He’s not considered a tier-one investor,” says a Chinese-American tech investor in San Francisco who requested anonymity to speak freely. “In venture capital and in tech in general, you’re either going to be known as an amazing entrepreneur type or an amazing investor. Kai-Fu doesn’t really have either of those in abundance.”
+
+As someone who straddled both sides of the Pacific, however, what Lee did have was foresight into geopolitics. In 2018, Sinovation shuttered its U.S. office. Bilateral tensions, Lee said at the time, were to blame, and Lee went on to predict the division of the American and Chinese AI industries.
+
+In the realm of generative AI… Kai-Fu Lee’s assertion of China being an AI superpower will need more time given that it is still a follower of American technology. Bernard Leong, an AI entrepreneur and business podcaster in Singapore
+
+“I anticipate there to be likely bifurcation, in fact a parallel universe, where roughly half of the world will be using mostly American software and half of the world will mostly be using Chinese software in about five years time,” he said at a U.S. conference in 2019. “I don’t think it’s necessarily good for the users, but that’s the path we’re on.”
+
+A Treasury Department press release on addition of Megvii to the OFAC’s Non-SDN Chinese Military-Industrial Complex Companies List, December 16, 2021. Credit: Treasury Department
+
+Indeed, as Chinese AI companies excelled, Washington grew anxious. Starting under Trump and continuing under Biden, a series of export controls were deployed that barred investment into various Chinese AI companies. One of these was Megvii, a facial recognition firm and Chinese tech unicorn now valued at $30 billion. In 2021, the U.S. Treasury Department put Megvii on their “entity list,” barring outbound investment, for “actively cooperating with the government’s efforts to repress [Uyghurs].” (Megvii denied this and has since been removed from the entity list.) In 2013, Sinovation had invested an undisclosed sum into Megvii in a Series A and then more the next year. At least one other company in Sinovation’s portfolio, Fourth Paradigm, is also on the U.S. entity list, according to data from WireScreen.
+
+In 2021, according to The Information, Sinovation sold its entire U.S. portfolio (about 30 startups) to a U.S.-based VC firm.
+
+Lee has bemoaned this state of affairs, and his framing often aligns with Beijing’s, wherein America is holding back “the world” rather than just China.
+
+“It seems the U.S. does not intend to stop suppressing other countries’ technological developments,” Lee said during a recent Mandarin-language interview with a Singaporean podcaster. “I find it very unfortunate for the world’s development, but it’s also something that can’t be changed in the short term.”
+
+An excerpt from China’s Cybersecurity Law, effective June 1, 2017. Translation via DigiChina
+
+For some critics in America, who view any investment into the Chinese AI industry as tantamount to aiding China’s increasingly Orwellian, digitally-enhanced police state, Lee’s moralizing is darkly hypocritical. In this view, abetting any Chinese AI company is abetting PRC authoritarianism since all companies are required to obey the Party, per China’s Cybersecurity Law.
+
+“In China, the number one priority for AI is social control and they’ll use it for that,” says Xiao, the Chinese internet expert. “Kai-Fu Lee has invested in companies producing these surveillance technologies, collecting data and processing it. From my perspective, he is a player in Chinese digital authoritarianism.”
+
+Kai-Fu Lee on governments using AI for social control. Credit: PBS Frontline
+
+In the few occasions where Lee has been publicly pressed on these issues, he politely dodges the question. “AI is a technology that can be used for good and for evil. So how do governments limit themselves on the one hand [while] using this AI technology and databases to maintain a safe environment for its citizens but not encroach on individuals’ rights and privacies?” he said in a 2019 PBS Frontline documentary when asked about the Chinese government’s potential abuse of AI. “That, I think, is also a tricky issue, for every country.”
+
+This kind of equivocation does not land as well today. The geopolitical temperature has gone sub-zero.
+
+“If there’s ever a time to pick a side, this is it,” says Reva Goujon, a director at Rhodium Group. “This is increasingly a zero sum AI competition.”
+
+Alignment Problems
+
+With 01.AI, Lee has nose-dived directly into a wild and uncertain time for China’s AI industry. Although the Biden administration’s restrictions on advanced AI chips have not been a deathknell, they have proven to be a hindrance for Chinese AI development. Companies there have been forced to find expensive, albeit creative, ways to sidestep them.
+
+An excerpt from a press release on the Commerce Department’s export controls, issued December 2, 2024. Credit: Bureau of Industry and Security
+
+“Export controls are having a considerable impact on the industry,” says Lian Jye Su, a chief analyst with Omdia, a tech consultancy. “GenAI models nowadays need large amounts of chipset resources and the lack of access to the latest [semiconductors] causes AI training to be relatively expensive and energy inefficient.”
+
+The access request page for Meta’s Llama Models. Credit: Meta
+
+Firms like ByteDance, for instance, have been quietly setting up model training facilities in non-restricted countries like Malaysia and Indonesia — a trend that recent export controls issued by the outgoing Biden administration are designed to stop. Other firms have been relying on open-source AI models, like Meta’s Llama 2, that are not blocked from China. And on the advanced chip front, SMIC recently developed advanced 5-nanometer semiconductors for Huawei by innovating on older ASML machines that are not blocked by U.S. export controls.
+
+“[The U.S. restrictions have] meant that they have had to figure out how to use less compute to achieve the same kind of effect or outcome that Meta or OpenAI would use,” says RAND advisor Goodrich. “They’ve been remarkably resilient. It’s basically been a cost penalty, however that still gives the U.S. an advantage that could grow over time.”
+
+Kai-Fu Lee delivers a speech at the Zhongguancun Forum Annual Meeting, themed “Innovating for a Better World”, Beijing, April 25, 2024. Credit: Zhongguancun Forum
+
+The cost penalty also comes at a time when Chinese firms find themselves cut off from western investment, previously a significant funding source. Even someone as well-known and regarded as Lee in American tech and investment circles is seen as untouchable.
+
+“Outbound investment in AI companies in China is basically verboten now,” says Paul Triolo, a technology policy lead at the Albright Stonebridge Group, an advisory firm, and longtime friend of Lee’s. “Investors are really leery. Nobody wants to get stuck in a situation like the ByteDance investors.”
+
+Chinese companies like 01.AI are also forced to consider legal barriers at home. In contrast to the U.S., which has virtually no AI oversight, Chinese regulators have deployed numerous laws meant to tame the AI bonanza. These include mandatory labels on synthetic content, only using “legitimate data” to train models and having a clear mechanism to field consumer complaints. AI firms must also acquire government permission before launching any new model.
+
+An excerpt from ‘Artificial Intelligence Law Model Law Version 1.0 (Expert Suggestion Draft)’ released by the Chinese Academy of Sciences, August 2023. Translation via DigiChina
+
+And while Beijing has been quick to roll out these practical guidelines, officials are still debating how to manage AI’s influence over Chinese society. A few months after the release of Chat-GPT, China’s State Council announced that it would work toward drafting an Artificial Intelligence Law. Though one is yet to be passed, the Chinese Academy of Sciences released in August 2023 a draft law which shows insight into how scholars and officials are thinking about crafting laws in the future. AI, said the draft, must “adhere to the core socialist values, not incite subversion of state power, overthrow the socialist system, endanger national security and interests, damage the national image, incite secession, [or] undermine national unity and social stability.”
+
+Many in the AI field believe these types of regulations and laws will work to slow innovation in a rapidly moving industry. In 2025, as companies start to roll out “agentic” AI in earnest, which is when agents autonomously conduct tasks for users, regulators in China could put up even more barriers.
+
+“There’s a lot of data privacy issues around how agentic AI is going to be deployed,” says Triolo. “How is the Chinese government going to feel about agents running around doing things for people?”
+
+Kai-Fu Lee presents 01.AI’s upgraded open-source models on HuggingFace and the first proprietary model, Yi-Large, in Beijing, May 13, 2024. Credit: @01.AI_Yi via X
+
+For 01.AI, which hopes to launch apps that do precisely that, this is another hurdle to get over. Recently, the firm began targeting the Chinese retail market with AI generated live-streaming and marketing services. This might involve using AI-generated digital avatars to personalize product recommendations, generate visual content for live streams, automate customer service interactions, among other uses. So far, the company has raised $300 million in investment from Alibaba and others.
+
+None of 01.AI’s apps have launched yet, but Bernard Leong, an AI entrepreneur and business podcaster in Singapore, notes that it will face challenges since it is surrounded even in China by heavy-hitters with far greater resources. “If you are a cloud provider in China — like Alibaba, Tencent or Huawei — you have an inherent advantage of distribution, which Kai-Fu doesn’t have,” says Leong. “But I wouldn’t write him off.”
+
+Lee has, Leong adds, top-notch engineers with him from players like Huawei and ByteDance. Indeed, China’s hiring pool remains a considerable asset for an AI start-up like Lee’s that is competing with big-moneyed titans. China now accounts for 47 percent of the world’s top AI researchers; this is compared to 29 percent in 2019, which suggests that more talented workers — like Lee himself — are choosing to remain in China.
+
+Lee and his compatriots, then, are still bullish on the country’s AI superpower potential — despite U.S. chip restrictions, Chinese censorship and other regulations. But for Lee, at least, there is also a reputation-making thesis to protect.
+
+“Part of it is, you can’t announce that China is going to be the AI superpower and then say, ‘Oh sorry, just kidding,’” quips Lewis, of CSIS. “The incentives are such that it’s better for him to stay in China for now.”
+
+“At the end of the day, he’s a business leader,” adds Qiang. “He’s a strategic opportunist.”
+
+Yet Lee used to represent something else. As Triolo put it, he used to embody “the great hope that the U.S. and China could collaborate on this really cool and important technology” — a hope now almost entirely extinguished.
+
+Correction: An earlier version of this story stated that 01.AI’s open-source model, Yi-34B, was derived from Meta’s Llama 2, and that 01.AI apologized for not disclosing that. This was a mischaracterization: Yi-34B was not derived from Llama 2, and the apology was about parameter errors, not about the model’s derivation. This paragraph has been removed from the story.

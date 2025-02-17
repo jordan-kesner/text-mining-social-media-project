@@ -1,0 +1,93 @@
+Title: Meta's 2025 is off to a 'frenzied start.' Don't expect it to slow down.
+Source: Business Insider
+URL: https://www.businessinsider.com/meta-mark-zuckerberg-2025-busy-start-announcements-changes-2025-2
+
+Meta kicked off 2025 with big changes following a big year for the company.
+
+In the first weeks of January, it overhauled its content moderation system, nixed DEI programs, and announced layoffs.
+
+The "rather frenzied start" to the new year sets up an apparent "year of intensity," one analyst told BI.
+
+Coming off of a banner year in 2024, Meta is hitting the ground running in 2025.
+
+With a new president in the White House and the AI arms race in full swing amid DeepSeek mania, CEO Mark Zuckerberg has kept busy.
+
+Referring to Meta's January as "a rather frenzied start," Forrester VP and research director Mike Proulx said that the company's past "year of efficiency" was being "trumped in 2025 with an apparent year of 'intensity.'"
+
+The company made several big announcements in the first week of the new year ahead of Trump's inauguration, and in audio from Meta's all-hands meeting this week obtained by Business Insider, Zuckerberg told employees to "buckle up."
+
+"Everyone always says that every year is a big year, right?" Zuckerberg said.
+
+"When I look at the kind of long-term trajectory for the stuff that we're doing this year, I think by the end of this year we're going to have a much clearer sense of the trajectory of a lot of the long-term things that we're doing, whether that's AI or glasses, or a number of areas around the future of social media, a number of key partnerships that we're working on," the Meta CEO said.
+
+"This year feels a little more like a sprint to me," he added.
+
+New year, new policies that will impact your News Feed
+
+If 2025 represents a sprint for Meta, the first leg of the race saw some of its biggest changes in years.
+
+The most impactful for Meta's billions of users was announced on January 7, when Zuckerberg messaged that Meta's content moderation policy would be overhauled.
+
+In a controversial decision, Meta said that it would sunset its third-party fact-checking in favor of community notes, similar to that of Elon Musk's X, formerly known as Twitter.
+
+Zuckerberg said Wednesday he thinks a community notes model "is just going to be more effective."
+
+The company also loosened its hate speech policies and announced that it would return to promoting political discussions in its apps.
+
+The policy changes may not move the needle much on the ad dollars spent on Meta's platforms as its size alone makes it a "must-have" for advertisers, Truist Securities analyst Youssef Squali told BI.
+
+"Large advertisers will tell you that. Small advertisers will tell you that," the analyst said. "So there's scarcity value for advertisers and their ability to access some of these platforms that actually work for them."
+
+Meta CFO Susan Li said in Wednesday's earnings call that the company hasn't observed a noticeable difference in ad spending since the announcement a few weeks ago. When reached for comment, Meta referred BI to Zuckerberg's video and its blog post on the content moderation changes.
+
+Collectively, Meta's policy overhaul means big changes are coming to your Instagram, Threads, and Facebook news feeds.
+
+Meta maneuvers closer to Trump
+
+Mark Zuckerberg was part of the tech broligarchy at President Trump's inauguration. Rebecca Noble/Getty Images; AP Photo/Mark Lennihan; Chelsea Jia Feng/BI
+
+The content moderation policy overhaul is one of a slew of recent changes at Meta widely viewed as a way to appease President Trump, who frequently criticized and even threatened the company and its chief executive in the past.
+
+Trump told reporters the content moderation changes were "probably" in response to threats he's made to Meta.
+
+Following a dinner with the president at Mar-a-Lago and Meta's $1 million donation to his inauguration fund, Zuckerberg was one of a handful of tech execs seated close to Trump during his swearing-in ceremony on January 20.
+
+"Having Trump coming back into office — and we all know Trump's position with regards to Meta and Zuck, in particular — I feel there was a lot of pressure for him to revisit his stance," Truist Securities' Squali told BI of the content moderation changes.
+
+Meta's chief marketing officer, Alex Schultz, previously told BI that Trump's election win, coupled with shifting "vibes in America," were factors in the content moderation overhaul.
+
+Other big changes include the company rolling back its programs for DEI. Diversity programs have been a frequent target for Trump and other conservative activist groups.
+
+In Wednesday's earnings call, Zuckerberg said 2025 would be "a big year for redefining our relationship with governments." He added that he's "optimistic" about the Trump administration, saying it "prioritizes American technology winning" and "will defend our values and interests abroad."
+
+Meta also made some personnel changes that could help it better navigate the next four years.
+
+Ahead of the administration change, Meta named Joel Kaplan its new chief global affairs officer. Kaplan, a former adviser to George W. Bush and a longtime Republican lobbyist for Meta, replaced Nick Clegg, former leader of the UK's Liberal Democrats, in the position.
+
+Meta also added several new names to its board of directors, specifically tech investor Charlie Songhurst, Exor CEO John Elkann, and UFC chief Dana White. Zuckerberg, an MMA hobbyist, has been photographed with White, a longtime friend of Trump, multiple times in recent years.
+
+And in a recent move to end a legal battle involving Trump, Meta also agreed to pay $25 million to settle a lawsuit the president brought against it and Zuckerberg after Facebook suspended his account in 2021 following the January 6 Capitol riots.
+
+Plans for layoffs and doubling down on AI
+
+Meta's work to reshape its workforce, which began in late 2022, shows no signs of slowing down as it races to keep up with AI pioneer OpenAI and newcomers like Chinese AI startup DeepSeek.
+
+Related stories
+
+In a memo obtained earlier this month by BI, Meta announced layoffs coming in February for 5% of its workforce, targeting its "lowest performers."
+
+However, discussing its quarterly earnings on Wednesday, Meta said it plans to hire in "the priority areas of infrastructure, monetization, Reality Labs, generative artificial intelligence (AI), as well as regulation and compliance."
+
+Meta's AI Studio is one of several ways it's trying to engage users with its AI products. Courtesy of Meta
+
+The company expects to spend $60 to $65 billion in capital expenditures this year as it barrels full-steam ahead on AI, a significant increase from $39.23 billion in 2024, which already raised eyebrows among investors and analysts.
+
+Zuckerberg said Wednesday he thinks 2025 will be the year an AI assistant hits 1 billion users, and naturally he wants that of Meta AI. He also teased upcoming news about its Llama 4 AI model and hinted at getting back to "some OG Facebook" this year.
+
+Responding to Wall Street analysts' questions about DeepSeek, Zuckerberg said it was important for a US firm to set the standard on open-source AI "for our own national advantage."
+
+"I think that, if anything, some of the recent news has only strengthened our conviction that this is the right thing for us to be focused on," Zuckerberg said.
+
+In audio from Meta's all-hands meeting on Thursday, Meta CFO Susan Li said the company is "excited for the roadmap" this year and for AI initiatives "driving further momentum" that would "fuel 2025 growth."
+
+Do you work at Meta? Contact the reporters from a non-work email and device at sjackson@businessinsider.com and jhart@businessinsider.com.

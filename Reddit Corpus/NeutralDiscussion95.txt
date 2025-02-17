@@ -1,0 +1,66 @@
+Title: How does an internet platform protect free speech without pandering to the lowest common denominator of internet dialogue?
+
+Post:
+It seems like most internet forums either tend towards censorship of certain people or viewpoints, or those that are completely unmoderated attract the loudest and most radical voices on either side of the political spectrum.  Is there a way to protect free expression and dialogue while maintaining civility and decency in a large internet platform?
+
+Edit:  After reading a number of comments, I want to clarify what I mean.  I'm not talking about free speech as a constitutional right, but as a cultural ideal.  Obviously, private platforms can regulate speech on those platforms in any way they want to.  My question is how and to what level should we control online speech in order to foster discussion that is both open and constructive.
+
+Top Comments:
+It doesn't. 
+
+Platforms like Reddit and Facebook don't have to protect free speech. Their business model is to collect attention then sell it to marketers. 
+
+The ad on the right-hand-side of Reddit right now, for Office 365, is the point of Reddit. They didn't make this out of altruistic means. They need to eat and live. Thus, ads.
+>How does an internet platform protect free speech without pandering to the lowest common denominator of internet dialogue?
+
+It doesn't. **Moderation** does.
+
+You have to allow for communities to self-segregate and self-moderate so long as they abide by greater community standards. Reddit's quarantining is fine in principle, although it seems poorly implemented in practice.
+
+Honestly, the better option is to ensure that reddit accounts are more valuable to the end-users, alternate accounts are discouraged (to the point of not being tolerated), and leave it at that. Allow people to remain anonymous, but ensure that their anonymous persona is still just *one* persona that they have to protect the value of. Allowing users to continually change masks makes any one mask worthless, hence there's no vested interest in decency or polite behavior.
+
+The whole "tipping accounts" thing that Reddit (the company) is exploring is interesting in that regard.
+I wasn't aware that it was any single platforms job to protect free speech. Free speech only extends to protection from government censorship. Twitter doesnt have to publish something it disagrees with.
+>Is there a way to protect free expression and dialogue while maintaining civility and decency in a large internet platform?
+
+Sure.  Set up and enforce rules that serve those objectives, and foster a culture that supports the same.  I mean, you have to make some choices.  "Free expression" arguably might include uncivil and indecent expressions as well as others that discourage dialogue.  But whatever choices you make, once you set your objective(s) then you implement an infrastructure that promotes it.
+
+Classic town hall meetings provide a template.  Free speech doesn't mean everybody gets to speak at once.  Nor is it all about the individual's right to say whatever they want (not in my view anyway).  People who speak up and use precious time at such meetings are expected to make their 3 minutes at the podium count. There are procedures and rules that very much confine what can be said, by whom, and when, thereby facilitating communication of disparate viewpoints.
+
+There is no single solution for Internet forums.  I'd like to see a discussion subreddit where comments can only contain arguments built on sourced claims, and opinions are automatically rejected by the system, with up and downvoting turned off.
+> My question is how and to what level should we control online speech in order to foster discussion that is both open and constructive.
+
+I'm not sure that free speech and open and constructive dialogue *is* a modern-day cultural ideal.  
+
+Are those things even possible without free thought? 
+
+And is it realistic to think platform administrators can fight a mature science employed by seasoned professionals whose goal is to control the public mind?   
+
+It's been nearly 100 years since Edward Bernays -- the author of [Propaganda](https://books.google.com/books?id=3De8nd_B_C8C&printsec=frontcover&source=gbs_atb#v=onepage&q&f=false) and [The Engineering of Consent](https://en.wikipedia.org/wiki/The_Engineering_of_Consent) as well as the nephew of Sigmund Freud -- helped Calvin Coolidge win the White House and the American Tobacco Company change the culture with respect to women smoking in public from a social taboo to a socially acceptable act. 
+
+According to Bernays:
+
+> The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country. We are governed, our minds are molded, our tastes formed, and our ideas suggested, largely by men we have never heard of…. It is they who pull the wires that control the public mind.
+
+And while Russia was and is almost certainly not the only country to see the opportunities and risks afforded by the Internet when it comes to controlling the public mind, that country's approach was enunciated quite clearly in this quote from Adrian Chen’s June 2015 article in the New York Times Magazine titled [*The Agency*](https://www.nytimes.com/2015/06/07/magazine/the-agency.html):
+
+> “The point is to spoil it, to create the atmosphere of hate, to make it so stinky that normal people won’t want to touch it,” Volkov said, when we met in the office of Navalny’s Anti-Corruption Foundation. “You have to remember the Internet population of Russia is just over 50 percent. The rest are yet to join, and when they join it’s very important what is their first impression.” The Internet still remains the one medium where the opposition can reliably get its message out. But their message is now surrounded by so much garbage from trolls that readers can become resistant before the message even gets to them. During the protests, a favorite tactic of the opposition was making anti-Putin hashtags trend on Twitter. Today, waves of trolls and bots regularly promote pro-Putin hashtags. What once was an exhilarating act of popular defiance now feels empty. “It kind of discredited the idea of political hashtags,” says Ilya Klishin, the web editor for the independent television station TV Rain who, in 2011, created the Facebook page for the antigovernment protests.
+
+Free speech and open and constructive dialogue are noble ideals that are clearly beneficial to society and well worth fighting for. But achieving an environment where they thrive is and will forever be a never ending, uphill battle against skillful and well-funded enemies we will not always recognize and will almost certainly at times think are friends.
+I think the only reasons unmoderated spaces attract extremists is because they exist as a microcosm of the online community, which typically removes them from their platforms.  If the online community as an aggregate allowed all forms of expression but gave people the option to filter out content they don't want to see, the ones where people congregate most would still be pretty regular.  Kind of like how if someone starts saying some racist shit in public, people will basically gang up on them without an external force needed.
+While business's can and do have the right to police their own product, we have to acknowledge, at least in the case of Facebook, that they have evolved into something that has the account base of 1/3 the population of the Earth. The banning of anyone from that platform is a direct assault on the SOCIAL idea of free speech.  
+
+In the context of the US, an interesting point can be made on whether or not FB is a publisher or a platform.  Platforms are afforded both criminal and legal protections(User X says they are going to do something horrific) while publishers have different protections but have more "jeopardy".  Publisher would be someone like your NYT/Boston Globe.
+
+Some of our social networking sites have slowly moved from a platform to a publisher in a short amount of time and our laws/norms for it have not changed.
+
+Platforms should protect the societal value of Free Speech without the need to be conjoled by world governments, but we are now in murky platform/publisher waters.
+It is not the job of an internet platform to protect free speech.  Internet platforms, such as Reddit, are privately-owned and there is nothing wrong with those owners choosing not to host viewpoints they find repugnant or which they believe will cost them or their shareholders profits.  As long as the government does not impose restrictions on who can launch and host an internet platform or restrict the content thereon, then there is no freedom of speech problem.
+I feel like I need to state the obvious. These “internet platforms” are companies operating mostly on privately owned infrastructure. 
+
+They have little to no incentive to “solve” this “problem”. You really don’t want the government involved here except to ensure fairness and neutrality.
+Forget public speech. There will always be people offended in the public space and those reports will swamp moderators. Let them destroy it all they want. 
+
+However, social media is a huge part of interaction, and most of it isn't really public. Closed groups and friends-only posts, for example, cater to a specific group of people who understand what they're getting. THAT is where moderation needs to leave the hands of the social media team and enter the hands of the people who form those groups. 
+
+It's an absolute travesty that Facebook uses bots to police conversations between likeminded individuals who are perfectly okay with how a conversation is going, and that's really where we should focus our efforts: communication with consenting parties who don't need an algorithm telling them what they're allowed to talk about.

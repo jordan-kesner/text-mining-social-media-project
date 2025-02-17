@@ -1,0 +1,160 @@
+Title: I think "cancel culture" is more due to diversity of opinions and ease of access to opinions via social media than a weakening of free speech norms. Long post, but I hope it's very informative.
+
+Post:
+**TL;DR Part of the reason why I oppose the term "cancel culture" is because it assumes the cause of itself.** There are tons of lists and databases out there listing "cancelled" people (FIRE's Scholars Under Fire, NAS's Tracking Cancel Culture in Higher Education, The College Fix's Cancel Culture Database), not to mention a whole sub-genre of "self-censorship" polls.
+
+However, even if we take every poll and database entry at face value (and I do not), I'm still not convinced that "cancel culture" necessarily exists because the term makes the implicit claim that the *cause* of people being canceled is a *cultural* change rather than something else. It's one thing to say "Wow, people get fired for opinions and that sucks.". I totally agree that "social sanctions" (the actual social science term for "cancel culture") can be unjust and disproportionate in many cases. I myself watch what I say even on semi-private platforms like reddit. I might even be willing to grant that more people are being fired today for that than in the past (still doing my own research on this). 
+
+On the other hand, those are all separate claims than saying that people are being fired because  people are more intolerant or less caring about free speech.
+
+If you ask me, the biggest factor is simply that people's opinions are more visible to others, and that "cancelers" have a much easier time expressing their opposing opinions back. Instead of getting bogged down in the minutia of polling science or cultural norms, I feel like I can prove this (at least in theory) with some math and thought experiments.
+
+To put it as simply as possible, complaining about "cancel culture" on Twitter is sort of like complaining about "speeding culture" on the highway. It's not necessarily that norms and values that changed, but the environment everyone is operating in.
+
+**Basic Math #1: A more tolerant society will look incredibly censorious once you add social media, since there's an exponentially greater number of social interactions, and thus more interactions aimed at cancellation.**
+
+Let's say you have a room of 100 people in the pre-internet era. All of them express an opinion within earshot of the 4 people closest to them. Say, for sake of imagination, that everyone is grouped into 5-person tables, plus in my life experience I don't generally see group conversations bigger than 5 or 6 people.
+
+Let's also say this room has an Opinion Tolerance of 99%. That is to say, 99% of the time when someone expresses an opinion, it's going to be met constructively (polite debate) rather than destructively (harassment, name-calling, threats to get someone fired, etc.). It doesn't matter the view: conservative, liberal, alt-right, hyper-progressive, whatever. *Any* opinion you have, no matter how unpopular or unreasonable, is going to be met with the upmost civility, respect, and inclusiveness 99 times out of 100. For perspective, that's like having 3-4 entire classrooms (25-35 students) worth of people and only 1 person in 1 class ever gives you flak for what you say.
+
+With 100 people expressing an opinion to 4 other people each, that creates a total "opinion surface area" of 400, since 100 opinions have been expressed to 4 people each, and thus there are 400 opportunities for someone to be intolerant. That is to say, the more opinions expressed to more people, the greater exposure that opinion has, and thus the higher the chance of coming into contact with someone who doesn't tolerate the speaker.
+
+Objectively speaking, we could determine the tolerance of this society as the rate of "opinion surface area" to cancellations.
+
+So in sum, 100 people express their opinion, each to 4 other people. With a tolerance value of 99% and a surface area of 400, we get 4 cancellations out of 100 people.
+
+Now let's move to the internet. Same room with same 100 people, same opinions being expressed. Except instead of talking to a handful of people within earshot, they all post on a "Thought Experiment Room" Facebook page where everyone can see *everyone else's* opinions and freely comment on them.
+
+In other words, 100 people each express an opinion, and each opinion is now seen by the other 99 instead of just the 4 nearest to them. This increases the opinion surface area to 9,900 (100 x 99), or 24.75x the area in our pre-internet example.
+
+***Now the fun begins.***
+
+Keeping our society 99% tolerant of opposing views same as before, we skyrocket from 4 cancellations (400 x .01) to 99 cancellations (9,900 x .01). Nothing about free speech norms or the tolerance of any given opinion changed in our thought experiment. We took a society that was about as good a "culture of free speech" as you can think of: 99% of everyone constructively engages with *any* opinion. The *only* variable that has changed is how many people are receiving opinions, and we've gone from a society where you can literally count the amount of cancellations on 1 hand to a society where (assuming cancellations were equally distributed) only a single person *hasn't* been cancelled!
+
+If we can see an explosion of censorship with absolutely no cultural change at all, let's make society *more* tolerant, and still find a free speech crisis!
+
+If the Opinion Tolerance of the room goes from 99% to 99.5% (in other words, a halving of intolerance), then we go from 99 cancellations to 49.5 cancellations. Still more than an order of magnitude higher than the pre-internet room, given it had only 4.
+
+But no, halving it just isn't enough. Let's go crazy and say that intolerance has been *reduced* by an order of magnitude. 10 times less. That's right, we are going from a world where 99% of people are absolutely fine with any opinion to a world where 99.***9*** percent of people are okay with discussing *literally anything*. Imagine walking into a room of 1,000 college students, espousing the most insane political rhetoric from the most unhinged depths of your manifesto, and only *one* person thinks you should be disinvited from their commencement ceremony. Yes, I'm sure that you'd want it to be 100%, but being realistic, I think 99.9% of college students never wanting to "cancel" anyone would be a dream come true for most of you.
+
+So, with a society 99.9% tolerant instead of 99% tolerant, has cancel culture been defeated? No. With 24.75x more opinion surface area (9,900 to 400), we'd still see 9.9 cancellations (9,900 x .001).
+
+TL;DR even with a society 10x *less* intolerant of opposing opinions and free speech, you'd still think there was a rise in "cancel culture" with the amount of cancellations more than doubling. As this thought experiment has proven, "cancel culture" can be a statistical illusion of sorts when the tolerance of a society is outpaced by the amount of opinions expressed. A *linear* increase in free speech norms (10x more tolerance) will look like cancel culture since social media allows for an *exponential* increase in chances for intolerance (100 people expressing themselves to the other 99).
+
+Much in the same way that safety equipment can increase the amount of injuries (since people who would have otherwise died are now injured instead), a society where more people speak freely to more people looks like a society where intolerance runs rampant, simply because there are more opportunities for people to not tolerate an opinion.
+
+**Real Life Example: Using my own metrics, I'll show how social media increases surface area by a much greater degree than in my previous example.**
+
+In my previous example, I hopefully demonstrated that even with a massive increase in tolerance, "cancel culture" still seems like it exists i.e. a 10x increase in tolerance is outweighed by a 24.75x increase in opinion surface area, thus creating the statistical illusion that society is 2.475x more intolerant.
+
+If anything, I feel like a 24.75x increase in surface area is almost strawman-like levels of downplaying the internet. Let's use a real-world example, with my actual social media metrics.
+
+First, let's set up a baseline for real-life, highballing it as much as possible so the increase by social media is a small as possible. In my high school days, I would attend maybe 7 classes with about 25-35 students in them. Assuming every single classmate was unique to each class (generous assumption, we're going for as high a number as possible), that gives me a count of up to 245 people (7x 35). Round up to 250 for easy math later on.
+
+So, on a given school day, I'd have the opportunity to express my opinions in-person to 250 different people. Express my opinion once in each class, and that's an opinion surface area of 250.
+
+Now, let's think about social media. My last post on this sub has 934 views, and that was a real clunker of a post with only 5 upvotes, 10 comments, and 0 shares. Reddit upvotes your post for you automatically, and 3 of those comments are my own, so the real engagement is 4 upvotes, 7 comments, and 0 shares.
+
+In other communities, my more popular posts can get thousands of even tens of thousands of views. One post I made a couple weeks ago has 158 upvotes and 50 comments, 11 of which are my own. So 157 upvotes and 39 comments, as well as 9 shares. The views? *16.8 thousand.*
+
+Reddit only gives you metrics for posts up to 45 days only so I can't tell you what my best all-time posts have gotten, but one post I made a few weeks ago got 279 upvotes, 46 comments, 4 shares, and 20.6 thousand views.
+
+A more modestly successful post with 46 upvotes and 5 comments still has 3.6 thousand views.
+
+Coming back to full circle, another clunker post of mine with 3 upvotes and 5 comments still has 536 views.
+
+I hope these kinds of numbers show the breadth of just how much farther you can go on social media than in real life. Even my *worst* performing posts are still pulling in at least double the kinds of "viewcount" I'd get talking to people in real life. A particularly outspoken day at high school expresses myself to 250 people, while a bad day on the internet gets me around 500. Of course, not all of those views are unique, but I don't think people are revisiting posts like "How do I measure the diversity between a set of numbers?" too often. Real-life is also far better for engagement (I don't need to talk to 500 people to get 5 replies in real life), but you get the point.
+
+**Historical comparison and math #2: it's not just that opinions are easier to express, but in larger numbers. "Cancelling" someone takes a certain threshold of social pressure, and social media's creation of communities and networks allows the formation of "mobs" even if intolerance didn't actually increase. Another way to say this is that "larger audiences create larger backlash, and thus its easier for backlash to reach a critical point where it affects someone's life."**
+
+A random person with a cell phone today has the kind of reach you'd need a "gig" or job to do in previous generations. A pastor might have a congregation of hundreds, but a regular poster on a subreddit or Facebook group can command the attention of thousands. An in-house band at a bar has to work hard to get that gig, but anyone can post their music on YouTube or Soundcloud.
+
+If an article made you mad in the pre-internet era, you'd have to go through the trouble of looking up the newspaper's name in the phonebook and actually calling them, or even worse, *snail-mailing an actual letter-to-the-editor.* That's the letter itself, either handwritten or created via typewriter, the envelope, the stamp, looking up the address, and the trip to the mailbox or post office. It's just too much effort and time, so you'll either give up immediately or start doing so and calm down in the meantime. In the modern day, the author's Twitter handle is right at the top of the article, and you can be tweeting away your discontent in seconds, using the same phone you just read the article on.
+
+However, the power of the internet to spread your views works both ways, which is why it seems like social media is teeming with "mobs" of political extremists even in a scenario where extremism hasn't actually increased. Let's once again do some basic math.
+
+For sake of example, let's say that it takes 10% of an audience campaigning against your speech to cancel you i.e. 1,000 petition signatures against your commencement speech on a campus of 10,000, or 100 hateful comments on a post with 1,000 views to make you afraid of expressing yourself again.
+
+Let's go back to that room of 100 people, and say only 1%, or 1 person, doesn't tolerate your opinion. In just that room, they're just 1 person so they can't possibly meet the 10% threshold. However, now let's say social media allows them to connect with 9 other rooms, each with their own 1 person who agrees with them and hates you. You express your opinion in the room of 100 to 99 others, yet you get 10 people worth of backlash (meets the 10% threshold) since the extremists in all 10 rooms formed their own community sizable enough to "cancel" any given speaker in any room.
+
+Let's see how intolerance has the appearance of power even when we crank the numbers down.
+
+If 0.1% of the population is political extremists who will utterly hate you for disagreeing with them, it means that you'd need to encounter 1,000 people to find 1 of them. Going back to my highschool example, if a full slate of classes exposes me to 250 different people, I'd only encounter 1 wacko in all 4 years of my secondary education. You'd talk to people for years without fear, since extremists would be very rare and, when encountered, only as individuals or very small groups.
+
+Now, let's go on social media. Let's say your post has 1,000 views, so only 1 extremist is going to comment something nasty below, right? Well, not exactly. If you encountered a weirdo on the street, it'd just be that one person, but on social media, people don't just encounter each other as atomized individuals. They congregate into communities and networks of followers, and seeing what other people comment and post is a basic feature of many social media services.
+
+So now instead of 1 person giving you heat for an opinion, it might be 1 person and their friends, and their friends of friends. Even without anyone becoming more intolerant, social media and the internet allows intolerant/extreme people to come together and mass against individuals they come across.
+
+Say that 1 wacko who comments on your post has 3 followers who share their extremism. They see what Wacko #1 commented below your post and they join in. Even without intentionally siccing anyone on you, getting attention from 1 extremist has gotten you the attention of several more, simply because of how things like followers, trending topics, etc work. Even if that extremist is feeling nice that day and posts constructive criticism instead, it doesn't prevent less-tolerant members of their community from seeing your post and dumping their vitriol there.
+
+And of course, maybe Wackos #2-4 have their own followers who might join in. So in total you might get over a dozen hate comments on a post with 1,000 views even though only 1/1,000 people are crazy. If you're getting that kind of hate all the time (1,000 views on a post is, as we've seen, pretty mediocre depending on the community you post in), it'd certainly encourage you to "self-censor" and complain about cancel culture even though everyone's norms and values haven't changed. It's just that the people with different values are finding you much more frequently in a more organized way.
+
+TL;DR Even without an increase in political extremism or intolerance, social media allows the formation of "mobs" (and thus the appearance of "cancel culture") because social media allows for the  easy creation of large communities, and because on the internet exposure of an opinion to a single individual is also exposure to that individual's community. Thus, individual opinions can often result in disproportionate backlash because more intolerant people are able to see and respond to them with sufficient coordination and mass to pressure someone.
+
+**Somewhat More Complicated Math #3: More diversity of opinions creates the appearance of more intolerance because people are having more room to disagree on more topics. For those of you math nerds, I argue cancel culture is a Simpson's Paradox**
+
+Let's go back to our room of 100 people. It is still a free speech utopia where 99.9% of people tolerate any opinion ever and people get their views to larger audiences than ever before, but there are still cancel culture thinkpieces because all those free speech databases show that the amount of "cancelled" people has more than doubled. As shown in Math #1, our Hypothetical Room in the Good Old Days looks better for free speech when it's not (tolerance was only 99%) simply because people just expressed their opinions to far fewer people. In addition, as per Math #2, the amount of intolerance people has not increased, but controversies back then resulted in smaller amounts of backlash since catching the ire of 1 intolerant person didn't mean you caught the attention of their social network as well.
+
+Now, let's throw in *diversity* of opinions as a factor too, both in terms of topic (more things discussed) and viewpoint (more divergence on the same topic).
+
+First, topic. This is really simple: the more topics you express an opinion on, the more likely it is that you will run into something that your audience won't tolerate. Someone is more likely to agree with you on one thing than five things. If our room of 100 people goes from expressing one opinion each to expressing two opinions each, that right there doubles the amount of "cancellations" anyone receives, because they now have double their surface area.
+
+From the individual perspective, let's see how this works. You're in the room of 100 and you have 3 opinions to express. Knowing that each one has a 99.9% chance of being tolerated, you post to the Hypothetical Room Facebook Group to the 99 other members. However, instead of a 99.9% chance of being tolerated, you now only have a 99.7% chance (.999 is the chance of any given opinion being expressed, we do .999\^3 because its three opinions that all need to be accepted in a row, so 0.997002999).
+
+And just like that, intolerance from your perspective looks like it has tripled from .1 to .3%, even though the intolerance of any given opinion remains at .1%. It's just that you're actually three times *freer* to express yourself and thus encountering people who take offense at that freedom three times as often. Looking at our cancel culture databases in this scenario, the increase in opinions also increases the opinion surface area, so instead of 9.9 cancellations occurring (9,900 opinion surface area x .001 intolerance), we now have a staggering 29.7 occurring (29,700 x .001 intolerance).
+
+Again, I cannot stress this enough: this room is Free Speech Utopialand, where 99.***9***% of EVERYONE is fine with politely debating and sharing their views on EVERYTHING from veganism to white supremacy. After inventing Facebook and allowing everyone to share their opinions with everyone, they started to look like a free speech dystopia with almost 10% of their entire population cancelled, and now that everyone feels free to express more opinions, it looks like people are even more intolerant. Except, as we've just done the math, the intolerance of opinions has remained the same, it's just there's more intolerance because there's more opinions.
+
+We haven't even begun talking about *viewpoint* diversity within topics yet. If our Room of 100 people are all discussing a single topic and there are only 2 opinions equally held, then this means there is only about a 4.9% chance of someone cancelling us (49 people agree with us, and for those who disagree we see the odds of 50 people with a tolerance of .999 tolerating us all 50 times in a row. 0.999 \^50 comes out to about .951).
+
+The more viewpoint diversity there is, the less people agree with us, and thus the greater the chance of us not being tolerated even if the chance of intolerance by any given opinion or person doesn't change. A room with 3 opinions equally held gives us about a 6.5% chance of cancellation (.999\^67 leaves us with about 93.5% tolerance change), and 4 opinions equally held 7.2% (.999\^80). Once again, the tolerance of any given person or opinion has not actually changed. Any given expression has a 99.9% chance of being tolerated by any given person, yet in the Room of 100 we only have a 94.9% chance of being tolerated even in a room where half of everyone agrees with us and the other half are ultra-classical-liberal "Die for your right to say it" types.
+
+Combine these two effects and you're in for a real treat: increasing the amount of topics discussed from 1 to 3 means that people get backlash 3 times as often, and even just keeping it to 2 opposing opinions means that each given opinion actually has a 4.9% chance of cancellation since that 99.9% chance of tolerance by any given person is run through 50 different people in a row. Thus, from the speaker's point of view the effective rate of tolerance in the Room of 100 actually 95.1%, and their 3 opinions being expressed gives them a 14% chance of cancellation (.951\^3 = .86).
+
+So there we have it. 99.9% of any given opinion tolerated by any given person, people free to express three opinions to a whole room of 99 other people, yet a whole 14% of people end up cancelled.
+
+This, my friends, is what we call a Simpson's Paradox, when a trend reverses depending on whether groups of data are combined or separated. For example, rich and poor people can both be making less money than they used to (multi mullionaire now just mono-millionaire, poor person goes from 2 minimum wage jobs to one), but if people are becoming rich, then average income actually increases.
+
+Same applies with the "culture of free speech" vs cancel culture. When you look at *people*, it's easy to see cancel culture because people, as a collection of many different viewpoints on many different topics, expressed in an environment where they are exposed to massive amounts of other people, are obviously going to get a lot of backlash.
+
+This occurs even in a tolerant culture where any given opinion has a 99.9% of being tolerated by any given person. Looking at the super-group (person is a collection of many opinions), it seems like you "Just can't say anything these days.", since in our series of hypotheticals, we came to the conclusion that around 14% of people would be cancelled if even just half the room disagreed with them.
+
+However, the reality is that in those hypotheticals those 14% of people would be cancelled over different things, and only because they spoke to such a large group. In any private conversation with just one person, you'd be tolerated 99.9% of the time.
+
+To put it another way, think of it like phobias. You might ask 100 people if they're afraid of "Certain kinds of animals." and all 100 might say yes, but if there are 10 different animals only 10 people each are afraid of, then this means it looks like 100% of people are afraid of animals when any given animal isn't feared by 90% of people. That's the Simpson's Paradox; trends reversing when you look at sup-categories.
+
+**Conclusion:**
+
+This post basically turned into a manifesto, but long story short, I believe "cancel culture" is a statistical illusion created when the tolerance of opposing opinions is outpaced by "opinion surface area". It's not that people are more intolerant, just that people have more opportunities to be more intolerant. Without the internet you'd only be exposed to the stupidity of your coworkers and immediate friends and family, but in the internet age you can comment on *everyone*'s intellectual and moral failings, and so can everyone else to you. Unless you adjust your privacy setting accordingly, you are literally publishing to a *global* audience of billions. Every post, video, blog, and so on is effectively a purchase of a social lottery ticket where you could be awarded or punished with life-changing fame or infamy in a matter of days or hours. Or you could just get 3 upvotes and no comments, and life goes on.
+
+It's not that you can't say anything any more. It's that you can, to a much larger audience, that can also talk back to you with such numbers that it can induce fear or cause life-changing consequences; an argument in a bar with 1 person will get the bartender's attention, but an argument with 100 people on Twitter might catch your boss's attention. Intolerant and extreme people have always tried to ruin people's lives, it's just that on the internet they can do so more efficiently to a larger number of victims. It's not a cultural change, it's a technological and environmental change.
+
+TL;DR if someone expresses 1 opinion to 4 people, it looks like a culture of free speech because we see 4 people politely debating an opposing opinion. If someone expresses 3 opinions to 1,000 people and 100 people hate them for it, it looks like cancel culture, even though the amount of free speech in raw terms (250x the audience and 3x the opinions) has actually increased 750x over.
+
+Top Comments:
+This is fundamentally errant as rules on social media platforms are selectively enforced. It is not a phenomenon within a group of users, it is about control by the platform, or a person who is controlling who gets into the metaphorical "room" and who is kicked out.
+
+Where anyone with any opinion could once get into the room in days past, they are being blocked from entry or expelled and that is what cancel culture is.
+
+Furthermore, you falsely equate reach with a change in attitudes. The assumption that the factor of reach precipitated the extreme illebralism we see today would mean that at the very moment social media or any computer media, chat rooms, AOL, etc. was established we would have seen the establishment of a woke illebral orthodoxy and that simply didn't happen.
+
+Cancel culture is real, it is controlling who gets to speak, not a reaction to the reach of those who disagree with what is being spoken that were always there.
+>It is not a phenomenon within a group of users, it is about control by the platform, or a person who is controlling who gets into the metaphorical "room" and who is kicked out.
+
+Thank for you engaging with the room metaphor, and I get that platform moderation and gatekeeping can sometimes go too far, but I figured that was a separate issue. I thought "cancel culture" was when the stereotypical Twitter mob finds out where you work and demands you get fired, not when Twitter's moderators suspend your account without a good reason. I thought that was "woke capitalism".
+
+Sometimes platforms can be encouraged to practice cancellations (i.e. individuals might protest a media company over hiring a certain actor), but I thought platform control was like an institutional monopoly issue where a handful of CEOs have too much power over public opinion, and not a cultural issue where free speech norms have eroded.
+
+I get that CEOs can use their platforms to influence the culture, but I'd call that something different than "cancel culture". It wouldn't be that cancellations are happening because the culture of free speech has been killed by online mobs, it'd be that the culture of free speech is ruined because a handful of elite individuals with massive corporate power didn't want it.
+
+>The assumption that the factor of reach precipitated the extreme illebralism we see today would mean that at the very moment social media or any computer media, chat rooms, AOL, etc. was established we would have seen the establishment of a woke illebral orthodoxy and that simply didn't happen.
+
+That's a good counterargument that I admit I really had to think about. You would have stumped me had this been an in-person discussion.
+
+Honestly, I'm not sure how people going online has affected countries other than the US. But at the same time, I also don't think my theory about social media making extremist movements more powerful necessarily leads to woke dominance (and is thus disproved by a lack of woke dominance), because the same logic applies for any movement that would otherwise be too scattered in the pre-internet days to mean much. One flat-earther is just a weirdo in the friend group in-person. Online, they form their own communities. In-person, individual Neo-Nazis may just be losers who only very occasionally get the chance to actually meet up and march in force. Online, someone can log into a hateful message board every single day.
+
+I think *everyone* has gotten a boost from social media, maybe some groups more than others, but I definitely think regardless of who ultimately comes out on top everyone being boosted has led to more insane and polarized politics because extremists of all kinds now have the critical mass to be heard in the mainstream or ruin the lives of individual people if they see fit. That's why we "can't say anything anymore"; only 1 person in each room of 100 may hate you, but if they're networked with 9 other people, that's a small mob. Any ideology will have their extremists, so no matter what you say (even if it only offends the 1 immediate person in your room you can see) it will always look like you have a mob of 10 people coming out of nowhere to hate on you.
+
+Looking back on my points with your counter in mind, I also suppose we don't actually disagree in a sense. I'm trying to say that society can become or look very intolerant *even* if norms and values stay the same or even improve, while you're saying norms and values have changed to become a woke orthodoxy. **I believe that social media technology alone could account for much of cancel culture, but we could also believe that some norms have changed too**; I do think society has become more liberal, but not to the extent of an orthodoxy.
+
+If a woke orthodoxy has been established in the US (I don't just to be clear, but that's not my point), I'd think it'd be because of other factors that just got amplified by social media. i.e. all those liberal Hollywood actors now have Twitter accounts and can influence public opinion directly every day instead of just through a handful of movies and press releases. Or you have progressive professors who now have access to the entire far-left moment online and not just what fellow radicals are in the faculty lounge or library.

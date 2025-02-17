@@ -1,0 +1,21 @@
+Title: Should we allow bribery?
+Source: Econlib.org
+URL: https://www.econlib.org/should-we-allow-bribery/
+
+Here’s the Financial Times:
+
+Donald Trump has ordered the Department of Justice to halt the enforcement of a US anti-corruption law that bars Americans from bribing foreign government officials to win business.
+
+In the past, I did several posts arguing that the US should ban corporations from paying money to those who engage in “ransomware”, with long prison terms for violators. I argued that this sort of regulation would actually help business, by making them a less lucrative target for extortionists. In the comment sections, there were many objections to my argument—claims that it would not work. But no one provided any good reasons why I was wrong, just unsubstantiated assertions.
+
+You would not normally assume that corporations would favor regulations that restricted the way they could act. But the FT article provides one piece of evidence that I was correct:
+
+The decision drew criticism from anti-corruption experts who said that stopping enforcement of the law would hurt US companies operating abroad. “Most [US] companies appreciate the fact that the FCPA allows them to be firm in refusing bribes because most private sector companies — sensibly — see bribery as an unproductive cost,” Richard Nephew, a former anti-corruption co-ordinator at the State Department, posted on X.
+
+The same argument applies to ransomware attacks. Given the choice, I’d rather overseas bribery be allowed than domestic bribery. But I’m not sure either type of bribery is in our best interest.
+
+On a related note, Ken White reports that President Trump and Elon Musk are using lawsuits against groups that criticize them:
+
+Trump, who has long favored bogus litigation as a weapon against his enemies, has been on a censorial bender. In the last year alone he: sued a pollster for bad poll results; CBS for supposedly editing a Kamala Harris interview to make her look better; and ABC and George Stephanopoulos for bungling a description of E. Jean Carroll’s sexual abuse verdict against him. Musk, meanwhile, has sued both Media Matters and the Center for Countering Digital Hate for reporting about hate speech on X. . . . Trump’s election has led to a cascade of powerful media companies settling dubious Trump lawsuits. Facebook is paying $25 million to settle Trump’s claim that the social media site violated his First Amendment rights by moderating him, another argument widely viewed as nonsense. ABC paid $15 million to settle Trump’s claims. That case had more merit but ABC’s abrupt surrender is troubling. It’s disturbing when media companies yield rather than fight for the First Amendment, but Trump is no ordinary plaintiff—he can wield the power of the state against enemies.
+
+These corporate payments are not bribes in a legal sense, but they are clearly made to curry favor with important government policymakers. White reports that California passed a law to protect people from such frivolous lawsuits:

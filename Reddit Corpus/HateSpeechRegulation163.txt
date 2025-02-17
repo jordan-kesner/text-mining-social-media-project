@@ -1,0 +1,178 @@
+Title: What happened in Social Media and marketing last week? (Meta Expands)
+
+Post:
+# Top 5 Updates of the Week:
+
+* Reddit’s S-1 registration with SEC shares its performance data and growth strategy.
+* Meta expands access to Creator Marketplace for brands and creators.
+* Walmart to acquire VIZIO for $2.3 billion, an investment to take AdTech to next level.
+* Pinterest’s new B2B Campaign goes hard, takes a fun approach and mixes film culture. (P in Pinterest is for Performance)
+* X is now rolling out audio and video calling to non premium users.
+
+# Trending
+
+* Revealed; Reddit’s partnership with Google for AI Training and content for $60M/yr.
+* Lyle’s Golden Syrup rebrands, leaving their iconic identity behind.
+* McDonald’s transitions to WcDonald’s, paying homage to Anime Culture.
+* Australian Brands celebrating Taylor’s arrival; Twifties  and Tooheys.
+* OUTFRONT Media reports Full Year 2023 Results.
+* KFC launches Chizzera, what? It’s chicken pizza, no crust.
+* A new global study proves that majority of people globally are supporting climate action, but the support is systematically underestimated.
+* Indonesia issues regulations requiring digital platforms to pay media for content.
+
+# TikTok 🎶
+
+* Pew Research Center releases a new report sharing how US Adults use TikTok.
+* TikTok announces third annual Short Film competition
+* TikTok launches new 34-page creative strategy guide for SMBs.
+* TikTok makes its ‘Add to Music app’ feature available in over 160 countries.
+* In case you didn’t know, Photos and landscape videos now show in TikTok Search.
+* TikTok is running In-app promotions, prompting creators to upload photos.
+* EU opens a new investigation into TikTok over online content and child safeguarding.
+
+# Instagram & Threads 🗂️
+
+* Instagram tests stories features, to create alternate image backgrounds and ‘Get Order’ Sticker.
+* IG is testing a new feature that allows you to share your saved posts collection.
+* Threads has started rolling out post drafts feature.
+* IG working on an enhanced version of the ‘Limit unwanted interactions’ feature.
+* Threads confirms their testing of fact-checking program, leaks were seen last week.
+
+# Meta 😅
+
+* Meta tests cross-posting from Facebook to Threads App.
+* Facebook adds the ability to connect a reel to an existing video, Youtube did this too.
+* Meta is launching a new Helpline on WhatsApp to combat AI-generated misinformation in India.
+* Reports find FB & IG are platforming sexually exploitative parents.
+* Meta responds to Indonesia’s request to pay for news content.
+* Meta adds a new background generation feature for product catalog images.
+* WhatsApp adds New Test formatting options.
+* WhatsApp working on a new favourite contacts feature, to help you make quick calls.
+
+# X (Twitter) 🕹️
+
+* X planning to remove phone number verification on signup.
+* Indian Government issues executive orders requiring X to censor and limit accounts and posts.
+* Create Audio clips from X spaces.
+* New Search Filters for X available on iOS, for subscribers only.
+* X’s CEO calls X, A video first platform, with increased video upload limit to 4 hours.
+* X Community Admins can now seta topic for community on Web.
+* Elon teases X’s email functionality coming soon.
+* X faces restrictions in Pakistan amid protests over alleged voting restriction.
+* X now lets you view Picture-in-Picture for live broadcasts on web.
+* X is removing the grid-style photos and transitioning to a Threads-like Carousel style.
+* In a recent Interview, Elon talked about midjourney partnership, Gork 1.5 and more.
+
+# Youtube 🕹️
+
+* Youtube now shows top earning content by format Analytics.
+* Nielsen research shows YouTube was the most viewed CTV/Streaming platform by watch time in 2023.
+* Youtube rolling out new creator channel pages on the YouTube app for TV.
+* A new study founds that YouTube doesn’t radicalise users, the result is different from previous claims about YouTube’s influence over users.
+* Youtube testing new layouts for watching videos and engaging with comments.
+* Ancestry awards YouTube channel management contract to Little Dot Studios.
+
+# Google 🔦
+
+* Google Ads API version 16 is launching.
+* Google Gemini Failure offers new lessons for SEOs.
+* Google updates Performance Max, integrates Gemini.
+* Google wants you to label AI-generated images used in Merchant Center.
+* GA 4 adds new dedicated spaces for advertising reports.
+* Google launches Gemini Business & Enterprise for Workspace users.
+* Google bans Impersonation in Ads.
+* Google adds support for product variants and clarifies return fees.
+* Google tests adding forums to search menu.
+
+# Agency News
+
+* Build-A-Bear names KNOWN its Agency of Record.
+* Perrigo appoints VML as Strategic Creative AOR.
+* Mod Op Acquires Creative Agency Red Tettemer O’Connell+Partners.
+* Channel 4 CMO Zaid Al-Qassab to join M&C Saatchi as CEO.
+* Hy-Vee names Ogilvy as Strategic-Creative Partner.
+* Bugaboo appoints FleishmanHillard Australia as PR Agency of Record.
+* Agital acquires Digital Edge, An Established Agency in The Travel & Tourism Industry. 
+* Adam&eveDDB secures Volkswagen Commercial Vehicles UK Advertising account.
+* Amplify LA appointed as Abercrombie & Fitch’s 2024 Event Partner.
+* Dentsu wins Microsoft Agency partner of the year ad marketing with Purpose award.
+* Universal Orlando Resort appoints Lucky Generals as Agency Partner.
+* SAKARA appoints January Digital as Digital Agency of Record and marketing strategy firm.
+
+# Brands & Ads 🏓
+
+My Fav; Canadian Cannabis Brand Stok’d launches new legal-ish campaign, promoting stores next door. Why? To increase foot traffic near their shops, as they can’t legally advertise their biz,
+
+* Unilever marketing team shake-up as long-time Chief Brand Officer, Aline Santos leaves.
+* Mindy Kaling and Maybelline call out Age-related narratives in Beauty.
+* Lay’s ‘Chip Cam’ stunt puts 2 lucky fans in stands with Beckham and Henry.
+* Uncommon’s latest ad for Quakers is simple, but its emotional value wins you over.
+* American Express launches new campaign for Business Cards and promotes pleasure.
+* NuBank uses Lesile David Baker in latest campaign, borrows his ‘Stanley Identity’ and targets the older demographic to use online banks.
+* Coca-Cola launches new K-Pop inspired flavour under its Creations platform.
+* Starry’s Ad series ‘It’s Time to See Other Sodas’ featured Giannis Antetokounmpo in new campaign.
+* Magnum and MullenLowe ask you to ‘find your summer’ in the harsh winter.
+* Zalando asks everyone to put yourself first, when it comes to gifts in 2024.
+* Pepsi’s new partnership with Shaq and Reebok to launch sneakers that carry mini cans.
+* McDonald’s with its creative campaign to promote Home Delivery in France.
+* Uncommon launches ‘The Dirty Protest’ with other partners, to clean up the oceans creatively.
+* The Iconic, leading fashion and lifestyle platform in Aus/NZ launches new brand platform, in partnership with Dentsu Creative and Love Media.
+
+# AI 🤨
+
+* Jasper Expands by Acquiring Image Platform Clipdrop from Stability AI.
+* BT Group cuts 12% of the tedious and repetitive tasks with AI.
+* Google launches ‘Help me Write’ AI Assistant for Chrome Browser.
+* Shop with Google AI launches for selected users.
+* Clubhouse’s new AI feature to turn text messages to voice ones.
+* Adobe Acrobat has a new GenAI chat feature for Pdfs.
+* OpenAI launches new Forum, to connect the community and organise events.
+* Google announces Gemma; Laptop-Friendly Open Language Model.
+* A Commentary on Google’s algorithmic bias disaster.
+
+# Pinterest
+
+* Pinterest launches new TV series with shoppable experience.
+* Pinterest testing new cutout feature for pins.
+
+# LinkedIn
+
+* LinkedIn shares new insights into building public groups. (On their blog)
+* LinkedIn launches new marketing guide, ahead of third-party cookie deprecation.
+* LinkedIn shares new data about their members, to attract B2C marketers.
+* LinkedIn’s new B2B Sales Playbook is here.
+
+# Snapchat
+
+* Snapchat shares new influencer marketing report for brands.
+* Warner Bros. Promote Dune: Part Two with Snap AR lens.
+
+# Marketing & AdTech
+
+* Accenture to acquire GemSeek to expand their Customer Analytics Services.
+* Adomni partners with data solutions company, Kochava to launch a new solution for CTV.
+* Stagwell acquires Sidekick, an award-winning collective of specialist agencies.
+* Salesforce rolls out new edition of Marketing Cloud for small businesses.
+* SMITH’S partner with Netflix to launch 3 new Rebel Moon-Inspired flavours.
+* Comscore announces Local Campaign Ratings, TTD to integrate.
+* Amazon, Disney+, Netflix, Vevo and Warner Bros Discovery join Thinkbox.
+* WEX appoints ROAST as its Full Service Digital Agency.
+* Signal rolls out usernames, to help you keep your phone number private.
+* Nakheel and Hypermedia announce exclusive 10-year DOOH Media partnership.
+* Talon, Independent OOH Agency announces Sue Frogley as new group CEO.
+* Roblox paid out $741 million to its community of creators in 2023.
+
+**I hope this helps to plan your week ahead.**
+
+Top Comments:
+If this post doesn't follow the rules [report it to the mods](https://www.reddit.com/r/socialmedia/about/rules/). Have more questions? [Join our community Discord!](https://discord.gg/looking-for-marketing-discussion-811236647760298024).
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*
+OP here!
+
+I handcurate these Ad recaps and marketing updates every week. I work full-time as a marketer. Only trying to help the community.
+
+In case, you like this you can join my newsletter: The Social Juice. I send required sources & researches too! (Every Sunday free)
+
+•	⁠I send orange juice made from oranges at my tiny garden to random subscribers. 🍊

@@ -1,0 +1,51 @@
+Title: Should we primarily rely on private companies or the government to regulate public speech? How much regulation is needed?
+
+Post:
+Free speech has been a right that the US has greater appreciated. There have been very little limitations to what can be said from both the private sector and the government.  The government has typically only focused on preventing incitement of immediate danger and protection for those of certain statuses.  The private sector has shown to have be more aggressive with their regulation.
+
+So far we have relied primarily on companies to regulate our content.  This gained global attention when Twitter and other companies banned Trump.  The result was overall positive with a reduction of conspiracy theories being reported on Twitter.  The danger of trump’s speech was arguably clear.  Many suggest that the end result of the capital riots was almost a certainty due to his language.  However, many question whether we should rely on companies to be the ones who are regulating the speech of trump and others.
+
+So where do we go from here?  Is it better to continue this reliance on private companies for regulation or are the critics right and that we should have legislative solutions for these dangerous rhetorics?  Both have their pros and cons.  If there is legislation from the government, how will it be enforced while clearly identifying dangers without overzealously stepping on first amendment freedoms?  If we rely on companies, how can we mitigate the risks of fringe platforms like gab or parlor which have little to no regulation?
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+The issue isn’t free speech, it is a tragedy of the commons.  When broadcasting first started up, the industry quickly realized that the radio spectrum was limited, and anyone with a power supply could blow anyone else’s station off the air.  The industry begged for regulation.  This is what often happens with resources that are shared, initially perceived as free, and limited.  At first, everyone rushes to exploit them, then, when they realize they are killing the golden goose, they beg for regulation.   Airports and air traffic, Broadcasting, lots of other examples.  
+
+In the case of social networking, we have the same issues - the resource, people wanting to connect and their trust and goodwill, are free and limited.  Greedy liars and con men are spoiling it for everyone else.  They will eventually settle on regulations enforced by the government, but designed by the big players in the industry, the same as every other regulated industry.
+Public speech cannot be regulated by the government without violating our first amendment rights.  I am aware that the rest of the world does not enjoy the protection of our inalienable right to speak our mind.  The US is special in that regard. I for one am proud of our 200 + year tradition of protecting speech with which we do not agree.
+> So where do we go from here?
+
+Ask the mods.
+
+No seriously, this is a  solved problem.  Discourse in the public sphere on the internet is moderated.  It's moderated everywhere.  Reddit does it.  Facebook does it.  Twitter does it.  Parler didn't do it (or certainly didn't do it effectively) and so Amazon did it for them.  Even 4chan has rules.  And even 8kun seems to be starting to pull down the most batshit garbage as of today.
+
+The framing of your question implies that there's some kind of partisan censorship happening, but there simply is not.  Period.  It's not happening.  You as a republican can go post about conservative topics on any of those forums and no one will touch you.
+
+But you can't be violent.  You can't call for an uprising.  I don't see that much more is needed than this.
+Private companies have a far lesser scope than the government. On top of that, no one has an inalienable right to spout their opinion through a medium owned by another company. By the same token that a megaphone store ought to be allowed to bar sales to certain people, so should Facebook have the right to not platform other people. They don’t have to offer their product of the increase in the virility of speech to everyone.
+I think instead of directly removing content(unless it's unprotected, such as hate speech and violence) the answer is taming the internet through better moderation and informing. We need a system for determining fact vs fiction. Most importantly we need a better effort from big tech on removing fake accounts. We need more verification online, not less. People being able to make 5 accounts to spam misinformation or simply hide behind them is wrong. 
+
+Yes, I was around when the internet started and a big allure was being hidden behind a screen but things have simply grown to big to allow this type of behavior to continue. If you won't say it in person you shouldn't say it online and more account verification should help with that.
+
+However, this type of "one account, one person" type of behavior isn't exactly exciting to big tech. They like big user numbers to show investors so eliminating repeat accounts actually hurts there business model.
+These days has been raging this discussion on twitter about how Biden replaced [Jackson with Franklin](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjpo9n9obDuAhWMy6QKHRaZB_YQFjAAegQIBBAC&url=https%3A%2F%2Ftwitter.com%2F7im%2Fstatus%2F1352019219957784576&usg=AOvVaw07JNHgIZA_5gIV3u42cwF3)  on the wall. Twitter has also been banning people and removing answers  for pointing out that Franklin said pretty racist and conservatives lines in his times.
+
+Adding this to the [Parler debacle](https://edition.cnn.com/2021/01/09/tech/parler-suspended-apple-app-store/index.html) there is a whole issue about freedom of speech in social media nowadays. Banning one single troll or hateful person might seem sensible, but removing a whole political faction from the Internet because private citizens says so does raise disturbing issues about freedom of speech.
+
+The danger is, obviously, China-level censorship obtained through different means. But should a nation steeped in capitalism and private enterprises pass a law that restricts this kind of behaviour, removing any discrimination due to political beliefs?
+
+Keep in mind that this might affect things like the ICANN, the corporation that handles and manages website domain names and that has managed to stay independent up to this day exactly because it was not state-owned.
+I think this has been stated, but I think we as the consumers of these platforms have the right to request regulations from them. I truly don't think the government should regulate speech, not because of some slippery slope logic but because these laws could never move at the rate of language change or be equitably enforced. I mean the 'okay' hand sign can mean white power now and most everyone I know has no idea. What are you gonna do arrest or fine everyone with an okay sign in a pic because they're not woke as the people writing the law? Sure there are more blatant examples but what about in 30 years when the law hasn't changed since day one? And how are you going to get racist politicians to agree to anything anyways? 
+
+Alternatively Google knows there's Nazi websites. They can just take them down in like 5 mins. Its fair game. The Nazis want to be on the platform to disseminate hate, I dont want them there. it's a company, there's no right to free speech in a private bussiness, and there's no argument you can make to rationalize letting Nazis meet and distribute propaganda in your bussiness. If enough people like me call for them to kick out out the Nazis, or else everyone will stop googling, what do you thinks gonna happen?
+The government. Our US government is more restrained and clear about what they can and can't regulate, and it's very predictable how our government will react over the long term towards speech. Private companies like Youtube and Twitter are too unpredictable and secretive with the way they recommend or moderate content (and should have some form of government regulation that enforces free speech and transparency since our tech controls >90% of the Western world's online speech).

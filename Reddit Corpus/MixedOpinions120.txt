@@ -1,0 +1,199 @@
+Title: Has there been a political shift? A comparative breakdown of MPs subreddit surveys.
+
+Post:
+I originally wrote this down two weeks ago, as a reply to the assertions made in [this](https://www.reddit.com/r/moderatepolitics/comments/jp8bkq/the_recent_shift_of_political_leaning_in_this_sub/) thread which allege that (1) there has been a shift in this subreddit towards the left, (2) that conservative voices are disappearing and (3) that conservative voices are downvoted. I decided not to post it because we were in the midst of election-fever. More than that, though, I wanted to do a breakdown of these observations for all to see. I'm hoping people will appreciate this but if not then I've at least successfully wasted another couple of hours on a Saturday (and now again on a Tuesday).
+
+**To quickly sum up the results as a sort of TL;DR**: Based on survey results there has not been any observable shift towards the left. If anything, MP has solidified even further as a moderate/centrist subreddit on either side of the political spectrum. I can only answer 1, 2 currently since 3 is essentially asking me to prove a negative (i.e. "prove that they aren't being downvoted!") but depending on the recurrence of this argument, I may spend a bit of time collecting a downvote corpus and have a look at the most frequently downvoted sentiments.
+
+# On the Surveys
+
+This thread is a small **comparative breakdown of the subreddit surveys** in order to answer the above questions/assertions. Going through the various announcements of the subreddit [utilising 'survey' as the keyword](https://www.reddit.com/r/moderatepolitics/search/?q=flair_name%3A%22Announcement%22%20survey&restrict_sr=1), I only managed to find two pieces of subreddit polling data - feel free to correct me or add anything if you know of more.
+
+There's (A) [this one](https://docs.google.com/forms/d/e/1FAIpQLSdAVZ9Fn1Tb-zLFf4lizvLPMvQe3A_DPsPB5-q9N9hkzSMJyQ/viewanalytics), from just about a year ago, and (B) [this one](https://docs.google.com/forms/d/e/1FAIpQLSfbLmXGX05ctMP69hx2vLbvoBwTWYsWJ3CF6YgIhYnpsR2phw/viewanalytics), from just 20 days ago (now a month+). The original survey numbers just 89 responses as opposed to the more than 1,200 responses of the recent one. Before we even get to survey results, we have to consider the error rate with such a small initial sample. I can't well calculate it for A since I don't know the population at the time, but for B we are sitting at a solid 98.8% (non-)error rate. I also want to note that the survey splits survey results into lurker/non-lurker samples and, as an aside, that the lurker pool has grown by \~13% to be almost 70%. Too bad, for sure, but I'm guessing it just comes with subreddit growth.
+
+# Political Leanings
+
+The thing we're interested in, according to the claim of bias/shift in politics, is political leaning but since we're talking about perception, it makes sense to focus on non-lurkers. Here is the breakdown of that:
+
+(non-lurkers) **Which major US party fits your views the best:**
+
+||Democrats|Republican|Libertarian|Other|Green|
+|:-|:-|:-|:-|:-|:-|
+|A|35.9%|20.5%|15.4%|25.6%|2.6%|
+|B|63%|17.1%|14.3%|\--|5.6%|
+
+Just to note it: **there has been no significant change in the percentage of self-reported republicans or libertarians.** Now, on the surface, the demographics obviously appear to have changed drastically, with almost twice as many declared democrat, but I want to point out two things. First, the most obvious difference between the two is that A has a poorly defined "Other" option here, which a significant portion of our sample chose. It may well be that these are the ones who consider themselves 'centrists' and that those centrists, when given no other option, are closer to Dems. To support that, I want to bring up the second aspect; the breakdown of what "Aisle" this party affiliation breaks down to:
+
+(non-lurkers) **Which aisle of the Democratic Party are you on?**
+
+||A|B|
+|:-|:-|:-|
+|Progressive Dem|53%|30.1%|
+|Moderate/Third Way Dem|6.7%|54%|
+|Blue-Dog Dem|20%|4.5%|
+|Bernie Dem|\-|11%|
+|Median/Generic Dem|20%|\-|
+
+What we see here is a significant change from more progressive dem non-lurkers to more moderate ones. I would argue that this likely supports the theory that "other" covered over this group of moderates/centrists before. Even adding Progs and Bernies we still get a 10+% reduction. As a caveat, I'm honestly not sure what Median/Generic dem means here, though I'm guessing it's a form of centrism. As always, feel free to correct as necessary.
+
+**My conclusion on (1) is thus simply this:** There has arguably been no observable difference in the demographic make-up of the subreddit, at least as far as these surveys are concerned. The changes that *can* be seen can be explained by poor initial survey design. The lack of change in contributors' political stance over time suggests that there is no inherent 'disappearance' of conservative voices.
+
+# Lurkers
+
+As opposed to the relative clarity of the first question, the second question is arguably a bit broader and more problematic to nail down. That said, we might argue that such a thing could be explained at least partially by looking at lurker tendencies in those who tend to lean Republican, with the argument being that if lurker growth is (a) higher in one political group and (b) higher in one breakdown of that political group, then perhaps something points to people at least being less likely to post for one reason or another.
+
+(lurkers)  **Which major US party fits your views the best?**
+
+||Democrats|Republican|Libertarian|Other|Green|
+|:-|:-|:-|:-|:-|:-|
+|A|42%|26%|8%|24%|0%|
+|B|65.8%|16.4%|14.2%|\-|3.7%|
+
+Now, to be fair, the percentages here really only bear out that the overall growth in lurkers has been most significant amongst democrats. We could feasibly argue that this may indicate an overall demographic growth of democrats, but once again the "Other" question is messing us up. And, to be clear, this still does not indicate a move towards 'further' leftism either.
+
+(Lurkers) **Which aisle of the Democratic Party are you on?**
+
+||A|B|
+|:-|:-|:-|
+|Progressive Dem|35.7%|33.3%|
+|Moderate/Third Way Dem|25%|56.3%|
+|Blue-Dog Dem|14.3%|3.4%|
+|Bernie Dem|\-|7.1%|
+|Median/Generic Dem\*|25%|\-|
+
+(Lurkers)  **Which aisle of the Republican Party are you on?**
+
+||A|B|
+|:-|:-|:-|
+|Moderate/Tuesday Repubs|52.6%|70.4%|
+|Reagon Repubs|\-|7.8%|
+|Tea Part Repubs|15.8%|11.2%|
+|Trump Repubs|\-|10.6%|
+|Median/Generic Repubs|31.6%|\-|
+
+Looking at the breakdown of lurker tendency, we can see that the proportion of self-professed 'progressive' Dems has not grown proportionally to the subreddit growth - it actually shrunk by a tiny ( error-explainable) amount. If anything, MP has grown more moderate as 'Moderate' went up by almost 100% but, again, there's the issue with the vague descriptions. Mostly, Lurkers' political leanings seems to have remained the same.
+
+\_\_\_\_\_
+
+I'll leave it at that for now - if you read through all of this then I really appreciate you taking your time to do so. I would love to hear what people think of these observations, especially if you feel like I made any mistakes in my approach or perhaps overlooked something obvious that could explain things better.
+
+As noted in my TL;DR, I might take the time to make one more analysis focused on the downvote tendencies within the subreddit to answer assertion #3. My qualitative (and likely therefore unconvincing) overview of the ones that had -5 (random number because I didn't spend time querying an API, showed that there were 54 with that exact number of downvotes within the last month in a sample of 10k comments) was that they were largely either peddling misinformation, being somewhat uncivil or presumptive about the person to whom they were responding or a dozen other things.
+
+EDIT:
+
+I think some flaws in my approach have been brought up that are very fair and I appreciate that people are sharing their personal experiences. I think the biggest issue in the above post is that I was not mitigative enough - this was not actually a post that was meant to prove me right as much as it was a post that was meant to question why people automatically assume that there *has* been a shift based on very shaky or lacking evidence.
+
+Top Comments:
+I'll respond to this since you're referring to my post.
+
+>There's (A) [this one](https://docs.google.com/forms/d/e/1FAIpQLSdAVZ9Fn1Tb-zLFf4lizvLPMvQe3A_DPsPB5-q9N9hkzSMJyQ/viewanalytics), from just about a year ago, and (B) [this one](https://docs.google.com/forms/d/e/1FAIpQLSfbLmXGX05ctMP69hx2vLbvoBwTWYsWJ3CF6YgIhYnpsR2phw/viewanalytics), from just 20 days ago (now a month+). The original survey numbers just 89 responses as opposed to the more than 1,200 responses of the recent one. Before we even get to survey results, we have to consider the error rate with such a small initial sample. I can't well calculate it for A since I don't know the population at the time, but for B we are sitting at a solid 98.8% (non-)error rate. I also want to note that the survey splits survey results into lurker/non-lurker samples and, as an aside, that the lurker pool has grown by \~13% to be almost 70%. Too bad, for sure, but I'm guessing it just comes with subreddit growth.
+
+Firstly, the weak portion of this post comes from this here. You're using a sample size of 89 to represent an approximate population of over 30,000 people. **The margin of error is going to be HUGE for sample A. Over 10% huge.** To put it in perspective, with a population of over 30,000, a 95% confidence interval, and a 5% error rate, you'd need a sample size of 380. **89 is no where close.**
+
+[https://subredditstats.com/r/moderatepolitics](https://subredditstats.com/r/moderatepolitics)
+
+[https://www.checkmarket.com/sample-size-calculator/](https://www.checkmarket.com/sample-size-calculator/)
+
+&#x200B;
+
+>The thing we're interested in, according to the claim of bias/shift in politics, is political leaning but since we're talking about perception, it makes sense to focus on non-lurkers. Here is the breakdown of that:
+
+Lurkers are arguably more important. Lurkers are the vast majority of this sub, and therefore make the determination of what gets upvotes and downvotes. Non-lurkers submit posts that lurkers upvote and downvote without debating.
+
+Let's move into the meat of this post.
+
+>Just to note it: **there has been no significant change in the percentage of self-reported republicans or libertarians.** Now, on the surface, the demographics obviously appear to have changed drastically, with almost twice as many declared democrat, but I want to point out two things. First, the most obvious difference between the two is that A has a poorly defined "Other" option here, which a significant portion of our sample chose. It may well be that these are the ones who consider themselves 'centrists' and that those centrists, when given no other option, are closer to Dems. To support that, I want to bring up the second aspect; the breakdown of what "Aisle" this party affiliation breaks down to:
+
+Completely ignoring the fact that survey one is **completely unrepresentative** due to the horribly low sample size, lets pretend that it is.
+
+I agree that the first survey had major problems with the party selection. BUT you seem to be throwing the baby out with the bathwater. In survey A we have a % democratic population of 35.9%. That is obviously incorrect, you and I both agree. How much of the "other" category do you believe are democrats? your post insinuates that it is the majority, which is probably accurate. Lets run different scenarios. Let's pretend these situations:
+
+Survey A:
+
+* 50% of the "other" category are democrats, and can be moved.   35.9 + 12.8 = 48.7%.
+   * **This leaves a delta between Survey A & B as 14%.**
+* 75% of the "other" category are democrats, and can be moved. 35.9 + 19.2 = 55.1%
+   * **This leaves a delta between Survey A & B as 8%.**
+
+We have to do the best we can with the data that we have. **We can assume that all "other" choices were democrats and still see positive shift toward democrat in a year's span.**
+
+I can say with confidence that these values are based in some reality when you examine the elimination of the "other" category problem in survey two.
+
+How can I be confident in this? The elimination of the "other" category issue led to a sharp increase in democrats, and an overall reduction in republicans. So there are three choices:
+
+* Either there were more democrats in Survey A "other" than republicans
+* Or we had an influx of republicans unsubscribe from the sub.
+* The "other" category was exactly 50/50, and we had an influx of democrats subscribe over the course of a year.
+
+There is a very obvious increase in democrats between the survey, and a decrease in republicans. There are only 3 explanations for this.
+
+&#x200B;
+
+>Now, to be fair, the percentages here really only bear out that the overall growth in lurkers has been most significant amongst democrats. We could feasibly argue that this may indicate an overall demographic growth of democrats, but once again the "Other" question is messing us up. And, to be clear, this still does not indicate a move towards 'further' leftism either.
+
+Yes, yes it does prove an increase in the subs left leaning. A significant decrease in right leaning contributors (or an increase in left leaning subscribers) will still contribute to an overall more left leaning sub, even if there are less "extremists" on the left. It's the law of averages, a decrease in right sources has to shift the sub left. A "moderate" democrat is still has a slight lean left. A slight lean left with a reduction in right contributors shifts the average left.
+
+&#x200B;
+
+>Looking at the breakdown of lurker tendency, we can see that the proportion of self-professed 'progressive' Dems has not grown proportionally to the subreddit growth - it actually shrunk by a tiny ( error-explainable) amount. If anything, MP has grown more moderate as 'Moderate' went up by almost 100% but, again, there's the issue with the vague descriptions. Mostly, Lurkers' political leanings seems to have remained the same.
+
+I did not once argue that the sub was has become a progressive cesspool. I claimed that the sub has noticeably shifted more to the left with posts and upvotes/downvotes.
+
+>Now, to be fair, the percentages here really only bear out that the overall growth in lurkers has been most significant amongst democrats. We could feasibly argue that this may indicate an overall demographic growth of democrats, but once again the "Other" question is messing us up. And, to be clear, this still does not indicate a move towards 'further' leftism either.
+
+Exactly. We see a huge spike in democratic growth, with an other category that *most likely* consists of democrats. 
+
+&#x200B;
+
+Look forward to your response.
+I think a lot of the concerns about the subreddit moving to the left have come after the election. Highly upvoted comments like
+
+> Too many brainwashed people in one country. It's really worrying
+
+> I honest to God don't have the strength to put up with the current GOP anymore. It's just demoralizing
+
+> He’s not a good leader because he simply cares about himself much more than he cares about others. Unfortunately, he still has many supporters.
+
+> Unfortunately I have seen many relatives and acquaintances doing the same. They are all moving to Parler or Newsmax or OAN, basically any platform that doesn’t challenge their deeply-held beliefs that America is under attack by godless baby-eating socialists and Trump is the only one who can stop them.
+
+> I'm as close to believing the party is evil than I have ever been.
+
+> Are there actually a lot of right wingers who aren't on this conspiracy theory wagon?
+
+> I really wish I could say I believed this, but it's pretty obvious that a good 40% of the country is on board with whatever this adminstration and the GOP does, regardless of whether it's legal, moral, or ethical.
+
+> “If conservatives become convinced that they cannot win democratically, they will not abandon conservatism. They will reject democracy.”
+
+> I've said this a dozen times, but by all means it seems like they abandoned conservatism a while back at this point. They traded it in for traditionalism, regressivism, and reactionary rhetoric. They are no longer trying to "conserve" they hate the modern world, they're trying to force a change that reverts the country back into some type of non-existent era of history that they've romanticized. 
+
+> How is this different than a cult now? (mod reply is -32)
+
+> it's about 2 steps away from turning into a death cult. Every day it inches closer and closer.
+
+> At this point, Trump and his allies are attempting a soft coup of the US.
+
+> (r conservative) It’s an echo chamber of far right authoritarianism.
+
+Stuff like this, in addition to people posting tell-all stories about the family members they've had to cut off because of their support for Trump or how indoctrinated they've become shows nothing but an adversarial relationship between Dems and Reps on this subreddit.
+All I can tell you is the conservative voices that used make this sub interesting no longer contribute. Draw whatever conclusions you want from that...
+Reddit just leans really left. Almost everything I read on here was pointing towards a democratic landslide. The majority of posts, most of the upvoted comments. According to reddit, like 75% of the country are lefty dems. But that's not how the people vote, not even close. This site has a bias.
+
+Now when it comes to moderatepolitics, I have never thought of this sub as like some balanced sub between left and right. I like this sub because the users stay a lot more moderate than other politics subs. As in not lashing out at opposing viewpoints.
+One reason for the increase of "moderate Democrats" could be because of confusing labels.  Your survey has "moderate/Third Way Dem" as a category.  Those might mean different things to different people.  For example, Biden ran in 2020 as and was widely described by the media as "a moderate" despite running on the farthest left policy platform of any major party nominee in modern US history.  Biden's 2020 platform is in no way a "third way", DLC, Bill Clinton circa 96' candidate.
+
+That could account for the large increase in so called "moderate" Democrats.
+I think it might have to do with post subject matter.  I'm sure someone could do something with data here, but anecdotally, my impression has been that a huge number of posts have been about Trump's lawsuits and refusal to concede, and ancillary issues.  Even the most aggressive polls seem to show that somewhere a little more than half of republicans think the election was "stolen" or some version of that.  Add to that that there is a significant group who think (not without reason, under present circumstances) that even talking about the possibility of election fraud is an assault on democracy.  So putting that together: if most posts are on a subject that only a subset of a minority wants to take the facially "conservative" position on, and that position is likely to be extremely unpopular among more populous demographics, it shouldn't be surprising that there have been a few crickets/downvotes there.  It's very possible that conservatives are still around and just not starting their comments with "I'm a conservative, but..."
+I’d like to throw in my two cents on my own personal behavior. I’ve historically taken a mixed stance on issues. I tend to simultaneously support some progressive economic issues (healthcare/health insurance reform) while supporting other conservative issues (e.g. student debt solutions) and have a libertarian approach to social issues.
+
+For the past few months, though, there has been a constant barrage of deeply troubling statements and behaviors from the Trump administration regarding the peaceful transfer of power. I’m all for presidential candidates having their day in court, but when a candidate calls an election fraudulent months in advance of said election, there’s a problem. In my eyes, these were attacks on American democracy and I don’t take that lightly.
+
+So, in the months leading up to the election, all of my conservative stances took a back seat to my disdain for Trump. In any other election, if one of the candidates refused to take a public stance against court packing, I would have blasted that candidate on every medium available to me. 
+
+I still have my conservative opinions, but they aren’t a priority to me right now. I just want Trump gone. Once Biden is sworn in, I will go back to calling out Dems just as much as I used to.
+the complaining about downvotes has all always struck me as juvenile.  It's people coming out of their media bubbles to a place with significant overlap with opposing politics and mistaking the lack of affirmation with outright attack.
+An ever-present question is what "moderate" even means.   Many don't consider Trump's GOP to be a realistic version of conservatism.  And many push back against the idea that the moderate position is always a golden mean between Democrats and Republicans at any given time.   
+
+If the GOP moved more frankly in the position of Stephen Miller, or even embraced actual white nationalism (note the *if*, and this is a hypothetical), some would still say the "moderate" position is to split the difference and be in the dead center of wherever Democrats are and wherever the Republicans are.  Like the moderate, reasonable position is necessarily midway between, say AOC (who is called an extremist) and Stephen Miller or Steve Bannon or whoever.    Even putting aside white nationalism, what *is* the 'moderate' position regarding Trump trying to use the courts to overturn the election?
+I think it's just difficult to make a convincing argument in favor of the American Republican party right now, especially on a sub that leans left. Republicans had control for 4 years and off the top of my head all I can remember is a tax reform bill aimed at helping the wealthy and filling a bunch of judge seats with controversial picks.
+
+Imagine coming to this sub and trying to explain how Trump's foreign policy positions are well thought out and useful to the US in the long run. You'd get destroyed, because at their core Trump's decisions were impulsive and often harmful to the US's long term interests. This sub is filled with people interested in rational debate, and Trumpism doesn't hold up to scrutiny. I'm sure there are conservatives lurking in the sub, and I'm sure they can make a convincing argument for their ideology. Just not the party that's come to represent it

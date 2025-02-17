@@ -1,0 +1,104 @@
+Title: Russia is still the biggest player in disinformation, Facebook says
+
+Post:
+ By  [Elizabeth Dwoskin](https://www.washingtonpost.com/people/elizabeth-dwoskin/)May 26, 2021 at 3:54 p.m. EDT
+
+A  Facebook report released Wednesday says that Russia is still the  largest producer of disinformation, a notable finding just five years  after Russian operatives launched a far-reaching campaign to infiltrate  social media during the 2016 presidential election campaign.
+
+Facebook  says it has uncovered disinformation campaigns in more than 50  countries since 2017, when it began the cat-and-mouse game of cracking  down on political actors seeking to manipulate public debate on its  platform. The [report](https://about.fb.com/news/2021/05/influence-operations-threat-report/),  which summarizes 150 disinformation operations the company says it has  disrupted in that period, highlights how such coordinated efforts have  become more sophisticated and costly to run in recent years — even as  these operators struggle to influence large numbers of people as they once did.
+
+Meanwhile,  more players have learned from the Russian example and have started  disinformation operations in their own countries, Facebook says. That  includes networks of shadowy public relations firms that sometimes do  work for both sides within a country, as well as politicians, fringe  political groups, and governments themselves, said Nathaniel Gleicher,  Facebook’s head of security policy, in a media call.
+
+ 
+
+“It  started out as an elite sport, but now we see more and more people  getting into the game,” said Gleicher, who added that such efforts  increasingly resemble influence operations that were conducted before  social media, “narrower, more targeted, expensive, time-consuming, and  with a lower success rate.”
+
+In 2017, Facebook discovered a vast influence operation, in which the Russian Internet Research Agency had subjected [126 million of the platform’s users](https://www.washingtonpost.com/business/technology/2017/10/30/4509587e-bd84-11e7-97d9-bdab5a0ab381_story.html?itid=lk_inline_manual_10)  to political disinformation ahead of the previous year’s election.  Since then, the social network has invested resources in policing its  service — including hiring more than 10,000 third-party content  moderators and subject matter experts — and building algorithms to scan  for unwanted content.
+
+The big caveat to  the report is that Facebook and other social media platforms see only  the nefarious operations that they uncover — and do not know about the  broader universe of disinformation that goes undetected.
+
+“I think we should be careful about saying that we know what the denominator is,” Gleicher said.
+
+[Russian  content on Facebook, Google and Twitter reached far more users than  companies first disclosed, congressional testimony says](https://www.washingtonpost.com/business/technology/2017/10/30/4509587e-bd84-11e7-97d9-bdab5a0ab381_story.html?itid=lk_interstitial_manual_13)
+
+Some  insiders have alleged that Facebook executives ignored certain areas of  disinformation in some countries despite internal flags, according to  reporting by The Washington Post and other media reports. They claim  that political hesitancy around dinging certain politicians and parties,  as well as prioritizing policing what are deemed more important  elections, events, and geographies, have led to problems. Facebook has disputed those allegations.
+
+In  recent years, no other social media influence campaign that the company  has detected has appeared to achieve the scale of the 2016 Russian  operation. But the initial campaign also was unsophisticated in some  respects. Posts often included grammatical errors that suggested  non-English speakers were writing them, for example.
+
+Since then, operators have had to devise new methods to co-opt the public.
+
+One  strategy has involved recruiting native speakers, and another involves  seeking a more targeted audience to manipulate, according to the report.  In early 2020, for example, Facebook disrupted a Russian military  operation targeting Ukraine that created Facebook profiles of fake  people purporting to be journalists. The fake journalists tried to  contact and influence policymakers and influential people directly but  did not appear to try to build a large Facebook audience, the report  said. Russia adopted a similar strategy for a modest disinformation  operation in the United States as well, although in that operation [actual journalists](https://www.washingtonpost.com/technology/2020/09/01/facebook-disinformation-takedown/?itid=lk_inline_manual_19) were recruited under false pretenses to represent fabricated news outlets.
+
+The  report reveals significant trends, including how the number of foreign  disinformation operations compares to domestic ones (slightly more  domestic) and whether most disinformation appeared to be politically or  financially motivated (the latter, but it’s not always possible to tell  who is paying the shadowy PR firm).
+
+The  top countries Facebook identified as originators of most disinformation  operations both domestic and foreign were Russia, Iran, Myanmar, the  United States and Ukraine.
+
+The  countries that were most frequently targeted by foreign disinformation  operations were the United States, Ukraine, Britain, Libya and Sudan.
+
+As  operations grow more sophisticated, it can become harder to distinguish  them from authentic political activity, the report noted. That problem  was particularly acute in the 2020 U.S. election, which the report  described as a “a watershed moment in the recent history of influence  operations.”
+
+[Facebook takes down Russian operation that recruited U.S. journalists, amid rising concerns about election misinformation](https://www.washingtonpost.com/technology/2020/09/01/facebook-disinformation-takedown/?itid=lk_interstitial_manual_26)
+
+Russia,  Iran and China all tried to influence public debate ahead of the vote,  apparently with limited results, the report said. The most elaborate  effort involved the Russian Internet Research Agency hiring people in  Ghana to impersonate Black Americans discussing politics and issues of  race. Facebook also discovered a shadowy network run by people in Mexico  who posted about issues of Hispanic pride and the Black Lives Matter  movement. The report noted that the FBI later [connected](https://www.dni.gov/files/ODNI/documents/assessments/ICA-declass-16MAR21.pdf) this operation to the Russian IRA.
+
+By  contrast, domestic disinformation had a much greater impact that  foreign. The five U.S.-based operations the company exposed heading into  the 2020 election featured domestic political players who were abusing  Facebook’s rules.
+
+Four out of the five were on the political right.
+
+One  was Rally Forge, a U.S.-based marketing firm that hired a staff of  teenagers to sow disinformation and was affiliated with the pro-Trump  political action committee Turning Point USA, The Washington Post [first reported](https://www.washingtonpost.com/politics/turning-point-teens-disinformation-trump/2020/09/15/c84091ae-f20a-11ea-b796-2dd09962649c_story.html?itid=lk_inline_manual_32).  The others were groups affiliated with the violent conspiracy theory  QAnon, a website dedicated to promoting white identity and criticizing  immigration, an “inauthentic” network tied to Trump advisor [Roger Stone](https://www.washingtonpost.com/technology/2020/07/08/facebook-roger-stone/?itid=lk_inline_manual_32) and the Proud Boys militia group.
+
+In  addition, shortly after the election Facebook took down an  “inauthentic” network tied to former Trump advisor Steve Bannon. The  company did not put [this takedown](https://www.washingtonpost.com/technology/2020/11/09/facebook-steve-bannon-misinformation/?itid=lk_inline_manual_34) into the report because it did not rise to the level of a full-scale disinformation operation.
+
+One  trend the report highlighted was the rise in “perception hacking,” in  which the prospect of an influence operation helps cast doubt on the  authenticity of public debate.
+
+As  the United States headed into the 2018 midterms, Facebook found that  Russia’s IRA had created and broadcast a website, usaira.ru, complete  with an “election countdown” timer where the agency claimed to have been  creating nearly 100 fake Instagram accounts.
+
+“These  fake accounts were hardly the hallmark of a sophisticated operation,  rather they were an attempt to create the perception of influence,” the  report noted.
+
+Top Comments:
+[Please keep in mind that all posts need to be of professional discussion](https://www.reddit.com/r/socialmedia/comments/ft6ghx/all_new_posts_need_a_flair_going_forward/). This isn't a help desk. [If this post doesn't follow the rules report it to the mods](https://www.reddit.com/r/socialmedia/about/rules/).
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*
+Honestly anyone who focuses on the Russian internet research agency is being mislead. 
+
+This is propaganda. That firm had almost no impact on the election, and they were tiny with a small number of employees and budgets. 
+
+The narrative around this firm has been manipulated to support Meuller’s probe…
+
+The reality is that Facebook willingly works with firms like media matters and knowingly gives them 100% of their data, knowing they will use it to manipulate media and politics, generally. 
+
+Stop falling for the partisan narratives that focus on only small elements of this ecosystem, for politically convenient narratives. 
+
+There is literally no evidence that the Russian government meddled in the 2016 election. Only assertions without any evidence. 
+
+There is no evidence the IRA was even directly connected to the Kremlin, let alone any official Russian action. This is something that a federal judge admonished Mueller for—not providing a shred of evidence in this regard.
+
+In fact, I would actually go further and say that the only reason anyone paid any attention to the IRA was that the left needed a way to pivot the Russian interference narrative away from Wikileaks embarrassing scandals. 
+
+If you recall, that was what was originally labeled Russian interference: the evidence free assertion that Wikileaks got their emails from the Russian government. This was based on a flawed fingerprinting technique used by a firm called Crowdstrike that had more than its fair share of geopolitical incentives to lie about the nature of the DNC ‘hack’.
+
+This was an easy way to distract the public from the scandals—attack the messenger and make the info itself taboo. The next step was to find a different Russian scapegoat to pivot the narrative away from Wikileaks’ “Russian” interference and towards an entirely different boogey man. 
+
+So Meuller went from talking about Wikileaks to suddenly focusing on an obscure and unimportant Russian marketing firm that was significantly less active, had a much smaller budget, and much smaller reach than domestic firms like Media Matters. 
+
+We even have internal documents from media matters that highlight their reach and the insane extent of their social media manipulation (it goes way further than just social media, too).
+
+It’s all propaganda. You’ve been massively mislead.
+
+This should be obvious by the very fact that Zuckerberg himself did not originally believe the Russians had interfered in our election. His opinion was that the emails were real, therefore did not constitute a form of interference. 
+
+In their own internal documents, Media Matters describes how it was their own pressure campaign that got Zuckerberg to change his tune on the matter, and eventually got him to implement censorship algorithms to go after what they had labeled as “misinformation”. 
+
+Media Matters is a partisan think tank. And they’re dictating FB’s censorship policies, using groups like the IRA as justification. Think about that for a minute.
+
+I wouldn’t even be surprised to find out that this article was actually a canned article from mmfa being pushed out for a byline at WAPO.
+lol!! these people have no clue what Indian's are reading on facebook, watching on youtube and chatting on whatsapp!!  
+
+
+there are people supporting a PM, who is still busy in elections, has not given a single press conference in 7 years, is missing for 2 months now and his govt is busy spreading lies on social media, releasing fake documents and conducting fake investigations and the propaganda that is spread by a very controlled independent media in a very democratic country!!
+Unplug. Instagram is still fairly benign, but pretty much anything else on TV and online is a farce of some sort. It’s the new snake oil, and everyone is selling it.  
+Reddit included.
+I have found most of the troll accounts I deal with are .ru or .uk 
+
+I ban a lot of domains from those.

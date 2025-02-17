@@ -1,0 +1,79 @@
+Title: Downloads, Trump and VPNs: Everything to Know About the Potential TikTok Ban
+Source: CNET
+URL: https://www.cnet.com/tech/services-and-software/downloads-trump-and-vpns-everything-to-know-about-the-potential-tiktok-ban/
+
+The Supreme Court on Friday upheld a law that effectively bans the social media app TikTok in the US. The law was signed by President Joe Biden last year and calls for the app to be sold by its Chinese parent company ByteDance by Sunday.
+
+The court said while TikTok is "a distinctive and expansive outlet for expression, means of engagement, and source of community," Congress determined that a sale is needed to "address its well-supported national security concerns regarding TikTok's data collection practices and relationship with a foreign adversary."
+
+If the company doesn't sell the app by Sunday, here's what US social media users should expect.
+
+Will I be able to download TikTok to my phone?
+
+Under the law, app stores run by companies like Apple and Google will have to remove the app from their stores overnight or face civil penalties. That means you won't be able to download the app to your device, and it also means ByteDance won't be able to issue updates to the app.
+
+Will I still be able to access TikTok if I already have it?
+
+If you already have the app downloaded to your device, yes. The law doesn't make it illegal to have the app on your phone.
+
+Since app stores won't be able to distribute updates to the app after the law goes into effect, your experience with the app may degrade over time and even become insecure. It's unclear how long the app will work on your device without regular updates.
+
+Viva Tung/CNET
+
+Will I be able to access TikTok from a web browser?
+
+No, the law applies to app stores and internet providers alike.
+
+Could TikTok just stop working in the US?
+
+Yes, there is a chance TikTok could stop working in the US altogether.
+
+According to the tech website The Information, sources said TikTok was preparing to shut the app down for US users on Sunday, the same day the law would go into effect. That means even if you have the app on your device, it won't work. If the app were to shut down entirely in the US, it would be a step beyond what the law calls for. The report also said that TikTok plans to give people the option to download their data so they can take account of their personal information.
+
+TikTok did not respond to CNET's request for comment.
+
+How do I keep my posts and videos I like?
+
+TikTok lets you download your posts and posts from your favorite creators. Here's how to download posts from your favorite creators before Sunday.
+
+1. Open TikTok.
+
+2. Tap the Share button on a post -- it's the arrow on the right side of your screen.
+
+3. Tap Save Video.
+
+Here's how to save your own posts.
+
+1. Open TikTok.
+
+2. Go to your profile.
+
+3. Tap a post.
+
+4. Tap the three dots (...) on the right side of your screen.
+
+5. Tap Save Video.
+
+The app will save those posts to your photo library.
+
+Getty Images/Viva Tung/CNET
+
+Could I use a VPN to access TikTok?
+
+You could potentially use a VPN on your phone or browser to access TikTok, yes.
+
+"A virtual private network is a privacy tool that hides your IP address by sending your internet traffic through a remote server," CNET's Moe Long writes. "If I'm in New York, but tunneling through a London server with ExpressVPN, Disney Plus thinks I'm across the pond."
+
+A VPN could make it look to TikTok like you're accessing it from the UK, or another country where it's not banned, when really you're in the US.
+
+You could also potentially use a proxy server to access TikTok. A proxy server, like a VPN, masks your IP address by sending your traffic through another server first. The main difference between the two is that a proxy server doesn't offer as comprehensive privacy protections as a VPN does.
+
+Could President-elect Trump save TikTok?
+
+It's unclear at this time. The law would take effect Sunday, one day before the president-elect's inauguration. So even if Trump wants to do something about the law, it'll still go into effect for at least that one day.
+
+A Biden administration official told ABC on Thursday that the White House isn't planning on enforcing the law before Trump takes office. The law gives the Justice Department the power to pursue fines of the tech companies that violate the law, so even if the administration doesn't enforce the law, those tech companies could still be liable as long as TikTok is owned by ByteDance.
+
+Trump's lawyers filed an amicus brief in the case two weeks ago, asking the court to delay the ban to give him time to figure out a "political resolution." At this time, Trump won't be able to do anything in this case until he takes office a day after the law goes into effect.
+
+For more on the case, here's what to know about the Supreme Court's decision.

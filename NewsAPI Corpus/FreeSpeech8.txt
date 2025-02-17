@@ -1,0 +1,23 @@
+Title: Trump Takes Aim at Social Media 'Censorship' With Executive Order
+Source: CNET
+URL: https://www.cnet.com/tech/services-and-software/trump-takes-aim-at-social-media-censorship-with-executive-order/
+
+Within the first hours of his second term in office, President Donald Trump zeroed in on social media with an executive order focused on what he described as "government censorship."
+
+The executive order says that no federal department or employee may use government resources to abridge the free speech of US citizens.
+
+Notably, it is also backward-looking, directing the attorney general and the heads of federal agencies to investigate conduct that occurred during the four years of the Biden administration, which ended on Monday. It alleges that the government infringed on citizens' free speech "under the guise of combatting 'misinformation,' 'disinformation,' and 'malinformation.'"
+
+The Biden administration, the order says, exerted "substantial coercive pressure on third parties, such as social media companies, to moderate, deplatform, or otherwise suppress speech that the Federal Government did not approve."
+
+In June, the US Supreme Court ruled in favor of the Biden administration in a case alleging that it had overreached in its contacts with social media companies.
+
+Concerns about misinformation and disinformation online ramped up during the 2016 election season and again during the COVID pandemic that began in 2020, as well as that year's election cycle, related to topics including voting processes, foreign interference in US affairs, hate speech and vaccinations. Social media companies implemented a number of policies trying to tamp down posts that potentially threatened public safety and public health.
+
+Trump himself was suspended for a period from social media sites including Twitter (now X) and Facebook following the Jan. 6 attack on the US Capitol.
+
+The new order does not address the issue of misinformation and disinformation that can cause real-world harm or the risks they pose to the country. In addition, it remains unclear how the order might affect the US agencies tasked with monitoring online activity for potential threats to upcoming elections.
+
+Tech executives have increasingly aligned with claims of government overreach and pressure to moderate content on their platforms. Earlier this month, Meta CEO Mark Zuckerberg announced the shutdown of the third-party fact-checking program on Instagram and Facebook, replacing it with a user-driven moderation system called Community Notes, similar to X.
+
+Correction, Jan. 24: The Supreme Court ruling involving the Biden administration and social media companies was issued in June.

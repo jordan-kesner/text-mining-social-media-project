@@ -1,0 +1,103 @@
+Title: CMV: imperial measurements have no worthwhile advantages over the metric system
+
+Post:
+First off, I am American, so if I have any bias it should be in favor of the imperial measurements I grew up with. Granted, I also have a technical education and profession, where of course I primarily use SI units.
+
+The many advantages of metric are well known, so I will not bother enumerating them unless challenged. Instead, I will focus on debunking the supposed disadvantages.
+
+>Fahrenheit is better than Celsius because it is more fine-grained, because each "decade" has a distinct "feel" (e.g. "it's forties out today"), and because 0 F to 100 F is a normal temperature range to experience.
+
+First, any scale is arbitrarily fine-grained, up to the limits of the precision of measurement. You can add as many decimal places as you need to. But *do* you need to? Personally, I find 1 degree Celsius is about the minimum temperature change I notice in air temperature. I can't tell the difference between 43 F and 44 F, can you?
+
+I believe the "decade" argument is merely the result of growing up with the system. And just like how we describe decades in years, it doesn't really line up. e.g. what we think of as "the 1960s" as a distinct era did not really occur from 1960-1970. Also, the Celsius "decades" work pretty well: 0-10 is coat weather, 10-20 is light jacket or sweater weather, 20-30 is indoor/"nice", 30-40 is "beach weather"/wear as little as possible. And of course the positive to negative difference is by far the most significant temperature difference in weather, rain vs. snow.
+
+Finally, while there are places where the coldest day of the year is roughly 0 F and the hottest is roughly 100 F, most of us do not live in those places. And nowhere is that always the case. So it is doubly arbitrary and pointless.
+
+>Yards, feet, and inches are better than meters because they are easy to divide by 3, and because they are "human scale."
+
+Being divisible by 3 is perhaps an argument for why a base-12 number system would be nice, but we do not have such a system. We use decimal. And given that we use decimal numbers, a decimal measurement system makes all calculations much simpler, greatly overshadowing any advantage of 3 divisibility. How many cubic inches are in 1/3 a cubic yard? I don't know, I need a calculator. How many cubic centimeters are in 1/3 cubic meter? 333,333.3_ Easy. Looks like even in its supposedly most advantageous situation (division by 3), imperial is still harder to work with. (And that's without even bringing in the more common volume measurement, gallons. How many people even know the ratio between gallons and cubic feet?)
+
+As for "human scale", that's certainly just familiarity. My foot is not 1 foot long, etc. Visually estimating centimeters is no more difficult than inches.
+
+Alright, that's all I can think of at the moment. Bring it on.
+
+EDIT: Okay, guys, I should clarify since a lot of people are making the same argument. This is about the relative merits of the two systems, *not* about the merits of switching from one to another. I know switching would be difficult. I'm saying it would be better if we were already on metric.
+_____
+
+> *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
+
+Top Comments:
+> How many cubic inches are in 1/3 a cubic yard? I don't know, I need a calculator.
+
+That one's actually pretty easy. 1/3 of a cubic yard is 9 cubic feet, and a cubic foot is a great gross of cubic inches (12x12x12, or 1728), so there are nine great cubic inches in 1/3 of a cubic yard. (I actually had to use a calculator to make sure your cubic centimeters were right; I knew it would be a string of threes, but wasn't sure where the decimal would go)
+
+I do agree that speaking in terms of "dozens" and "grosses" and "great grosses" would feel a lot more natural if we used a base-12 number system, and since we don't, metric is superior. But the fact that you can divide yards and feet by 3 and get a whole number of inches without any repeating fractions is a (very slight) advantage.
+From a scientific standpoint, I completely agree.  Math is far easier in a decimal system and there's less opportunity for error. 
+
+However, in every day life, expressing a quantity is part of language, and language is useless if both parties don't understand what's being said.  Even if a meter makes more sense than a foot on paper, it's completely useless if the person I'm talking to doesn't have any idea what a meter is. 
+
+It's easy to dismiss the imperial system, and objectively, there are plenty of reasons to ditch it, but the reality is that culture is a very important part of communication, and if everyone around you uses feet and inches and is doing just fine with them, then it's the better choice for you, too.
+>First, any scale is arbitrarily fine-grained, up to the limits of the precision of measurement.
+
+Except it really isn't arbitrary to choose units such that things people common encounter and want to measure end up being single digit numbers of units. Dealing with multiple digits takes extra mental effort. 
+
+And measurement theory says that you can only measure something down to 1/2 the size of the unit... so units that are "too small" are bad too... Where "too small" is defined by how accurately most normal people can estimate sizes. 
+
+It's also not arbitrary that people like to deal with halves and quarters and thirds of things rather than 10ths of them. Numbers are abstract and hard for people's brains to hold.
+
+It's a measurable advantage of the Imperial system that the common units easily measure most things people want to measure with them, at the scales the units are used, in single digits.
+
+People are 2-6 feet tall, and you can easily guess their height to within about 1/2 of these units at reasonable distances. Things you commonly hold in your hands are most commonly <10 inches long, and you can easily estimate their size to 1/2". 
+
+Distances that most people can walk to and back in one day are less than 10 miles. 
+
+Most things people will pick up and "heft" to evaluate their weight are <10 pounds (and, again, can be easily estimated to within 1/2 pound in that range). 
+
+The one "worthwhile" advantage of Imperial is the size of it's units: the corresponding disadvantage of metric is the awkward size of the common units. I put this at the feet of it being designed by a Frenchman with an arbitrary hatred of English units, because nothing else can explain the choice of so many metric units being around *half an order of magnitude* away from the naturally evolved English units that came about because people found them useful in everyday life. 
+
+The sizes of metric units literally couldn't be any worse and still be metric. 
+
+Note: I'm not saying this is reason enough to keep Imperial... the system it kind of nuts and at this point the rest of the world is so embedded with the stupidly-sized metric units that it's not worth just "metricizing" Imperial units... but if we did they would be tons better than metric units.
+Old machinists and carpenters like the imperial system due to the ease of dividing by two and three. Instead of figuring out the decimal equivalent, all you have to do is multiply the denominator.
+
+Retooling industry is one of the reasons it has held on in the US so strongly. It’s expensive to retool and change your workflow. 
+Let me tackle one part:
+
+> 0-10 is coat weather, 10-20 is light jacket or sweater weather, 20-30 is indoor/"nice", 30-40 is "beach weather"/wear as little as possible.
+
+As a Minnesotan that moved to South Carolina then back up to New York, and having been to equatorial countries like Myanmar and Senegal, some people would consider 0c jeans and a hoodie weather while some people consider 30c to be winter coat, boots, and gloves weather. The argument that Celsius has “nice decades” is completely personal.
+> Being divisible by 3 is perhaps an argument for why a base-12 number system would be nice, but we do not have such a system.
+
+1 foot is 12 inches. While it doesn't scale by itself, that is a tiny bit of base 12. 2 feet would be 24 inches, 3 would be 36, and so on. 
+
+So, within the frame of feet, we are using a base 12 system. On top of that, being able to 'cleanly' divide by a third is insanely more useful in construction. Typical houses in the US are built with 2x4s being 16 in, on center. This means that the typical wall is using 1 and 1/3 of a foot as the spacing between wall stud centers.
+
+I would argue that being able to divide cleanly by a whole additional factor actually is an advantage over the metric system. So I find it funny that you try to rule it out immediately within your OP. 
+
+That's not to say the metric system sucks, or isn't useful. Clearly it is. 
+
+What I find interesting is how many people think they are 'better' for using a single measurement system. 
+
+As an American, I can use both the US version of imperial or the metric systems. Also, since the advent of the internet and smart phones, I am even more free to switch/convert between the two systems, and use which ever suits the current project. 
+
+So, again, I would argue that being able to cleanly divide by halves, thirds, fourths and sixths, has some tangible advantage over being able to divide cleanly by halves, and fifths. 
+
+*cleanly: for me this means I end up with a fraction, rather than a repeating decimal. It's likely that this is personal pref, but your entire CMV is about personal pref. 
+> My foot is not 1 foot long,
+
+Well my foot IS ~1 foot long.
+
+I measure things with my feet all the time.  Super useful.
+>How many cubic centimeters are in 1/3 cubic meter? 333,333.3_ Easy.
+
+You're misrepresenting the criticism. The issue isn't that it's hard to *write*, it's that it's harder to precisely *measure* because common metric measuring tools don't have markings for thirds.
+
+If you had a collection of CC-sized cubes and I asked you to give me a third of a cubic meter's worth, you couldn't do it precisely (not without cutting a cube, anyway). If you had a collection of cube-inch cubes and I asked you to give me a third of a cubic yard's worth, you could do it precisely and easily.
+The US is already on the metric system, although in a very roundabout way by legally defining imperial units as X amount of metric base units. As an example, the pound we use for weights is defined as being .45359237 kilograms exactly.
+Maybe I'm picky, but I can feel the difference between 1 degree Fahrenheit.  I'd be upset if my thermostat had 2 degree Fahrenheit increments.
+
+I also don't understand how you can say an inch and a foot aren't more applicable units than a centimeter or an entire meter.  I suppose a centimeter is fine, but how do you get along without feet?  Its nice saying something is 6 feet or 7 feet or 8 feet long, what is the metric equivalent?  Millimeters is likewise better than inches for things less than an inch or two.
+
+Even Brits order a *pint* of beer because there is no one syllable equivalent to it.  Imperial is just almost always a quicker thing to say without sounding like you are asking for a scientifically specific amount.  You can say a number of inches before even pronouncing the *units* of metric length. 
+
+There are advantages to *both*, saying "imperial measurements have no worthwhile advantages over the metric system" is just not true in my opinion.

@@ -1,0 +1,35 @@
+Title: Change to Inventory Filters
+Source: Jonloomer.com
+URL: https://www.jonloomer.com/qvt/change-to-inventory-filters/
+
+Share via: Share
+
+Post
+
+Email
+
+That’s interesting timing…
+
+I just discussed Inventory Filters during the past couple of weeks to address potential concerns with Meta’s new content moderation policies. Well, there’s been a change.
+
+The Change
+
+In the Help Center article about Inventory Filters, it says this:
+
+Beginning on February 24, 2025, we’re gradually changing the default setting of inventory filters for in-content ads and Audience Network to expanded.
+
+Inventory Filters can be found within Brand Safety and Suitability to set this account-wide or under Placements when creating an ad set. This is a way to prevent your ads from appearing alongside sensitive content.
+
+By switching the default to Expanded, your ads can appear alongside “all content that adheres to our Content Monetization Policies so you get the most reach.” So… just about anything.
+
+The Impact
+
+While there are arguments for this change to limit restrictions on potential inventory, the timing couldn’t be worse.
+
+Brands and advertisers concerned about Meta’s new content moderation policies might already see this tool as an option. During early stages, we don’t know what the impact of these policies will be.
+
+So changing the default to Expanded now seems reckless. It could lower advertiser costs very slightly overall, but it could also result in a preventable PR nightmare.
+
+Bottom line: Know that this is happening. If you or a client are nervous about Meta’s new moderation policies, consider the Moderate setting, which is the default until February 24th and excludes highly sensitive content. You may even consider Limited Inventory to be safe.
+
+The impact on ad costs is likely to be minimal, so it may make good sense to approach this conservatively for certain brands, rather than deal with a disgruntled client later.

@@ -1,0 +1,756 @@
+Title: Partisan Politics and the Road to Plutocracy
+Source: Economicsfromthetopdown.com
+URL: https://economicsfromthetopdown.com/2025/01/31/partisan-politics-and-the-road-to-plutocracy/
+
+Your browser does not support the audio tag.
+
+Download: PDF | EPUB | MP3 | WATCH VIDEO
+
+[H]e who has more than enough and yet hungers for still more will find no remedy in gold or silver … for his ailment is not poverty, but insatiability and avarice. — Plutarch, ‘On love of wealth’
+
+As billionaires dance in the halls of the second Trump administration, it’s haunting how well Plutarch’s two-thousand-year-old words describe the state of American politics. It’s a barren landscape of plutocratic insatiability.
+
+How did it get this way?
+
+One way to tell the story is to look at the battle between the ruling class and everyone else — a battle which elites are obviously winning. But another way to understand the struggle is to look at the war between factions of the ruling class — a battle that plays out largely within partisan politics.
+
+On this partisan front, the historical backdrop is that for forty years, Republicans have been playing a political shell game. As Jay Michaelson puts it, Republicans “appear populist … but act plutocrat”. What’s disorienting is that this shell game has worked. Although Republicans have historically governed for the benefit of the rich, they have recently rebranded themselves (successfully, it seems) as the party of the working class.
+
+Is this new Republican messaging sincere? Or is it gaslighting? Well, Trump’s billionaire-stacked administration is quickly answering the question for us. However, this essay is not primarily about Trump, nor is it focused on the future. Instead, it’s a journey into how the partisan politics of the past have shaped the American plutocracy of today.
+
+The essay consists of a deep dive into the realm of US state politics. The story will be simple and repetitive. Across states, I will measure the degree to which Republicans control each state’s legislature. Then I will observe, in a statistical sense, the policies and social outcomes that follow. That’s it. Of course, I’ll add commentary along the way. But the goal is to let the evidence speak for itself. And what leaps from the data is this: Republican control of state legislatures is systematically associated with the rich being (and becoming) richer. In short, American plutocracy seems to be a quintessentially Republican affair.
+
+And that’s not all.
+
+As we journey into the depths of US state politics, the plot will thicken. We’ll find striking partisan differences in the language used in state bills. We’ll see the many ways that Republicans help the rich and hurt workers. We’ll see the impact partisan politics have on the population as they work longer hours with less security. We’ll see the toll that Republican control takes on human welfare. And we’ll study the ways that Republicans gain power, despite enacting policies that are self-evidently bad for the majority. And we’ll reflect on the reasons that plutocracy can become self-reinforcing.
+
+Think of the evidence that follows as a case study in how the machinery of democracy can be used to benefit the few and harm the many. It’s a warning from the past about tactics that will no doubt be intensified by Trump and his posse of plutocrats.
+
+Contents
+
+A brief history of Republican red and Democratic blue
+
+Diving into US state politics, let’s start with its geography. Today, we take for granted that there’s a steep divide between coastal Democrat-voting ‘blue’ states and interior Republican-voting ‘red’ states. But in historical terms, this geographic division is a fairly recent pattern. For example, if we rewind the clock to 1975, we find that state legislatures were overwhelmingly controlled by Democrats. Figure 1 shows the map of state partisan control at the time.
+
+Figure 1: Partisan control of US state legislatures in 1975. Color indicates the portion of state legislature seats controlled by Democrats and Republicans, calculated by summing seats in both the state house and state senate. Note that Nebraska appears white because its legislature is officially nonpartisan. [Sources and methods]
+
+Looking at this sea of blue, it’s tempting to think that in 1975, the US was a much more ‘liberal’ place. And in some sense it was. Still, we need nuance when interpreting the landscape of partisan control.
+
+The big picture of American politics is that over long time-spans, partisan ideologies can change. Case in point: the Republican party was once the party of progress. It was founded in 1854 to oppose the slave power of the southern states, then under the control of the Democratic party. After the North won the Civil War (and instituted a brief period of reconstruction), pro-segregation Democrats re-ensconced themselves in the South, while the North remained solidly Republican.
+
+Fast forward to the Great Depression. By then, Republicans had come to believe in minimal government intervention, so it was Democrats who championed the New Deal and the social safety net that would follow. By the end of World War II, New-Deal Democrats had swept to power in the North, while Southern Democrats remained in control of South. The height of this uneasy Democratic coalition came in the mid 1970s (as shown in Figure 1).
+
+By the 1980s, however, backlash against the civil rights movement caused southern whites to abandon the Democratic party. Meanwhile, Reagan’s neoliberal revolution ushered Republicans into power in the North. All told, the map of state partisan control would be dramatically redrawn during the next forty years. By 2017, Republicans controlled the majority of state legislatures. Figure 2 shows this sea of red.
+
+Figure 2: Partisan control of US state legislatures in 2017. Color indicates the portion of state legislature seats controlled by Democrats and Republicans, calculated by summing seats in both the state house and state senate. Note that Nebraska appears white because its legislature is officially nonpartisan. [Sources and methods]
+
+The party of plutocracy?
+
+With the neoliberal-era red wave in mind, let’s get to the meat of my thesis. Once the party of Lincoln, the evidence suggests that Republicans have since become the party of American plutocracy. As we will see, Republican rule is systematically associated with the rich being (and becoming) richer.
+
+A coordinated U-turn: Republican fortunes and American income inequality
+
+During the turmoil of the early 20th century, the banner of American politics switched colors. The left went from Republican red to Democratic blue, and the right vice versa. By the end of World War II, this transition was fairly mature, paving the way for the modern order in US politics.
+
+In the post-war era, Republicans’ state-level fortunes came in two waves. Until the mid 1970s, Republicans gradually lost seats. But from the 1980s onward, state legislatures steadily turned red. In Figure 3, the top panel shows this partisan U-turn, measured in terms of the average Republican share of state legislative seats, weighted by state population.
+
+Now to American plutocracy. As the bottom panel in Figure 3 illustrates, the fall and rise of Republican fortunes mirrors another important U-turn: the fall and rise of US income inequality, measured here in terms of the top 1% share of income.
+
+Figure 3: In postwar American, the fall and rise of the Republican party mirrors the U-turn of income inequality. The top panel shows the average portion of state legislature seats controlled by Republicans. (The average weights Republican control by each state’s population.) The bottom panel shows the income share of the US top 1%, which fell until 1980 and then rose thereafter. It seems that the Republican party’s fortunes mirror those of the richest Americans. The correlation between the two time series is 0.81. [Sources and methods]
+
+Republican control and plutocracy within US states
+
+Continuing our dive into Republican-driven plutocracy, the evidence thickens when we look within US states. Here, we see a glaring connection between Republican control and the fortunes of the very rich.
+
+Figure 4 makes the case. But before I jump into the data, let me pause to describe the chart’s presentation. (The chart’s format will be repeated many times throughout this essay.) On the horizontal axis, I measure the Republican share of state legislature seats. In each state, and in each year, I sum the Republican-controlled seats in both the state house and the state senate. Then I divide by the total number of state legislature seats. The goal here is to measure the degree of control that Republicans exert over each state’s legislature.
+
+The data covers all US states for the years indicated. (In Figure 4, that’s from 1970 to 2018.) The caveat is that I assign Nebraska a null value. While Nebraska is, in practice, under staunch Republican control, its state legislature is officially nonpartisan. Hence, the notion of ‘Republican seats’ is ill-defined.
+
+Next, note that Figure 4 does not plot raw data. Instead, it organizes states into groups based on the Republican share of state legislature seats. Within each group, I then measure the statistic of interest and plot it on the vertical axis. In Figure 4, this statistic is the income share of the state top 0.01%. Finally, note that the blue line shows the median of this statistic (within each partisan bin). The blue shaded region shows the middle 50% of data.
+
+Figure 4: Within states, top income shares scale with the Republican share of state legislature seats. In this chart, I’ve taken all US states, observed from 1970 to 2018, and measured the Republican share of state legislature seats. Then I’ve organized these observations into Republican-share bins, plotted on the horizontal axis. (Blue points show the midpoint of the bin.) On the vertical axis, I’ve measured the income share of the top 0.01% within each state. The blue line shows the median of the data, while the shaded region shows the middle 50% of the data. Note that the vertical axis uses a log scale. [Sources and methods]
+
+Now to the evidence plotted in Figure 4. It decisively implicates the Republican party in the construction and maintenance of American plutocracy. Across US states, greater Republican control of state legislatures is associated with a steady rise in the income share of the top 0.01%.
+
+To summarize the evidence, Republican politics seem intrinsically connected with modern plutocratic outcomes. That said, there is more testimony to be teased out of this state-level data. For those who are interested, I’ve crunched additional statistics in the Appendix. But for now, I’m going to forge ahead and see what other (nefarious) things come with Republican rule.
+
+Republican priorities: measuring the language in state bills
+
+As the old truism goes, if you want to understand politics, watch what politicians do, not what they say. The caveat is that gone are the days when kings ruled by leading the charge into battle. Today’s politicians govern by crafting legislation, which is then interpreted by civil servants and the courts.
+
+Given the written nature of modern governance, a good way to understand what politicians ‘do’ is to study the text of their bills. In what follows, I analyze the text of thousands of US state bills to see what we can learn about partisan priorities. True, there are many dimensions to partisan legalese. But here, I’ll highlight the jargon that relates to plutocracy.
+
+The language of class struggle
+
+Although the rich would never use these words, they are incessantly engaged in class struggle. That’s because what they call ‘wealth’ is not a feature of the natural world; it is neither mined nor minted nor manufactured. Instead, ‘wealth’ is a set of social relations that are imposed through the mechanism of property rights. And because property rights don’t make themselves, the rules of ‘wealth’ must be constantly articulated, tweaked, and enforced.
+
+On this front, the imposition of property rights is a quintessential form of class struggle, but it is one conducted by the ruling class using verbiage that is typically opaque and often arcane. We’ll observe this jargon in a moment. But first, let’s begin with the more familiar language of class struggle — the words used to describe the suffering at the bottom of society.
+
+In Figure 5, I’ve selected a sample of such words (terms like ‘hardship’, ‘injustice’, and ‘oppression’). Notice that for the ruling class, these words are toxic; there is no way to use them in a way that looks good for the rich. And so the solution is to avoid them. Or rather, the Republican solution is to avoid these words. Looking at the language in state bills, the jargon of class struggle becomes consistently less frequent as Republicans increase their grip on state legislative power.
+
+Figure 5: Republican governance and the language of class struggle. As Republicans gain more seats in US state legislatures, words referring to class struggle (noted inside the pink rectangle) gradually disappear from state bills. [Sources and methods]
+
+The language of ownership
+
+Once purveyed by ‘god’, today the rules of power are secular. They are codified not in a divine text, but in the legal jargon of property. In capitalism, it is owners who rule. And it is owners who are rich.
+
+Of course, all governments are concerned with regulating ownership. But across US states, this concern seems to have a partisan asymmetry. Far more than Democrats, it is Republican-dominated governments that use the jargon of ownership in their bills. Figure 6 shows the pattern.
+
+Figure 6: Republican governance and the language of ownership. As Republicans gain more seats in state legislatures, the language of ownership (words in the pink region) steadily increases in state bills. [Sources and methods]
+
+Looking at the words in Figure 6, what’s fascinating is how this terminology contrasts with the folksy wisdom that Republicans use in their speeches. In public, we hear about ‘freedom’, about the ‘market’, and about ‘family values’. But in private, what defines Republican legislation is talk about the obscurities of property rights — arcane terms like ‘heirship’, ‘lienholders’ and ‘investiture’.
+
+For that matter, what even is ‘investiture’? Well, as Jonathan Nitzan and Shimshon Bichler note, it’s a feudal term that describes the “symbolic ceremony of transferring property rights from the [feudal] lord to the vassal”. The term would later get shortened to ‘invest’, and gained a tone of productiveness. But in its original setting, the truth was clear: ‘investiture’ implied a transfer of power.
+
+At any rate, I’d guess that many American voters would be surprised by the obscure language of ownership that rises with Republican rule. It’s not part of the GOP’s public brand.
+
+The language of law and order
+
+Continuing the theme of arcane terminology, let’s turn now to the language of ‘law and order’, shown in Figure 7. Think of this language as the procedural counterpart to the jargon of ownership. To have a regime of property rights, governments first define a set of ownership rules. Then they endow the court system with a set of procedures for how these rules will be enforced.
+
+To be sure, all governments play this procedural game. But across US states, they apparently do not play it equally. Instead, the language of law and order appears to be a Republican obsession. As Republicans seize state power, we see a fifty-fold increase in obscure judicial jargon within state bills.
+
+Figure 7: Republican governance and the language of law and order. As Republicans gain more seats in state legislatures, the frequency of law-and-order language (shown in the pink region) rises spectacularly. (Note the log scale on the vertical axis.) [Sources and methods]
+
+An information mismatch
+
+In my view, the partisan trends in legislative language highlight a key weakness of democracy. For voters, the information that’s most easily available is what politicians say about themselves in public. But this politicking is low-quality data, frequently riddled with spin, half truths, and outright lies. To make informed decisions, voters need to know what politicians actually do — the substance of their bills and legislation. But this high-quality information is the most difficult to get.
+
+Sure, government bills are now available on the internet. But few people have the time or the expertise to wade through legislative legalese. In the past, the job fell to municipal reporters, whose beat was to keep the public informed about the actions of their state and local government. But in the last few decades, this civic beat has largely vanished, leaving voters with whatever hearsay they receive on Facebook. (More on Facebook use later.)
+
+Regardless of the (mis)information that voters get from punditry, the evidence generated by politicians’ legislative behavior is quite clear. At the state level, Republican politicians do exactly what we would expect if they were governing for the benefit of plutocrats. They ignore the language of (bottom-up) class struggle, they emphasize the language of ownership, and they obsess over the procedural language of law and order.
+
+Creating plutocracy: Republican policy in action
+
+Continuing the theme of what politicians do, let’s look at the effects of Republican rule. To create plutocracy, Republicans have five main tactics:
+
+Suppress the minimum wage Kill unions Tax the poor more than the rich Enrich owners Cut government spending
+
+In what follows, we’ll look at the evidence for each tactic.
+
+Suppressing the minimum wage
+
+Although Americans don’t agree on much, they do agree that the federal minimum wage is abysmal.
+
+The backstory here is that the power to regulate wages resides largely with state governments. But as part of the New Deal, the US federal government enacted a national minimum wage in 1938. The result is that today, US labor law is a hodgepodge of legislation that’s difficult to untangle. Some states have a higher minimum wage that supersedes the federal standard. Other states have a lower minimum wage that applies only to certain classes of workers. And a few states have no minimum wage at all. (But again, the Federal minimum wage applies to many workers in these states.) My point is that when studying the minimum wage, the effects of state and federal law are complicated. However, the various state minimum wages are themselves quite clear, in the sense that they reveal political priorities.
+
+In what follows, I’m going to compare each state’s minimum wage to the average US income. The idea is that what matters about a minimum wage is its relative value. For example, if a minimum-wage worker is employed full time, should they earn half the value of the average American income? Or should they earn far less — say a tenth the average income? These are moral questions which politicians answer when they set the minimum wage.
+
+Turning to state politics, the relative value of the minimum wage has a clear partisan dimension. As Figure 8 illustrates, the state minimum wage tends to decline as Republicans increase state legislative control.
+
+Figure 8: Suppressing the minimum wage. Greater Republican control of state legislature seats is associated with a notable slide in the value of the state minimum wage, measured relative to US income per capita. [Sources and methods]
+
+Killing unions
+
+In 1847, the French socialist Louis Blanc coined the phrase ‘the right to work’, by which he meant that citizens had a right to gainful employment. Today, this idea is called a ‘job guarantee’, and it enjoys growing popularity. However, the phrase ‘the right to work’ has long since been co-opted by reactionaries to refer to union-busting legislation.
+
+Unions. They are perhaps the key vehicle for counterbalancing the power of owners. As a cog in the corporate machine, an individual worker is powerless. But as a collective, workers can wield tremendous control. And that’s why union-busting tactics are a crucial part of the plutocratic playbook. When you smash unions, you deprive workers of (among other things) the ability to bargain for a decent wage.
+
+Unions. Reactionary politicians can barely hide their disdain for them, and it shows in the data. When we measure the union membership rate across US states, we find that it consistently declines with greater Republican legislative power. Figure 9 runs the numbers.
+
+Figure 9: Killing unions. Republican control of state legislatures is associated with a consistent decline in the state unionization rate. [Sources and methods]
+
+Taxing the poor more than the rich
+
+After George Bush’s re-election in 2004, the linguist George Lakoff argued that Democrats had a messaging problem. Whereas Republicans couched their policy in folksy wisdom, Democrats continued to use out-dated rhetoric. The solution, Lakoff proposed, was to rethink the message. For example, when Republicans offered tax cuts, Democrats should justify higher taxes by calling them a ‘membership fee’.
+
+Lakoff’s idea has not aged well, largely because the left’s problems run far deeper than ‘messaging’. Still, it’s worth noting that Democratic policies are often more in line with public opinion, even if many voters don’t know it.
+
+Taxes are a case in point. For example, a 2018 Gallup poll found that roughly two-thirds of Americans thought that the rich were taxed too little. And here, it’s clear that not taxing the rich is a partisan game, played best by Republicans. Across US states, greater Republican control of state legislatures is associated with a steady decline in the top marginal tax rate. Figure 10 shows the trend.
+
+Figure 10: Slashing the top marginal tax rate. Republican state governance is associated with a lower top marginal rate for state income tax. [Sources and methods]
+
+Continuing our journey into US taxation, states with a nil top tax rate generally have a nil rate across the board. That is, they have no state income tax. Now, on its face, this policy seems equitable, since everyone pays zero tax. But actually, the policy is radically unfair. That’s because states without an income tax still have taxation. And the taxes that remain tend to be regressive.
+
+Sales tax is a good example. On the surface, a sales tax is a simple flat fee on consumer spending. But under the hood lies inequity. That’s because, for their part, the poor have no choice but to spend much of their income on daily commodities — items which are covered by sales tax. But the rich, in contrast, spend much of their money on ‘investments’ — expenditures that are not covered by sales tax. As a consequence of this spending asymmetry, sales taxes tend to be highly regressive: they tax the poor more than the rich. Hence, states that rely heavily on sales tax for government income tend to have a more regressive tax regime.
+
+And that brings me back to partisan politics. Looking at the total structure of state taxation, it turns out that Republican control is associated with a more regressive tax burden. Figure 11 does the math. Here, the vertical axis plots a measure of tax regressiveness — the degree to which the tax burden decreases with higher income. A lower value indicates more regressive taxation.
+
+Figure 11: Making taxation more regressive. Republican state governance is associated with more regressive taxation. Here, the vertical axis measures ‘tax regressiveness’ — the degree to which the total tax burden decreases with greater income. A lower value indicates more regressive taxation. [Sources and methods]
+
+Enriching owners
+
+In his 1840 treatise What is Property?, the anarchist philosopher Pierre-Joseph Proudhon answered succinctly: “Property is theft!”
+
+I mention Proudhon’s slogan because it reminds us of the full spectrum of political ideology. For the revolutionaries of the 19th century, almost everything was on the political table, including abolishing private property. Now the caveat is that by ‘property’, Proudhon mostly meant the property rights which entitle owners to income — income that Proudhon deemed ‘theft’.
+
+At any rate, while Proudhon’s revolutionary rhetoric sits far outside the spectrum of mainstream American politics, it seems that the returns to property ownership remain on the political table. For example, when we look across US states, we find that the portion of income going to property owners has a partisan dimension: it tends to rise with Republican control of state legislatures. Figure 12 shows the pattern.
+
+Figure 12: Enriching owners. Across states, Republican governance is associated with a higher property share of income. (Here, property income includes dividends, interest, and rent.) [Sources and methods]
+
+Looking at the partisan returns to ownership, I find the Z-shaped pattern quite interesting. Across much of the variation in state politics, the returns to property vary only slightly. Yet when we get to the extremes of partisan control (either on the left or on the right), we see stark changes to the property share of income. Why?
+
+One possibility is that the mid-ground stability is caused by an elite consensus — a bipartisan agreement about the ‘normal rate of return’. This is Nitzan and Bichler’s term for the average rate of return that owners expect to earn on their property. The rate is set, Nitzan and Bichler argue, by the social nomos — the set of beliefs and institutions that denominate the social order. Of course, it makes sense that this nomos should involve partisan politics. But what is surprising, in mind, is how far into the partisan extremes we must go to see major changes to property income.
+
+Cutting government spending
+
+In his 1981 inaugural address, Ronald Reagan summarized the Republican zeitgeist when he proclaimed, “government is not the solution to our problem; government is the problem.” Since then, it’s become a cliché to hear Republicans respond to each new crisis by demanding government cutbacks.
+
+The odd thing about this cliché, though, is that at the level of the federal government, the cutback rhetoric is hollow. Since Reagan, Republicans have rarely shrunk federal spending. Instead, they reorder government priorities by seizing money from social programs and sending it to the Pentagon.
+
+However, when we turn to state governments, Reagan’s cliché holds true. Across US states, Republican control of state legislatures is associated with a noticeable decline in government spending as a share of state GDP. Figure 13 runs the numbers.
+
+Figure 13: Delivering small government. Republican control of state legislatures is associated with lower state and local government expenditures, measured as a share of state GDP. [Sources and methods]
+
+So why do Republicans prefer small government? Well, their typical response is that compared to the private sector, government is ‘inefficient’. Fine, I’ll grant that in some settings, government bureaucracy can be bloated. But, as David Graeber argues in Bullshit Jobs, corporate bureaucracies suffer the same problem. As such, the rhetoric of ‘efficiency’ seems to be largely a political distraction.
+
+A far more important difference between the public sector and the private sector is right there in the name: the public sector is public … it has no owners. But if you privatize a government program, you create property rights to own, and you send revenue to the new owners.
+
+In the same vein, the private sector tends to have a more plutocratic pay structure than the public sector. For example, consider the yawning gap between the income of US state governors and their private-sector peers, the CEOs of large US corporations. Although both positions consist of helming large hierarchies, state governors were (in 2020) paid about forty times less than their private-sector counterparts. Figure 14 plots the chasm.
+
+Figure 14: The discipline of democracy — the pay gap between state governors and the CEOs of the largest US firms. The blue curve shows the distribution of state governor pay in 2020, which averaged roughly $146,000. The red curve shows the distribution of CEO pay in 2020, sampled from the 500 largest US public firms, ranked by employment. With an average compensation of $6.3 million, these CEOs earned more than 40 times more than state governors. This gap illustrates the pay-limiting scrutiny of elected office. [Sources and methods]
+
+This striking public-private pay difference reminds me of talk about ‘discipline’. For their part, when Republicans privatize government programs, they speak about the ‘discipline’ of market competition. But the flip side is that privatizing public services frees money from the pay-limiting scrutiny of public office — or what we might call the ‘discipline’ of democracy.
+
+One can see, then, why budding plutocrats would be in favor of shrinking government: it creates more revenue for owners, and it unshackles money from the discipline of democracy.
+
+Trickling down or pouring up? Relative income across US states
+
+With Republican legislative tactics out of the way, let’s now deal with a concept that refuses to die. In the pantheon of bad ideas, trickle-down economics ranks with Russian roulette in terms of its self-evident stupidity. (“Sure boss, I’ll give you my money if you say it will trickle back down.”)
+
+In what follows, I search for evidence that Republicans’ plutocratic policies lead to a trickle-down boost to income. (Spoilers: I find the opposite.)
+
+The post-war boom: prosperity at the center
+
+By most accounts, the peak of America’s global dominance came in the late 1960s, at the height of the post-War boom. It was a period of unprecedented industrial growth, but also (by today’s standards) a period of uncanny bipartisanship.
+
+Turning to American income, this bipartisanship left a distinctive mark. During the 1960s and early 1970s, American prosperity lived at the political center. Figure 15 shows the evidence. At the time, states with bipartisan legislative control tended to have the highest per capita income, while states with more partisan control (left or right) tended to be poorer.
+
+Figure 15: During the post-war boom, American prosperity lived at the political center. This figure illustrates how state income per capita (measured relative to US income per capita) varied as a function of the Republican share of state legislature seats from 1960 to 1975. During this period, bipartisan-controlled states were the most prosperous, while states with more partisan control tended to be poorer.[Sources and methods]
+
+The peak of neoliberalism: prosperity on the left
+
+Starting in the 1980s, Republicans swept into state power, bringing with them a host of pro-business policies. As it turns out, the effects of these policies are written on America’s modern income landscape. But when it comes to trickle-down economics, the trouble is that these income effects go in the wrong direction.
+
+Figure 16 illustrates. Today, average state income remains strongly tied to the partisan control of state legislatures. However, it’s now Democrat-controlled states which tend to be richer, while Republican-controlled states tend to be poorer. In short, if the wealth is trickling down, the evidence has a funny way of showing it.
+
+Figure 16: At the pinnacle of neoliberalism, American prosperity lived on the left. This chart reproduces the method from Figure 15, but moves the clock ahead to the late neoliberal era (2015 to 2021). By this point, Democrat-controlled states tended to have a higher average income than did Republican-controlled states. In short, to the extent that Republican governments implemented trickle-down policy, the income did not trickle down. [Sources and methods]
+
+The plutocracy is the point
+
+To summarize, it’s difficult to find evidence that Republican rule has led to wealth ‘trickling down’. But then again, that’s because trickle-down ‘theory’ was never serious science; it was always a rhetorical mask for a more straightforward goal: making the rich richer.
+
+On that front, when we take the stated goal of enriching the wealthy at face value, suddenly the evidence makes sense. Across states, the relative income of the richest Americans scales consistently with Republican politics. Figure 17 illustrates. So it seems that despite the trickle-down charade, the plutocracy was always the point.
+
+Figure 17: The plutocracy is the point. Across states, Republican governance is associated with a consistent rise in the average income of the top 0.01% of earners (pegged here against US income per capita). Note the log scale on the vertical axis. [Sources and methods]
+
+The American hustle
+
+So far, we’ve seen that Republican legislative control is associated with greater income inequality, as well as a host of pro-business, anti-worker outcomes. Continuing this theme, let’s turn now to some social ills that lie downstream of Republican rule.
+
+Working longer hours
+
+In the incendiary words of Karl Marx, the struggle for normal working hours consists of “a protracted civil war between the capitalist class and the working-class”. Today, the battle is not over.
+
+True, bosses have largely abandoned their most ghoulish 19th-century tactics, such as forcing employees to work 70-hour weeks. Instead, what today’s bosses demand is ‘flexibility’. And that, it seems, is code for low pay. You see, a poorly paid workforce is a pliable workforce. If folks are struggling to make ends meet, they don’t need to be ‘told’ to work longer hours. They will do it of their ‘own accord’.
+
+On that front, we’ve already seen that across US states, Republican legislative control is associated with a host of pro-business policies which (among other things) worsen the minimum wage and kill unions. So how do workers respond to this newfound ‘flexibility’? Well, it seems that they react by working longer hours. Figure 18 shows the pattern. Across US states, Republican governance is associated with a consistent rise in the length of the average work week.
+
+Figure 18: Extending the work week. Across US states, the length of the average work week tends to rise in proportion to Republican control of state legislatures. [Sources and methods]
+
+More bankruptcies
+
+When it comes to social safety nets, things like unemployment insurance get much of the attention. But I’d argue that bankruptcy law is also essential. Without the right to file bankruptcy, folks with unpayable debts risk becoming indentured servants to their creditors.
+
+Of course, as with claiming unemployment insurance, filing for bankruptcy is not a good thing. It’s a sign that someone’s finances have gone catastrophically wrong. And unfortunately, in the United States, there’s a baked-in reason for financial catastrophe. It’s called healthcare.
+
+Alone among wealthy countries, the US still ties health insurance to employment, which means that many of the most vulnerable Americans are uninsured. When these people get sick, they frequently go bust. As a result, about two thirds of US personal bankruptcies are caused by medical debt.
+
+Surveying this scene of financial destruction, we find that it’s not distributed evenly. Instead, rates of personal bankruptcy have a partisan dimension: they tend to increase with Republican state control. Figure 19 runs the numbers.
+
+Figure 19: Going bust — the partisan dimension of bankruptcy. Across states, Republican governance is associated with higher rates of personal bankruptcy. [Sources and methods]
+
+More food insecurity
+
+In her book How the Other Half Dies, Susan George argues that famines are political beasts. They’re not caused by global food shortages, but by a failure to distribute the world’s food surplus to those who need it.
+
+Turning to the United States, the situation is similar. Although the nation has ample food, about one in ten Americans is ‘food insecure’, meaning they struggle to afford good food. As with famines, this food insecurity is a political problem. In fact, it’s a partisan problem. Across US states, rates of food insecurity tend to rise with Republican legislative control. Figure 20 shows the pattern.
+
+Figure 20: Rising rates of food insecurity. Republican control of state legislatures is associated with higher rates of food insecurity. [Sources and methods]
+
+Going negative: partisan politics and human welfare
+
+Continuing the theme of social strife, let’s dive into the politics of human welfare. In what follows, we’ll see if American health has a partisan dimension. Spoiler: it does.
+
+More people without health insurance
+
+Home to some of the world’s best medical facilities, the US also boasts one of the lowest life expectancies among wealthy nations. This dichotomy is no paradox; it’s a predictable feature of American plutocracy. For the rich, American healthcare is best in class. But for the poor, it’s a disaster.
+
+The catastrophe starts with the political failure to provide health insurance to all. Actually, this failure is a partisan problem. Across US states, the portion of people without health insurance tends to rise with Republican control of state legislatures. Figure 21 does the math.
+
+Figure 21: Falling between partisan cracks — the portion of people without health insurance. Republican control of state legislatures is associated with more people lacking health insurance. [Sources and methods]
+
+More deaths of despair
+
+Continuing our investigation of American welfare, let’s turn now to what Anne Case and Angus Deaton call ‘deaths of despair’. These are self-induced deaths due to suicide, drug overdose, and alcoholism.
+
+In their 2020 book, Case and Deaton show that in the US, deaths of despair have risen starkly over the last few decades. The question is, why? Case and Deaton argue (convincingly) that these deaths are largely a civic pathology, caused by the social determinates of health. Among Americans with a college degree, there’s been no dramatic change in drug, alcohol and suicide mortality. But among folks without a college degree, these deaths have exploded. Case and Deaton conclude:
+
+Deaths of despair are prevalent among those who have been left behind, whose lives have not worked out as they expected.
+
+To this summary, I would add that deaths of despair have a partisan dimension. They are higher within Republican-controlled states. Figure 22 shows the evidence.
+
+Figure 22: Partisan politics and deaths of despair. Republican control of state legislatures is associated with more deaths of despair — mortality from suicide, drug overdose, and alcohol-related illness. [Sources and methods]
+
+Lower life expectancy
+
+In 2015, driven largely by rising drug overdoses, US life expectancy started dipping for the first time since World War II. This subtle decline was the calm before the storm. When COVID hit, the dip became a life-expectancy dive.
+
+Much has been said about the United States’ unique pandemic failings, to which I have little to add. But I will note that in modern America, even death has become politicized. Across US states, life expectancy now has a distinct partisan dimension: it tends to decline with the degree of Republican control. Figure 23 plots the pattern.
+
+Figure 23: The partisan dimension of US life expectancy. Across US states, Republican control of state legislatures is associated with lower life expectancy. [Sources and methods]
+
+Unhealthy, and aware of it
+
+When we turn to Americans’ self-reported health, the plot continues to thicken. Not only does life expectancy have a partisan dimension, so does American’s assessment of their own health.
+
+Looking at Figure 24, it seems that as Republicans gain legislative seats, a larger portion of the state population reports having ‘poor’ or ‘fair’ health. Likewise, a similar pattern holds for mental health, shown in Figure 25. Across states, Republican control is associated with more self-reported days of poor mental health.
+
+Figure 24: Unhealthy and aware of it. Republican state governance is associated with worsening self-reported health. [Sources and methods]
+
+Figure 25: Poor mental health, and aware of it. Across US states, Republican governance is associated with worsening self-reported mental health. [Sources and methods]
+
+Meta-awareness?
+
+To summarize our foray into American welfare, residents of Republican-controlled states tend to die younger than their peers in Democratic strongholds, suffer more from self-induced deaths of despair, and appear to be aware of their own bad health.
+
+What remains unknown, however, is whether there is meta-awareness of these patterns. In other words, are Americans aware that there exists a partisan health hierarchy? And are they aware of their status in this hierarchy? To date, we don’t have the data to answer this question. But I suspect that on both fronts, the answer is largely ‘no’.
+
+The wrong sort of beacon
+
+For all his failings, Donald Trump has achieved one thing: he’s taken American politics to a darker place. Now, it’s not that dark politics are good in their own right; it’s that for years, America’s mainstream political rhetoric has been growing out of touch with reality.
+
+Ever since Reagan, American elites have regurgitated his sunny vision of US exceptionalism, endlessly professing America as a ‘beacon of hope’ for the rest of the world. And yet increasingly, the US is the wrong sort of beacon. For a host of indicators, it is worst-in-class among rich nations. So at least with Trump, we have a politician who proclaims, right in his make-America-great-again slogan, that American is no longer great.
+
+On this ominous note, it seems fitting to close our journey into the US partisan landscape by studying what has become the signature element of American ‘exceptionalism’: it’s project of mass incarceration.
+
+More mass incarceration
+
+Because there are so few parallels, it’s difficult to communicate the scale of American incarceration. But here’s one comparison. In per capita terms, US imprisonment sits only slightly below Rwanda, a country that not long ago, endured a mass genocide. Yes, modern America is an exceptional place.
+
+The US project of mass incarceration began as a response to the crime wave of the 1970s and early 1980s. And yet, from the outset, the project had a political tone. As Bichler and Nitzan observe, the growth of American mass incarceration went hand in hand with rising income inequality — a pattern that they argue is no coincidence.
+
+Even today, American incarceration bears the long shadow of (plutocratic) partisan politics. Across US states, rates of imprisonment tend to rise with Republican governance. Figure 26 shows the trend.
+
+Figure 26: The partisan nature of US incarceration. Across US states, incarceration rates increase with the Republican share of state legislature seats. [Sources and methods]
+
+More crime
+
+For its part, prison time is often touted as both a punishment for convicted criminals, and a deterrent for would-be crooks. But regarding the latter claim, there’s little evidence that imprisonment actually lowers crime.
+
+For example, across US states, crime rates tend to rise with incarceration rates, a sign that imprisonment is largely a response to crime, but an ineffective deterrent. Instead, the seeds for crime are laid by social pathologies like unemployment, poverty, and drug abuse. Incarceration simply punishes (further) the folks who suffer from these diseases. And as with the punishment, the pathology of crime has a partisan dimension. Across US states, rates of property crime tend to increase with Republican legislative control (Figure 27), as do rates of murder (Figure 28).
+
+Figure 27: The partisan dimension of US property crime. Across US states, property crime rates tend to rise with Republican governance. (The major exception is Hawaii, which although governed by Democrats, has high rates of property crime, likely related to tourism.) [Sources and methods]
+
+Figure 28: The partisan dimension of US murder. Across US states, homicide rates tend to rise with Republican governance. [Sources and methods]
+
+Cause, effect, or both?
+
+This concludes my journey into the partisan dimensions of America’s social pathologies. What leaps from the evidence is the fact that Republican governance is associated with a host of bad outcomes. What’s less clear is whether Republican politics cause these pathologies, or whether social strife leads to Republican politics.
+
+I think both forms of causation are plausible. On the first count, Republican policies amplify income inequality, thereby harming the working class and benefiting the rich. From this heightened class struggle, bad things almost certainly follow. On the second count, it seems that Republicans have learned how to weaponize American anger for their own benefit. They offer simple (but wrong) solutions to difficult problems. So it makes sense that states with the deepest social strife would also be the deepest red.
+
+Alarmingly, if this two-way causation exists, it points to a kind of vicious feedback cycle: Republican-driven plutocracy causes social strife, which then leads to public anger and more disillusioned votes for Republican control. If this feedback cycle is real, I propose we call it the ‘express elevator to plutocratic hell’.
+
+How do Republicans win?
+
+Let’s switch gears. So far, we’ve looked at data which connects Republican state governance to both plutocracy and widespread social pathology. Staring at this evidence, it seems like an oxymoron. It’s the sort of bad outcome that (you’d think) shouldn’t exist in a democracy, since most people should vote against it. So then how do Republicans win elections?
+
+This question, incidentally, was fielded in 2003 by then-congressman Bernie Sanders. Speaking to a class of high-school students, Sanders lays out the quintessential Republican strategy, which is to divide and conquer. To win elections, he observes, Republicans pander to divisive cultural issues. But when in power, they govern for the benefit of plutocrats.
+
+In broad terms, I think Bernie is correct. That said, there are some subtleties to Republicans’ bait-and-switch tactic that need to be teased out. The first subtlety is that the Republican party benefits greatly from the structure of the US electoral system, which amplifies small variation in partisan support, and which tends to under-represent the interest of urban voters. The second subtlety is that Republican politicians are part of a broader propaganda machine that bombards voters with reactionary messaging. Crucial to this messaging, I believe, is that American’s media habits now have a striking partisan asymmetry.
+
+In what follows, we’ll look at each of these problems in more detail.
+
+A deficit of democracy
+
+In 1975, the Trilateral Commission published an infamous report called The Crisis of Democracy. In it, the authors warned that the United States suffered from an “excess of democracy” — an excess which they claimed was causing a “deficit in governability”. Reading between the lines, what the (deeply reactionary) authors meant was that organized labor power was making it difficult for the US ruling class to govern by and for itself.
+
+Today, as the billionaire-packed Trump regime demonstrates, this deficit has been reversed. The US now suffers from a deficit of democracy and an excess of ‘governability’ (read plutocratic authority). But while the problem is modern, the seeds for this democratic deficit date back centuries to the creation of the US electoral system.
+
+On the electoral front, many Americans are proud that their country is the oldest surviving democratic republic. Yet sometimes, age can be a burden. In the years since the US Constitution was written, political scientists have learned much about the benefits and failings of different electoral systems. For example, US framers borrowed the British system of first-past-the-post voting, in which whomever wins the most votes in a district wins the seat. This system has the advantage of being simple, but has the disadvantage of leading to many perverse outcomes.
+
+The most well-known perversity is the fact that first-past-the-post voting amplifies small changes in partisan support. The result is that huge electoral majorities can be built on a small plurality (or sometimes even a minority) of votes.
+
+Turning to US state governments, pundits often look at electoral maps and comment on the shocking difference between red states and blue states. And in terms of partisan control, these states do look like different countries. The mistake, though, is to assume that electoral differences indicate enormous variation in voters’ preferences. But actually, the opposite is true. Across US states, drastic variation in partisan control is built on fairly minor changes in public opinion.
+
+Figure 29 illustrates. To explain the chart, let’s look first at the horizontal axis, which plots the portion of state legislature seats controlled by Republicans (in 2019). What’s important is that across state legislatures, Republican control varies over a roughly 80-point range.
+
+Next, let’s look at the vertical axis, which plots public opinion within states — the portion of people with a favorable view of Republicans. Naively, we might expect that this public opinion should follow the dashed red line, which indicates parity between polling data and electoral outcomes. For example, in states where Republicans win 20% of the legislature seats, we might expect that 20% of the population would have a favorable view of the party. Likewise, in states where Republicans win 80% of the seats, 80% of people should have a favorable view of the party.
+
+When we look at actual polling data, however, this naive expectation turns out to be way off the mark. Looking at real-world opinion gives the blue curve in Figure 29, which is a testament to the failings of first-past-the-post voting. Across the 80-point swing in Republican legislative control, voter opinion (about Republicans) varies over a much smaller range — around 15 percentage points. The message here is that to win landslide elections, Republicans must achieve only modest changes in public opinion.
+
+Figure 29: The gap between public opinion and Republican electoral success. This chart contrasts polling data on Republican favorability (vertical axis) with Republican control of state governments (horizontal axis). If Republican control directly reflected popular opinion, we’d expect a trend like the dashed red line — a one-to-one relation between Republican electoral success and the portion of the state population with a favorable view of Republicans. Looking at real-world opinion gives the blue curve, which is far more gradual. Across the 80-point swing in Republican electoral success, there’s only a 15-point swing in Republican popularity. [Sources and methods]
+
+A partisan asymmetry
+
+Now to a second defect of first-past-the-post voting, which is that it amplifies partisan support unequally. In his book Why Cities Lose, Jonathan Rodden dives deeply into this asymmetry, arguing (persuasively) that America’s democratic deficit is caused in large part by the geography of modern partisanship. Put simply, Democrats have become an urban party, while Republicans have become an ex-urban and rural party.
+
+Now on its face, it seems like the geography of partisan support shouldn’t matter, since government representation should always track with population. But Rodden demonstrates why this assumption fails. The problem lies with the interplay between partisan geography and first-past-the-post voting. With support concentrated in city centers, Democrats tend to win big in urban districts (that is, they get a huge share of the district vote). But this victory turns out to be a loss in disguise.
+
+You see, in first-past-the-post voting, once a party has achieved a seat-winning plurality, all additional votes are wasted; they do nothing to affect election results. So the goal, in this system, is not to win big in a few districts; it’s to win by a small margin in many districts. As Rodden shows, the dispersed geography of Republican support means that the party is better at playing this small-victory game. And when gerrymandering enters the picture, the partisan asymmetry becomes even more pronounced.
+
+Returning to US public opinion, the electoral bias against Democrats turns out to be quite visible in the polling data. Figure 30 makes the case. Here, I’ve taken the polling data from Figure 29 and added Democrat favorability to the mix. To reiterate, the red curve shows how Republican favorability relates to Republican control of state legislatures. And now the blue curve shows how Democrat favorability relates to Democrat control of state legislatures.
+
+What’s striking is the gap between the two curves. At virtually every level of state electoral success, Democrats poll better than Republicans. In other words, to achieve the same level of government power, it seems that Democrats must win more votes.
+
+Figure 30: A partisan deficit; for equivalent electoral outcomes, Republicans are viewed less favorably than Democrats. The red curve shows how Republican favorability rises with the Republican share of state legislature seats (in 2019). The blue curve shows the same trend, but for Democrats. The gap between the curves illustrates that for the same electoral outcome, Republicans poll worse than Democrats. Or put another way, Republicans likely need fewer votes to get the same degree of state power. [Sources and methods]
+
+The politics of indoctrination
+
+With the US democratic deficit in mind, let’s pivot now to the partisan nature of political indoctrination. Here, I think we should start with George Orwell, who has in many ways informed our ideas about propaganda and groupthink.
+
+The problem with Orwell is that he is too, well, Orwellian. In 1984, Orwell depicts indoctrination that is so fiendish, so totalizing that it seems cartoonish. Of course, that was the point — 1984 was meant as a satire. However, the lasting effect of Orwell’s writing has been to raise the bar for what constitutes ‘indoctrination’. Big Brother makes true propaganda; but in our society, we don’t have anything like that.
+
+Of course, we do have propaganda, but it is typically more subtle than the Orwellian ideal. It is designed to nudge public opinion, not transform it. Actually-existing propaganda is in many ways banal. The meat of it is what we might call ‘biased’ information: journalism that elevates some narratives over others. In that regard, propaganda has always been ubiquitous. (Just look at the load of junk on the internet.) But what’s changed in recent years is the way people consume information. In modern America, media consumption now has a distinct partisan asymmetry.
+
+To see this asymmetry, let’s start by simply counting people’s sources for political news. Figure 31 shows the results. Across US states, it seems that greater Republican control is associated with less diversity in people’s news consumption.
+
+Figure 31: The decreasing diversity of American media consumption. In states where Republicans control more legislative seats, people get their political news from fewer sources. [Sources and methods]
+
+Thinking about this partisan-related decline in media diversity, it’s instructive to look at the news sources that remain when we head into deep-Republican territory. As you might guess, red-state stalwarts are not rushing to read the New York Times. Instead, they lean towards what we might call a ‘Fox-Book’ diet, which consists of a helping of news from just two sources: Fox and Facebook. Figure 32 plots the rise of this diet.
+
+In my mind, this partisan media diet is instructive, if a bit unsurprising. For its part, Fox News has a Republican bias that’s about as subtle as a punch to the face. So if Republican voters aren’t watching Fox, it would be shocking.
+
+Facebook, in contrast, is an algorithmic beast that cares only about keeping users on its platform. So in that regard, the site is non-partisan. However, Facebook’s algorithm seems to have learned that the best way to maximize ‘engagement’ is to feed users a steady stream of rage-inducing clickbait. And as we now know, one does not generate engagement-maximizing ‘content’ with journalism that carefully surveys the evidence. That job is done best with made-up facts and strident lies. Am I saying that Republican control rests on lies? Yes I am.
+
+Figure 32: The rise of the Fox-Book diet. In Republican controlled states, the population tends to get more of its political news from Fox News and Facebook. [Sources and methods]
+
+Finally, let’s not discount the opinion-shaping importance of ignorance. In modern America, a non-negligible portion of the population does not follow political news. In effect, these folks are the most gullible marks, because when fed political propaganda (whether from friends, colleagues, or political advertising) they have no independent sources on which to judge the claims. As such, these poorly informed folks tend to ride whatever zeitgeist they are served.
+
+Now, in any setting, being poorly informed about politics is an anathema to healthy democracy. But in the Citizens United era, the stakes are even higher. Today, Americans are subjected to torrent of oligarch-backed political advertising that’s so pervasive, it’s nearly impossible to escape. And so without a steady inoculation of journalistic facts, this plutocratic propaganda will inevitably do its job.
+
+Indeed, the effect may already be visible. Across states, political ignorance now has a partisan dimension. As Figure 33 shows, Republican state power is associated with more people who don’t follow political news. Am I saying that Republican control rests on voter ignorance? Yes I am.
+
+Figure 33: The partisan dimension of political ignorance. In states with greater Republican control, more people report having no sources for political news. [Sources and methods]
+
+A nudge is all you need
+
+Looking at the partisan dimension of American media consumption, I should note that the effects are somewhat subtle. For example, when we travel from deep-blue states to deep-red states, the ‘Fox-Book’ media diet increases by about 10 percentage points. Likewise, the diet of political ignorance (no political media consumption) increases by about 3.5 percentage points. Summing these two diets, we get a roughly 14-point swing in media consumption across the state partisan spectrum.
+
+Obviously, this 14-point swing is not Orwellian. In other words, there is no state population that receives all of its political information from big-brother Murdoch, or little-brother Zuckerberg. But then again, in the US electoral system, there’s no need for such totalizing propaganda.
+
+As we saw in Figure 29, the difference between a Republican state landslide and a Republican state shutout rests on a roughly 15-point swing in voter opinion. In short, American propaganda doesn’t need to move mountains. It just needs to convince about one in seven people to alter their opinions. In this context, a 14-point change in voters’ media habits is massive — it’s conceivably the whole partisan effect. This is the deceptive power of the conservative media empire, and the unwitting power of the American swing voter.
+
+The tyranny of riches
+
+To conclude this journey into the partisan politics of American plutocracy, perhaps some reflection is in order.
+
+As a scientist, I often find it gut-wrenching to watch the snail’s pace at which established scientific knowledge trickles into the public consciousness. The study of income inequality is a good example. In 2001, Thomas Piketty and Emmanuel Saez published a landmark paper which showed, for the first time, that US top income shares had been on the rise since the 1980s. Piketty and Saez’s work has since been replicated and expanded numerous times. In short, scientists know that the US is becoming increasingly plutocratic. But the public has been slow to catch on.
+
+And in a sense, that’s not their fault. The average person has neither the time nor the training to read scientific papers. So if they receive news about inequality, plutocracy or oligarchy, it will be from second-hand sources. But even then, such topics rarely enter the mainstream news until elites start to discuss them.
+
+On that front, Joe Biden made waves in his farewell address by warning that an “oligarchy is taking shape in America”, marked by a “dangerous concentration of power in the hands of a very few ultrawealthy people”. Now what’s remarkable about Biden’s language is its rarity in American history. A quick search of presidential speeches suggests that prior to Biden, sitting presidents have used the word ‘oligarchy’ just three times. Moreover, the last president to speak the word ‘oligarchy’ was Franklin D. Roosevelt, who used it in 1937.
+
+What’s also notable are the circumstances behind Biden’s remark; it took an incoming president who was, in plain sight, packing his administration with billionaires for an exiting president to warn of the dangers of ‘oligarchy’. Shakespeare couldn’t have written a more tragic affair.
+
+Indeed, the word ‘tragedy’ seems appropriate. For its part, the left often assumes that politics is like theatre, and citizens are the audience. So when the plot goes awry, everyone knows. But a more fitting metaphor is that politics is theatre, and citizens are characters — they are unwitting participants who have unequal knowledge of the plotline that surrounds them. It is this inequality, I believe, that is the undoing of democracy.
+
+Those who were paying attention knew that Trump stood boldly for oligarchy, and that his working-class rhetoric was snake oil. Clearly, American billionaires could read between the lines, probably because Trump’s bombast was new, but his bait-and-switch tactic was old Republican hat. And yet a majority of Americans bought the lies that Trump was selling. Why?
+
+Historians will, no doubt, be unpacking this question for decades. But for what it’s worth, I think we can tentatively answer the question right now. Working-class Americans are angry, yes. But they are also uninformed … and in a way that plays directly into the hands of plutocrats.
+
+For their part, the rich rarely get hoodwinked by political propaganda. For example, we never hear about the billionaire who mistakenly voted for a progressive politician, thinking they (the politician) would deliver tax breaks. And yet, it’s a tired trope to hear about working-class folks voting for a candidate who speaks their language, but who’s actually on the side of oligarchs.
+
+This knowledge asymmetry is a key weakness of democracy — a weakness that is being exploited before our eyes. Indeed, we don’t need to wait for the plot climax to see how it works. Today’s polling data lays it bare. In modern America, the diversity of people’s news consumption increases starkly with their income. Figure 34 shows the ascent.
+
+Figure 34: The tyranny of plutocracy — why the rich cannot be fooled. Across US households, the diversity of political news sources rises steeply with income. [Sources and methods]
+
+In my mind, this evidence illustrates how the trappings of democracy can be used to ensconce plutocracy. As the rich get richer, they use their time and resources to become information-sucking machines. Meanwhile, as the poor get poorer, they fall into a pit of political ignorance where they become easy victims of propaganda. In a sense, this asymmetry is why reactionary politics are so easy, and why progressive politics are so difficult. Reactionary politics push snake oil downhill. Progressive politics push knowledge and solidarity uphill.
+
+For American voters, it has become increasingly difficult to differentiate the two political forms, largely because many Republican politicians have adopted working-class rhetoric that was once the domain of leftists. And yet when we study what Republican politicians do, the rhetoric falls apart. As we’ve seen here (repeatedly, and to the point of nausea), the evidence points overwhelmingly to one conclusion: in modern America, Republicans are the party of plutocracy.
+
+Support this blog
+
+Hi folks. I’m a crowdfunded scientist who shares all of his (painstaking) research for free. If you think my work has value, consider becoming a supporter.
+
+Stay updated
+
+Sign up to get email updates from this blog.
+
+
+
+This work is licensed under a Creative Commons Attribution 4.0 License. You can use/share it anyway you want, provided you attribute it to me (Blair Fix) and link to Economics from the Top Down.
+
+Republican-driven plutocracy: deepening the evidence
+
+To supplement Figures 3 and 4, here’s a more detailed dive into the way Republican control relates to state-level plutocracy.
+
+Republican control and the power-law exponent of state top incomes
+
+One of the best ways to understand the distribution of top incomes is by calculating something called the power-law exponent — a parameter which describes the relative frequency of large incomes.
+
+If the distribution of income follows a power law, it means that the probability of finding someone with income x is proportional to the inverse of x , raised to some exponent \alpha :
+
+\displaystyle p(x) \propto \frac{1}{x^{\alpha}}
+
+Here, the power-law exponent, \alpha , describes the ‘fattness’ of the income distribution tail. The smaller the value of \alpha , the fatter the tail, and the more prevalent the very rich become.
+
+Unlike reporting income shares (say of the top 1%), the advantage of estimating the power-law exponent is that this parameter is independent of the rest of the distribution; it depends only on the income behavior of the rich. In that sense, the power-law exponent is a robust indicator of plutocratic behavior. The smaller the exponent, the greater the degree of plutocracy.
+
+Using a power-law exponent to measure the behavior of top incomes confirms that across US states, plutocracy has a partisan direction. As Republicans consolidate state legislature seats, the power-law exponent of top incomes tends to decline, indicating that the rich get richer. Figure 35 shows the trend.
+
+Figure 35: Within states, the power-law exponent of top incomes scales with the Republican share of state legislature seats. As Republicans gains seats in US state legislatures, the power-law exponent of top incomes tends to decrease, indicating that the rich are getting richer. [Sources and methods]
+
+Today’s change in government, next year’s change in plutocracy
+
+From the evidence in Figures 3, 4, and 35, we can conclude that Republican control is associated with greater income inequality. But can we claim that Republican control causes this plutocracy?
+
+Well, in the social sciences, causation is usually speculative. Still, there are a few ways to pin it down. The first approach is to look at a wide range of evidence and see if it’s consistent with your causal thesis. (On that front, the evidence in this essay all points to the fact that Republican policies create plutocracy.) And the second approach is to toy with lagged data. This latter method is not foolproof, but is based on the sound principle that a cause must precede its effect.
+
+For example, to test whether Republican control causes greater plutocracy, we can compare today’s change in (state) government to next year’s change in (state) income inequality. In other words, when Republicans gain legislative seats, does plutocracy increase the following year?
+
+As Figure 36 shows, the answer turns out to be ‘yes’. Here, the horizontal axis shows the percentage-point annual change in the Republican control of each state legislature. The vertical axis shows the percentage-point change in the top 0.01% income share in the following year. The resulting trend is noisy, but distinctively positive. When Republicans gain power, plutocracy increases the following year.
+
+Figure 36: A year after Republican victory, gains flow to the rich. This figure measures how changes in Republican control of state legislatures relates to changes in top income shares. On the horizontal axis, I’ve taken each state (observed from 1970 to 2018) and measured the annual percentage-point change in the Republican share of legislature seats. Then I’ve grouped the partisan change into bins, as indicated by the blue points. Within each bin, I then measure the annual percentage-point change in the state-level income share of the top 0.01% in the following year. The results indicate that when Republicans seize power, the rich tend to benefit in the proceeding year. [Sources and methods]
+
+Or stated more accurately, when Republicans seize power, plutocracy increases more than it does when Democrats gain legislate seats. Figure 36 makes this point clear. While Republicans play the game of plutocracy best, the Democrats are also implicated. Indeed, it’s only when Democrats win a massive 45-point landslide that we see a very meagre decrease in the income share of the top 0.01%.
+
+In my mind, this pattern is a major force for political malaise. Put simply, state Democrats are ineffective at undoing the damage created by their Republican peers. If Democrats were effective, then we’d expect to see something like the dashed-red line in Figure 37.
+
+In this scenario, when Democrats gain state power, they reliably claw back from elites the money that was handed to them by Republican policy. The fact that the real world doesn’t follow this tit-for-tat trend is a testament to Bernie Sander’s indictment that the Democrats have effectively abandoned the American working class. At best, Democrats have become the lesser of two enemies … a fact which is not a big selling point to working-class voters.
+
+Figure 37: Cause for malaise — Democrats have been incapable of reversing Republican-driven plutocracy. This chart plots the same data as Figure 36, but with a big red line that shows what would happen if Democrats offered an effective counterbalance to Republican-driven plutocracy. In this situation, Democrats play a game of tit-for-tat, effectively reversing plutocratic policies implemented by Republicans. Sadly, real-world Democrats do not behave this way. [Sources and methods]
+
+Sources and methods
+
+Partisan composition of US state legislatures (used in all charts except Figures 14 & 34)
+
+Data for the partisan composition of US state legislatures is from PS Thomas’s Github archive, which conveniently merges the following sources:
+
+1937 to 2008: Carl Klarner Dataverse
+
+2009 to 2021: digitized PDFs from the National Conference on State Legislatures
+
+In each state, I calculate the Republican share of legislative seats as follows:
+
+\displaystyle R_{share} = \frac{ \text{Republican house seats} + \text{Republican senate seats} }{ \text{total house seats} + \text{total senate seats} }
+
+Note that values for Nebraska are recorded as ‘null’, since its state legislature is officially nonpartisan. (In practice, Nebraska is Republican dominated.)
+
+Income share of US top 1% (Figure 3)
+
+Income share data is from the World Inequality Database, series sptincj992 .
+
+Income share of top 0.01% by US state (Figures 4 to 37)
+
+Data is from the World Inequality Database, series sptinct992 .
+
+Power-law exponent among top 1%, by US state (Figure 35)
+
+Income data is from the World Inequality Database, series sptinct992 . I estimate the power-law exponent among the top 1% of earners by fitting a continuous power-law distribution to the data for income share by income percentile. To fit the power law, I sample random numbers from a continuous power-law distribution. Then for each state-year observation, I select the power-law exponent with the minimum income-share error.
+
+Word frequency in state bills (Figures 5 to 7)
+
+Text for US state bills is from Open States bulk data. Sparse data begins in the 1990s, but reaches (roughly) complete state coverage by the late 2010s. Figure 38 summarizes my cleaned version of the legislative dataset, which contains over 890 million words.
+
+Figure 38: Summary statistics for the Open States legislative database. Panel A shows the number of state legislatures with bills tracked by the Open States database. Panel B shows the number of words (by year) in my cleaned legislative database.
+
+State minimum wage (Figure 8)
+
+Historical data for state minimum wages is from the US Department of Labor. In states that lack a minimum wage, I assign a value of zero. Note that this calculation largely measures state political priorities. In states lacking a minimum wage, most (but not all) minimum-wage workers will be covered by the Federal minimum wage.
+
+Data for US average income is from FRED — calculated as the average of state personal income per capita, weighted by state population. State population data is from FRED series scPOP (where sc is the two-letter state code). Data for income per capita is from FRED series scPCPI (where sc is the two-letter state code).
+
+To calculate the annual earnings of a full-time minimum-wage worker, I multiply the state minimum wage by 2000 hours (50 weeks per year, 40 hours per week).
+
+Union membership (Figure 9)
+
+Data for the state union membership rate (union employment as a percent of state employment) is from the Bureau of Labor Statistics, series LUU02048996snc , where snc is the numeric code for each US state.
+
+Top marginal tax rate (Figure 10)
+
+Data for state marginal income tax rates is from the Tax Foundation.
+
+Tax regressiveness (Figure 11)
+
+Data for the total state tax burden by income bracket is from the Institute on Taxation and Economic Policy, as follows:
+
+Here’s how I measure the progressiveness/regressiveness of state taxation. Let r_n be the aggregate tax rate for a state’s income percentile bracket n . (The ITEP data reports seven income percentile brackets. I define the lowest bracket as n=1 and the highest bracket as n=7 .)
+
+Next, I define the tax progressiveness/regressiveness index I as the slope of the regression relation between \log(r_n) and n :
+
+\displaystyle \log(r_n) \sim I \cdot n + b
+
+The index I measures the rate that the tax burden changes with greater income. When I=0 , the tax burden is flat. When I > 0 , the tax burden is progressive. And when I < 0 , the tax burden is regressive.
+
+Property income (Figure 12)
+
+Data for state property income is from the Bureau of Economic Analysis, Table SAINC40. I define property income as:
+
+\displaystyle P = D + MI + MR
+
+Here, D is personal dividend income, MI is monetary interest, and MR is monetary rent.
+
+Note that the word ‘monetary’ differentiates from forms of ‘imputed’ interest and rent published by the BEA. (The BEA imputes the imaginary rent paid by home owners to themselves. It also imputes the imaginary interest paid to bank depositors for ‘implicitly priced services’.)
+
+I calculate the property share of income by dividing state property income by total state personal income (from BEA table SAINC1).
+
+State government expenditure (Figure 13)
+
+Data for state government spending (which includes local government) is from the US Census, Annual Survey of State and Local Government Finances. (I worked with the bulk data here.)
+
+Data for state GDP is from FRED series scNQGSP , where sc is the two-letter state code.
+
+Income of state governors and large-firm CEOs (Figure 14)
+
+Data for state governor salary (in 2020) comes from The Book of States 2020 Edition (Table 4.11), published by The Council of State Governments.
+
+Data for CEO pay in 2020 (which includes realized gains from stock options) is from Execucomp, series TDC2 . For the methods used to identify CEOs, see Section 8.2 in Fix (2020).
+
+Data for firm employment is from Compustat, series EMP . (I select CEOs from the 500 largest Compustat firms, ranked by employment.)
+
+State income per person (Figures 15 & 16)
+
+Data for state personal income per capita is from FRED series scPCPI , where is sc is the two-letter code for each state. I calculate US income per capita by averaging state income per capita, weighted by state population (FRED series scPOP ).
+
+Average income of state top 0.01% (Figure 17)
+
+I calculate the average income of the state top 0.01% using the following formula:
+
+\displaystyle \bar{I}_{0.01\%} = \frac{ I_{pc} \cdot P \cdot S_{0.01\%} }{ P_{0.01\%}}
+
+Data is defined as follows:
+
+I_{pc} is personal income per capita by state, from FRED series scPCPI (where sc represents each state’s two-letter code).
+
+is personal income per capita by state, from FRED series (where represents each state’s two-letter code). P is state population, from FRED series scPOP (where sc represents each state’s two-letter code).
+
+is state population, from FRED series (where represents each state’s two-letter code). S_{0.01\%} is the income share of the state top 0.01%, using data from the World Inequality Database, series sptinct992.
+
+is the income share of the state top 0.01%, using data from the World Inequality Database, series sptinct992. P_{0.01\%} is 0.01% of the state population
+
+I then normalize this income relative to the US average (calculated as the average of state personal income per capita, weighted by state population).
+
+Average work week (Figure 18)
+
+Data for the average work week by state is from the Bureau of Labor Statistics series SMUsnc000000500000002 (average weekly hours of all employees in the private sector). Note that snc is each state’s two-digit numeric code. Bulk data is available here.
+
+Bankruptcies (Figure 19)
+
+Data for consumer (non-business) bankruptcies is from the United States Courts, Table F-2 (U.S. Bankruptcy Courts – Business and Nonbusiness Cases Filed, by Chapter of the Bankruptcy Code).
+
+State population data is from FRED series scPOP (where sc is the two-letter state code).
+
+Food insecurity (Figure 20)
+
+Data for the portion of food insecure households is from the US Department of Agriculture state fact sheets.
+
+Individuals without health insurance (Figure 21)
+
+Data for the number of individuals without health insurance is from the US Census, American Community Survey, Table HIC-4_ACS (Health Insurance Coverage Status and Type of Coverage by State).
+
+You can browse the ACS data here. I used the bulk download page here.
+
+Deaths of despair (Figure 22)
+
+As defined by Anne Case and Angus Deaton, ‘deaths of despair’ consist of all deaths from suicide, drug overdose, and chronic liver disease (typically induced by alcoholism). I use mortality data from the CDC National Center for Health Statistics, as follows:
+
+State population data is from FRED series scPOP (where sc is the two-letter state code).
+
+Life expectancy (Figure 23)
+
+Data for state life expectancy at birth is from the CDC, National Center for Health Statistics, as follows:
+
+Self-reported health (Figure 24)
+
+Self-reported health data is from the CDC Behavioral Risk Factor Surveillance System survey, series GENHLTH . (Prompt: Would you say that in general your health is …) Reported health values are coded on a five-point scale (health = ‘excellent’, ‘very good’, ‘good’, ‘fair’, ‘poor’). In each state, I measure the portion of respondents reporting ‘fair’ or ‘poor’ health.
+
+Self-reported mental health (Figure 25)
+
+Mental-health data is from the CDC Behavioral Risk Factor Surveillance System survey, series MENTHLTH . (Prompt: Now thinking about your mental health, which includes stress, depression, and problems with emotions, for how many days during the past 30 days was your mental health not good?) In each state, I average the number of reported days with poor mental health.
+
+Incarceration rates (Figure 26)
+
+Incarceration data by state is from the Bureau of Justice Statistics (prisoners under the jurisdiction of state or federal correctional authorities, by jurisdiction and race). Downloads available at:
+
+State population data is from FRED series scPOP (where sc is the two-letter state code).
+
+Property crime rate (Figure 27)
+
+Property crime data is from the FBI Criminal Justice Information Services, via the Crime Data Explorer. I downloaded incidence data for ‘all property crimes’.
+
+State population data is from FRED series scPOP (where sc is the two-letter state code).
+
+Homicide rate (Figure 28)
+
+Data for homicide deaths is from the CDC National Center for Health Statistics, Homicide Mortality by State.
+
+State population data is from FRED series scPOP (where sc is the two-letter state code).
+
+Public opinion of Republicans (Figure 29)
+
+Public opinion data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.)
+
+(On the Nationscape site, there is a request form to download the full dataset. I could not get it to work, nor could I get a response from the site admin. So I resorted to a more indirect route to getting the data.)
+
+Republican favorability is series group_favorability_republicans , with views coded on five-point scale (‘very favorable’, ‘somewhat favorable’, ‘somewhat unfavorable’, ‘very unfavorable’, ‘haven’t heard enough’).
+
+In each state, I measured the portion of people with a ‘very’ or ‘somewhat’ favorable view of Republicans.
+
+Public opinion of Democrats and Republicans (Figure 29)
+
+Public opinion data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.)
+
+Republican favorability is series group_favorability_republicans . Democrat favorability is series group_favorability_democrats .
+
+Group favorability is coded on five-point scale (‘very favorable’, ‘somewhat favorable’, ‘somewhat unfavorable’, ‘very unfavorable’, ‘haven’t heard enough’). In each state, I measured the portion of people with a ‘very’ or ‘somewhat’ favorable view of each party.
+
+Number of sources for political news (Figure 31)
+
+Media consumption data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.) The survey asks respondents if they get political news from the following 12 sources:
+
+Facebook CNN MSNBC Fox Network Local TV Telemundo NPR AM talk radio New York Times Local newspaper Other
+
+Responses are coded as ‘yes’ or ‘no’. (The survey also records text responses for the ‘other’ category, but the data is too messy to quantify.)
+
+For each individual, I sum the number of ‘yes’ responses across each media source. Then I average the sums within each state to calculate the mean number of media sources per person.
+
+Share of news from Fox and Facebook (Figure 32)
+
+Media consumption data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.) The survey asks respondents if they get political news from twelve sources (For details, see notes for Figure 31, above). Responses for each source are coded as ‘yes’ or ‘no’.
+
+Here’s how I calculate the ‘Fox-Book’ share of media consumption. For each individual, I sum the ‘yes’ responses to viewing Fox and/or Facebook, and then divide by the sum of ‘yes’ responses across all media sources. Then I average this individual ratio within each state.
+
+Portion of people who don’t follow political news (Figure 33)
+
+Media consumption data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.) The survey asks respondents if they get political news from twelve sources (For details, see notes for Figure 31, above). Responses for each source are coded as ‘yes’ or ‘no’.
+
+To measure the number of people who don’t follow political news, I identify respondents who answer ‘no’ to all of the twelve media sources. Then I measure the portion of such people by state.
+
+Number of media sources by income (Figure 34)
+
+Media consumption data is from the 2019 Nationscape Survey, downloaded from Hannah Walker’s dataverse repository. (The survey queries over 155,000 people about their political opinions.) The survey asks respondents if they get political news from twelve sources (For details, see notes for Figure 31, above). Responses for each source are coded as ‘yes’ or ‘no’.
+
+The survey also asks respondents about their household income (series household_income ), which is coded into 24 income bins.
+
+For each individual, I sum the number of ‘yes’ responses across the twelve media sources. Then I average this value within each income bin.
+
+Notes
+
+Further reading
+
+Bichler, S., & Nitzan, J. (2014). No way out: Crime, punishment and the capitalization of power. Crime, Law and Social Change, 61, 251–271.
+
+Case, A., & Deaton, A. (2021). Deaths of despair and the future of capitalism. Princeton University Press.
+
+Crozier, M. J., Huntington, S. P., & Watanuki, J. (1975). The crisis of democracy: Report on the governability of democracies to the Trilateral Commission. New York University Press.
+
+George, S. (1977). How the other half dies: The real reasons for world hunger. Harmondsworth: Penguin Books.
+
+Mouré, C. (2022). Costly efficiencies: Health care spending, COVID-19, and the public/private health care debate. Review of Capital as Power, 2(2), 17–45.
+
+Nitzan, J., & Bichler, S. (2009). Capital as power: A study of order and creorder. New York: Routledge.
+
+Piketty, T., & Saez, E. (2001). Income inequality in the United States, 1913-1998 (series updated to 2000 available). National bureau of economic research.
+
+Proudhon, P.-J. (1876). What is property?: An inquiry into the principle of right and of government (Vol. 1). Princeton: BR Tucker.
+
+Rodden, J. A. (2019). Why cities lose: The deep roots of the urban-rural political divide. Basic Books.
+
+Turchin, P. (2016). Ages of discord: A structural demographic analysis of American history. Chaplin, CT: Beresta Books.
+
+Share this: Twitter
+
+Facebook
+

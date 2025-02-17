@@ -1,0 +1,90 @@
+Title: CMV: The Marketplace of Ideas is a horrible metaphor for how free speech actually works
+
+Post:
+The marketplace of ideas, as I understand it just to be clear, is basically the idea that we should have as few restrictions as possible so that the best ideas are free to beat the bad ones in fair and open debate. From this comes the idea that all speech should be free because even if it's bad people will come to realize that it's false and unworthy of consideration so long as good ideas are allowed as well.
+
+Whether or not some forms of speech should be restricted is a separate issue, but I do have problems with the mechanism through which free speech (and in particular free speech absolutism) is often justified.
+
+The MOI supposes that ideas, if they are good and well-articulated, will win out over bad ones, but to me it seems as though the very existence of long-running political debates *at all* disproves this. If good ideas truly won out over bad ones, then the only reason why someone could possibly disagree with someone else would be if they don't know their opponent's positions and reasonings, seeing as they'd convert upon exposure to the better idea.
+
+Obviously, people still disagree even if they know all the opposing opinions, and of course there are plenty of reasons why people believe or do something that have nothing to do with rhetoric (such as personal self-interest, identity, party loyalty, tradition, nationalism, etc.). This has led me to believe that free speech is generally ineffective under the MOI model, at least with specific regards to large political issues like gun control or abortion. The increased sorting of online communities into "echo chambers" and "media bubbles" further convinces me the MOI does not function as intended: the premise that good ideas win out only works if people aren't already satisfied with the bad ones and never seek out anything better, whatever that may be. 
+
+For all the talk of "discourse", most op-eds or opinion videos seem to talk completely past each other. Talk-show panels do not negotiate positions with other talk show panels: they speak to their audience about how they're already right. Even articles and videos made in specific response to someone else seem to be intended more to their own audience than that of someone else, a way of bashing the other side than trying to communicate to it. Even in literal debates, the purpose seems to be more about "winning" than convincing someone they're wrong. The Presidential debates aren't so that the candidates can all discuss what the right policies are and come to genuine compromise. It's so that they can humiliate and destroy their opponents on national television for the pleasure of their followers at home, as well as show party elites who to watch out for or throw their weight behind.
+
+Rather, I'd argue that the purpose of free speech is not convincing others that they're wrong, but spurring people who already lean in your direction to act. For example: Fox News doesn't write op-eds because they want to convince liberal readers to become conservative. They write op-eds to fire up their conservative readers, because that's mostly who reads what they make. If they can convince their base that they're right, it makes them more passionate to act on the things they already wanted. Vice versa for liberal publications: they don't call this or that conservative politician bigoted because they want Republicans to not vote for them out of disgust, but because they want their Democratic base to vote for the liberal candidate.
+
+Oftentimes, speech will be brushed off as "virtue-signaling" or "fake outrage", but I think that this is actually closer to the actual function of speech than the MOI: it helps show others what your beliefs are and inspires people who already agree with you to become angry enough to actually do something. Very few articles seem to be honest attempts to convert people and just seem to be attempts to rally people who already agree with each other. Even articles like "# Why <insert policy here> is best" really seem to come off as more like "# reasons why you're right" the way I see it.
+
+ 
+
+Top Comments:
+3 responses, all with regards to the premises in your third paragraph:
+
+>The MOI supposes that ideas, if they are good and well-articulated, will win out over bad ones, 
+
+Not necessarily, or at least not in the way you seem to imagine.
+
+Marketplaces are not places where the good and righteous and virtuous always win out over all competitors.  Markets are places where sellers are matched with buyers.  Sometimes this means that a health-conscious vegan is matched with a local organic lettuce farmer, and sometimes this means that an overweight shut in is matched with a multinational corportaion selling 'chips' made primarily of annealed corn syrup. 
+
+So 'bad' things can happen in market, it's not a guarantee that everything will be perfect.  But we like markets for three main reasons.  
+
+The first is simple liberty - people can do what they want, and that's inherently better than outsiders telling them what to do, if you value freedom. 
+
+ The second is epistemic humility - you may think the lettuce farmer is 'good' and the chip seller is 'bad', but what makes you think you're the one who knows what 'good' and 'bad' are?  What if you're wrong?  Maybe it's safer to let everyone vote with their dollar/attention, and let the wisdom of crowds sort it out. 
+
+And the third is that markets *work* - they raise standards of living faster than any other economic model, and are more resilient and robust to boot.  In terms of ideas, maybe the ideal case where a perfect philosopher-king hands down true perfect knowledge to the masses in a form that is infinitely understandable and motivating, but we don't have access to that.  What we get when we shut down the market is some unitary authority - the government, the church, etc - forcing their views on everyone else, and that almost always ends in stagnation or massacre.  Whatever flaws a market has, it's better than the available alternatives.
+
+
+
+ 
+>but to me it seems as though the very existence of long-running political debates at all disproves this.
+
+Markets do *not* trend towards single winners. After many decades of competition, Coke and Pepsi still exist; and more generally pizza and pasta still exist.  
+
+As long as people have difference preferences, needs, and experiences, markets will cater different products to different people. The marketplace of ideas is *exactly* like a real economic market in this way.
+
+
+>If good ideas truly won out over bad ones, then the only reason why someone could possibly disagree with someone else would be if they don't know their opponent's positions and reasonings, seeing as they'd convert upon exposure to the better idea.
+
+You're missing several important reasons why peopledon't converge on the same ideas.
+
+The first, and most important, is that they don't hold the same beliefs about the facts of the world.  This could be because they each know facts that the other doesn't, or because they disagree about the truth of the matter.  If you disagree on the facts, you won't come to the same conclusions; and the world is far too complicated for everyone to know all the same facts as each other, no matter how long they talk to each other about the topic.
+
+Another is values differences.  An idea is only 'good' under a given set of values by which you judge things to be 'good' or 'bad' - and there is no universal standard which everyone shares. Even if we assumed that market places should lead to perfect convergence, we would only expect convergence between people to the extent that they share the same values - but a good idea to someone who cares about punishment will never be a good idea to someone who cares about rehabilitation.  They'll always argue, and the marketplace will always cater to them each seperately.
+Part of the whole set of assumptions about liberalism is that people are rational.  That is, they will take in relevant new information and update their beliefs in the face of strong, opposing arguments.  
+
+This is not ENTIRELY wrong.  Sometimes people are rational.  Surely, you wouldn't imply people NEVER change their minds, right?
+
+Second, the whole realm of political policy is unusually likely to come down to VALUES rather than to ARGUMENTS.  If it comes down to "I think freedom is more important than security; you think security is more important than freedom," there isn't some rational argument either of us could provide to disprove the other side.  That's why people often seem to be talking past each other: They just care about different things.
+The marketplace of ideas, much like the commercial free market it draws from, provides no easy, obvious way to measure the "success" of an idea. Ideas, like businesses or products, often have a loyal audience, even if the amount of people that "buy" them remains rather small. If mom-n-pop shops can survive longterm, why can't fringe philosophies or religions? Ideas develop over time, and their follower base may change, both in size and in audience. It takes a while, often decades or even centuries, for certain ideas to be seen as acceptable or outdated by humanity at large, and the marketplace is far too massive, with too many niches, for one to be able to easily quantify the success of an idea in the grand scheme of themes.
+>The MOI supposes that ideas, if they are good and well-articulated, will win out over bad ones, but to me it seems as though the very existence of long-running political debates at all disproves this. 
+
+Not really, the goal isn't to totally eradicate a false belief (obviously there are a couple flat earthers out there) but to allow superior ideas to on average win over time.  Just as inferior products can last as a niche product for a long time before eventually disappearing, bad beliefs can last a long time as well.  Sometimes it takes weeks, sometimes decades for better beliefs to win.  Sometimes worse beliefs are the ones that win.  That's okay, we just need on average better beliefs to typically come out on top.
+What if you look at it from a different point of view?
+
+If you view speech as an act of sharing information. What you say might be a statement or a question or simply a certain expression. Either way you look at it, it is something that conveys a certain idea to someone when they hear it. That is a consequence of hearing it.
+
+This does not necessarily mean that someone with a bad opinion will be convinced to change it. But it does mean that there is nothing stopping anyone from invoking an idea (other than incapability to do so). And that this idea might reach that person. We don't know whether this will change that person's opinion since it depends on many things.
+
+What we do know, however, is that true statements have certain properties. Since true statements are consistent with each other, while false statements inevitably have to have a flaw, this favors good ideas when they compete with bad ideas. If a knowledgeable person comes across a wrong idea, they will be able to dismiss it. Moreover, they will be able to share their own opinion and teach others. Uninformed people can eventually become knowledgeable.
+
+So free speech is essentially allowing ideas to compete knowing that true statements have an advantage because they are logically consistent and consistent with reality.
+What then would be a feasible alternative to a free marketplace that would give "superior" ideas the chance to thrive and propagate? How can you classify ideas based on their merits by means other than what their sources are (who says them) if you don't listen to them first? And how can you insure people will listen to your ideas thoroughly if they don't expect you to reciprocate? Maybe the purpose of an MOI isn't to provide a fair battleground so much as a means of negotiation. I'll listen to yours so long as you listen to mine. You then hope that if you're articulate well enough, you'd be able to pull them over to your side despite them initially not having intended to actually listen.
+
+Also, who or what entity should be responsible for judging ideas? On what basis should they rank ideas and why should we accept their criteria?
+
+>The MOI supposes that ideas, if they are good and well-articulated, will win out over bad ones, but to me it seems as though the very existence of long-running political debates at all disproves this.
+
+If it proves anything, it is that personal interests play a big role in what ideas people consider or abandon. An idea might prove beneficial to the majority, but the minority will reject it if it inflicts harm on them. There is no objective good or comprehensive solutions. By solving the problems of some you create ones for others, and I'd say this is the source of conflict.
+One important part of the marketplace of ideas is that ideas do not exist in a vacuum; they are all discussed and potentially acted upon for a purpose. However, these purposes do not always align between “buyers” in this metaphorical marketplace. For example, the idea of “universal healthcare” might be a good idea if your aim is to guarantee a basic standard of living for all people, but it would be a bad idea if your aim is to reduce the role of the government.
+
+If everyone in the marketplace of ideas had a singular goal, it would be true that superior ideas would win out as soon as the evidence for them has been provided (with the caveat that they would NOT win if the evidence was hidden or disputed). However, everyone wants to use these ideas in different ways, and an idea that would be superior in one way is also inferior in another.
+> The marketplace of ideas, as I understand it just to be clear, is basically the idea that we should have as few restrictions as possible so that the best ideas are free to beat the bad ones in fair and open debate.
+
+Keep in mind that just about any revolutionary idea that would require a paradigm shift in thinking to really comprehend is going to be controversial and subject to censorship. People don't like when someone comes along and shakes their existential tree, so their gut reaction is to try and have them silenced. 
+
+We've seen this over and over again throughout history, and we're seeing it in modern society. Thankfully, instead of having you arrested or shot, the modern day censors will just try and get you kicked off social media and/or fired from your job. So, at least we're making progress.
+What the hell? I just posted my own CMV almost asking the same exact same thing without knowing this one existed.
+>they don't call this or that conservative politician bigoted because they want Republicans to not vote for them out of disgust, but because they want their Democratic base to vote for the liberal candidate.
+
+they are literally bigoted thats the entirety of fox news its just GOP propaganda

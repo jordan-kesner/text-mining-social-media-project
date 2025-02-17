@@ -1,0 +1,28 @@
+Title: PSA: New /r/news rule. The moderators will now seek to remove posts with a title that doesn't come from the source article. Also, general feedback and reform thread.
+
+Post:
+- The title doesn't, however, have to be the article's title. It just has to be from the article, whether the title, the subtitle, or a key passage from its body or a combination of these. 
+
+- Minor modifications may be overlooked if journalist-like and clearly not done for editorial purposes, especially if the submission already has activity.
+
+- The other rules still apply, and following this one won't somehow exempt submissions from them. Editorials, old news, etc. will still be removed, regardless of what the title is.
+
+This is one of many reforms being worked on to improve the quality of our content. But before introducing any more new rules or any other ambitious changes, I wanted to get some community feedback and discussion going. In the meantime, the mod team has agreed internally that we need to enforce our pre-existing rules more strictly, and our use of tools like /u/automoderator has been revamped somewhat. We also decided to remove two long-idle moderators that also moderate /r/politics.
+
+I haven't made a meta post for a hell of a long time, and referring to all that's happened since would make this post way too long. But as you all know, in April /r/news became a default and [broke reddit traffic records](http://i.imgur.com/iaS8Skv.png) while doing so. We've grown rapidly since, and now have more than a million subscribers, [four times as many as we had just six months ago](http://web.archive.org/web/20130219080912/http://www.reddit.com/r/News). For a while, /r/news had a reputation for being a lot more strictly moderated and curated than /r/politics and /r/worldnews, a reputation which its growth in traffic seems to have killed. I want to change that.
+
+I don't really agree with the narrative that [becoming a default, and /r/politics no longer being a default, have killed the quality of the subreddit](http://www.reddit.com/r/TheoryOfReddit/comments/1j5pjp/why_are_the_subreddits_that_were_removed_from_the/cbbhw15?context=3). But those changes have presented new obstacles (and new opportunities) that need to be addressed. The quality of the subreddit could definitely be higher, and we the mod team want to make it higher. So, everyone spamming "/r/news is the new /r/politics! It's so much worse since becoming a default!", this is your opportunity (and everyone's) to directly suggest ways we can make the subreddit better. Let's talk.
+
+Top Comments:
+I'm glad that the mods are making an effort to curt the sensationalist headlines that people are making up that misrepresent the article. 
+Since this sub went default, there's been a markedly higher amount of repeat stories. Not the exact same story, but the same information from a variety of different sources.
+
+For instance, I suppose what Snowden had for breakfast is news, but do we really need NBC, CBS, CNN, Alternet, kotaku, and FOX's opinion on steak & eggs?
+
+Also, if you could somehow run an algorithm that only allows so many Cops/NSA/Obama/Republicans/etc are scumbags! Submissions everyday that's be real swell. As newsworthy as they all are, it's really shitty to have to scroll through 20-30 stories about the same 2-3 things to finally get some variety.
+
+Also the words "I have yet to see a mainstream media outlet report this" should be a bannable offense.
+This subreddit has way too much bias in it. There's only so much you can do when things are upvoted by regular reddit users but still so many of the news articles are clearly biased and from unreliable sources with an agenda.
+
+I feel like /r/news is just a circlerjerk for people who want to convince themselves that America is turning into a police state.
+r/news should be changed to r/douglasmacarthur since he takes up the front page every morning with his looooong titles. He is setting a bad example.

@@ -1,0 +1,29 @@
+Title: Balancing Free Speech & Safety: Envisioning a Human-Centered First Amendment for AI Regulation – TechTakes
+Source: Princeton University
+URL: https://blog.citp.princeton.edu/2025/02/11/balancing-free-speech-safety-envisioning-a-human-centered-first-amendment-for-ai-regulation-techtakes/
+
+How should the law handle manipulative AI content, like bots that encourage self-harm or give explicit instructions for it? The U.S. First Amendment protects speakers, and AI companies might justifiably claim its protections. But does the user of AI content have any right to a safe or truthful information environment, unpolluted by content aimed at changing their thoughts and actions?
+
+The Right to a Flow of Information – Free From Thought Process Distortion
+
+Inyoung Cheong, a CITP post-doc, argues that we do. In a recent speech at the inaugural conference of the International Association for Safe and Ethical AI in Paris, Cheong argued for a “Human- Centered First Amendment” (see video: February 7, 2:30 p.m. session; minute 28:00). Building on U.S. Supreme Court precedents like Island Trees School District v. Pico – which established a student’s right to receive information from a school library – she argued that a First Amendment speaker’s right is perfectly consistent with a user’s right to decide on ideas, beliefs, and public issues themselves. That right, Cheong argued, includes the right to a “flow of information” within which we formulate our ideas – reading, thinking, etc. – free from manipulative content that distorts our thought processes.
+
+Many have suggested that torts brought against the AI companies – like the ongoing case against Character.ai asserting that their bots played a role in a teen’s suicide – will force them to take action to assure the truthfulness of content and protect the freewill of hearers. However, Cheong argues that will not be sufficient, because such cases (based on product liability law) will have to prove that the companies both foresaw the risk and the AI’s outputs were the direct cause of the harm. Companies could plausibly claim that the risk in any specific instance was unpredictable, and at any rate, they took due caution to mitigate the general risk to hearers.
+
+Harm Reduction or Breach of the First Amendment?
+
+Others argued that regulations like those in the EU can reduce the potential for harm. The Digital Services Act includes a clause protecting users against content that “deceives or manipulates” them, or content that “materially distorts or impairs” their ability to make “free and informed decisions.” The EU AI Act forbids the use of “systems to infer emotions” in workplaces or schools, fearing that such systems will manipulate.
+
+Cheong argues that in the U.S. system, companies could plausibly challenge such regulations on First Amendment grounds, arguing for their own speech rights and editorial discretion. And they may well win, given that corporate’s editorial discretion has been increasingly protected by the Supreme Court.
+
+Because torts and regulations won’t work, Cheong recommended that we recall an alternative strand in First Amendment Law. Rather than focusing solely on the expressive freedom of any speaker, she suggests we also value the rights of hearers to formulate their own ideas. The U.S. Supreme Court has recognized, for instance, the right of a hearer not to be the “captive audience” of a speaker allowing them no escape. Given the concentration of power in about seven major AI companies, Cheong suggested, we may already be “captive” to their speech.
+
+Envisioning a “Human-Centered First Amendment”
+
+Cheong calls for our attention to the Supreme Court’s nuanced attitude towards speech-facilitating institutions, namely, religious institutions, schools, libraries, advertisers, and the media. These institutions, a French sociologist Louis Althusser would call “Ideological State Apparatuses”, possess a power to influence our ability to read and think freely. They host and select information and knowledge, or make their own speech. According to Cheong, the Court has acknowledged these institutions’ free speech rights, but almost always on the grounds for protecting free speech rights of the public (e.g., students, patrons, believers and non-believers, consumers).
+
+This is what Cheong called a “Human-Centered First Amendment.” Cheong argues for extending this framework to AI – the next influential speech facilitator. Even though the design of AI systems or AI outputs may revoke some First Amendment protections, they must be constrained to promote the public’s collective freedom to formulate and express ideas.
+
+The new AI era is one full of what Cheong called “cognitive threats.” As she warned, we could all be subject to the gradual disempowerment of our ability to think independently. AI could intrude on our most intimate thoughts, exploit our emotional and cognitive vulnerabilities, and alter our beliefs. The Court might acknowledge the rights of AI companies to produce algorithms and generate algorithmic content. However, a Human-Centered First Amendment would allow reasonable protections against the worst of these cognitive threats.
+
+TechTakes is a series where we ask members of the CITP community to comment on tech and tech policy-related news. TechTakes is moderated by Steven Kelts, CITP Associated Faculty and lecturer in the Princeton School of Public and International Affairs (SPIA), and Lydia Owens, CITP Outreach and Programming Coordinator.

@@ -1,0 +1,118 @@
+Title: Announcing a RULE CHANGE to Law 1, as of January 24th
+
+Post:
+**We are trialling a modest change of LAW 1.**
+
+Other outstanding trials are also affected. A 'tl;dr' can be found at the bottom of this post. Multiple mods have contributed to this post.
+
+----
+
+
+Our dear r/MP brothers and sisters,
+
+As our senior moderator wrote yesterday, 2020 A.D. has been a year of great change and growth for our little corner of Reddit, and with these changes came a great deal of soul-searching among our moderation team. What we saw from a high level was a continuous downward trend in the quality of discourse: competition, rather than conversation; and, a growing discontent and castigation of the *people* who adopt or express political perspectives, attitudes, and ideologies, rather than with the views themselves.
+
+In searching for a solution to the issue, it's fair to say we may have strayed a bit afield from our original mission.  which is captured on Old and New reddit's sidebar:
+
+**Opinions do not have to be moderate to belong here as long as those opinions are expressed moderately.**
+
+This mission's intended goal, enshrined in Law 1, is to have a space for anyone to share their political opinions or affiliations without the looming threat of the verbal retribution or censure which has become the standard *modus operandi* of social media platforms worldwide. We are not the thought police, and our only demand is that *you* aren't, either.
+
+With the adoption of our "Rule 0" pilot program, and the text post ban, though the feedback we've received regarding both programs was positive, the actual results have been mixed. What's clear is that in an attempt to improve the quality of discourse and the *expression* of opinion, we've allowed ourselves to become gatekeepers in select instances of the *quality* of opinions themselves. This is not who we want to be as moderators; we have neither the professional credentials to judge what a quality opinion is, nor the personal time available to make a considered assessment of every comment and post. Nor is it enough that these programs are popular, as one of our long-time members warned:
+
+> ... people will often ask for things directly opposed to the best interests of the sub and you'll be forced to choose between giving the people what they want and keeping the sub from turning into a toxic cesspit of anger and sadness.
+
+Alongside these measures was our "zero-tolerance" policy, enacted shortly before the presidential election. Despite this policy's effectiveness in following r/MP's mission, new members still often view the instant week-long bans as excessive and overbearing. We have generally expected to lift the zero-tolerance policy before the end of January, but this perception of heavy-handed moderation is often more due to the common confusion among new members regarding our primary guiding laws of civil discourse, Law 1, and its corollary 1b.
+
+To that end, we capped off a series of conversations over the last months with a contentious but fair vote on a rule change, just last night. Today we are announcing this clarification, and trialling an update to Law 1 which will bring with it an important extension of its application. The new law will read as follows:
+
+> 1) **Law of Civil Discourse**
+> Do not engage in personal or ad hominem attacks on anyone. Comment on content and ideas, not people. Don't simply state that someone is dumb or bad, engage with the argument being made or the facts as described. You can explain the specifics of a misperception at hand without making it about a person's character. 
+> 
+> Don't accuse your fellow MPers of being biased shills, even if they are. Assume good faith for all participants in all discussions within our subreddit.
+> 
+> 1b) A character attack on a group is an attack on the individuals in that group.
+
+We long debated internally how to clarify the rules in such a way as to make them more readily understandable, without further muddying the waters regarding what we judge to be "civil" vs. "uncivil" *forms* of speech. The only proposal that has now survived a vote was to suspend the "public figure" exemption for *ad hominem* attacks. **Please note** that we have taken pains to distinguish "good faith" assumptions from *ad hominem* attacks; the former asks only that you give your fellow members here in the subreddit the benefit of the doubt in active conversation.
+
+Let's look at the reasoning behind this change. Law 1, as it's stood for the entire history of the sub, has existed for the purpose of trying to maintain civility, and it did so in two ways: first, by prohibiting personal attacks against one another, and second, by prohibiting accusations of bad faith. The former maintains civility by keeping the argument directed at the content rather than at other people, the latter maintains civility by setting a baseline expectation on the discussion itself.
+
+The latter part isn't changing. Assuming good faith of each other is key to healthy discussion - if I come into a discussion accusing you of being disingenuous or trolling, then I've poisoned the well before we've even begun. However, that doesn't mean the honesty or motivation of political figures and other public actors can't be discussed - deception can be a strategy in politics that's important to take note of. Just refrain from extending that skepticism to your fellow user. (And if you can't manage that, then don't engage with the comment at all.) 
+
+The part that's changing is this: we have, until now, exempted public figures from our ad hominem/personal attack protection. You were free to say that you thought Trump was a racist jackass or that Biden was a stupid commie bastard, etc etc, and we would let it go because these were public figures. However, we've seen that a lot of the content that seems to inspire vitriol is content that leans heavily on the ad hom, and lightly on the actual content critique - so we're trying out extending ad hom protection universally. It was always the case that public figures would be covered by our rules should they ever join Reddit, as they would qualify as potential members; for instance, Law 1 has always applied to the former governor of California, u/GovSchwarzenegger. Given that sort of qualification, it perhaps becomes more clear how the public-figure exemption was maybe a bit artificial. 
+
+What does that look like? Much like what you should already be used to when dealing with other redditors. If you have a problem with a border policy you think is racist, then state that the policy is racist in the construction or implementation, not that you assume everyone who wrote it were racists. Biden goes proverbially foot-in-mouth with some gaffe? No comment chains calling him a senile walking corpse. Want to talk about how you think Greene's Q-tweeting or AOC's latest call for a Green New Deal will be the end of us all? Just make sure you spend your time talking about the effect, the policy, or the idea, and not just the person. By keeping the focus away from *people* and instead on *ideas,* the hope is that the general level of vitriol will drop somewhat as well. 
+
+**A final note**, on the timing of this change. Among our internal discussions more than one moderator raised a concern about the optics of this change, given today's inauguration of a new administration. There's no dancing around the fact that we have allowed people to attack the character of Trump, McConnell, Bernie, and almost every member of the outgoing administration for the last four years, and by making this shift it will appear that we are privileging the Biden administration with preferential treatment. This is an absolutely fair criticism, and we can only offer an apology for letting the mudslinging go on for so long. However, the fact of the matter is that the many actions we've taken over the last year were aimed at finding a way to *eliminate* exactly those sort of arguments, what some might recognize as the "orange man bad" rhetoric which rarely, if ever contributed to healthy discourse. It's an unavoidable consequence that we will bring this perception, but we also feel that attempts to improve cannot be hampered by the specter of hypocrisy. Going forward, all we can point to is that in the future, *attacks on Trump's character are likewise subject to Law 1 censure*, just as much as Biden's character will be. And we expect there will continue to be plenty of attempts to smear both. By all means, continue to criticize their policies, programs, performances, presentations, and posturing, the only thing we will now defend them from is criticism of their *person*.
+
+So let's now get pragmatic: what does this mean *for you*, as as member? What should you watch out for? It's true that no rule is ever going to be written strictly enough to suffice for all cases, which is where our judgement as moderators comes into focus. In lieu of more precise language then, some examples.
+
+> I don't think the RNC are honestly looking to stop illegal immigration, just to put on a show for their voting base. And that, in my opinion, is behavior that befits the party that chose to not update their platform from 2016 due to rallying completely behind Trump.
+
+This is *not* a character attack; it is attacking *behavior* and states what the user's own opinion is of that behavior.
+
+> The RNC is dishonest. They claim to be looking to stop illegal immigration, but they're just putting on a show for their voting base. And that, in my opinion, is behavior that befits the party that chose to not update their platform from 2016 due to rallying completely behind Trump.
+
+This *is* a character attack; it purports a group is *dishonest*, leveraging behavior to make its case.
+
+Keep in mind that these make just one example of the difference. Feel free to use this thread to discuss and "feel out" our rule change. Moreover, we also plan to set aside specific threads on a regular basis during this trial, where we will exempt public figures from Law 1 once again, and give users the chance to vent. As a final note, this is not immediate, but will take effect this Sunday, only to give us time to update the sidebar and adjust notifications elsewhere.
+
+And last, regarding our zero-tolerance policy: we will update everyone on the policy's status on Sunday, which we expect to wind down soon. Together with returning to our "warn first" enforcement policy, we will publish a more transparent set of guidelines surrounding our rule enforcement and length of bans.
+
+---- 
+
+
+### **tl;dr**
+
+As of Sunday, the 24th of January, the following changes to our rules will apply.
+
+- **Law 1's prohibition on *ad hominem* attacks will be extended to apply to all people and groups, not only your fellow redditors.** Our sidebar and notifications will be updated accordingly.
+- The "Rule 0" trial period will be brought to an end.
+- Our Text Post Approval process will continue for the near future, but the changes to Law 1 will apply.
+
+----
+
+Correction: u/GovSchwarzenegger
+
+Top Comments:
+Hey folks - due to some pretty heavy brigading from other subs, we're locking this thread for now. Thanks for your understanding.
+I like this change. I thought the old way caused a little bit of confusion. I never saw why it was ok to compare Trump to Hitler or Biden to Satan or what have you because those are views not expressed moderately.
+I’m glad you mentioned the ‘timing’ apology, because that was my first immediate thought lol
+
+—  
+This seems like a good direction for the sub.   
+
+Add in a spirit of “downvotes are not for disagreeing, but for low quality” and things would be perfect.
+One way to help yourself adhere to the new Law 1 is to state your opinions as opinions and facts as facts.
+
+For example:
+
+"$1.9 trillion dollars is a whole lot of money and giving it away is stupid."
+
+That treads close to Law 1 whereas:
+
+"$1.9 trillion dollars is a whole lot of money and I think giving it away is stupid."
+
+That's completely within the bounds of the rules because it properly indicates which part of the sentence is an opinion open to consideration and debate.
+
+I'd like to thank my sophomore college Government professor for that one. It was his number one rule - your opinions are valid, but you must express them as opinions, not as statements of fact.
+I am one of the members of the Mod Team against this change. While I am all for testing out novel methods of increasing the quality of the discussions here, this particular one feels needlessly complex and nuanced.
+
+I do not see a difference between personal/ad hominem attacks and an accusation of bad faith. Accusing someone of bad faith *is* a personal attack. Treating them separately goes against the goal of creating clear, easily understood rules for this community.
+
+If we're going to test out this new rule, my preferred approach would have been to remove **all** Law 1 exemptions for public figures. No personal attacks. No accusations of bad faith. Force the dialog to focus on policy and their impact.
+
+As always, we welcome community input into our rules, so if you have suggestions or feedback on this change, feel free to let us know.
+Would a grouping such as “liberal media” or “mainstream media” be a protected group?    
+
+Like “the liberal media is dishonest. They claim...” or “mainstream media is dishonest. They claim...”   
+
+It’s a character attack on a group, but it doesn’t seem quite the same as the “Republican” example.
+While I can understand the concept behind this rule, it really hampers the ability to have a productive conversation. 
+
+For example, there’s currently a thread about Republican members of the House who wrote a letter to President Biden talking about cooperation. At least one of those same members was encouraging the crowd two weeks ago to threaten their representatives. This rule would say you can’t question the sincerity of his newfound spirit of cooperation.
+
+There’s a clear difference, at least in my opinion, between discussing the motivations of a fellow member of the sub and discussing the motivations of elected officials.
+NOT a fan of this. I don't know how the mods could seriously argue that the subreddit culture contributed more to poor discourse than Donald Trump himself ever did, and then they decide to add protections for public figures because he needs it. Donald Trump deserved every insult he got. I mean, take a look at [The Complete List of Trump’s Twitter Insults 2015-2021](https://nyti.ms/2LPD5cL). But we're not supposed to ad hominem this guy?
+
+Whatever. I can see how this can help the subreddit be less toxic. I still hate it but I'll bitterly support the mods because if they don't love this sub as much as I do, it's because they love it more, and they're coming from a good place. Good luck.

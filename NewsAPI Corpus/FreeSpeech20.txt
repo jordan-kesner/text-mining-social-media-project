@@ -1,0 +1,37 @@
+Title: ‘TikTok Is Just the Beginning’
+Source: Noahpinion.blog
+URL: https://www.noahpinion.blog/p/tiktok-is-just-the-beginning
+
+Back in April, Congress passed a bill that would force TikTok and other social media apps that are “controlled by a foreign adversary” to sell themselves to buyers in the U.S. or friendly nations. If the apps don’t sell, they can no longer be legally downloaded from app stores. This so-called “TikTok ban” — which isn’t really a ban, just a rule about corporate ownership — was set to go into effect one day before the next presidential inauguration.
+
+TikTok’s Chinese parent company, ByteDance, had many months to sell TikTok, and would have doubtless find a willing buyer. Instead it refused. In fact, now TikTok is apparently planning to shut itself down completely, going far beyond the penalty that the U.S. law itself stipulates:
+
+TikTok plans to shut off its app for U.S. users on Sunday, when a federal ban on the social media app could come into effect, The Information reported on Tuesday, unless the Supreme Court moves to block it…If TikTok shuts off for all U.S. users, the outcome would be different from that mandated by the law. The law would mandate a ban only on new TikTok downloads on Apple…or Google…app stores while existing users could still continue using the app for some time.
+
+The reason, according to Bloomberg, is that Chinese officials really don’t want the TikTok app leaving their control:
+
+Beijing officials strongly prefer that TikTok remains under the ownership of parent ByteDance Ltd., the people say, and the company is contesting the impending ban with an appeal to the US Supreme Court. But the justices signaled during arguments on Jan. 10 that they are likely to uphold the law.
+
+As many observers have noted, this tells us two important things. First, it tells us that Chinese officials are the ones calling the shots with regards to TikTok. This should be no surprise, given that ByteDance is legally required to obey CCP directives.
+
+Second, the refusal to sell the app tells us that the Chinese government would rather see TikTok destroyed than see it fall into American hands. Notably, that same government put up little fuss back in 2020 when the U.S. forced a Chinese company to sell the gay dating app Grindr to an American company. Why shut down TikTok and leave untold billions of dollars on the table, instead of just selling the thing like Grindr was sold?
+
+One possibility is that it’s an attempt to make young Americans angry, in the hopes that they’ll demand that Trump and Congress repeal the 2024 law. But a simpler explanation is that Chinese leaders simply think that TikTok, unlike other apps, is so important that they would rather destroy it than see it escape their control.
+
+Why? Some supporters of the divestiture bill argue that TikTok will transfer Americans’ personal data to the Chinese government — something it has already admitted to doing in a few cases. Others are concerned with TikTok’s social harms. But the biggest concern is that by controlling the TikTok algorithm, the Chinese government might be able to propagandize America’s young people — and to silence Americans who say things it doesn’t like.
+
+In fact, there’s some pretty strong evidence that TikTok already does exactly this. Rutgers University’s Network Contagion Research Institute has produced a number of papers about TikTok’s manipulation of information to suit Chinese government desires. The standard methodology is to compare topics on TikTok to similar topics on Instagram and YouTube. The NCRI people find that content on the different platforms is broadly similar, except where China-related issues are concerned. Here’s a chart from a paper back in 2023, comparing hashtags on TikTok and Instagram:
+
+And this is from the abstract of a more recent study, which measured what types of content appear in people’s algorithmic feeds:
+
+[Our] studies explored how TikTok, a China-owned social media platform, may be manipulated to conceal content critical of China while amplifying narratives that align with Chinese Communist Party objectives. Study I employed a user journey methodology, wherein newly 19 created accounts on TikTok, Instagram, and YouTube were used to assess the nature and 20 prevalence of content related to sensitive Chinese Communist Party (CCP) issues, specifically Tibet, Tiananmen Square, Uyghur rights, and Xinjiang. The results revealed that content critical of China was made far less available than it was on Instagram and YouTube. Study II, an extension of Study I, investigated whether the prevalence of content that is pro- and anti-CCP on TikTok, Instagram, and YouTube aligned with user engagement metrics (likes and comments), which social media platforms typically use to amplify content. The results revealed a disproportionately high ratio of pro-CCP to anti-CCP content on TikTok, despite users engaging significantly more with anti-CCP content, suggesting propagandistic manipulation. (emphasis mine)
+
+In other words, the Chinese government is actively silencing the views of Americans who try to criticize that government. Somehow I doubt that the First Amendment’s protection of free speech was intended to protect the right of foreign governments to silence American individuals from speaking their mind in popular public forums. That would be a very strange definition of “freedom of speech”. Of course, I am no legal scholar, so I’ll have to wait on the Supreme Court to make that judgement, and abide by what they decide.
+
+(Update: The Supreme Court has ruled unanimously that the law forcing TikTok to divest is constitutional and does not violate freedom of speech.)
+
+One other thing to note is which prominent Americans have indicated their opposition to the TikTok divestiture bill. The most prominent opponent, of course, is incoming President Donald Trump, who may have been swayed by a billionaire TikTok investor, or might believe that the TikTok algorithm has been tweaked to benefit him. Another is Elon Musk, who has expressed opposition to the ban, consistent with pro-China positions on a number of other issues. In fact, Bloomberg reported yesterday that China was considering selling TikTok to Musk, although the company denied the report. Together, Trump and Musk might conceivably find some way to bring the CCP-controlled video app back.
+
+So that’s where things stand. I think the outcome of the TikTok fight is important for several reasons. First, it’s part of China’s attempts to put increasing pressure on America, potentially in advance of a major conflict. And more broadly, it’s an important bellwether of whether liberal societies — defined as those who place paramount importance on individual freedom and dignity — have what it takes to survive and thrive in the 21st century, or whether the next epoch in human history will belong to the authoritarians.
+
+The Chinese government is not our friend, and it is coming to get us

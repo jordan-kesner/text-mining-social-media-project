@@ -1,0 +1,59 @@
+Title: From chatbot to sexbot: What lawmakers can learn from South Korea’s AI hate-speech disaster
+Source: The Conversation Africa
+URL: https://theconversation.com/from-chatbot-to-sexbot-what-lawmakers-can-learn-from-south-koreas-ai-hate-speech-disaster-247152
+
+As artificial intelligence technologies develop at accelerated rates, the methods of governing companies and platforms continue to raise ethical and legal concerns.
+
+In Canada, many view proposed laws to regulate AI offerings as attacks on free speech and as overreaching government control on tech companies. This backlash has come from free speech advocates, right-wing figures and libertarian thought leaders.
+
+However, these critics should pay attention to a harrowing case from South Korea that offers important lessons about the risks of public-facing AI technologies and the critical need for user data protection.
+
+In late 2020, Iruda (or “Lee Luda”), an AI chatbot, quickly became a sensation in South Korea. AI chatbots are computer programs that simulate conversation with humans. In this case, the chatbot was designed as a 21-year-old female college student with a cheerful personality. Marketed as an exciting “AI friend,” Iruda attracted more than 750,000 users in under a month.
+
+But within weeks, Iruda became an ethics case study and a catalyst for addressing a lack of data governance in South Korea. She soon started to say troubling things and express hateful views. The situation was accelerated and exacerbated by the growing culture of digital sexism and sexual harassment online.
+
+Making a sexist, hateful chatbot
+
+Scatter Lab, the tech startup that created Iruda, had already developed popular apps that analyzed emotions in text messages and offered dating advice. The company then used data from these apps to train Iruda’s abilities in intimate conversations. But it failed to fully disclose to users that their intimate messages would be used to train the chatbot.
+
+The problems began when users noticed Iruda repeating private conversations verbatim from the company’s dating advice apps. These responses included suspiciously real names, credit card information and home addresses, leading to an investigation.
+
+The chatbot also began expressing discriminatory and hateful views. Investigations by media outlets found this occurred after some users deliberately “trained” it with toxic language. Some users even created user guides on how to make Iruda a “sex slave” on popular online men’s forums. Consequently, Iruda began answering user prompts with sexist, homophobic and sexualized hate speech.
+
+This raised serious concerns about how AI and tech companies operate. The Iruda incident also raises concerns beyond policy and law for AI and tech companies. What happened with Iruda needs to be examined within a broader context of online sexual harassment in South Korea.
+
+A pattern of digital harassment
+
+South Korean feminist scholars have documented how digital platforms have become battlegrounds for gender-based conflicts, with co-ordinated campaigns targeting women who speak out on feminist issues. Social media amplifies these dynamics, creating what Korean American researcher Jiyeon Kim calls “networked misogyny.”
+
+South Korea, home to the radical feminist 4B movement (which stands for four types of refusal against men: no dating, marriage, sex or children), provides an early example of the intensified gender-based conversations that are commonly seen online worldwide. As journalist Hawon Jung points out, the corruption and abuse exposed by Iruda stemmed from existing social tensions and legal frameworks that refused to address online misogyny. Jung has written extensively on the decades-long struggle to prosecute hidden cameras and revenge porn.
+
+Beyond privacy: The human cost
+
+Of course, Iruda was just one incident. The world has seen numerous other cases that demonstrate how seemingly harmless applications like AI chatbots can become vehicles for harassment and abuse without proper oversight.
+
+These include Microsoft’s Tay.ai in 2016, which was manipulated by users to spout antisemitic and misogynistic tweets. More recently, a custom chatbot on Character.AI was linked to a teen’s suicide.
+
+Chatbots — that appear as likeable characters that feel increasingly human with rapid technology advancements — are uniquely equipped to extract deeply personal information from their users.
+
+These attractive and friendly AI figures exemplify what technology scholars Neda Atanasoski and Kalindi Vora describe as the logic of “surrogate humanity” — where AI systems are designed to stand in for human interaction but end up amplifying existing social inequalities.
+
+AI ethics
+
+In South Korea, Iruda’s shutdown sparked a national conversation about AI ethics and data rights. The government responded by creating new AI guidelines and fining Scatter Lab 103 million won ($110,000 CAD).
+
+However, Korean legal scholars Chea Yun Jung and Kyun Kyong Joo note these measures primarily emphasized self-regulation within the tech industry rather than addressing deeper structural issues. It did not address how Iruda became a mechanism through which predatory male users disseminated misogynist beliefs and gender-based rage through deep learning technology.
+
+Ultimately, looking at AI regulation as a corporate issue is simply not enough. The way these chatbots extract private data and build relationships with human users means that feminist and community-based perspectives are essential for holding tech companies accountable.
+
+Since this incident, Scatter Lab has been working with researchers to demonstrate the benefits of chatbots.
+
+Canada needs strong AI policy
+
+In Canada, the proposed Artificial Intelligence and Data Act and Online Harms Act are still being shaped, and the boundaries of what constitutes a “high-impact” AI system remain undefined.
+
+The challenge for Canadian policymakers is to create frameworks that protect innovation while preventing systemic abuse by developers and malicious users. This means developing clear guidelines about data consent, implementing systems to prevent abuse, and establishing meaningful accountability measures.
+
+As AI becomes more integrated into our daily lives, these considerations will only become more critical. The Iruda case shows that when it comes to AI regulation, we need to think beyond technical specifications and consider the very real human implications of these technologies.
+
+Join us for a live ‘Don’t Call Me Resilient’ podcast recording with Jul Parke on Wednesday, February 5 from 5-6 p.m. at Massey College in Toronto. Free to attend. RSVP here.

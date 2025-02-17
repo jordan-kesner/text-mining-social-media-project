@@ -1,0 +1,74 @@
+Title: CMV: Subreddit Moderators should not have site wide censorship powers on /r/all posts.
+
+Post:
+It happens on a daily basis. User makes a post in a subreddit. Subscribers to that subreddit upvote for whatever reason. Moderators pay it no heed for whatever reason. It pierces the bounds of that subreddit and picks up steam on /r/all for what ever reason.  People upvote it for their own reasons and don't care about the rules of the subreddit that spawned it, only  that they found it worthy. It makes the front page with thousands of upvotes. 
+
+Then all of sudden disappears. Some moderator of the parent subreddit hid it from view of both the subreddit and /r/all. Most likely reason is it broke the rules of the subreddit. However, it could have ticked off a mod, a mod did not like the comments in the thread, a mod did not like the author, a mod wanted to resubmit it under her secondary account. Whatever the reasons, a post in now hidden and only those with a direct link can find it again.
+
+It does not matter the reasons. The effect is a person not selected by Reddit admins counteracted decisions made by thousands of users that are not a part of that subreddit nor care about it outside of the post. In addition, this action hid content on the submitter's account since removing a post means one cannot see text posts of what a person wrote in the self post.
+
+I cannot argue that moderators should have strong powers on the subreddit they moderate. They should be able to hide, annotate or lock posts to control the spirit of their subreddit and what subscribers see when they go there. However, should those same moderators have such control on the appearance of posts on /r/all? It should be Reddit admins and not subreddit moderators to have say on what appears on /r/all. 
+
+Sure, if a mod hides a post that is on /r/all, it no longer appears on their subreddit. Comments hidden by mods while hidden on the subreddit appear as collapsed on /r/all (but still viewable). Even further, maybe remove the subreddit style that spawned it and and even the subreddit settings. It is orphaned on /r/all by its lonesome supported only by the fact thousands thought it was worthy of being there. If admins find it objectionable, they must remove it since mods washed their hands of it. Along the same lines, hidden self-posts should still be invisible from user's submission page. 
+
+Basically, mods should not have such site wide censorship powers. Change my view.
+
+EDIT: While there's been nothing to change my view, there were a couple of ideas that offered compromise. A few opt-out settings for /r/all:
+
+* Filter posts from unsubscribed subreddits with less than XX karma (default 0)
+* Filter posts hidden in parent subreddit (default on)
+* Hidden comments show as [removed] and collapsed (default off, if on comment are just collapsed)
+
+In addition, posts that are reported (not just hidden) by mods for breaking Reddit wide rules (spam, personal info, vote manipulation, etc) are hidden from /r/all. Mods that abuse the report feature to censor /r/all can be handled by Reddit admins. So Hide becomes a way to curate the subreddit while Report helps curate all of Reddit.
+
+Top Comments:
+A subreddit is kind of like a personal Cable TV station.  The users submit content and the mods are the programming directors.  They decide which content fits the idea of their channel which generally has a theme like "The History Channel", "World News", "Cat Pictures 24/7".
+
+/r/all is a bank of TVs displaying the highest rated content on each station.
+
+While it's interesting for the people to look at the whole patchwork of all the station, it's also the primary method of getting new viewers to your station.  If a show on dogs is the highest rated show on the cat station, or an "expose" on how the Apollo 11 mission was faked is the leader on the History channel, it does a crappy job of advertising that station.
+
+It's a little whacked for reddit to say, "Hey, we'll give you a broadcast license with completely discretion to show whatever you want - unless some content becomes really popular, then we'll take control away from you."
+
+Beyond that, it's also a bad precedent.  Reddit can absolve themselves of responsibility for objectionable content by saying that they don't moderate, the mods do (except in extreme cases).  By keeping the mods from removing content that they think should be removed, they suddenly become a lot more responsible.
+Don't you think this is more a problem with how /r/all works than how moderators function? 
+
+Conspiracy aside, in *most* cases, a removal takes place because the content violates subreddit rules. Obviously there are exceptions—rogue moderators, poor decisions, the works. We'll ignore those for now. If a submission does violate the rules, you seem to agree that the moderator is justified in removing it from their subreddit. 
+
+I would like to change your view to one of the following, moving you away from the focus on moderators (assuming you accept the above paragraph) to one on functionality. Either:
+
+1. Reddit should re-work /r/all so that posts which are removed by moderators but which have already hit the top, say, 100 on that subreddit stay in some form. 
+
+2. Reddit should add an option for mod removal which allows that a post is removed from being displayed *on and only on* the subreddit which they moderate, not elsewhere.
+
+3. Some other functionality-based option.
+
+Basically, I think you're over-stating the censorship case. Unless you think moderators should actively break their own rules, then you're arguing for functionality change, not a restriction of moderator powers.
+>However, should those same moderators have such control on the appearance of posts on /r/all? It should be Reddit admins and not subreddit moderators to have say on what appears on /r/all.
+
+Can you tell me what you'd like to see instead?  A post that makes it to r/all still exists within the subreddit it was posted in, so it still falls within the rules of that subreddit.
+Counter example: Last month there was a witch hunt thread at the top of /r/leagueoflegends. Most of the time a top post on /r/lol hits the front page. This thread was then removed by the moderators because it was a witch hunt without proof, but it was still upvoted anyways by thousands of people. The moderators removed it even though it was at #3 on /r/all. Later it was proven that the witch hunt was based on false conclusions and disproven.  Would you say that the mods wrongfully removed it? It violated sub rules but not site wide rules.
+I think there are 2 big confusions here:
+
+1) /r/all is not a subreddit, it's not a blog, it's not a giant free-speech forum, it is nothing more and nothing less than a multi-reddit of all of the subreddits. Reddit, as a "thing" doesn't exist. Only subreddits exist. /r/all is nothing more than a convenient bundle of those.
+
+Just like if someone has a multireddit of /r/holdmybeer, /r/holdmybeaker, and /r/holdmycatnip, and a post is removed from /r/holdmybeer because it's not a "hold my beer" post, it also ends up removed from that person's multireddit, because it's not a "hold my" post. 
+
+/r/all functions exactly like a pre-created multireddit of all reddits. A post is removed when removed from a subreddit, because it's not a "subreddit" post. 
+
+2) Practically speaking, it's impossible to curate everything that's on reddit. The admins delegate that job to a giant pool of volunteers who help the reddit team curate *all* of the content on the site. 
+
+Some do a better job, some worse. 
+
+It's entirely by design that things like spam, scams, some fraction of hate speech, trolling, etc., etc. are removed by moderators rather than admins.
+
+Moderators are, to a degree, unpaid admins with somewhat limited powers. Think of them as interns given delegated responsibility to remove inappropriate content for a particular subset of the site, and broad powers to use their judgement as they see fit to decide what belongs. 
+Who would be supplying the money to moderate /r/all when the posts there filled up with child porn, death threats, spam and such?
+Lol, we don't do it for censorship reasons or because the post broke sub rules and it slipped through the cracks. It's because we're lazy. When a post hits /r/all, it generally gets tons of upvotes and comments from people who are unfamiliar with the culture and rules of that subreddit. Which will almost always result in tons of comments that break that subs  rules. Mods are generally lazy and don't want to manually sort through 500 comments for ones that break their rules (and users usually do a shit job at reporting anything that breaks the rules), we'll remove the post to so we don't have to do our job. Though I think that if a mod is going to do that, they should exempt themselves from /r/all in the first place. I personally think that they should have that power because /r/all is showcase of the most popular content on Reddit that day, and if a sub doesn't want their content showcased, it shouldn't be showcased. 
+
+TL;DR, /r/all makes comments shitty and mods have lives outside of Reddit and/or are lazy
+
+Source: Mod or several small subs and this is totally what I'd do in that situation.
+You point that Reddit admins will need to take more active role on the front page is true. We've seen Reddit step in when mods showed they can in a concerted effort bring Reddit to a standstill content wise. We've seen them change ownership of subs. 
+
+And really, I like the idea that a post can be so popular that mods lose the ability to censor it from /r/all. However, not to the point that it must remain on the subreddit nor demand mods have to deal with the collateral damage of subreddit attention popular posts could create. On your example, it would be that History channel removes its label and broadcast of the show, but the show still appears on YouTube and can still be viewed by those that want it.

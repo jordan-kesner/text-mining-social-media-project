@@ -1,0 +1,94 @@
+Title: Would the 1st Amendment be appropriate to deal with social media?
+
+Post:
+Written and adopted in 1787, the US Constitution is the oldest constitution in the world. This is very impressive and questioning at the same time. Indeed, the world and the US changed a lot since 1787.  
+If, at first, the 1st Amendment was put in place to ensure the right to practice our religions without the states’ interventions, this has to deal with social media now, with the Internet that is challenging societies. Historically, social media have been part of striking cases, such as in 1997, Reno v. American Civil Liberties Union on the limitation of contents accessible to prevent children from seeing pornography, but this federal law was considered against the 1st amendment. It also led to debates.  
+The Biden Social Media Contact Case reflects a different understanding and way of dealing when it comes to social media, between some states and the government. Is it because the 1st amendment is not clear enough? Or is it because social media are part of another category that has to deal with freedom of speech and state security?  
+  
+In 2022, a lawsuit by the attorneys general of Louisiana and Missouri led to M. Doughty issuing a July 4 order limiting communication between the Biden administration and social media companies, such as Facebook, Twitter, and YouTube. The Biden administration's attempts to flag content it deemed false or harmful on topics like COVID and the 2020 election raised concerns about potential First Amendment violations. The states, along with individuals, alleged that senior government officials collaborated with these companies to stifle content on social media platforms, violating the First Amendment. The court found that Biden administration officials pressured social media companies to remove content. However, the order includes exceptions, allowing the administration to inform social media companies about posts involving criminal activity, threats to national security, and public safety, and illegal efforts to suppress voting or foreign attempts to influence elections.  
+The fact that the Biden administration is appealing the ruling and that the Supreme Court has extended the pause in the case underscores that this is an ongoing and contentious debate. It shows that the legal system is actively grappling with how to apply the First Amendment to social media, underscoring the significance of the issue.  
+  
+This case highlights the balancing act between protecting freedom of speech and addressing concerns about misinformation, hate speech, and threats to national security on social media platforms. It's a complex challenge that requires thoughtful consideration because the original text of the amendment may not directly address modern communication technologies.  
+  
+Is the 1st Amendment in the capacity to deal with social media issues? Is the 1st Amendment showing a lack of dealing with social media?
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+The clear precedent here is the government's relationship with newspapers and television, which in my limited knowledge, does make space for legitimate national security concerns, as well as personal relationships. The same can easily be true for social media.
+
+The problem is that new internet media do not have natural, capital-intensive choke 
+points the way that print, radio, and television do. Under an absolute free speech perspective, it would be incredibly easy for foreign actors to propagandize the domestic population. Indeed, arguably this has already happened.
+
+I'm not a lawyer and I won't pretend to know what the correct ruling here is, but I will be looking closely at how it is justified. If the vote comes back on party lines that will be a very bad sign.
+Obviously, the First Amendment applies to social media. And no one involved in this latest Supreme Court case is arguing otherwise. 
+
+The question is at what point a government request becomes coercive. 
+
+If the Biden administration had ordered social media companies to censor protected speech and threatened fines or jail time if they disobeyed, that would be a First Amendment violation. At the same time, these companies all have their own content policies. Any one can report a piece of content that violates the site's rules. I don't think it's a First Amendment violation for a government official to just ask a company to consider whether a particular piece of content violates its own rules.
+
+You can see in some of the emails in this case, some government officials were kind of rude or aggressive, but as far as I know, they never threatened any kind of action against the companies to force them to take down content.
+
+So I just don't think the fact that this is social media is what makes this case interesting. Remember that Trump criticized the NFL for not punishing players who kneeled during the national anthem. I think that's a similar issue, despite not being about social media. Was it a First Amendment violation for Trump as president to pressure a sports league to punish players for exercising their constitutional rights?
+>The Biden administration's attempts to flag content it deemed false or harmful on topics like COVID and the 2020 election raised concerns about potential First Amendment violations 
+
+
+
+this part isn't accurate.. 
+
+Obama, Trump, and the Biden admin have all presented social media posts that they thought were violations of each companies respective TOS agreements, which are protected under American IP laws. 
+
+
+
+Right wing conservative justices have taken it upon THEMSELVES to consider this as blocking a person's 1st amendment rights. 
+
+
+
+
+It isn't.... 
+
+
+social media platforms are not the sole vehicles for a person't first amendment rights. Especially when the ownership of all postings within those social media platforms are allowed to be governed by the respective company.... 
+
+
+
+Here is the stupidity of conservative courts.. 
+
+
+
+Twitter can block your post whenever they want because they own the platform... You have zero recourse to ask them otherwise. 
+
+
+If the government presents an example of a post ***THAT VIOLATES TWITTERS TOS***,  and twitter removes that post, the conservative court is declaring this as a first amendment violation.
+Minor note, but the oldest active constitution in the world is actually that of San Marino (dating to 1600).
+
+https://en.m.wikipedia.org/wiki/Constitution_of_San_Marino
+I don’t think there’s a problem with the 1st Amendment in this case. The government is allowed to tell social media companies, “We don’t like this (legal) thing you’re allowing on your website,” or, “We don’t approve of the message being said here,” and the companies are free respond by doing what the government wishes or telling the government to kick rocks. My knowledge of the case is incomplete, but I recall hearing that no social media company was party to the suit, so I don’t know how a court can find that the administration coerced companies to act in a specific manner.
+When the government starts a social media website, you can apply the First Amendment. Until then, no one has an expectation of speech on a platform owned and operated by a non-state actor.
+Much of this comes down to misrepresentation for political purposes. 
+
+The 1st amendment specifically prohibits government from punishing speech (within limits). It does not force private platforms to allow speech it does not want to promote. It does not prevent the government from sharing information with social media platforms about potential disinformation. It doesn’t even prevent government from calling out specific stories it sees as false or dangerous. 
+
+The main issue at the heart of this is one political party NEEDS disinformation to survive, and any successful effort to counter it has to be attacked full force. People like to believe lies that validate their bias, so anyone saying those lies are lies is just going to make them mad. 
+
+For a long time, the disinformation on social media was winning the battle. The platforms didn’t know what to do with it, so it just ran wild. Then, in an attempt to correct that, some platforms became overly-cautious. One may not like having their preferred stories blocked or demonetized, and that opinion is fine to have. But the fact remains, the platforms had every right to decide what information they promote, and what they don’t.
+I might have a different take on *why* the 1st Amendment even aims to do and why it combined so many items. You say 
+
+> If, at first, the 1st Amendment was put in place to ensure the right to practice our religions without the states’ interventions…
+
+But I’m not sure that is the crux of it. The 1st sets out conscience, speech, press, assembly and petition, in order, as the progression of political thought from morality into policy. Each clause represents a link in a chain between idea and law. They posit that the government should not interfere or play favorites in this progression. 
+
+I think that, in the context of their time, the government was the most likely entity to disrupt that process, and maybe the only entity that had the power to do it. So they targeted it directly and gave it a strong hands off directive. 
+
+I wonder if they would see the landscape the same way now. The government still has dramatic powers for coercion and disruption. But both old media and new media have incredible persuasive power, and increasingly they use techniques that leverage psychology and addiction to directly influence their audiences. The chain that linked all those elements together before is both disjointed by and often strongly influenced (if not controlled) by just a handful of media platforms.  The press is not a citizen endeavor to organize and inform, as much as a tool to make money and inflame passions. Speech is co-opted by platforms that also provide news to create a landscape where expertise and truth are less meaningful than agreement and validation. Tools that serve that validation up give us echo chambers that separate and other all of us. 
+
+I think these are challenges that we need to grapple with, and the classically liberal ideal of the 1st amendment gives us little flexibility on.

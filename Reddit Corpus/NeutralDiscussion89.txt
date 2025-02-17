@@ -1,0 +1,298 @@
+Title: Comprehensive timeline: Malaysia Airlines Flight 370 PART 17
+
+Post:
+Part 16 can be found **[here](http://redd.it/21890i)**.
+
+**PSA: DO NOT POST SOCIAL MEDIA PROFILES OF THOSE INVOLVED IN THE INCIDENT. This can get you banned.**
+
+---
+
+**Resources**
+
+- [_Reading list/FAQ for those just joining us._](http://www.reddit.com/r/news/comments/1zviu0/comprehensive_timeline_malaysia_airlines_flight/cg26zkq)
+
+- [_Daily recap thread list_](http://www.reddit.com/r/news/comments/1zviu0/comprehensive_timeline_malaysia_airlines_flight/cfz1hpu)
+
+- _[Tomnod crowdsourced map hunt](http://www.tomnod.com/nod/challenge/malaysiaairsar2014), [Tomnod thread](http://redd.it/2073hv) & [Tomnod subreddit](http://www.reddit.com/r/TomNod370)_
+
+- [_MH370 subreddit_](http://www.reddit.com/r/MH370/)
+
+- [_Live chat on the disappearance_](https://kiwiirc.com/client/irc.snoonet.org/news)
+
+- [_Auto refresh comment stream_](http://www.reddit-stream.com/comments/21arpx/)
+
+- [_AMSA MH 370 Media Kit_](http://www.amsa.gov.au/media/incidents/mh370-search.asp)
+
+- _MYT is AEST -3, UTC + 8, ET + 12, PT + 15._
+
+---
+
+**RUNNING OUT OF SPACE**
+
+Coverage continues at [PART 18 thread.](http://redd.it/21ee0d)
+
+**4:26 AM UTC / 12:26 PM MYT**
+
+4 Chinese ships have reached the search area for MH 370. There are 5 aircraft already on scene. In all, 12 aircraft will be involved in today's MH 370 search operations; the search area covers a total 80,000 square kilometers. [AMSA on Twitter](https://twitter.com/AMSA_News)
+
+**11:58 PM UTC / 7:58 AM MYT**
+
+NASA is using some of the world's most powerful satellites in MH 370 search. Satellite EO-1 is now overhead: it can resolve objects as small as 35 feet across. [Jon Williams, Foreign Editor at ABC](https://twitter.com/WilliamsJon/status/448608112321503232)
+
+**11:37 PM UTC / 7:37 AM MYT**
+
+New details about communications between the missing Malaysia Airlines 777-200 and an Inmarsat satellite show an additional, “partial ping” occurred 8 minutes after the final hourly contact between the aircraft and satellite. [AviationWeek](http://www.aviationweek.com/Article.aspx?id=/article-xml/awx_03_25_2014_p0-675203.xml)
+
+--ALL UPDATES ABOVE THIS ARE DATED WEDNESDAY, MARCH 26, 2014 (MYT)--
+
+**1:01 PM UTC / 9:01 PM MYT**
+
+Chris McLaughlin, the head of the British satellite company Inmarsat, has been explaining how the company tracked MH370's final flight path. [Video (MP4) via The Guardian](http://cdn.theguardian.tv/mainwebsite/2014/03/25/140325Satellite-16x9.mp4)
+
+**11:38 AM UTC / 7:38 PM MYT**
+
+Malaysia has released [this technical briefing (embedded below with graphics)](http://www.reddit.com/r/news/comments/21arpx/comprehensive_timeline_malaysia_airlines_flight/cgbfmsr) on why British experts are certain that the plane crashed somewhere in the Indian Ocean.
+
+**9:30 AM UTC / 5:30 PM MYT - MALAYSIAN GOVERNMENT PRESS CONFERENCE**
+
+Attended by minister of transport, DCA chief, MAS CEO & Royal Malaysian Police IGP.
+
+Opening Statement
+
+- MAS will take lead in communicating with families of passenger & crew.
+- Inmarsat and UK Air Accidents Investigation Branch (AAIB) have concluded that flight MH370 ended in the southern Indian Ocean.
+- Innovative technique which considers the velocity of the aircraft relative to the satellite.
+- Analyses the difference between the frequency that the ground station expects to receive and one that is actually measured. This difference is the result of the Doppler effect and is known as the Burst Frequency Offset.
+- Inmarsat checked its predictions using information obtained from six other B777 aircraft flying on the same day in various directions. There was good agreement. 
+- Analysis showed poor correlation with the Northern corridor, but good correlation with the Southern corridor, 
+- Search and rescue operation in the northern corridor has been called off
+- All search efforts are now focused in the southern part of the southern corridor, in an area covering some 469,407 square nautical miles, as against the 2.24 million square nautical miles which we announced on 18th March.
+- The American Towed Pinger Locater – an instrument that can help find a black box - is currently en route to Perth and will arrive tomorrow.
+- Full text of the opening statement can be read [here.](https://www.facebook.com/permalink.php?story_fbid=740967195948296&id=178566888854999)
+
+Q&A
+
+- Last know aircraft location in middle of southern Indian Ocean, carrying very little fuel, no airfield around, remote location & duration of 17 days led to the conclusion  that lives are lost.
+- Investigation is still ongoing regarding the flight simulator. RMP still waiting for result from foreign intelligence agency.
+- Royal Malaysian Air Force is conducting it’s own inquiry.
+- Defend the decision to release the calculation by Inmarsat, despite it’s not real ‘physical’ evidence.
+
+**9:27 AM UTC / 5:27 PM MYT**
+
+The Australian authorities have announced that the search for the wreckage of MH370 will resume again on Wednesday after it was suspended today because of bad weather. [AMSA (PDF)](http://www.amsa.gov.au/media/documents/25032014_MediaRelease_Update17_MH370DRAFT.pdf)
+
+**6:10 AM UTC / 2:10 PM MYT**
+
+CNN has published [an article describing how Inmarsat came up with the new analysis](http://edition.cnn.com/2014/03/24/world/asia/malaysia-airlines-satellite-tracking/index.html) that prompted yesterday's announcement.
+
+>The mathematics-based process used by Inmarsat and the UK's Air Accidents Investigation Branch (AAIB) to reveal the definitive path was described by McLaughlin as "groundbreaking."
+>
+>...
+>
+>Here's how the process works in a nutshell: Inmarsat officials and engineers were able to determine whether the plane was flying away or toward the satellite's location by expansion or compression of the satellite's signal.
+>
+>...
+>
+>explained CNN Meteorologist Chad Myers, who has studied Doppler technology. "It's the Doppler effect that they're using on this ping or handshake back from the airplane. They know by nanoseconds whether that signal was compressed a little -- or expanded -- by whether the plane was moving closer or away from 64.5 degrees -- which is the latitude of the orbiting satellite."
+
+
+**5:30 AM UTC / 1:04 PM MYT**
+
+Australian defence minister David Johnston announced in a press briefing that the Australian defence vessel Ocean Shield would be joining the search mission and was now travelling from Sydney. The press release can be read [here via The Guardian](http://www.theguardian.com/world/2014/mar/25/mh370-investigators-search-for-debris-as-families-attack-government-live#block-5331166ae4b0356d175843fe)
+
+**4:30 AM UTC / 12:30 PM MYT - MAS PRESS CONFERENCE**
+
+Delivered by MAS Chairman &amp; CEO.
+
+- Based on evidence, the painful reality is that the aircraft is now lost and that none of the passengers or crew on board survived.
+- The investigation and search may prove to be even more complex.
+- MAS will continue to support the families and the authorities as the search for answers continue.
+- Want to make sure the families heard the news before the world did. We informed them face to face, and then used SMS as a last resort to communicate directly and not through the media.
+- MAS’s focus has been to comfort and support the families of those involved and those involved in the multinational search. We will continue to do this.
+- After 17 days, the announcement made last night is the reality we must face and now accept
+- Arrangements will be made to bring families to the recovery area if they so wish.
+- Almost 700 dedicated caregivers for families. Hotel accommodation for up to 5 family members per passenger (transport, meal, and other expenses) has been provided since 8 March and that will continue.
+- $5000 per passenger willl be provided to each next-of-kin as financial assistance in this prolonged search. Additional payment will be offered as the search continues.
+- The full text of the statement can be read [here](http://www.reddit.com/r/news/comments/21arpx/comprehensive_timeline_malaysia_airlines_flight/cgb9xlu)
+
+Q&A:
+
+- The search is in authorities domain.
+- MAS focus was to provide care and assistance to passengers' family.
+- The satellite data is centered around a remote area far from any airfield. After 17 days, the evidence was conclusive that the plane crashed.
+- The investigation rests with the authorities and all relevant information comes from them.
+- By the evidence given to us and by rational deduction, we conclude that we have lost this plane and by extension, the people on the plane.
+- The purpose of this press conference is to share with people other than the passengers' families. The right answer will arrive from the investigators.
+- Ministry of Transport will explain the new analysis and new data to make the statement, this afternoon.
+- Refuse to speculate on how the flight happened.
+- Have Malaysian officials been heartless? A: Depending on who you speak to you will get a different answer...the main thought is to provide some comfort.
+
+--ALL UPDATES ABOVE THIS ARE DATED TUESDAY, MARCH 25, 2014 (MYT)--
+
+Top Comments:
+*Tuesday, March 25, 12:30 PM MYT +0800 Malaysia Airlines MH370 Flight Incident - Media Statement 25*
+
+**By: Tan Sri Md Nor Md Yusof, Chairman of Malaysia Airlines**
+
+As you will be aware, last night the Prime Minister of Malaysia, Najjib Razak, announced new evidence regarding the disappearance of MH370 on 8th March.
+
+Based on this evidence, the Prime Minister’s message was that we must accept the painful reality that the aircraft is now lost and that none of the passengers or crew on board survived.
+
+This is a sad and tragic day for all of us at Malaysia Airlines. While not entirely unexpected after an intensive multi-national search across a 2.24 million square mile area, this news is clearly devastating for the families of those on board. They have waited for over two weeks for even the smallest hope of positive news about their loved ones.
+
+This has been an unprecedented event requiring an unprecedented response. The investigation still underway may yet prove to be even longer and more complex than it has been since March 8th. But we will continue to support the families – as we have done throughout. And to support the authorities as the search for definitive answers continues. I will now ask our Group Chief Executive¸ Ahmad Jauhari Yahya, to provide you will with fuller details of our support for the families.
+
+**By: Ahmad Jauhari Yahya, Group Chief Executive Officer, Malaysia Airlines**
+
+I stand before you today not only as the Group Chief Executive Officer of Malaysia Airlines, but also as a parent, as a brother, as a son. My heart breaks to think of the unimaginable pain suffered by all the families. There are no words which can ease that pain. Everyone in the Malaysia Airlines family is praying for the 239 souls on MH370 and for their loved ones on this dark day. We extend our prayers and sincere condolences.
+
+We all feel enormous sorrow and pain. Sorrow that all those who boarded Flight MH370 on Saturday 8th March, will not see their families again. And that those families will now have to live on without those they love.  It must be remembered too that 13 of our own colleagues and fellow Malaysians were also on board. 
+
+And let me be very clear on the events of yesterday evening. Our sole and only motivation last night was to ensure that in the incredibly short amount of time available to us, the families heard the tragic news before the world did. Wherever humanly possible, we did so in person with the families or by telephone, using SMS only as an additional means of ensuring fully that the nearly 1,000 family members heard the news from us and not from the media.
+
+Ever since the disappearance of Flight MH370 Malaysia Airlines’ focus has been to comfort and support the families of those involved and support the multi-national search effort. We will continue to do this, while we also continue to support the work of the investigating authorities in the Southern Indian Ocean.
+
+Like everyone else, we are waiting for news from those authorities. We know that while there have been an increasing number of apparent leads, definitive identification of any piece of debris is still missing. It is impossible to predict how long this will take. But after 17 days, the announcement made last night and shared with the families is the reality which we must now accept. When Malaysia Airlines receives approval from the investigating authorities, arrangements will be made to bring the families to the recovery areas if they so wish. Until that time, we will continue to support the ongoing investigation. And may I express my thanks to the Government and all of those involved in this truly global search effort.
+
+In the meantime, Malaysia Airlines’ overwhelming focus will be the same as it has been from the outset – to provide the families with a comprehensive support programme. Through a network of over 700 dedicated caregivers, the loved ones of those on board have been provided with two dedicated caregivers for each family, providing care, support and counsel. We are now supporting over 900 people under this programme and in the last 72 hours, we have trained an additional 40 caregivers to ensure the families have access to round-the-clock support.
+
+In addition, hotel accommodation for up to five family members per passenger, transportation, meals and others expenses have been provided since 8th March and that will continue.
+
+Malaysia Airlines has already provided initial financial assistance of USD 5,000 per passenger to the next of kin. We recognize that financial support is not the only consideration. But the prolonged search is naturally placing financial strain on the relatives. We are therefore preparing to offer additional payments as the search continues.
+
+This unprecedented event in aviation history has made the past 18 days the greatest challenge to face our entire team at Malaysia Airlines. I have been humbled by the hard work, dedication, heartfelt messages of concern and offers of support from our remarkable team. We do not know why, and we do not know how this terrible tragedy happened. But as the Malaysia Airlines family, we are all praying for the passengers and crew of Flight MH370.
+
+ -end-
+
+Note: Please attribute all quotes to Malaysia Airlines
+*Note: Formatting's mine to aid readability*
+
+**INFORMATION PROVIDED TO MH370 INVESTIGATION BY UK AIR ACCIDENTS INVESTIGATION BRANCH (AAIB)** 
+
+**25/03/14**
+
+On 13 March we received information from UK satellite company Inmarsat indicating that routine automatic communications between one of its satellites and the aircraft could be used to determine several possible flight paths.
+
+Inmarsat UK has continued to refine this analysis and yesterday the AAIB presented its most recent findings, which indicate that the aircraft flew along the southern corridor.
+
+As you have heard, an aircraft is able to communicate with ground stations via satellite.
+
+If the ground station has not heard from an aircraft for an hour it will transmit a 'log on / log off' message, sometimes referred to as a ‘ping’, using the aircraft’s unique identifier. If the aircraft receives its unique identifier it returns a short message indicating that it is still logged on. This process has been described as a “handshake” and takes place automatically.
+
+From the ground station log it was established that after ACARS stopped sending messages, 6 complete handshakes took place.
+
+The position of the satellite is known, and the time that it takes the signal to be sent and received, via the satellite, to the ground station can be used to establish the range of the aircraft from the satellite. This information was used to generate arcs of possible positions from which the Northern and Southern corridors were established.
+
+**Refined analysis from Inmarsat**
+
+In recent days Inmarsat developed a second innovative technique which considers the velocity of the aircraft relative to the satellite. Depending on this relative movement, the frequency received and transmitted will differ from its normal value, in much the same way that the sound of a passing car changes as it approaches and passes by. This is called the Doppler effect. The Inmarsat technique analyses the difference between the frequency that the ground station expects to receive and that actually measured. This difference is the result of the Doppler effect and is known as the Burst Frequency Offset.
+
+The Burst Frequency Offset changes depending on the location of the aircraft on an arc of possible positions, its direction of travel, and its speed. In order to establish confidence in its theory, Inmarsat checked its predictions using information obtained from six other B777 aircraft flying on the same day in various directions. There was good agreement.
+
+While on the ground at Kuala Lumpur airport, and during the early stage of the flight, MH370 transmitted several messages. At this stage the location of the aircraft and the satellite were known, so it was possible to calculate system characteristics for the aircraft, satellite, and ground station.
+
+During the flight the ground station logged the transmitted and received pulse frequencies at each handshake. Knowing the system characteristics and position of the satellite it was possible, considering aircraft performance, to determine where on each arc the calculated burst frequency offset fit best.
+
+The analysis showed poor correlation with the Northern corridor, but good correlation with the Southern corridor, and depending on the ground speed of the aircraft it was then possible to estimate positions at 0011 UTC, at which the last complete handshake took place. I must emphasise that this is not the final position of the aircraft.
+
+There is evidence of a partial handshake between the aircraft and ground station at 0019 UTC. At this time this transmission is not understood and is subject to further ongoing work.
+
+No response was received from the aircraft at 0115 UTC, when the ground earth station sent the next log on / log off message. This indicates that the aircraft was no longer logged on to the network.
+
+Therefore, some time between 0011 UTC and 0115 UTC the aircraft was no longer able to communicate with the ground station. This is consistent with the maximum endurance of the aircraft.
+
+This analysis by Inmarsat forms the basis for further study to attempt to determine the final position of the aircraft. Accordingly, the Malaysian investigation has set up an international working group, comprising agencies with expertise in satellite communications and aircraft performance, to take this work forward.
+
+In Annex I (attached) there are three diagrams, showing:
+
+**Doppler correction contributions** [Image](http://i.imgur.com/ZoONTm0.png) 
+
+This diagram shows the Doppler contributions to the burst frequency offset.
+
+**MH370 measured data against predicted tracks** [Image](http://i.imgur.com/dRThs5s.png)
+
+The blue line is the burst frequency offset measured at the ground station for MH370.
+
+The green line is the predicted burst frequency offset for the southern route, which over the last 6 handshakes show close correlation with the measured values for MH370.
+
+The red line is the predicted burst frequency offset for the northern route, which over the last 6 handshakes does not correlate with the measured values for MH370.
+
+**Example southern tracks** [Image](http://i.imgur.com/SwRLcOD.png)
+
+This shows the southern tracks for a ground speed of 400 and 450 knots ground speed. It should be noted that further work is required to determine the aircraft speed and final position.
+
+Source: [MOT Facebook page](https://www.facebook.com/permalink.php?story_fbid=740971779281171&id=178566888854999)
+Drifting away - Excellent article written by an experienced Oceanographer 
+
+http://theconversation.com/why-locating-mh370-in-the-southern-ocean-is-so-difficult-24699
+
+"The Southern Ocean is extremely volatile, with currents changing speed and direction from day to day, making it particularly hard to back track the drift of debris to the original impact point.
+
+One of the unique features of the Southern Ocean is that it is the only place in the world where water can keep on moving eastward without ever hitting land. Because of this, and the strong winds, the water is swept along at very high speeds, sometimes almost 2m a second. This is much faster than any other place in the world.
+
+At those high speeds, the current becomes unstable. It starts breaking up and forms eddies. These eddies are similar to the vortices you may see behind wakes in a river or the spiralling and treacherous winds that can form behind tall buildings in the inner city on a windy day."
+
+Great visual and (almost) real time animated wind map and global ocean currents. You can zoom right in. Winds http://earth.nullschool.net/ and Currents http://earth.nullschool.net/#current/ocean/surface/currents/orthographic
+
+So if I'm reading this correctly any debris field could be moving around in a circular pattern (eddies) or if the debris field is scattered some remains could be moving North in the Indian Ocean off Perth while other remains could be heading further South into the Southern Ocean and some bits might even end up washing ashore in New Zealand in a years time. 
+
+For those curious about the Towed Pinger Locator:
+
+Towed Pinger Locator 25
+ 
+Description
+The TPL-25 System meets the Navy’s requirement for locating emergency relocation pingers on downed Navy and commercial aircraft down to a maximum depth of 20,000 feet anywhere in the world.
+ 
+Features
+The system consists of the tow fish, tow cable, winch, hydraulic power unit, generator, and topside control console, although not all of these components are required on every mission. Navigation is accomplished by using algorithms incorporating the amount of cable in the water, the depth indication from the pressure sensor and other parameters. The generator provides electrical power for the system or power from the support platform can be used if it is compatible. The tow fish carries a passive listening device for detecting pingers that automatically transmit an acoustic pulse. Most pingers transmit every second at 37.5 kHz, although the TPL can detect any pinger transmitting between 3.5 kHz and 50 kHz at any repetition rate. Commercial aircraft pingers are mounted directly on the flight recorder, the recovery of which is critical to an accident investigation. The Pinger Locator is towed behind a vessel at slow speeds, generally from 1 - 5 knots depending on the depth. The received acoustic signal of the pinger is transmitted up the cable and is presented audibly, and can be output to either a Oscilloscope, or Signal Processing Computer. The operator monitors the greatest signal strength and records the navigation coordinates. This procedure is repeated on multiple track lines until the final position is triangulated. The current TPL-25 replaces all previous systems; TPL-20, 30, & 40.
+ 
+Background
+GENERAL SPECIFICATIONS Tow Body Length - 30 inches Diameter - 35 inches Weight - 70 lbs Performance Depth - 20,000 feet of seawater Speed - 1-5 knots
+ 
+Point Of Contact
+Naval Sea Systems Command
+Office of Corporate Communications (SEA 00D)
+Washington, D.C. 20376
+ 
+Last Update: 22 November 2013
+Since news is a bit slower than normal at the moment, this seems like as good a time as any to challenge reddit's critical thinking & research skills.
+
+
+Public clarification has not been made in regards to at least 4 issues concerning the passenger manifest:
+
+
+- **Zhao Qiwei:** His passport number and name don't match. His passport # actually belongs to a man from Fujian with the surname Yu. You can see Mr. Yu holding his passport up for the media [here]( http://www.mnw.cn/news/china/731608.html) or [here](http://live.china.org.cn/2014/03/09/kl-beijing-flight-missing-rescue-underway/).
+
+
+- **Passengers #31 & #79:** [have the same passport #](http://www.reddit.com/r/news/comments/20m5oc/comprehensive_timeline_malaysia_airlines_flight/cg4wdxx) [Picture of manifest here](http://www.sharelor.net/uploads/2/6/5/1/26515655/5783729_orig.png) (courtesy of /u/meowingly) 
+
+
+- **Russian passenger and the stolen passport:** Early Russian media reports indicated he may not have boarded the plane due to a stolen passport issue. [One such report is available here](http://www.echomsk.spb.ru/news/kriminal/rossiyanin-propavshiy-samolet.html). From google translate: *"As it turned out, for the flight really was registered citizen of Russia, but he could not get on board the aircraft because he stole a passport."* Plus, Russia has [yet to complete their passenger background checks](http://www.usatoday.com/story/news/world/2014/03/19/malaysia-airlines-flight-mh370-relatives/6597201/).
+
+
+- **The Uighur "passenger of interest":** this was originally thought to be the PhD artist and professor who, it turns out, [was not actually on MH370](http://www.themalaymailonline.com/malaysia/article/uighur-professor-i-was-not-the-one-on-mh370). Dr. Mamatjan Yasin (Yashend Maimaitijiang) was **not** on flight MH370. As the article explains, *"Sharing the same name as the Uighur passenger on the still-missing flight, the scholar said his name has been confused by the media with that of the other man."*  
+[It was previously stated](http://www.themalaymailonline.com/malaysia/article/us-investigators-suspect-mh370-flew-on-for-four-extra-hours-after-falling-o), *"Malaysian police and Interpol are combing through the personal backgrounds of passengers and crew of the missing Malaysia Airlines flight MH370, and have confirmed they are taking a close look at a 35-year-old passenger of Uighur descent... An unnamed source had told the daily that Malaysian police and Interpol are focusing their attention on this man because of the skills he possessed."* It is unclear who exactly this man was.
+
+
+None of these issues appear to have been resolved. For example, I can't find any follow-up details clarifying who exactly the person on flight MH370 with Mr. Yu's passport # was or why he was allowed to board. Was this a fake passport situation, like the young Iranian passengers? Something more? Something less?
+
+
+I know how much reddit loves a challenge, so if you have some time or curiosity, **I'd love your help** sorting this out. I've been poring over these situations for days to no avail. If you know anything about these issues, please help point us towards sources with your response. Facts are always preferable to conjecture, which is why I tried to include credible source links for every instance.
+
+
+Hopefully this post will help stir some new thoughts or ideas where I have fallen short. There are many articles on the Iranian passengers, for example, but I literally cant find anything similar concerning these 5 passengers. Any helpful thoughts, details or suggestions are very welcome at this point.  
+**edit:** Thank you to anyone willing to help!
+
+
+**edit 2:** 20 hours in, it is surprising that all we can find is 1 story possibly concerning the Uighur "passenger of interest". Nothing concerning the man traveling under Mr. Yu's passport #, etc. Apparently the government "leaked" these stories, yet is failing to follow-up as they did with the two young Iranian travelers. *These passengers, their families and their loved ones deserve to have their names cleared or their situations clarified for better or worse.* 2 weeks after MH370 disappeared over the Indian Ocean with 239 people on board, it seems bizarre that no one has reported any additional details or asked further questions concerning these situations.
+
+
+**Thank you** *to everyone who helped look for additional details and those who continue looking.* Hopefully the media / government / someone will soon follow-up and address the dearth of details concerning such truly odd circumstances, just as they previously did in the cases of Pouria Nourmohammadi and Seyed Mohammed Reza Delavar. 
+I think many (most?) of us knew this was the inevitable answer to the "where" question.  I think many of us are probably also surprised by our personal responses to the news.  I for one, have learned that I actually had a deeply hidden hope that they had somehow survived.  I didn't realize I had this until finding out the news today.
+All,
+
+I apologize for the delay in updating. I am on a family trip during my spring break so I am partially active at best during the middle of the day. I will update the post right now with further developments.
+
+Thanks,
+
+MrGandW

@@ -1,0 +1,61 @@
+Title: AI Cyber Threat Intelligence Roundup: January 2025
+Source: Cisco.com
+URL: https://blogs.cisco.com/security/ai-cyber-threat-intelligence-roundup-january-2025
+
+At Cisco, AI threat research is fundamental to informing the ways we evaluate and protect models. In a space that is so dynamic and evolving so rapidly, these efforts help ensure that our customers are protected against emerging vulnerabilities and adversarial techniques.
+
+This regular threat roundup consolidates some useful highlights and critical intel from ongoing third-party threat research efforts to share with the broader AI security community. As always, please remember that this is not an exhaustive or all-inclusive list of AI cyber threats, but rather a curation that our team believes is particularly noteworthy.
+
+Notable Threats and Developments: January 2025
+
+Single-Turn Crescendo Attack
+
+In previous threat analyses, we’ve seen multi-turn interactions with LLMs use gradual escalation to bypass content moderation filters. The Single-Turn Crescendo Attack (STCA) represents a significant advancement as it simulates an extended dialogue within a single interaction, efficiently jailbreaking several frontier models.
+
+The Single-Turn Crescendo Attack establishes a context that builds towards controversial or explicit content in one prompt, exploiting the pattern continuation tendencies of LLMs. Alan Aqrawi and Arian Abbasi, the researchers behind this technique, demonstrated its success against models including GPT-4o, Gemini 1.5, and variants of Llama 3. The real-world implications of this attack are undoubtedly concerning and highlight the importance of strong content moderation and filter measures.
+
+MITRE ATLAS: AML.T0054 – LLM Jailbreak
+
+Reference: arXiv
+
+SATA: Jailbreak via Simple Assistive Task Linkage
+
+SATA is a novel paradigm for jailbreaking LLMs by leveraging Simple Assistive Task Linkage. This technique masks harmful keywords in a given prompt and uses simple assistive tasks such as masked language model (MLM) and element lookup by position (ELP) to fill in the semantic gaps left by the masked words.
+
+The researchers from Tsinghua University, Hefei University of Technology, and Shanghai Qi Zhi Institute demonstrated the remarkable effectiveness of SATA with attack success rates of 85% using MLM and 76% using ELP on the AdvBench dataset. This is a significant improvement over existing methods, underscoring the potential impact of SATA as a low-cost, efficient method for bypassing LLM guardrails.
+
+MITRE ATLAS: AML.T0054 – LLM Jailbreak
+
+Reference: arXiv
+
+Jailbreak through Neural Carrier Articles
+
+A new, sophisticated jailbreak technique known as Neural Carrier Articles embeds prohibited queries into benign carrier articles in order to effectively bypass model guardrails. Using only a lexical database like WordNet and composer LLM, this technique generates prompts that are contextually similar to a harmful query without triggering model safeguards.
+
+As researchers from Penn State, Northern Arizona University, Worcester Polytechnic Institute, and Carnegie Mellon University demonstrate, the Neural Carrier Activities jailbreak is effective against several frontier models in a black box setting and has a relatively low barrier to entry. They evaluated the technique against six popular open-source and proprietary LLMs including GPT-3.5 and GPT-4, Llama 2 and Llama 3, and Gemini. Attack success rates were high, ranging from 21.28% to 92.55% depending on the model and query used.
+
+MITRE ATLAS: AML.T0054 – LLM Jailbreak; AML.T0051.000 – LLM Prompt Injection: Direct
+
+Reference: arXiv
+
+More threats to explore
+
+A new comprehensive study examining adversarial attacks on LLMs argues that the attack surface is broader than previously thought, extending beyond jailbreaks to include misdirection, model control, denial of service, and data extraction. The researchers at ELLIS Institute and University of Maryland conduct controlled experiments, demonstrating various attack strategies against the Llama 2 model and highlighting the importance of understanding and addressing LLM vulnerabilities.
+
+Reference: arXiv
+
+We’d love to hear what you think. Ask a Question, Comment Below, and Stay Connected with Cisco Secure on social!
+
+Cisco Security Social Channels
+
+Instagram
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+Share
+
+Share:

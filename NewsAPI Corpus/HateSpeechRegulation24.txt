@@ -1,0 +1,49 @@
+Title: Freedom of expression on social media must come with responsibility
+Source: Lse.ac.uk
+URL: https://blogs.lse.ac.uk/europpblog/2025/01/20/freedom-of-expression-on-social-media-must-come-with-responsibility/
+
+Freedom of expression on social media must be protected, writes Robin Mansell. But we must also protect the rights of those exposed to content that fans hate speech and misinformation.
+
+Meta’s Mark Zuckerberg proclaimed on 7 January 2025 that less intervention into what people find on its social media platforms (Facebook, Instagram, Threads) is the new “best practice”. The company has concluded that its current guidelines to identify harmful mis/disinformation are too complex and its algorithms to detect harmful content too error prone. Meta will abandon independent content fact-checking (initially in the US) and community content guidelines will be recast.
+
+The owners of leading US social media platforms say they are upholding First Amendment speech rights. In the name of promoting debate on contentious issues like immigration or gender identity, “we are going to catch less bad stuff” says Zuckerberg. Meta’s Global Affairs Chief, Joel Kaplan, says existing practices resulted in “censorship”.
+
+Independent fact-checking organisations respond that they “never censored or removed posts”. Meta plans to follow Elon Musk in using Community Notes to let users comment on content, but on X these are posted only if majority agreement on disputed content is achieved, which is relatively rare. Fact-checking is not a perfect response to mis/disinformation and hate speech, but it is one of the few measures used to combat harmful online information.
+
+Protecting freedom
+
+Deciding what online content is “good or bad” or what is “censorship” is contested. Of course, defending freedom of expression in democracies is fundamental to upholding human rights. The Universal Declaration of Human Rights – Article 19 – asserts that “everyone has the right to freedom of opinion and expression… without interference”. What US companies, and likely the Trump Administration, ignore is that the Declaration also allows limitations of this right “for the purpose of securing due recognition and respect for the rights and freedoms of others… in a democratic society” (Art. 29).
+
+The United Nations insists on fostering “an inclusive, open, safe and secure digital space that respects, protects and promotes human rights” and on the need for “access to relevant, reliable and accurate information”. Diverse online content in the name of inclusion and justice is crucial; it can create a space for counternarratives, e.g. Black Twitter. Diversity must, however, be tightly coupled with the rights “of others”; those who are exposed to content that fans hate speech and mis/disinformation. Interventions to moderate content in such cases is not automatically censorship.
+
+Defining censorship
+
+In the EU, the Digital Services Act is designed to hold social media companies to account if they fail to remove illegal content or knowingly host content that violates their terms of service. If companies like Meta and X are found to be in breach of the rules, they are liable for big fines. Restrictions on speech rights are legally prescribed and permitted only when they are deemed proportional. In the EU, X is under investigation for alleged lack of compliance with the Act. In the UK, the Online Safety Act is introducing rules to deal with illegal and harmful content.
+
+Countries around the world are legislating to deal with mis/disinformation and hate speech – some in the name of democratic values and human rights protection; others, in the name of autocracy. In Russia, state fact-checking is to adhere to “Russian values” and is seen in the West as censorship. In the US (and other western countries), cybersecurity concerns can result in content being filtered or taken down in line with what courts, and sometimes governments, decide is in their political, or their companies’ commercial, interests – this is typically not deemed “censorship”.
+
+When X’s owner, Elon Musk, demotes or blocks speech he doesn’t like, promotes content of the far-right Alternative for Germany (AfD) party, attacks UK political actors and uses language like “rape genocide apologist” based on inaccurate or partial information, this content is posted on X apparently without consideration for how it might impact on democracy. When US-owned social media companies are subject to EU regulation, they claim they are unfairly targeted. For Zuckerberg, the Digital Services Act amounts to “institutionalising censorship”.
+
+It cannot be known with certainty what the content mix on Meta’s platforms will be in the wake of the recent changes. The Digital Services Act (and other EU legislation) is intended to monitor outcomes; independent research is also essential to hold social media companies to account. But disputes over what is “censorship” and what is not are about much more than fact-checking and changes in content moderation practices. These moves signal growing dissensus around what values and whose judgements determine the content of online information ecosystems.
+
+The impact of mis/disinformation
+
+A new report by the International Observatory on Information and Democracy tackles these issues. Information Ecosystems and Troubled Democracy, based on research in the Global North and Global Majority World, confirms that the impacts of mis/disinformation depend on multiple variables; impacts vary by country and for different groups.
+
+However, waiting for certainty means that online and offline violence are amplified and normalised, as Shakulanta Banaji’s research shows. And, as Siva Vaidhayanathan notes, with the prospect of AI as a revenue earner, and potentially declining dependence on advertising revenue, the big tech owners of social media platforms seem ready to care much less about whether content on their platforms is linked to violence, negatively affects children’s or adults’ mental health, or amplifies the promotion of fascist or extreme right-wing political views.
+
+Our report evidences how data monetisation interests are behind the way information ecosystems are operated without respect for the fundamental rights of content producers and the rights “of others”. The US platform owners and the Trump Administration are poised to fight for their free speech absolutist and one-sided view of rights protections. This makes effective implementation of EU (and other countries’) legislation to curtail mis/disinformation and hate speech increasingly precarious, especially if the political will to do so declines due to aversion to the imposition of US tariffs or other sanctions.
+
+EU and UK legislation governing digital platforms like those owned by Meta and X may have some traction in curtailing mis/disinformation and mitigating harms. However, because the crisis of online mis/disinformation and hate speech is not likely to “be solved within” the current political and economic order, radical change is needed.
+
+Freedom of expression with responsibility
+
+The Information Ecosystems and Troubled Democracy report shows that business models fostering illegal and harmful online content can be resisted. It highlights collective initiatives by Indigenous communities and municipalities to put rights-protecting rules in place.
+
+Commons-based approaches with decentralised decision frameworks for governing data and deciding what online content is harmful and which actions are consistent with protecting human rights are developing, often led by civil society organisations or by countries such as Brazil. Advocacy is growing for information ecosystems, not shaped by corporate values and the vicissitudes of back-sliding leaders in democracies.
+
+Protecting adults and children from harmful mis/disinformation and hate speech should not require them to be solely responsible for defending themselves. Even with media and information literacy or AI literacy training, as Lee Edwards, Sonia Livingstone, and Emma Goodman’s work shows, alternative legal structures and financing are necessary to promote inclusive and safe information ecosystems. The guardrails to mitigate online harms facilitated by the big tech “oligarchs” are not enough.
+
+Struggles over principles, definitions and rules for mis/disinformation (propaganda) are not new. It is increasingly urgent, however, to recognise that other arrangements of online service provision in the collective interest are possible. If Zuckerberg’s, Musk’s and other US tech company views prevail on content moderation, instead of protecting adults and children from harm, and fostering online spaces where accurate information provides a basis for democracy, societal order will be at risk of breaking down. Inclusive and safe spaces online for public debate will wither away. Enabling freedom of expression rights protections with responsibility is essential.
+
+Note: This article gives the views of the author, not the position of EUROPP – European Politics and Policy, the London School of Economics or the International Observatory on Information and Democracy. Featured image credit: Alessia Pierdomenico / Shutterstock.com

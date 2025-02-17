@@ -1,0 +1,25 @@
+Title: Find out where hate comments come from
+
+Post:
+Hi, I work for a publisher who makes books for people who learn my language (not english) as foreigners. Since our customers are very diverse, we try to be diverse in our social media marketing and postings. But every time a black person or a homosexual couple are in a post, we get tons of hate comments. I delete those of course and block the people but it keeps happening.   
+Now I'm wondering, if those posts might be shared to some kind of online forum/channel. Is there a way to monitor how people find our posts? If it's organic or through a website link?   
+I would really appreciate your help!
+
+Top Comments:
+If this post [doesn't follow the rules](https://www.reddit.com/r/socialmedia/about/rules/), please report it to the mods.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*
+If your posts have a certain reach, then it'll probably get seen by the hate bots regardless, especially if you're on a platform like Twitter.
+
+I could be wrong, but it's very unlikely your posts are being shared elsewhere so that others can pile on. Best you can do is report those making the comments, or reach out to the platform itself for investigation.
+You can try tools like Brandwatch or Mention to see where your posts are being shared. Also, checking referral traffic in Google Analytics might help you figure out if a specific site is driving those negative comments.
+What platform is this happening on?  It sounds like Twitter. 
+
+Not worth researching it - just monitor and immediately block the user & delete the comment.
+
+It takes pro-level skills & tools plus a fairly technical understanding of how stuff actually works on the web to do this kind of investigation. 
+
+And even then, it's not illegal, so what would you do with the info, KWIM?
+I must have answered a million customer inquiries over the years... one thing I'm most looking forward to, is AI customer messaging tools (like CRMs) that "rewrite" hateful comments into constructive ones.  Of course you should be able to opt in/out of this kind of feature.
+People are pretty savvy these days, and it’s easy to spot when companies use LGBTQ+ individuals or people of colour in their ads just to check an ‘ethical’ box. This kind of obvious pandering is probably why your ads are catching hate—they’re trying too hard to be ‘woke’ without actually being authentic.

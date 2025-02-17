@@ -1,0 +1,157 @@
+Title: Social Media Updates & Marketing News You missed last week!
+
+Post:
+
+
+
+#Top 6 Updates of the Week:
+
+	•	Meta changes ‘Made with AI’ label to ‘AI info’.
+	•	Threads reached 175 monthly active users on its anniversary, but this article calls the app a failure.
+	•	Instagram carousel posts are new stories, with addition of Image and text overlays.
+	•	TikTok is developing an AI chatbot called Genie.
+	•	X is testing downvote button, but doesn’t want it to be used like Reddit.
+	•	YouTube announces AI tool to erase copyrighted song from videos.
+
+#Trending News
+
+	•	EU Commission says Meta’s Ad-free subscription offering goes against DMA.
+	•	Google launches EC Assist to simplify Enhanced Conversions setup.
+	•	Snapchat launches new features for Premium subscribers.
+	•	X to get rid of like, report and reply buttons and counts from post previews in timeline.
+	•	Snapchat and Samba TV shares a new study about impact of Snap activations on TV.
+	•	E.l.f. beauty joins Roblox to sell lip balms to Gen Alpha.
+	•	Arby’s Potato Cakes rollout with Kyle MacLachlan is entertaining and puts focus on product appeal.
+	•	US Consumers want brands take a political stand, but brands want to maintain their silence.
+	•	Figma Disables AI App Design Tool After It Copied Apple’s Weather App.
+	•	Google facing pressure to revamp privacy sandbox.
+	•	Google, TikTok Ban Ads From ADHD Telehealth Company Amid Federal Probe.
+	•	VCCP publishes year-long study ‘Cracking the memory code’ on role of memory in advertising.
+	•	Transport for London and Budgy Smugglers launch tube seat coloured swimwear.
+	•	McDonald’s partnered with Anime series ‘JUJUTSU KAISEN’ to launch app exclusive special garlic sauce.
+	•	Young Men in South Korea are moving to far right political stances.
+	•	Amazon restricts use of music in shoppable videos for creators.
+	•	Dove CMO, Alessandro Manfredi left the company after two decades of work relationship.
+
+#TikTok
+
+	•	TikTok launches privacy and AI disclosure feature for Advertisers.
+	•	TikTok working on ability to download videos without watermark.
+	•	TikTok running creative performance webinar on July 11th.
+	•	TikTok launches support program for Beauty Creators.
+	•	Two new Support programs for Small Businesses and other retailers.
+	•	TikTok publishes #BackToSchool campaign playbook.
+	•	TikTok testing text-to-speech feature that generates meme text.
+	•	TikTok has seen a decline in ad spend growth since the US Ban announcement.
+
+#Instagram & Threads
+
+	•	IG testing ‘Recent Highlights’ section in Home feed to showcase stories from your fav creators.
+	•	Instagram CEO highlights importance of getting more shares for this time.
+	•	Instagram announces new changes to message delivery settings, to allow only the people you follow to message you.
+	•	Thread testing disappearing posts that only stay visible for 24 hours, Stories 2.0.
+	•	Instagram testing ‘Add lead form’ option in set up Action Button.
+	•	Instagram had an analytics bug this week, showing an error while loading insights.
+
+#Meta
+
+	•	Meta AI testing new feature on WhatsApp, ‘Imagine Me’ to generate AI stickers.
+	•	Meta Ads introduces new attribution settings.
+	•	Meta’s Oversight board is moving slow due to low funding.
+	•	Meta to bring Generative AI to metaverse games.
+	•	Brazil authorities suspends Meta AI’s privacy policy.
+	•	WhatsApp and Signal survived EU chat control bill, at least for now.
+
+#X (Twitter)
+
+	•	X rejoins GARM to reassure marketers on brand safety.
+	•	X improving Advertising Analytics with new additions.
+	•	Elon Musk shares usage in US reached all-time high after Presidential debate.
+	•	X to let you add and edit ‘work history’ in your Expanded Bio on Mobile.
+	•	EU warns X again on breaching Digital Services Act and allowing dangerous content on platform.
+
+#Youtube
+
+	•	YouTube expands handles in 75 languages.
+	•	New launch: Policy Training for 3rd Party Violations.
+	•	YouTube launches. Shopping Card on Studio Desktop.
+	•	YouTube now lets you request removal of AI content that simulates your face or voice.
+	•	YouTube now allows you to stream videos horizontally or vertically directly within the app.
+
+#Google
+
+	•	Google launches Merchant API Beta.
+	•	Google announces new Display & Video 360 features.
+	•	Google streamlines product data management for merchants.
+	•	Google Ads completes auto-migration of location extensions to assets.
+	•	Google updates policy on Disclosure requirements for synthetic content.
+	•	Google expands definition of U.SS Election Ads.
+	•	Google expands conversion tracking for Merchant Center.
+	•	Google’s Audience signal targeting now available for App campaigns.
+	•	Google fixes Search Console Performance report.
+
+#Agency News
+
+	•	Lego appoints Publicis One as Global Media AOR.
+	•	Leo Burnett Toronto named AOR for Ashley in the US.
+	•	Hamptons appoints Atomic London as its lead creative agency.
+	•	See’s Candies appoints The Many as creative and Analytics Agency.
+	•	Innoccean Group Australia appointed to lead Geotab account across creative, media and strategic consulting.
+	•	Goodness Named DTC Agency Partner for OREO DTC.
+	•	VCCP Group Lands Motability Operations Account Across Creative and Media.
+	•	Liberty Mutual Names Bandits & Friends Its Creative Partner, Shifting Away From Goodby Silverstein & Partners.
+	•	Colossus appointed to do Creative Duties for Cantera Negra Tequila and Gray Whale Gin.
+	•	NHL’s Anaheim Ducks hire Battery to refresh brand.
+	•	Mediaplus Wins European Kikkoman Account.
+	•	IPG turns down investor who made approach to buy MullenLowe.
+	•	French Retailer Printemps names Milk Agency first US AOR.
+	•	Laundryheap hires ROAST for SEO services.
+
+#AI
+
+	•	Eleven labs launches Voice Isolator.
+	•	Security Breach at OpenAI last year reveals internal discussions and other conversations.
+	•	Cloudflare announces new tool to combat AI scraping bots.
+	•	Perplexity’s launch of Pro Search, making the tool better at Math and Research.
+	•	Apple will reportedly announce a partnership with Google Gemini at iPhone 16 event.
+	•	Kyutai launches first voice-enabled AI openly accessible to all.
+	•	A sneak peek into Google AI feature in Pixel 9.
+	•	Anthropic’s new initiative for developing third-party model evaluations.
+	•	Will AI platforms confront journalists too heavily from now on? Yes, OpenAI wants to know to what degree New York Times articles are ‘original’ and worthy of copyright protection.
+	•	Deutsche Telekom uses AI Chatbot to eliminate all excuses to not enjoy summer.
+
+#Reddit & Pinterest
+
+	•	Pinterest expands to MENA markets.
+	•	Reddit has been testing streaks feature like Snapchat.
+
+#Microsoft & LinkedIn
+
+	•	LinkedIn is begging you to use its chatbot.
+	•	Microsoft Bing adds Prompt Injection to Bing Webmasters tools.
+	•	Microsoft Ads launches Property Center and expands lodging campaigns.
+	•	Microsoft Clarity launches iOS SDK.
+	•	Microsoft updates Excel’s Grid look.
+
+#Marketing & AdTech
+
+	•	Amazon Prime Video Ads shares case study about Hasbro’s success.
+	•	NFL ordered to pay $4.7B in Sunday Ticket Marketing Lawsuit.
+	•	Helmann’s shares new Mayo McHack offering customers to buy burgers with just mayo and get cashback.
+	•	Looker Studio will add native Microsoft Excel Connector.
+	•	Mixpanel launches Warehouse Connectors 2.0.
+	•	Paramount in talks to sell BET network for $1.6 Billion.
+	•	Cross-Industry Team led by IPG Mediabrands, SennThis and PubMatic launches Climate Action Marketplace.
+	•	TV Companies are pitching movies to upfront ad buyers.
+	•	Mastodon adds new clickable author bylines backlinking to fediverse accounts.
+	•	Benchmark Email integrates with Canva to simplify email design for one-team marketers.
+	•	Twitch creator trophies are here to fight YouTube.
+
+**I hope this helps to plan your week ahead. Follow for more.**
+
+
+Top Comments:
+If this post [doesn't follow the rules](https://www.reddit.com/r/socialmedia/about/rules/), please report it to the mods.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*

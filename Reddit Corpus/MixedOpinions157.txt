@@ -1,0 +1,169 @@
+Title: CMV: Climate change denial is (mainly) a moral failure
+
+Post:
+(I am not interested in discussing the science of climate change. This CMV is about moral vs intellectual failures).
+
+Climate change denialism is (mainly) a moral failure, not a intellectual one.
+
+First let me stipulate some terms:
+
+An intellectual failure would be when someone is wrong because they're lacking the information or the mental capacity to understand a subject.
+
+A moral failure is a bit more messy. It has to do with everything from being to proud to admit you were wrong, to absolute nihilism. Anything where your *need to feel good about yourself* interferes with your judgment of what is true I, here call a moral failure. If you think that term is too harsh then you could substitute for something like "psychological failure". (I consider a lot of intellectual failures related to "cold" cognitive biases, so I think psychological failure would be a misleading term).
+
+Now here's my view:
+
+-The science of climate change is not complicated or hard to understand. The praxis of listening to someone who knows a subject better than you is not complicated or hard to understand. Climate change deniers are probably not all around mistrusting and does this for other subjects, when it suits them better.
+
+-Ordinary misunderstandings are not THIS resistant to change.
+
+-Not listening to the research is a choice people make, one which they are responsible for. Furthermore, the kind of people who comment on youtube videos or reddit threads, questioning man made climate change, have most likely seen the counter-arguments and rejected them.
+
+-For a person to reject a correct argument they must either not understand it, or be motivated by other reasons to do so.
+
+I think the motivations for rejecting man made climate change are many, complicated, and often relatable. There's the guilt that you're contributing to it. There's emotional attachment to the things that are causing it (I know car geek who's not big on believing climate change). There's the need to feel you're an intelligent edgy contrarian who sees through the bullshit. There's the embarrassment in admitting you're wrong. And the elephant in the room: there is political tribalism.
+
+My point is that not forming the correct beliefs about such a exposed subject is often due to reasons other than a lack of understanding. I am sure a lot of people really don't know or understand the difference between climate and weather, but that's not the main thing going on here. The main thing is motivated reasoning. A clear example of this is when climate change deniers quote studies from scientific journals that *they think* are making their point, but upon closer reading does absolutely not. When confronted with this they switch to saying the scientists are all payed shills.
+
+Rationality and truth is a moral good; it is a cornerstone on which everything else good is built. Rejecting this for your own tribalism and egoism is wrong, morally. And it's what's happening. CMV.
+
+(And once again just to be clear: I am not interested in discussing the science of climate change. This CMV is about moral vs intellectual failures).
+
+EDIT: formating
+
+EDIT 2: oh god I went on a concert and now there’s hundreds of new comments
+_____
+
+> *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
+
+Top Comments:
+> The science of climate change is not complicated or hard to understand. The praxis of listening to someone who knows a subject better than you is not complicated or hard to understand. Climate change deniers are probably not all around mistrusting and does this for other subjects, when it suits them better.
+
+You've got a few errors here, sorry.  First, the science of climate change *is* actually pretty complicated and hard to understand.  I studied climatology in grad school and the complication level is immense, not to mention the fun little fact that climate is chaotic, so you can't ignore what happens at smaller scales when you talk about planet-scale phenomena like climate change.  Clouds are a big deal and work in non-intuitive ways.  Water vapor is a far stronger greenhouse gas than CO2 (so is methane, by the way) but is far less predictable because the CO2 levels will affect water vapor levels in unpredictable ways.  So the science is quite complicated.  The simple energy balance model you may have seen does a very poor job of explaining it.  If you think you understand it and you *haven't* done a whole lot more study than I did (which frankly wasn't that much), you really don't understand it.  I don't understand it myself.
+
+I'm not just saying that it's deeper than whatever you get at the surface level; that's obvious and true of any field.  What I'm saying is that the broad-strokes interpretations that people know *don't actually explain things correctly* because the climate *system* is far too complicated.  It's not like in physics, where we can ignore air resistance, the molecular structure of the box, the varying gravity on the Earth, the centrifugal force, etc. when we do our basic kinematics and still pretty much understand what's going on.  Climate is built on these small-scale interactions and feedback loops.  To simplify it is to change it a great deal.
+
+Unfortunately, people hear about how complicated it is and treat it as an excuse for their denialism.  There *is* no excuse.  But the science *is* complicated and very hard to understand.
+
+The other error is that climate change deniers *are* all-around mistrusting and do this for other subjects.  Remember birthers?  The American right wing has its own "alternative facts", and this has been the case for decades so far.  They believe in Clinton conspiracies, they believe that Mexico sends its rapists and murderers, they believe that Trump won the popular vote if you discount the millions of illegal immigrants who voted illegally, they believe in Pizza-gate or whatever the hell *that* was, they refuse to trust trustworthy news sources because they say bad things about Trump, etc.  Before Trump, they believed other crazy things: Obama was born in Kenya; Obama was Muslim; Michelle Obama had some sort of "whitey tapes" that I still don't understand, and so on.  (And don't forget, they don't believe in evolution either!)  They'll believe anything, no matter how far-fetched, that goes along with their political beliefs, and they'll refuse to believe anything, no matter how factual and well-researched, that goes against them.
+
+That said, climate change is special, because it's one of those rare topics where the truth *is* hard to believe and requires massive action.  That's why you get even generally non-credulous right-wingers professing skepticism.  Climate change shares a lot in common with crazy "the end is nigh" cultists, and it's a very big claim.  Unlike the extremely basic lies they believe in, like the birther conspiracy and whatnot, if you don't understand how science works in general, climate change is an obvious hoax, because it's simply too far-fetched to be true.  "So you're saying that this natural and invisible gas that plants breathe is somehow going to burn the entire atmosphere of our entire huge planet and melt the ice and flood the entire planet?  What are *you* smoking?"  I mean, *you* try to argue against someone who understands that little.
+
+I think the takeaway here is that climate change denialism is *not* simply a moral failure.  It's mostly an intellectual failure that is *guided* by political beliefs.  They correctly see climate change as a big claim that requires big evidence, but they're both blinded by politics and not knowledgeable enough to understand the evidence.  This is actually true for both sides; most people who do believe in climate change "accept the science" but don't understand it themselves, but it fits their political views so they believe it.  The deniers refuse to accept the science because, in part, they're skeptical of scientists in general (because they say things that contradict their political -- and religious -- views).  The failures here are both intellectual and moral, and they're quite intertwined.
+I'll take a fun angle on this one.  
+
+I deal with a LOT of people on this subject, because it's my job.  I talk routinely with deniers and die-hard climate change activists.  I would argue that about 90% of the people on both sides of this are equally in the wrong by this standard.
+
+On your points about the denial, I'm inclined to agree.  When I talk with people about it, it becomes clear very quickly that their objection isn't with the science.  It's with the policy implication.  And that becomes obvious because you can't make it five minutes into a discussion about it before they mention Al Gore or a carbon tax or China.  So there's merit to what you're saying.  Their denial is very clearly politically motivated more than intellectually.  
+
+But...the people on the other side are equally ignorant.  They just happen to be correct.  But their stance is every bit as politically motivated as that of the deniers.  Talking with an activist group regarding climate change, it's clear that they actually don't know any more about the science than the deniers do.  They "believe" in climate change because their party believes in it, just as the deniers refute it for the same reason. 
+
+So there is a moral failing all around.  The acceptance of climate chance by those on that side isn't any more intellectual or logical in nature than the denial you see on the other side.  It's still just as political.  
+So speaking from my experience: my parents are both fierce climate change deniers. I grew up reading children’s books about why global warming was a hoax made up by liberals to steal profits from hardworking businessmen. 
+
+I’m aware that that’s bullshit.
+
+However, when my parents ask (force?) me to go to church with them when I visit, I hear all of the same things coming from the pulpit. The preacher will teach that Earth is only a few thousand years old and so there isn’t a basis for climate change to stand upon, that God would not allow humans to interfere so dramatically were it not his will, and that if we bring on the apocalypse: good, it was God’s will, anyways. 
+
+In their case, I would say that this is almost akin to brainwashing. Yes, they got themselves involved with the church, but now their moral authority who they look to for their very salvation or whatever is telling them that these things are false. I suppose I don’t know exactly where you would draw the line, but I wouldn’t call a lack of discernment to tell that your leader is lying to you a moral failure. I think that’s how people grow up with outdated and incorrect views about most things: they never gain the intellectual strength to question what they’ve been told by people they look up to. 
+
+If that lack of discernment is something you would call a moral failure, then I guess I agree, but I wouldn’t call it that based on the definitions you gave. I guess this falls into the “political tribalism” you mentioned, but I think the reasons behind it are less malicious and more just sad. 
+I think you've gone in the wrong direction here and created a false choice.
+
+This is not an issue of intellectual failure nor moral failure. Intellect and morals are largely cognitive functions that lay on top of fundamental capabilities (ability to reason, ability to think through problems, ability to understand, ability to predict, ability to set aside emotional input).
+
+Climate change denialism is a result of innate ingroup/outgroup psychology and rationalization, but is several layers down. That is, our innate tribalist tendencies drive us to think in terms of "us" and "them", to listen to other members of "us" and to dismiss and vilify other members of "them". This means we ignore what "they" say and listen to our own ingroup, including the sources of information that others in our ingroup draw from.
+
+That's how propaganda works. We tend to think of propaganda as being planned and intention driven to mislead people by malicious leaders trying to fool people. That's not how it works. It's a feedback loop. People become "true believers". It's more like cults and religions. Ultimately, they are all echo chamber ideologies.
+
+The public in general are not scientists, do not read scientific literature or long reports like the IPCC. Even climate change proponents and activists tend not to have gotten to that position by being object, reading the material, and coming to their conclusions about climate change. Heck, there are many climate change activists who make dire claims about the future that *aren't* supported by even the worst case IPCC scenarios.
+
+What happens is that people tend to fall into tribes. They listen to people who are in their tribe. They tend to adopt the views of the people they listen to, and because they don't hear dissenting views from *inside* their group, they believe the information based on trusting their tribe. That's why most people who support climate change efforts support climate change efforts, and why climate change denialists deny climate change. They are regurgitating their understanding of what they've been told by people they trust.
+
+Here's a way to test that. Prepare a basic science test on climate change, both the mechanism of how it works and the empirical data. Include in there some boundary questions, and those that go past it. For example, include questions that go well beyond the worst case scenarios of climate change, like describing Earth becoming like Venus or something.
+
+Ask *random* climate change supporters these questions. Ask random climate change *activists* -- who are people that have dedicated a large part of their immediate lives to addressing this issue -- the same thing. I've done this. Most activists I've talked to have no better understanding of climate change than most denialists I've talked to.
+
+How they got to their beliefs is from reading material prepared by other proponents and activists of the same view, not from science and scientists. What climate change proponents tend to get from scientists and science articles is merely a binary yes/no validation of whether climate change is something to legitimately worry about or not. The science says yes, and so the proponents and activists are validated that they are in the "correct" tribe. That doesn't stop supporters from writing blogs or articles that are well outside the science that are just nonsense.
+
+And yes, the science does say it is something we should worry about. Just to be clear I'm not arguing *against* the science or that it's a problem, merely that this isn't how people come to their beliefs supporting it or against it, and it's not what supporters tend to draw on for their understanding of it.
+
+On the denialist side, it obviously isn't science publications or climate scientists that people are getting their validation from. They are getting their validation from pundits and news reports that point out flaws and mistakes of climate claims. Some are bad reasoning, but some are even legitimate criticisms.
+
+Take, for instance, Al Gore's "Inconvenient Truth". I watched the whole thing and it is almost entirely assertions about bad things that will happen with essentially no evidence of any claims presented. The on place where he presented evidence was where he did that "publicity stunt" style presentation of the historical graphs of correlated CO2 and temperature, and got on the lift to go up to the top of modern CO2 amounts. He introduced it using the whole "South America and Africa look like they fit together" narrative where he describes tectonic plate science and how they actually did fit together. He then refers to that narrative nicely when looking at the CO2 and temperature graphs, and mockingly saying "I wonder if they fit together" with a smug laugh.
+
+The problem is, of course, that if you do the actual statistical analysis of that data you see that they have maximum correlation ("fit together") with a 790 year lag of carbon dioxide. That is, the temperature rises and falls 790 years *before* the CO2 levels rise and fall on the oscillations shown, which tends to undermine his whole point.
+
+Now we understand *why* this is, and we understand that doesn't change the climate change science. But, there is essentially zero evidence in "An Inconvenient Truth", and what evidence is presented is misleading and tends to argue *against* it. These facts are things that denialists *accurately* present to their ingroup, which makes their outgroup (climate change proponents) look like fools who just make wild claims and with bad evidence and reasoning.
+
+So it's not intellectual *or* moral. It's tribal. And, it's tribal in both directions. Supporters aren't any more moral or intellectual than denialists; they just happen to be in the tribe that has the actual science on their side.
+
+You can also see this by looking across other areas of science. The biggest supporters of climate change science also tend to ignore GMO science, for instance, or science on the biological nature of gender identity, differences between the sexes, IQ differences by race, etc., because those sciences tend to disagree with their tribal views.
+
+It's not like the political left are science supporters and the right are science deniers. It's more that each side tends to use the science to validate and rationalize their views, and extremists on both sides of arguments tend to even take the science beyond what it says. Climate change activists will make claims beyond the science of climate change. Misogynists will make claims beyond the science of differences between sexes. And this overreach will be used by the science denialists on the opposing side to justify their denialism. People will use their moral groundings of men and women being *equal* to justify denying the sciences of men and women being *different*. People will use their moral groundings of protecting the people against government and collectivist tyranny to justify denying the science of climate change and proposed political solutions (carbon taxes, etc.).
+
+None of this has to do with morality or intellect. It only has to do with the fact that the innate drives of tribalist behaviours is strong and makes use of both intellectual and moral bases to back up the tribal views. 
+
+In my opinion, a much better solution is to talk to people about their *concerns* rather than their *beliefs*, and address their concerns. For example, if people are concerns about government tyranny, would they be willing to trade a *reduction* on taxes on income to an exactly equal increase in taxes on carbon production, so that there is no net increase in government power or "tyranny". Would they be willing to pay less money for good solar, wind, and nuclear power than the cost of extracting fossil fuels and dealing with spills?
+
+That's the sort of thing that I think gets on the same side, by trying to solve common problems that we both can recognize at least are worth addressing. We can still disagree about the science, but by toning down the moral outrage at "them", because all that does is make them ramp up the resistance to it as they see the moral outrage as a tribal attack from the enemy.
+
+We are just apes, remember. Smart apes, but still apes. Our brains aren't computers or reasoning machines; they are a mechanism natural selection has given us to maximize our reproductive success. They are very poor as reasoning machines overall.
+
+Can you explain what you mean by "climate change denial"?
+
+Does it mean I have to outright say that "they" are wrong, and I am right.  That not only are human's not to blame for climate change, but that climate change isn't even happening any differently than it always has.
+
+Or, if I merely question the narrative and have some questions to which satisfactory answers haven't been received, does that count too?  In that case, I'm not saying that climate change *isn't* happening, I'm just saying that I'm not convinced that it *is* happening either.
+
+Or, what if I'm somewhere in between.  I believe that climate change is happening, but I don't think humans have anything to do with it (and, by extension, humans can't do anything to change it).  Or, maybe I think that climate change is happening and it is caused by humans, but it isn't a big deal and the alarmists claiming that the sky is falling are the crazy ones.
+Well, here's the thing, you used the word "moral failing."
+
+>Moral: concerned with the principles of right and wrong behavior and the goodness or badness of human character.
+
+In order for this to be an issue with morality they would have to know climate change is real but simply not care. The stance on the issue is that it isn't real or as severe as the left believes and we would somehow damage our country by enacting policy from it.
+
+With that in mind it cannot be a moral issue as their primary stance against it is that it would damage the common good.
+Everyone has unconscious bias, everyone also has a blind spot related to their own bias and no-one has insight into anothers thought processes
+
+>"People tend to attribute bias in an uneven way. When people reach different perceptions, they tend to label one another as biased while labelling themselves as accurate and unbiased. Pronin hypothesizes that this bias misattribution may be a source of conflict and misunderstanding between people. For example, in labeling another person as biased, one may also label their intentions cynically. But when examining one's own cognitions, people judge themselves based on their good intentions. It is likely that in this case, one may attribute another's bias to "intentional malice" rather than an unconscious process
+
+None of this is a moral failing, it's just the way we're programmed.
+
+https://en.wikipedia.org/wiki/Cognitive_bias
+
+https://en.wikipedia.org/wiki/Bias_blind_spot
+
+
+I think you are merely falling into a common trap: trying to dehumanize your enemy.
+
+Allow me to demonstrate.
+
+You would probably not consider support for “assault weapons” ban a moral failure. Yet every argument you made above applies to it equally: guns aren’t difficult to understand, banning guns for cosmetic features (hand grip, bayonet lug) is not going to make any difference in lethality, and these guns aren’t used in vast majority of homicides in the first place, politicians are making this argument strictly to win political points with the ignorant - etc etc etc. But since it’s your side that is making the argument, you would be far more likely to ascribe it to ignorance rather than malice. Yet it’s exactly the same as the climate denialism among Republicans.
+>My point is that not forming the correct beliefs about such a exposed subject is often due to reasons other than a lack of understanding. I am sure a lot of people really don't know or understand the difference between climate and weather, but that's not the main thing going on here. The main thing is motivated reasoning. A clear example of this is when climate change deniers quote studies from scientific journals that they think are making their point, but upon closer reading does absolutely not. When confronted with this they switch to saying the scientists are all payed shills.
+
+>Rationality and truth is a moral good; it is a cornerstone on which everything else good is built. Rejecting this for your own tribalism and egoism is wrong, morally. And it's what's happening. CMV.
+
+My primary challenge to your view is this: morals are subjective to some degree. What you may view as a moral failure, another person may view as completely moral. Obviously, an extreme example of this would be how child marriage is viewed as morally acceptable in certain radical religious sects. For most of the rest of the world, obviously, child marriage is morally reprehensible, and you'd be hard-pressed to find anyone in the developed world who would disagree. 
+
+However, with something like climate change, it's far more complicated. Even in a room full of people who completely believe in the worst predictions about climate change, you'd probably have debate about what we, as a society, are morally obligated to do about it. Let's say we *are* morally obligated to do "something" about climate change. What, then, is the extent of our moral obligation? What actions could we take that are moral? Would it be moral to jail everyone who questions climate change? Some people might say yes. Many more would probably say no. However, passing laws to reduce carbon emissions would probably not raise any moral issues with anyone in that room. 
+
+So while you may consider climate change deniers to be a moral failure, someone might consider *you* a moral failure for not doing "enough" to stop climate change. Do you see what I'm getting at? It's hard to say that rejecting "rationality and truth" for "your own tribalism and egoism" is a moral failure, when you yourself are rejecting what someone else may consider "rationality and truth". 
+
+I don't know how you define "climate deniers" but the sense I get from your post is that it's anyone who questions climate science. If climate science is truly science, it *should* be questioned. This may have been brought up by other people ITT, but specifically with regard to the "when confronted with this, they switch to saying the scientists are all paid shills" is not without basis. Judith Curry, a former chair of the School of Earth and Atmospheric Sciences at the Georgia Institute of Technology, has been [outspoken about her opinions on that matter.](https://judithcurry.com/2017/01/03/jc-in-transition/) 
+
+**TLDR: Climate change denial isn't a moral failure unless you define what the moral obligations to address climate change are. Doing so is virtually impossible because those will vary by individual**
+Like the vast majority of people who go on rants about "climate change denier" you didn't touch on the real issue at all
+
+
+* What is the major cause of climate change?
+
+* Is it something that can be stopped?
+
+Are humans 80% of the problem or 8%?
+
+The consensus is that climate change is happening and we played some part.....how big of a part is very much in debate, as is what can we do to make any real impact moving forward.
+
+
+The scientific community isn't saying if we stop the burning of all fossil fuel tomorrow we can stop global warming...they are saying...meh couldn't hurt.
+

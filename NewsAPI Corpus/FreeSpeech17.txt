@@ -1,0 +1,39 @@
+Title: Musk Shows Us What Actual Government Censorship On Social Media Looks Like
+Source: Techdirt
+URL: https://www.techdirt.com/2025/02/03/musk-shows-us-what-actual-government-censorship-on-social-media-looks-like/
+
+Musk Shows Us What Actual Government Censorship On Social Media Looks Like
+
+from the i-thought-elon-was-against-twitter-colluding-with-the-government dept
+
+For years, we’ve watched self-proclaimed “free speech warriors” hyperventilate about imaginary government control of social media content moderation. Mysteriously, as I pointed out last fall, these warriors developed sudden laryngitis when social media platform owners Elon Musk and Donald Trump actually took over the US government. Anyone with a functioning brain knew this would eventually create real First Amendment problems when their government roles collided with their platform ownership. Guess what just happened?
+
+Over the weekend, Wired published an explosive report (which we covered this morning) naming six Elon Musk employees who have effectively commandeered significant portions of the federal government. These aren’t seasoned public servants — they’re inexperienced twenty-somethings between 19 and 24 with unprecedented access to sensitive government systems. As Cathy Gellis correctly points out, this represents a massive cybersecurity breach.
+
+The engineers are Akash Bobba, Edward Coristine, Luke Farritor, Gautier Cole Killian, Gavin Kliger, and Ethan Shaotran. None have responded to requests for comment from WIRED. Representatives from OPM, GSA, and DOGE did not respond to requests for comment. Already, Musk’s lackeys have taken control of the Office of Personnel Management (OPM) and General Services Administration (GSA), and have gained access to the Treasury Department’s payment system, potentially allowing him access to a vast range of sensitive information about tens of millions of citizens, businesses, and more. On Sunday, CNN reported that DOGE personnel attempted to improperly access classified information and security systems at the US Agency for International Development (USAID), and that top USAID security officials who thwarted the attempt were subsequently put on leave. The AP reported that DOGE personnel had indeed accessed classified material.
+
+The constitutional stakes here are clear: Elon Musk is now officially designated as a government employee. That means his actions are constrained by the First Amendment — constraints that exist independently of the performative White House executive order barring government employees from “unconstitutionally abridging free speech.”
+
+Because here’s where it gets constitutionally interesting: when someone posted these government employees’ names on ExTwitter, Musk — now wearing both his government official and platform owner hats — first declared it “criminal” to name government employees:
+
+And then he followed it up by having the comment removed:
+
+Let’s be crystal clear about what just happened: A powerful government official who happens to own a major social media platform (among many other businesses) just declared that naming government employees is criminal (it’s not) and then used his private platform to suppress that information. These aren’t classified operatives — they’re public servants who, theoretically, work for the American people and the Constitution, not Musk’s personal agenda.
+
+This doesn’t just “seem like” a First Amendment issue — it’s a textbook example of what the First Amendment was designed to prevent.
+
+The Supreme Court’s Bantam Books v. Sullivan precedent makes clear that government officials can’t use their position to coerce private entities into censorship. Musk isn’t just suggesting removal — he’s doing it directly.
+
+For context: During the Biden administration, we endured endless pearl-clutching from various commentators and self-proclaimed free speech warriors about how an out-of-context email from a White House official to a social media platform supposedly constituted a clear First Amendment violation. The Supreme Court ultimately rejected those overheated claims, noting the total lack of evidence of any government official having any traceable connection to a social media content moderation decision.
+
+But now we have something far more serious: a high-ranking government official using his privately-owned platform to actively suppress constitutionally protected speech about government activities. This isn’t an email expressing concerns — it’s direct government action to censor information about public officials.
+
+This incident not only exposes (yet again) the hollow nature of Musk’s “free speech absolutist” posturing, but it presents exactly the kind of “state action” that the First Amendment was written to prohibit: direct government suppression of protected speech about government activities.
+
+One might expect Matt Taibbi, Michael Shellenberger, and Bari Weiss — who characterized the Biden administration’s mere communications with social media platforms as “a grave threat to people of all political persuasions” and “the shocking and disturbing emergence of State-sponsored censorship” — to be leading the charge against this actual government censorship. Their continued silence speaks volumes.
+
+If they won’t stand up for the First Amendment when it actually matters, someone has to.
+
+Filed Under: 1st amendment, censorship, elon musk, free speech, state action doctrine
+
+Companies: twitter, x

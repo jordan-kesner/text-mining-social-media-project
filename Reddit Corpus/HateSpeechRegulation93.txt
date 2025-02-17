@@ -1,0 +1,25 @@
+Title: Feedback on interactive maps app
+
+Post:
+Hey there! Over the past few years, I've been developing an interactive maps app focused on publicly available maps in your area. It allows you to follow and easily access interactive map experiences on a variety of topics.
+
+Map creators here could be compared to YouTube creators in that they generate content and maintain an engaged map audience on topics that they love like food, student life, exchange students, lectures, markets, festivals, architecture, music, art, tourism and more. 
+
+While all users would have the ability to contribute and engage with the maps, the map creator would serve as the moderator, creating and guiding the content and interactions similar to Reddit. 
+
+For example, a map moderator could create a map centered around a Christmas theme in Stockholm. Using the available tools, the moderator could map anything from the internet onto maps with custom tools (upcoming events, news or information), share notes, images and videos on specific locations, draw and highlight beautiful spots around the city during the holiday season, start map conversations and send notifications about interesting changes on the map to its followers
+
+I’m looking to better understand the needs and motivations of potential map creators.
+
+* Would you be interested in becoming a map creator and designing map experiences for users?
+* What tools would you need to create engaging maps for a local community?
+* One idea I’m considering is offering map creators a share of sponsorship or ad revenue (with relevant companies advertising on their maps), or a revenue model based on follower count, similar to other platforms.
+* What other ideas or features do you think are essential to get this off the ground?
+
+I’d really appreciate your feedback! I'm also open to a quick 10-minute chat if that's easier. Thanks!
+
+Top Comments:
+If this post [doesn't follow the rules](https://www.reddit.com/r/socialmedia/about/rules/), please report it to the mods.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*

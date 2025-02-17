@@ -1,0 +1,71 @@
+Title: Why do white supremacists have so much freedom in the United States?
+
+Post:
+In the United States, the First Amendment to the Constitution protects free speech almost absolutely, allowing white supremacist groups, neo-Nazis and other far-right organizations to demonstrate publicly without government intervention, as long as they do not directly incite violence. Why has this legal protection allowed events such as the Right-wing Unity March in Charlottesville in 2017, where neo-Nazis and white nationalists paraded with torches chanting slogans such as 'Jews will not replace us,' to take place without prior restrictions? How is it possible that in multiple U.S. cities, demonstrations by groups like the Ku Klux Klan or the neo-Nazi militia Patriot Front are allowed, while in countries like Germany, where Nazism had its origins, hate speech, including the swastika and the Nazi salute, has been banned?
+
+Throughout history, the U.S. has protected these expressions even when they generate social tension and violence, as happened in the 1970s with the Nazi Party of America case in Skokie, Illinois, where the Supreme Court ruled in favor of the right of neo-Nazis to march in a community of Holocaust survivors. Why does U.S. law not prevent the display of symbols such as the swastika, the Confederate flag, or the Nazi-inspired 'Sonnenrad' (sun wheel), despite being linked to hate crimes? What role do factors such as lobbying by far-right groups, the influence of political sectors that minimize the problem of white supremacism, and inconsistent enforcement of hate crime laws play in this permissiveness?
+
+In addition, FBI ([2022](https://www.justice.gov/hatecrimes/hate-crime-statistics-2022)) ([2023](https://www.reuters.com/world/us/us-violent-crime-decreased-2023-hate-crimes-rose-fbi-reports-2024-09-23/)) studies have pointed to an increase in white supremacist group activity and an increase in hate crimes in recent years. Why, despite intelligence agencies warning that right-wing extremism represents one of the main threats of domestic terrorism, do these groups continue to operate with relative impunity? What responsibility do digital platforms have in spreading supremacist ideologies and radicalizing new members? To what extent does the First Amendment protect speech that advocates racial discrimination and violence, and where should the line be drawn between free speech and hate speech?
+
+I ask all this with respect, with no intention to offend or attack any society. The question is based on news that have reached me and different people around the world. Here are some of these news items:
+
+* [Charlottesville, Virginia, Reels From Deadly White Nationalist Rally](https://www.haaretz.com/us-news/2017-08-14/ty-article-live/charlottesville-virginia-reels-from-deadly-white-nationalist-rally/0000017f-e3c8-d38f-a57f-e7da10180000)
+* [Unity rally in Howell pushes back on recent white supremacy demonstrations](https://michiganadvance.com/2024/11/25/unity-rally-in-howell-pushes-back-on-recent-white-supremacy-demonstrations/)
+* [Neo-Nazis are on the March across America](https://www.wired.com/story/neo-nazi-demonstrations-trump/)
+* [White Nationalist Group Proud Boys March in DC to Celebrate Trump’s Inauguration](https://truthout.org/articles/we-are-back-proud-boys-march-in-dc-celebrating-trumps-inauguration/)
+
+And so there are a lot of other news... Why does this phenomenon happen?
+
+Top Comments:
+[A reminder for everyone](https://www.reddit.com/r/PoliticalDiscussion/comments/4479er/rules_explanations_and_reminders/). This is a subreddit for genuine discussion:
+
+* Please keep it civil. Report rulebreaking comments for moderator review.
+* Don't post low effort comments like joke threads, memes, slogans, or links without context.
+* Help prevent this subreddit from becoming an echo chamber. Please don't downvote comments with which you disagree.
+
+Violators will be fed to the bear.
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/PoliticalDiscussion) if you have any questions or concerns.*
+You answered your question in your first sentence:
+
+>In the United States, the First Amendment to the Constitution protects free speech almost absolutely
+
+If you're wondering why we haven't passed a constitutional amendment banning things like hate speech, the biggest answer is that it takes a huge supermajority of states to do so, and there just isn't political will for it. Many Americans take pride in our freedom of speech.
+
+But there's also a technical problem. If you have the time, read Leo Katz's Why The Law is So Perverse. These types of laws are incredibly difficult to write well, perhaps to the point of actually being impossible.
+
+To demonstrate just how hard it is to do, try this: Propose an anti-hate speech law which (1) actually addresses hate speech that isn't already illegal under for some other reason (such as inciting violence), and (2) *as written* would not apply to speech you believe should be protected. You can have as many do-overs as you want to rewrite the rule, but I'm confident that with only a minimal amount of effort I can find a serious flaw in it.
+>In the United States, the First Amendment to the Constitution protects free speech almost absolutely
+
+Well, there you go.
+
+I am unaware of any country that protects free speech from governmental control more maximally than the United States.
+The answer to your questions is pretty obvious: the U.S. conception of free speech is very maximal. 
+
+"Hate speech" isn't a thing under the U.S.'s First Amendment.
+
+The end.
+To all the people in the comments simply boiling it down to free speech protection, I think it is very important to look at this issue in the context of all the other types of speech the government and other law enforcement agencies do not in fact, officially or otherwise, care for and actively, sometimes violently, shut down. McCarthyism is one example, though leftist ideology in general is often treated very differently than the right-wing white supremacy OP is referring to. Even the civil rights movement (and in fact most movements involving POC activism in fact) received a lot of hostility and antagonism from the state, despite the eventual victories that were made on that front. I think these disparities speak more to the heart of OP’s question. Even though we enshrine the value of free speech officially, certain ideologies and speech are given preferential treatment while others are the explicit target of those in power. The FBI infiltrated BLM protests for god’s sake, and yet it’s journalists who seem to have to do the same for the right wing militias all over the country. 
+
+I’m not exactly sure the answer to OP’s question, but given the history of speech suppression in this country, it’s hard not to think that the power struggles of the ruling class tend to involve or at least find useful certain ideologies over others. We have a few explicit examples of this type of thing during Nixon’s administration, in which a variety of decisions were made regarding education and drug policies specifically to undermine certain minorities. These were covert efforts, but after the fact, advisors of his admitted to their true intentions. As far as I understand, this is a big part of the reason college is no longer free or at least heavily subsidized in did country. All this to say, if those with power sympathize with white supremacist ideology or goals, naturally they will give that type of speech more space than others. 
+
+I should also say that it’s sadly the case that most of us are also more tolerant of whites supremacist rhetoric, at least in its more covert forms, than we might be to other types of speech that gets consistently propagandized against by the state or media. This country and its culture is simply steeped in white supremacy. Tolerance to these types of groups might partially stem from that fact.
+I think a stronger curiosity is why we don’t have many federal domestic terrorism laws.  This has been a challenge FBI directors have mentioned to Congress.
+
+Then we see anti lynching legislation get voted down in the Senate.
+Everyone in the comments is ignoring important historical context. When minority groups have tried to use free speech, they have been attacked by dogs, sprayed by water cannons, arrested for disturbing the peace.
+This is a white supremacists nation. The law allowing citizens to kill natives in Colorado was ended in 2021. The first organized police forces were slave catchers.
+It's not a party issue. The Dems including Joe Biden passed draconian anti drug laws that targeted the black community. Black people are still in jail for weed while rich white people are making millions. 
+The FBI has been warning for years that white supremacists groups were going out of their way to recruit police and military. 
+The law is applied differently to different groups. This shouldn't be a surprise to anyone paying attention.
+The current administration created a department to combat criticism of “Christians.” 
+
+They, white supremacists, want the power to silence people critical of them.
+The first amendment is a double edge sword.
+
+It not only allows neo nazis to speak freely but also any lgbtq groups, Pro-black or any other group wanting to have a voice, a way to express themselves and be heard. So long as it's in a non violent manner and they don't distrupt everyones day to day life. Unlike what majority of groups do with blocking highways, chaining themselves to doors and rioting.
+
+Unfortunately we have to take the good, with the bad and hope the majority of the population will see what a group of asses the bad groups are and try not to support them and call them out on their bullshit.
+Free speech in the US is a double edged sword. On the one hand, you theoretically can't be prosecuted for voicing your opinions. On the other hand, somehow anonymous political spending is also free speech. That last part is currently dismantling the part about individual opinions. Like a lot of liberties, it's original meaning has been perverted to benefit privileged people.

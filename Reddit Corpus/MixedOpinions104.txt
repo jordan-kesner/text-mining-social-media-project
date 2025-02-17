@@ -1,0 +1,134 @@
+Title: Why randomly choosing people to serve in Congress is the best way to select our politicians
+
+Post:
+So I'm a huge advocate of something known as [sortition](https://en.wikipedia.org/wiki/Sortition), where people are randomly selected to serve in a legislature. Unfortunately the typical gut reaction against sortition is bewilderment and skepticism. How could we possibly trust ignorant, stupid, normal people to become our leaders?
+
+Democracy by Lottery
+-------------------------
+**Imagine a Congress that actually looks like America. It's filled with nurses, farmers, engineers, waitresses, teachers, accountants, pastors, soldiers, stay-at-home-parents, and retirees. They are conservatives, liberals, and moderates from all parts of the country and all walks of life.**
+
+Practically, a lottery is used to draw around 100 to 1000 people to form one house of Congress. Service is voluntary and for a fixed term. To alleviate the problem of [rational ignorance](https://en.wikipedia.org/wiki/Rational_ignorance), chosen members could be trained by experts or even given an entire elite university education before service. Because of random sampling, a sortition Citizens' Assembly would have superior diversity in every conceivable dimension compared to any elected system. Sortition is also the ultimate method of creating a [proportionally representative](https://en.wikipedia.org/wiki/Proportional_representation) Congress. 
+
+Real World Evidence
+----------------------
+I've made some claims, but how would democratic lotteries work in the real world? Fortunately, sortition activists have been experimenting with hundreds of [Citizens' Assemblies](https://en.wikipedia.org/wiki/Citizens%27_assembly) across the world. The decisions they have come to have been of high quality. For example:
+
+ * The BC Columbia Citizens Assembly was tasked with designing a new electoral system to replace the old [first-past-the-post](https://en.wikipedia.org/wiki/First-past-the-post_voting) (FPTP) system. The organizers brought in university experts. The organizers also allowed citizens, lobbyists, and interest groups to speak and lobby. Assembly members listened to all the sides, and they decided that the lobbyists were mostly bullshit, and they decided that even though the university experts had biases, they were more trustworthy. This assembly ultimately, nearly unanimously decided that Canada ought to switch to a [Single-Transferable-Vote](https://en.wikipedia.org/wiki/Single_transferable_vote) style election system. They were also nearly unanimous in that they believed FPTP voting needed to be changed. This assembly demonstrates the ability of normal people to learn and make decisions on complex topics. 
+ * In [Ireland](https://en.wikipedia.org/wiki/Citizens%27_Assembly_\(Ireland\)), Citizen Assemblies were instrumental in the legalization of both gay marriage and abortion in a traditionally Catholic country. Ignorant politicians thought the People wouldn't be able to compromise on these moral issues, yet they certainly were, when you finally bothered to get them into a room together.
+ * Recent 2019-2020 Citizen Assemblies in Ireland and [France](https://en.wikipedia.org/wiki/Citizens_Convention_for_Climate) reached consensus on sweeping, broad reforms to fight climate change. In Ireland taxes on carbon and meat were broadly approved. In France the People decided to criminalize "ecocide", raise carbon taxes, and introduce regulations in transportation and agriculture. Liberal or conservative, left or right, near unanimous decisions were made on many of these proposals.
+
+
+Comparing to Elections
+---------------------------
+This model of democracy stands in stark contrast with what all elections offer. All electoral methods are a system of choosing a "natural aristocracy" of societal elites. This truth has been observed by philosophers such as Aristotle since ancient Greek elections 2400 years ago. In other words, all elections are biased in favor of those with wealth, affluence, and power. 
+
+Moreover, all voters, including you and me, are rationally ignorant. Almost none of us have the time nor resources to adequately monitor and manage our legislators. In the aggregate as voters, we vote ignorantly, oftentimes solely due to party affiliation or the name or gender of the candidate. We assume *somebody else* is doing the monitoring, and hopefully we'd read about it in the news. And indeed it is somebody else - marketers, advertisers, lobbyists, and special interests - who are paying huge sums of money to influence your opinion. Every election is a hope that we can refine this ignorance into competence. IN CONTRAST, in Citizens' Assemblies, normal citizens are given the time, resources, and education to become informed. Normal citizens are also given the opportunity to deliberate with one another to come to compromise. IN CONTRAST, politicians constantly refuse to compromise for fear of upsetting ignorant voters - voters who did not have the time nor opportunity to research the issues in depth. Our modern, shallow, ignorant management of politicians has led to an era of unprecedented polarization, deadlock, and government ineptitude. 
+
+* **[A stupid comparison chart I made](https://imgur.com/a/8kKBlE9)**
+
+
+Answering Common Concerns
+---------------------------------
+The typical rebuttal towards sortition is that people are *stupid, unqualified, and cannot be trusted with power*. Or, people are "sheep" who would be misled by the experts. Unfortunately such opinions are formed without evidence and based on anecdotal "common sense". And it is surely true that ignorant people exist, who as individuals make foolish decisions. Yet the vast majority of Americans have no real experience with actual Citizens' Assemblies constructed by lottery. In the real world, normal people are keen to retain their power and sovereignty (and are therefore quite happy to push back against expert opinion), and they take their role as legislator seriously (based on Helene Landemore's observations on the French Climate Assembly). The empirical evidence, based on all the results of Citizen Assemblies and [deliberative polls](https://en.wikipedia.org/wiki/Deliberative_opinion_poll) performed in recent years, in my opinion is sufficiently compelling to suggest that Citizens' Assemblies are competent. The opposition does not yet take sortition seriously enough to offer any counter-evidence of substance. 
+
+The second concern is that normal citizens are not experts whereas elected politicians allegedly are experts. Yet in modern legislatures, no, politicians *are not* policy experts either. The sole expertise politicians qualify for is fundraising and giving speeches. Actual creation of law is typically handled by staff or outsourced to lobbyists. Random people actually have an advantage against elected politicians in that they don't need to waste time campaigning, and lottery would not select for power-seeking personalities. 
+
+The third concern is with corruption. Yet sortition has a powerful advantage here as well. Corruption is already legalized in the form of campaign donations in exchange for friendly regulation or legislation. Local politicians also oftentimes shake down small businesses, demanding campaign donations or else be over-regulated. Sortition fully eliminates these legal forms of corruption. Finally sortition legislatures would be more likely to pass anti-corruption legislation, because they are not directly affected by it. Elected Congress is loath to regulate itself - who wants to screw themselves over? In contrast, because sortition assemblies serve finite terms, they can more easily pass legislation that affects *the next* assembly, not themselves. 
+
+
+Strategy and Implementation
+------------------------------
+Implementation for current activists revolves around finding political wedge issues and giving politicians an "out" where they can use a Citizens' Assembly to make the hard decision that politicians are too incompetent to make themselves. This is what was done for example in Ireland. The use of a Citizens' Assembly can also potentially give a politician "democratic credibility", for example with Macron and the French Climate Assembly. Then, if these Citizen Assemblies get more popular, activists can push politicians to make a permanent citizen's body that would eventually take more and more powers away from the status quo legislature. A similar process has constructed a permanent advisory citizens' assembly in Belgium.
+
+As far as the ultimate form sortition would take, many advocate for a two-house Congress, one elected and one randomly selected. This system attempts to balance the pro's and cons of both sortition and election. Alternatively, multi-body sortition constructs checks and balances by creating several sortition bodies - one decides on what issues to tackle, one makes proposals, one decides on proposals, etc. 
+
+-------------------
+
+**TLDR: Selecting random people to become legislators might seem crazy to some people, but I think it's the best possible system of representation and democracy we can imagine. There's substantial empirical evidence to suggest that lottery-based legislatures are quite good at resolving politically polarized topics.**
+
+----------------------------
+
+Resources
+-----------
+* https://randomaccessdemocracy.org/resources/
+* https://www.democracywithoutelections.org/
+* https://www.sortitionfoundation.org/
+* https://equalitybylot.com
+
+Books
+---------
+* Against Elections - David Van Reybrouck
+* The End of Politicians - Brett Hennig
+* Open Democracy - Helene Landemore
+* The Athenian Democracy in the Age of Demosthenes (J.A. Crook trans.). -- Mogen Herman Hansen
+* When the People Speak  - James Fishkin
+
+Podcasts
+---------
+* [Malcolm Gladwell - The Powerball Revolution](http://revisionisthistory.com/episodes/44-the-powerball-revolution)
+* [Ezra Klein Show - A Radical Proposal for True Democracy](https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?i=1000510299372)
+
+Top Comments:
+Great post!  I'm in Texas, and I recently went down a rabbit hole of learning about sortition during our recent winter storm and subsequent infrastructure crash.  While our politicians were on Fox News blaming the catastrophe on windmills, or fleeing to luxury resorts in Mexico, I saw all of my neighbors (black, white and brown, liberal, conservative and everything in between) coming together to fill in the leadership gap, restore order, and literally save lives.  All I could think to myself was, "I would take *any* of my neighbors, chosen at random, over what we've got".
+> The typical rebuttal towards sortition is that people are stupid, unqualified, and cannot be trusted with power.
+
+This is my take on this matter. Yes, I know you claim that there is no compelling evidence other than anecdotal, but I could say the same thing about your evidence supporting "citizen assembly" style systems. If a room full of people come to a decision on something, that doesn't necessarily mean that it was the right decision. I'd love to see more empirical data that suggests this system has merit on a larger and broader scale.
+My biggest concern that you haven't addressed is what type of people may accept this position being randomly thrust upon them. It would require putting a lot of their life on hold for 2 years and to uproot themselves to travel back and forth from Washington. That's a huge decision. It may increase the marketability of their skills if they do well, or it could destroy the prospects they were working on. It seems such an imposing ask would quickly whittle down this idealistic image of representation you presented. I like the idea, I'm just skeptical of the type of people who would accept the position when applied on the large scale.
+My initial reaction is no, but that's emotional. I like it, especially as a "branch" of government rather than the entire thing.
+
+> The second concern is that normal citizens are not experts whereas elected politicians allegedly are experts. Yet in modern legislatures, no, politicians are not policy experts either. The sole expertise politicians qualify for is fundraising and giving speeches. Actual creation of law is typically handled by staff or outsourced to lobbyists. Random people actually have an advantage against elected politicians in that they don't need to waste time campaigning, and lottery would not select for power-seeking personalities.
+
+This is my biggest problem. _Good_ politicians should at least listen to experts. I think a lot of normal folk would, but not all. Would these randomly selected folks still be sorted into committees based on their actual knowledge? I don't want a 60 y/o farmer deciding tech as much as I don't want a 25 y/o programmer deciding foreign policy. There is just too much done in Congress that depends on these committee's before bringing it to the wider vote. There has to be a degree of not only listening to experts, but understanding what they are saying and taking the next step to make a decision based on that information and other context.
+
+Your statement in particular also feels like it just pushes the corruption (or, less dramatically, the cronyism and "way-things-have-always-been-done"-ness) lower. The staffers and law-writers now have the power to put loopholes and subtleties in super long-form bills that they were previously instructed to do by other congress staffers. The average citizen might not be a complete idiot, but the average citizen also doesn't want to read 100 pages of legal jargon even if they do honor the importance of the position.
+
+Lastly, how does pay work? Why would a high-earner allow themselves to be randomly selected? Does the ability to reject invitation skew the NewHouse to lower socio-economic classes?
+The Malcolm Gladwell episode was very interesting.   
+
+I’ve done some research and contemplation on this topic ever since that episode came out. My conclusion is that a modified/qualified “jury” system would net the best representation and results.   
+
+If we consider legislative involvement to be a **civic duty** rather than a socioeconomic-political privilege, then we could set up a system similar to the present US jury system, where participation in enrollment is mandatory yet there is a set of disqualifications which might apply to an individual after their name has been drawn for duty.    
+
+—   
+This system has proven results for local administration of justice, as seen in the US system. I’m hopeful about this style of administration translating well into national and international levels of legislation, but my hope is balanced by analytical skepticism which is wary of non-local government in general.     
+
+My personal view is that we reduce national and international legislative initiatives, and instead focus on localist representation in administration and legislation with the goal of broad distribution of justice and ownership throughout society, starting on the local grassroots level for the sake of both stability and personalist virtue.
+This reminds me of the famous William F Buckley quote
+
+>I Would Rather Be Governed By the First 2,000 People in the Telephone Directory than by the Harvard University Faculty
+
+I do have a soft spot for putting the congress in the same box as jury duty.
+This is neat, but I also think this is one of those proposals where all of its benefits over the existing system can be achieved by modifying the existing system. As with your anti-corruption point, finite term limits do promote anti-corruption limits. We could implement this entire system...or just impose/demand term limits for existing congressional offices. 
+
+&#x200B;
+
+I do however think that political ignorance can be stemmed by assigning responsibility. I really wish the US utilized more referendums. The opportunity for direct action may spur voters to educate themselves on particular topics. Referendums have their limitations when contending with complex policy, as seen with Brexit, but they are quite powerful when they focus on issues more easily grasped, such as marijuana legality, gun control, certain taxes, etc.
+
+&#x200B;
+
+And here's an upvote for the neat write up.
+Whether I agree or not this is a fantastically well-crafted post; and I'm intrigued to see what sort of discussion this spawns.
+
+I admit, I'm intrigued but still... 'confused and bewildered', I guess. It resembles a little to me the idea of the bicameral parliamentary system which I like, admittedly— an upper house filled with political professionals representing their states based on democratic principles, political experience, and representation of the broader union of states, and then a lower house of (literal) common(er)s that are truly 'the people'. Balancing the will of the people against the need for professional opinions about political realities, essentially.
+
+Your argument, however, leans pretty heavily on the idea that the present House of Representatives is... not representative, corrupt, and leveraged heavily by this idea of 'marketing' vs legitimate interest of their people. I think I'd need a stronger argument that the House *doesn't* represent the people as-is than "it seems bad because of campaign finance laws". Obviously members of our NewHouse(TM) will be just as subject to political pressures (even non-financial ones) and perhaps even less capable of fending them off— offering my representative $50 for their vote today is a losing proposition because they know they'd have to defend it to the tune of $XX,000 in donations next cycle— but the same might not be true of regularly recycled 'politicians'. This is a similar argument used against term limits, which I also oppose.
+
+Anyway; short-form my point is that this is a great post and a political theory question I haven't considered in 20 years or so since I was in school. I'm intrigued to see what people think about it now and outside of my tiny-class Socratic private university setting.
+This is really cool to see, having pondered something similar for years now.
+
+Obviously, a lot of discussion and thought has gone into this whole movement (and your post as well), and I don't want to be presumptuous with my own theory here, but here's the concept:
+
+What if we had a tricameral legislative branch, in which the third house only voted yes/no on bills - no bill introductions and no amendments.  For each bill, 1,000 registered voters would be selected at random, given e.g. 2 weeks (or maybe a period proportional to the length of the bill) to make a decision, and then submitted their vote.  The identity of voters for each bill is kept as secret as possible in order to eliminate influence, although obviously you can't do any more than ask that people not disclose their assignments, not unlike jury duty.
+
+My hope is that bills that are unspecific, full of pork, and too lengthy would be poorly received by the public; the detractors would say that everyday voters don't have the legal sophistication to assess the bills; the rebuttal is that neither do people in Congress; the counter is that the staffs of congresspersons are legal experts and will help them decide what to vote for, etc.
+
+Anyway, lots of nuance either way, but I'm just glad to hear that something like that idea has legs and is being discussed.
+There are two main problems with sortition as described. I'm going to assume you have a well-functioning democracy as the alternative because there are ways to address representativeness and corruption without sortition.
+
+1) There is far more to the work of legislators than just voting on legislation, particularly committee work and representing the concerns of citizens to government. The former *definitely* benefits from a detailed knowledge of the workings of government and there's no obvious reason why a randomly selected citizen would care about the latter.
+
+2) Following on from the point about the workings of government, picking random citizens inevitably moves power to the bureaucracy.
+
+Most participative democracy exercises asks legislators to pick between big picture options, not the nitty-gritty of legislation clauses. In a sortition model, public service heads would effectively choose what legislation to prioritize and decide the means of implementation after citizens picked an option.
+
+The alternative is unthinkable. With no condensation of debate to a few major viewpoints, every single piece of legislation would bog down in hundreds of amendments of various quality and thoughtfulness. The only possible way to make this work would be to select people for a long enough time period to allow factions to naturally emerge - but in that case we're just creating an unelected political class.

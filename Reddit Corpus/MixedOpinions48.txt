@@ -1,0 +1,84 @@
+Title: State of the Subreddit: Victims of Our Own Success
+
+Post:
+###Subreddit Growth
+2020 was a busy year. Between a global pandemic, racial unrest, nation-wide protests, controversy around the Supreme Court, and a heated presidential election, it's been a busy 12 months for politics. For this community, the chaotic nature of 2020 politics has resulted in unprecedented growth. Since April 2020, the size of this subreddit has more than quadrupled, averaging roughly 500 new subscribers every day. And of course, to keep the peace, the Mod Team averages 4500 manually-triggered mod actions every month, including 111 temp bans for rule violations in March alone.
+
+###Anti-Evil Operations
+This growth, coupled by the politically-charged nature of this community, seems to have put us on the radar of the Admins. Specifically, the "Anti-Evil Operations" team within Reddit is now appearing within our Moderator Logs, issuing bans for content that violates Reddit's Content Policy. Many of these admin interventions are uncontroversial and fully in alignment with the Mod Team's interpretation of the Content Policy. Other actions have led to the Mod Team requesting clarification on Reddit's rules, as well as seeking advice on how to properly moderate a community against some of the more ambiguous rules Reddit maintains.
+
+After engaging the Admins on several occasions, the Mod Team has come to the following conclusion: we currently do not police /r/ModeratePolitics in a manner consistent with the intent of the Reddit Content Policy.
+
+###A Reminder on Free Speech
+Before we continue, we would like to issue a reminder to this community about "free speech" on Reddit. Simply put, the concept of free speech does not exist on this platform. Reddit has defined the permissible speech they wish to allow. We must follow their interpretation of their rules or risk ruining the good-standing this community currently has on this platform. The Mod Team is disappointed with several Admin rulings over the past few months, but we are obligated to enforce these rulings if we wish for this community to continue to operate as it historically has.
+
+###Changes to Moderation
+With that said, the Mod Team will be implementing several modifications to our current moderation processes to bring them into alignment with recent Admin actions:
+
+1. The Moderation Team will no longer be operating with a "light hand". We have often let minor violations of our community rules slide when intervention would suppress an educational and engaging discussion. We can no longer operate with this mentality. 
+2. The Moderation Team will be removing comments that violate Reddit's Content Policy. We have often issued policy warnings in the past without removing the problematic comments in the interest of transparency. Once again, this is a policy we can no longer continue. 
+3. Any comment that quotes material that violates Reddit's Content Policy will similarly be considered a violation. As such, rule warnings issued by the Mod Team will no longer include a copy of the problematic content. Context for any quoted content, regardless of the source, does not matter. 
+
+###1984
+
+With this pivot in moderation comes another controversial announcement: as necessary, certain topics will be off limits for discussion within this community. The first of these banned topics: gender identity, the transgender experience, and the laws that may affect these topics.
+
+Please note that we do not make this decision lightly, nor was the Mod Team unanimous in this path forward. Over the past week, the Mod Team has tried on several occasions to receive clarification from the Admins on how to best facilitate civil discourse around these topics. There responses only left us more confused, but the takeaway was clear: any discussion critical of these topics may result in action against you by the Admins.
+
+To best uphold the mission of this community, the Mod Team firmly believes that you should be able to discuss both sides of any topic, provided it is done in a civil manner. We no longer believe this is possible for the topics listed above. 
+
+If we receive guidance from the Admins on how discussions critical of these topics can continue while not "dehumanizing" anyone, we will revisit and reverse these topic bans. 
+	
+###A Commitment to Transparency	
+Despite this new direction, the Mod Team maintains our commitment to transparency when allowed under Reddit's Content Policy:
+
+1. All moderator actions, including removed comments, are captured externally in our public [Mod Logs](https://modlogs.fyi/r/moderatepolitics). 
+2. The entire Mod Team can be reached privately via [Mod Mail](https://www.reddit.com/message/compose?to=%2Fr%2Fmoderatepolitics).
+3. The entire Mod Team can be reached publicly via our [Discord channel](https://discord.gg/EJ4qAQu).
+4. Users are welcome to make a Meta post within this community on any topic related to moderation and rule enforcement.
+
+We welcome any questions, comments, or concerns regarding these changes.
+
+Top Comments:
+> Other actions have led to the Mod Team requesting clarification on Reddit's rules, as well as seeking advice on how to properly moderate a community against some of the more ambiguous rules Reddit maintains.
+
+For transparency, Here is the admin response that we received:
+
+> From (redacted) [A] via /r/reddit.com sent 3 days ago
+
+>The issue with these comments is dehumanization and hate - not necessarily the topic they are trying to discuss. These topics can be discussed but it's not okay when people start dehumanizing or insulting people based on identity. It can be a fine line to walk and often people do cross it.
+
+Edit: as Dan says, there is some content that was struck by Admins that makes us question if our definition of dehumanization and hate (which should generally fall under our 1st Law as personal attacks), is in alignment with that of the Admins. The vagueness of their response to our request for clarification makes us question whether we can even predict with any consistency what such an alignment entails and apply it within the framework of our mission of free and open civil discussion.
+
+Here is one example of a statement that was struck by an Admin (edited because reasons):
+
+>I think it's weird for a person [WEARING A PACKERS JERSEY] to be in a [BEARS] restroom, regardless if whatever you identify as
+
+While I personally disagree with this view and don't think it considers the unintended consequences of the alternative, the absolute last thing I would think is that it has no place in our community. Reddit's (presumed) goals in this effort are in fact hampered by preventing the discussion from taking place.
+There's something so deliciously dystopian about anyone in an authoritative position referring to themselves as "Anti-Evil." It really inspires a lot of trust, you know?
+> 1984 
+
+Appropriate rule number?
+
+How will this affect open posts that are currently discussing the issue that shall not be named?  
+
+Locked, removed from history, or simply no allowed posts or comment going further ?
+&#x200B;
+
+>The first of these banned topics: gender identity, the transgender experience, and the laws that may affect these topics.
+
+Sometimes the laws that affect transgender may also affect other groups in the LGBTQ+ coalition. A recent example the Arkansas healthcare religious objections bill. If I understand you correctly, we would be able to post about the bill but could not comment on the bill's effects on specifically transgender issues. Is that a correct understanding of the new subreddit rules?
+Sucks that you all had to deal with that from the admins - it's already thankless work and then throw something like this in to the mix... appreciate the work. 
+
+But yeah...This is pretty wild. I would really love to know the comments that triggered the attention of the "anti evil" people but understand if you can't share that. From what I can tell about the mods this would not have happened lightly.
+>With this pivot in moderation comes another controversial announcement: as necessary, certain topics will be off limits for discussion within this community. The first of these banned topics: gender identity, the transgender experience, and the laws that may affect these topics. 
+
+I hope this gets VERY prominently added to the sidebar, or there will be LOTS of bans incoming of people who didn't know better.
+This is... disturbing. 
+
+Not the Mod Team's actions, I understand why this change is necessary.
+
+But the Admins' 'Anti-Evil Operations' team (I can't think of a word that adequately describes the blend of cringe and slime that name makes me feel) sounds a lot like Reddit is trying to down-select the userbase based on perceived incorrect opinions. 
+
+Have there been any indications of what other topics might be on the chopping block?
+I think it would be more appropriate to title the rule *451*, since in that book it explicitly mentions how topics are shunned because people find them offensive to x or y minority (and everyone is in some minority whether they be cat owners or vegetarians or black people) and that's why they get burned, because the people themselves have decided they don't want to encounter anything someone might find offensive. But I understand it's really from Reddit not from you guys, so yeah, I suppose Ignorance is Strength works.

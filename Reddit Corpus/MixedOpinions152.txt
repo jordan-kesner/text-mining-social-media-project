@@ -1,0 +1,70 @@
+Title: CMV: 3d printing has killed at least some forms of gun control in the US
+
+Post:
+Starting a new thread as the old ones I could find were mostly 6-10 years old and the tech has progressed.
+
+In the united states,
+
+3d printing has progressed vastly vs were it was when this conversation started we now have 350 dollar printers that reliably print after anywhere from 0 to 5 hours of tuning. (https://us.store.bambulab.com/products/a1?variant=41583355199624&srsltid=AfmBOooUPo7VJhpip-1atVAaw41H1HQGpb_8EMD7g4QCBQwh52ZmAa-a) 
+
+There is still some skill in printing but there is far less troubleshooting required then there was before. We have better stock slicer settings automatic leveling and calibration, and more accessable guides on diagnosing and fixing.
+
+The files have gotten better, when cody wilson released the liberator (the first 3d printed gun ever) it used ABS which is slightly more tricky to print and weaker (still not a bad material) and was a single shot. now we have better filament PLA and PLA plus which are made to be easier to print, carbon fiber nylon, glass fiber nylon. (which is what commercial guns are injection molded out of) 
+
+We have printed mags for glocks, CZ scorpions, MP5s, ARs, Aks and most other main platforms
+
+And the guns theres the FGC9 which while it has its issues tends to work
+Theres the urutau which has an out of battery safety (unlike the FGC 9)
+These designs use no firearms parts no regulated componets
+
+In the US (where metal parts are almost entierly unregulated)
+
+We have the bobcat, the ARK, printed CZ scorpians, a whole slew of Mac 11 designs, glock frames, AR recivers, the CETME 2077 all of these designs are tested and prototyped with thousands of rounds. (ARs and the CETME it should be noted shoot full power rifle rounds)
+
+For mag bans magazines are not marked making dating them difficult meaning that a printed mag made today when they are not banned could not be reasonably differentiated from one made after a mag ban. If it was required that ever gun made by any process after 2025 gad a serial number there would still be no way to tell if the gun was simply made before that rule and was grandfathered in.  And you must grandfather in guns without serial numbers because one there is precedent the 1968 gun contol act required all commercially mfg'ed firearms to have serial numbers. Guns made before that law came into effect do not always have it meaning there are hundreds of thousands to millions of  normal guns that simply do not have one.
+
+There is also the matter of how do you enforce requiring serial numbers on the potentally hundreds of thousands of currently existing printed guns and the fact bans of currently legal guns requiring them to be turned in have not been tested, reclassifications have (like bump stocks being declared MGs and pistol braces being declared SBRs) and they have a strong history of being over turned
+
+Regulating the files is highly difficult number one it is the internet the fact we can pirate movies and games easily enough(which is already illegal) is proof we have difficulty controlling file sharing. There is the matter of the first amendment a file to print a gun does not in and of its self cause direct harm to a person yelling fire is perfectly legal in your  home or in the woods  though you may face legal repercussions if you yell it in a crowded theater.(also this example of "fire in a crowded theater was from a SC desicion about censorship in WW1 that was later rejected by the SC)
+
+Regulating the tech is hard also.
+ There are three things required to 3d print a gun
+
+A file which requires CAD softwear to create,
+A slicer which turns the CAD model into Gcode the printer can read,(softwear)
+A working printer with good tolarence
+
+There is open source CAD softwear (freeCAD) that is locally hosted meaning it cannot be checked or report to a regulator without access to the device. Requiring everyone have every computer always have an internet connection is not just no doable (there goes airplane mode) but is also a invasion of privacy and requiring that all CAD softwear be cloud based one gets us back to how do you stop file sharing.
+
+The slicers (super slicer, prusa slicer, cura and orca slicer) are locally hosted and open source. Meaning even if you required them to check and not process gun files any user could go into the code and remove the code that does that (remember the file sharing argument and consider there will be old versions floating around also) requiring that the project goes closed source would dramatically slow development, not address the slicers from outside the US and would be a huge step backword for softwear development.
+
+The printers.
+
+There are a slew of good open source printers (prusas, Voron, VZbot, RepRap) that use parts PSU that would be equally at home on a PC or robot, aluminum extrusion, Linear rails, stepper motors, micro PCs and SBC(like raspberry Pis) you cannot effectively regulate printer parts without regulating CNC routers and robotics the nozzles used to be MIG contact tips.
+
+I can't wait to hear ya'lls thoughts I know much of these argumebts could apply to europe as well as the US I jist wanted to start with the US and really felt this topic deserved an updated thread
+
+Top Comments:
+/u/EmilytheALtransGirl (OP) has awarded 2 delta(s) in this post.
+
+All comments that earned deltas (from OP or other users) are listed [here](/r/DeltaLog/comments/1f2n562/deltas_awarded_in_cmv_3d_printing_has_killed_at/), in /r/DeltaLog.
+
+Please note that a change of view doesn't necessarily mean a reversal, or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+A clarifying question: when you say that it's "killed" certain aspects of gun control, what exactly do you mean?  Is it that certain laws are wholly ineffective, is it that it's functionally impossible for governments to restrict their production, or is it something else?
+I’ve read through your post, but I can’t find where you describe how 3D printing uniquely kills any form of gun control. People have been able to make homemade guns since before 3D printing was even possible. What novel thing does 3D printing do that allows it, but not homemade guns, to kill a portion of gun control?
+3d printing didn’t kill any gun control. If you wanted to circumvent any hypothetical restriction it’s not hard to build any of the things that are commonly made with a 3d printer, without one. It takes a bit more effort and skill of course but fundamentally nothing has changed just the tools have. Open bolt, blow back, machine guns can be made with pipes, hand tools and a bit of math to determine the correct bolt weight all this information is available online just like 3d models. 
+
+You can say it has made it easier or faster to circumvent laws but fundamentally nothing has changed and practically most gun regulations are extremely easy to circumvent, without a 3d printer, if you’re a bit handy, guns are simple machines.
+Remember, gun control is a law. It's a law enforcement tactic. When a cop arrests someone for a crime and they have a printed gun, the cop takes it and prosecutor has leverage to get information to stop the gun printing operation. 
+
+The goal of gun control is mostly to get illegal guns off the streets
+Just because people can cook meth in their garage, doesn't make drug control any less important. Actually it makes it more important.
+considering 3d printing exists in other developed countries.. and most of them don't have crazy gun problems.... I think 3d printed guns is the very very least if American gun problems. 
+
+  
+Seems to me that the biggest issue for gun violence, and death...  is the stupid propoganda that shuts down like half that country when you bring it up. their brain can't realise humans came up with all this shit and that humans update shit when they improved their knowledge.  like their holy 2nd amendment. 
+
+  
+it's no coincidence that this majority of supporters for stupid laws also don't think religious texts are man made works of fiction.

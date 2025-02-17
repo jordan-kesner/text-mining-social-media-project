@@ -1,0 +1,65 @@
+Title: Modpost: Small rule change, a clarification, a reminder and a call for general feedback.
+
+Post:
+Hi everyone,
+
+The mods thought that since we haven't for a while, it would be a good chance for some housekeeping. There has been a small change to the wording of a rule, a few reminders about current rules and also a chance for you to give us some feedback about where the subreddit is now and where you want it to head in the future.
+
+---
+
+**Change to rule 8**
+
+This change isn't drastic and it's mostly to reflect how we already moderate the subreddit. The rule was previously:
+
+> **Mods reserve the right to remove content or restrict users' posting privileges as necessary if it is deemed detrimental to the subreddit or to the experience of others.** Content solely intended to offend or inflame will not be allowed. 
+
+and has been changed to
+
+> **Mods reserve the right to remove content or restrict users' posting privileges as necessary if it is deemed detrimental to the subreddit or to the experience of others.** All users are expected to be **respectful** to other users at all times. Personal attacks or comments that insult or demean a specific user or group of users will be removed and regular or egregious violations will result in bans. 
+
+As you can see, we want to make it extremely clear that we won't tolerate personal attacks. To be clear, you're still allowed to make jokes and you're still allowed to express opinions but comments may be removed when they're malicious or only designed to be inflammatory. Examples:
+
+> I dislike republicans because they don't seem to understand that the privileges they received greatly impacted on their ability to have the success they now enjoy.
+
+is fine because while it may be against a group of users, it's an actual opinion that is posed as such.
+
+> Fuck you republican scum.
+
+is clearly an attack on a specific user/group of users. It adds nothing except for making reddit less enjoyable for a subsection of our users.
+
+> Republicans are a bunch of cunts.
+
+Is generic and not targeted at anyone but is still clearly just designed to inflame. It adds no value.
+
+At the end of the day, we do want this to be a free and open forum. However, while it's important to respect your right to open discourse it's even more important to respect people's right to have an abuse free reddit experience. We can't promise to remove all nasty comments (we receive tens of thousands of comments per day) but we should all be striving to make AskReddit as enjoyable for **everyone** as possible. If you can't contribute without using slurs or getting into fights with everyone you talk to, perhaps you should consider whether you are adding or detracting from the subreddit. 
+
+---
+
+**Rule 1/2 Reminder**
+
+There is sometimes confusion about rules 1 and 2 so we wanted to try and clear some of it up. The purpose of rules 1 and 2 is to make it so that questions get up/downvoted own their own merit, not based on the story or personal context from the OP. **AskReddit is for discussion questions**, if you want advice, /r/advice is a better place to go. If you only want to tell your story, there's /r/self or /r/rant. What we want to encourage in AskReddit is genuine, open questions that allow for a range of responses and personal experiences. In short, if the question is about *you*, it's not appropriate for AskReddit and you need to find a way to depersonalise it or find a more appropriate subreddit. 
+
+---
+
+**Personal Information**
+
+Just a reminder to everyone that all personal information, made up or real, your information or someone else's, will result in a ban without previous warning. We can't possibly verify where a phone number comes from so if you post a real number, you **will** be banned. The only context where it's okay to post a phone number, address or e-mail address is publicly available information and is for an obvious, stated purpose (e.g., providing someone with a suicide helpline number). Of course, while identifying a specific user by their name is doxxing, it's different to use the full name of Barack Obama. As a good rule of thumb, don't post information about anyone who doesn't have a wikipedia page about them. Our top priority is the safety of users and posting PI can have very real implications for people. We have zero tolerance for it and so do the admins.
+
+---
+
+That's it for the rule changes and reminders. We would really like to hear your feedback about where the sub is right now and where you'd like it to go in the future. You can always leave us suggestions at /r/IdeasForAskreddit which is checked regularly by the moderators and has led to some ideas being implemented. 
+
+Top Comments:
+ITT: Everyone gives the mods shit for doing their jobs. Then, we all play a rousing game of "does this obscure and unlikely scenario break the rules?"
+Ill chime in and reiterate /r/ideasforaskreddit!
+
+Its not like the suggestion box that actually leads to the trash bin, we really enjoy the ideas there and **have implemented many** that you all have come up with (such as sex-free post week). 
+
+So please give us your ideas over there!
+This Modpost was made just so you could say "Fuck you republican scum" and "Republicans are a bunch of cunts" wasn't it?
+Please also know that we don't make exceptions to rules just because we like the post. There have been a lot of posts that we liked but had to remove because they broke the rules. As everyone's parents/teachers/dingos used to say, if we make an exception for you, we have to make an exception for everyone. 
+
+We do this because we want to be fair and while it may annoy some people, we don't want to moderate the sub unfairly. Allowing certain posts just because we like them isn't fair to you guys. 
+In my opinion, the best questions are usually ones somehow related to telling stories, or are more open-ended.  I think enforcement of not asking for advice could help keep higher-quality posts at the top.
+
+When looking at the top-posts, they generally are more open-ended, and again allow for some really interesting stories.  There are some neat posts such as lifehacks or interesting websites, but when the questions are narrowed to one word or thing, it really eliminates any potential for an amazing answer.

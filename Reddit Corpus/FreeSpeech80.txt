@@ -1,0 +1,146 @@
+Title: How Big Tech Is Strangling Your Freedom
+
+Post:
+ [https://bariweiss.substack.com/p/how-big-tech-is-strangling-your-freedom?s=r](https://bariweiss.substack.com/p/how-big-tech-is-strangling-your-freedom?s=r)
+
+[https://open.spotify.com/episode/16X6tHO9kjS2wRF36TgxA4](https://open.spotify.com/episode/16X6tHO9kjS2wRF36TgxA4)
+
+A conversation with entrepreneur and investor David Sacks on protecting civil liberties in the digital public square with Bari Weiss
+
+**Episode Description**
+
+David Sacks is a paradox. The entrepreneur and venture capitalist helped lay the foundations of the digital world we now live in: He was one of the members of what's known as the PayPal Mafia, alongside people like Peter Thiel, Elon Musk and Max Levchin. He’s also been an early investor in some companies you may have heard of: Airbnb, Facebook, Slack, SpaceX, Twitter, Uber. 
+
+At the same time, he is something of a whistleblower from inside the world of tech. He believes that Big Tech has far too much power. He argues that the fact that a handful of billionaires get to decide what we are (and aren’t) allowed to say in the new, digital public square is something that the Framers would have been repelled by—and that all Americans should oppose.
+
+Today I spoke to David, now a general partner at CraftVentures dot com about the rise of America’s social credit system and how we can defend our civil liberties in the age of the Internet.
+
+Learn more about your ad choices. Visit (See spotify link for this)
+
+Partial Script:
+
+***On America’s social credit system:***
+
+**BW:** You have been making the case better than anyone else that, despite the fact that we live in a liberal democracy with a Bill of Rights and a Constitution and a First Amendment, whether most Americans are aware of it or not we also are living inside a soft version of a social credit system. So for the people who hear that and think: ‘That’s ridiculous. This isn’t China.’ I want you to make the case.
+
+**DS:** Let’s start by defining what a social credit system is. A social credit system is a system that pretends to give you civil liberties and freedom. It doesn't overtly send you to the gulag for expressing dissent. Rather, it conditions the benefits of society—economic benefits, the ability to spend your money—on having the correct opinions. If you don’t, then your ability to participate in online platforms is diminished or curtailed entirely. That's the situation that we are gradually heading towards. 
+
+Back in the days when we were creating PayPal, in the early 2000s and late ‘90s, there was really a sense that technology and the internet would expand people's ability to engage in speech and commerce. And for the first two decades of the internet, it really did. But for the last half-dozen years or so, we've really been restricting that access and trying to curtail it. The power of restricting people in both speech and commerce has taken on a life of its own. Those restrictions keep growing.
+
+I'm not the one who's changed. Big Tech changed. I didn't leave Big Tech. Big Tech left me.
+
+**BW:** When did you start to see the change? 
+
+**DS:**  If you go back to the Arab Spring and the Green Revolution there was generally a sense of triumphalism. Back then, the CEO of Twitter said that we are the [free speech wing of the free speech party](https://www.wired.com/story/jack-dorsey-twitters-role-free-speech-filter-bubbles/). That’s how Silicon Valley saw itself. Ten years later, you have the widespread view that Silicon Valley needs to restrict and regulate disinformation and prevent free speech on its platform. You'd have to say that the turning point was 2016, when Trump got elected against the wishes of pretty much everyone in Silicon Valley. That was a little too much populism for them. And they saw social media as being complicit in Trump's election.
+
+**BW:** So the populism of the Arab Spring or in the Green Revolution was good. But the populism of Trump was not.
+
+**DS:** Yes. It was a message they very much didn't want to hear. So they began to believe that the message was somehow inauthentic. That it was engineered by Russian disinformation, and that their platforms had contributed to it and that they needed to crack down and restrict free speech so that it never happened again. 
+
+Regardless of what you think about Trump, I think that was just the wrong message to draw from that election. I think Trump won because, quite frankly, the Democrats fielded a horrible candidate. He narrowly won—it was less than a hundred thousand votes in a few key swing states in which Hillary Clinton barely campaigned. But rather than blame her or her campaign managers for running a bad campaign, they blamed social media and themselves for what happened and how. Since then, they have been backpedaling on the idea of free speech.
+
+***On deplatforming and Silicon Valley’s speech cartel:***
+
+**BW:** Let’s talk about deplatforming, which some have compared to having your “digital tongue ripped out.”
+
+The first major case of deplatforming I remember was Alex Jones in 2018. First, Facebook removed all of Alex Jones's content, saying he had glorified violence and violated their hate speech policies. Within days, Apple, Spotify and eventually YouTube, where Jones had millions of followers, followed suit. Jones was the guy who said that the Sandy Hook shooting was a hoax, that the murdered children were crisis actors. What the parents of those children have lived through because of his conspiracies is unspeakable. So most people I know thought: Good riddance. Why should this guy have the ability to make money off of YouTube ads? Tell us why it was wrong for people to cheer.
+
+**DS:** Because censorship always starts as something people like. And then it turns into something that they don't. It starts with censoring somebody who's widely hated saying outrageous things, but eventually it gets used on somebody who you yourself like. That's what we've seen over the last several years. Censorship power keeps growing. It keeps getting applied to more and more cases.
+
+The most recent example was before the 2020 election. You had reporting come out from the New York Post about Hunter Biden's business dealings in Ukraine. It has now come out that this story was entirely true. Yet it was labeled disinformation and censored from social media networks so that the American people could not take it into account before the election.
+
+Or think about Covid. For over a year the lab-leak theory was censored. Now, the lab-leak theory is widely regarded as either the most likely theory or at least tied with the so-called zoonotic theory for the origins of Covid. And yet people who espoused that theory, scientists who were acting in good faith on social networks on YouTube, were censored for having that opinion.
+
+**BW:** You've used the word cartel to describe how these companies operate. Typically, people hear the word cartel and they think of mustache-twirling evil guys in smoke-filled rooms. Explain to us what you mean by that word.
+
+**DS:** A cartel is an economic term that refers to when companies that are supposed to be competitive with each other instead act in concert. You see this with regard to price fixing, for example: two companies that are supposed to be competing with each other actually come together or signal to each other that this is what the price should be, and they basically agree not to compete on that dimension. What a cartel does is effectively create a monopoly even though there may be multiple players in the market. 
+
+What’s happening in the case of speech is that you have all these big tech companies coming together and acting in the same way. They all implement the same policy with regard to censoring speech. They all kick the same people off their platform. So even though they're supposed to be competing with each other, even though competition should be driving them to want to appeal to a larger and larger audience and not kick people off, they do.
+
+The person who admitted this was the case was Jack Dorsey in January of 2021. Twitter was the first to kick Donald Trump off. And what Dorsey said was that Twitter did not realize what a backlash it would cause by de-platforming a sitting president of the United States. He said: We thought we were just acting on our own, and there are plenty of other places that Donald Trump could go to get his free speech. But then what happened? All the other sites followed suit. And it became like the action of a government because everybody started doing it. 
+
+Dorsey described well the process by which this happens, which is one of these big tech companies takes the lead, and then all the others follow suit. It's like signaling. And it becomes like a speech blockade. And when each company basically joins the blockade, the pressure grows on every other company to do the same thing. Otherwise, they're subject to a boycott or a rage mob on Twitter. They're basically pressured into it. The pressure keeps growing on all the others to do the same thing. The thing that's very vexing about the problem is it appears to be decentralized. It's not like there's one centralized actor. But the collective effect is that they all do it.
+
+**BW:** I want to understand why or how it happens. Are the people running these companies all on a Signal group together? Why are they all deciding to make the same choice?
+
+**DS:** The pressure comes from both above and below. You've got the United States Senate basically saying: ‘Nice little social network you got there. Real shame for anything to happen to it.’ So that’s pressure that's coming from Washington. You've got the coercion of private companies by these enormously powerful people in government who are using the levers of government power to conduct antitrust lawsuits against them, to push bills through Congress to break them up, or otherwise harm their businesses. That's what's going on from above. 
+
+From below, you've got the employees and the tweet mobs and basically forming these boycotts and subjecting the management of the company to pressure. 
+
+It would take a very strong leader to stand up to these pressures. And corporate executives tend not to have a tremendous amount of spine to begin with. But then, on top of it, they're somewhat sympathetic to the ideology, and the result is they just give in.
+
+**BW:** I think the sympathetic view of the CEOs in charge of these companies is that they're somehow being held hostage. But you're actually saying that they're kind of sympathetic to the new, radical ideology themselves.
+
+**DS:** They’re part of the same political elite. They all drink from the same monocultural fountain. They all went to the same universities. 
+
+It really takes a strong founder to stand up to the pressure. Brian Armstrong, the founder of Coinbase, is one. He finally had enough of these pressure tactics and boycotts, and he declared that at Coinbase we're going to leave our politics at the door. You're free to have your own political views on your own time, but we're not going to discuss these political debates inside the company and we're not going to be roiled by these controversies. We're going to focus on the mission of Coinbase. Basically, he was insisting on the old etiquette of the workplace, which is you come to work to work. 
+
+He did it in a very smart way. He said: “Listen, this is the new policy, and if you don't like it, we'll give you a very generous severance.” Only five percent of the employees took that severance. The 95 percent of people who remained are so happy that they're not subject to all of these political debates and controversies. Of course, Brian was subjected to the obligatory New York Times hit piece for implementing this policy.
+
+Most founders don't have Brian's courage. Rather, they are expressing their true thoughts in Signal groups with disappearing messages. Some of these groups I'm in, so I know what they really think, but they just don't have the courage to stand up. If they could all do it at the same time and implement the Coinbase policy, I think it would create a meaningful change. But none of them wants to become a target.
+
+***Civil liberties for the digital public square:***
+
+**BW:** The criticism that I hear a ton in response to what you're saying is: David, these are private companies. If I invent YouTube and I pay for the servers of YouTube and I've set up the whole architecture of the company, why can't I do what I want? Same with Facebook. Why don't I get to decide that I don't want some kind of clickbait or fake news or whatever on my thing? I'm going to police it. Who are you to tell me I can't?
+
+**DS:** I think it's a very disingenuous argument. The same people who say that these social media companies, these big tech companies, should be free to do whatever they want because they're private companies are the same people pushing six bills through Congress right now to restrict and regulate those companies because they see them as monopolies. So they don't even believe their own argument. They all start making these libertarian arguments when these big tech companies are restricting speech in a way that they like. When they agree with the outcome, they want to give these companies the freedom to produce that outcome. 
+
+We need to fundamentally understand that free speech in our society has been privatized. The town square has been privatized. When the Constitution was written, the internet didn't exist. Back then, the town square was a physical place that you could go to, and there was a multiplicity of town squares all over the country. There were thousands of them and anybody could put their soapbox down and speak, and anyone could gather around and listen. That’s why, if you look at the First Amendment, it doesn't just protect freedom of speech and of the press. It also protects the right to peaceably assemble. 
+
+Well, where do people assemble today? They assemble in these giant social networks that have these gigantic network effects. That is where speech, especially political speech, occurs. And if you are shut out of that digital town square, to what extent do you still even have a First Amendment? To what extent do you have a right to speech? Well, I don't think you do. If you were to grab your soapbox today and go on the courthouse steps, they'll think you're a lunatic. You have no free speech right in this country if you are kicked off of these social networks. 
+
+So, I don't think it's good enough to say, well, these are private actors and, therefore, they can do whatever they want. Those private actors have too much power. They have the power to decide whether you, as an American, have an effective free speech right in this country. I think that's unacceptable. I think the Founders, the Framers of the Constitution, would never have permitted that.
+
+**BW:** Are you saying that in the 21st century, in the digital world, that platforms like Facebook and Twitter and YouTube are more like . . . sidewalks?
+
+**DS:** Kind of, yeah.
+
+**BW:** American law prohibits discrimination not just in public spaces but also in private businesses. You cannot discriminate based on a person's race, religion, disability, sex, national origin. Are you suggesting that in our new world that someone's political views should be seen like those other categories? That in the same way you can’t kick someone off YouTube because they're gay or black or Christian, you shouldn’t be able to kick someone off because they're a political conservative or a TERF?
+
+**DS:** I think we're probably going to need something like that. The fundamental American principle is that you can't discriminate against someone because of their race, color or creed. Historically, creed has not necessarily meant political ideology, but I think it may need to. If we don't create some kind of protection, discrimination against people on the basis of their political views is going to continue.
+
+It would be possible to create a social media moderation policy that is rooted in First Amendment principles. That way, at least social media moderation will be grounded in case law that's been developed over decades by the Supreme Court as opposed to being made up by these social networks as they please.
+
+***Build your own Facebook?***
+
+**BW:** What do you say to the people who argue: If you don't like the way YouTube conducts itself, if you don't like the way Facebook conducts itself, no problem. Go make another one. Why is that not an acceptable solution to this problem?
+
+**DS:** This is what you heard when Twitter and Facebook banned Trump. Their argument was: Go to a different app. And then Apple and Google banned Parler, which was the different app. And then the argument was, Well, that's not censorship. Just go create a website. And then Amazon Web Services started banning websites. So, at some point, when are you going to say this is an undue imposition on free speech? What am I supposed to do? Go create my own internet? All I wanted to do was post a tweet. Let’s not be obtuse to the power of these monopolies. I think people are being selectively oblivious to the network effects. 
+
+**BW:** We hear that phrase a lot: network effects. What does it mean?
+
+**DS:** A network-effect business is one where the value of the service increases with the number of users. So if you think about Twitter or Facebook or the phone company, the more people who are on the service, the more value it has to everybody else. The value actually increases exponentially because the number of connections that can be made increases exponentially every time someone joins the service. If you or I want to create our own Twitter clone, it'll be very, very hard to do that because nobody else will be on it. So you have this huge chicken and egg problem. This is why these social networks are so powerful. They’ve got these huge network effects based on the fact that everybody is already on them, and it gets very, very hard to try and create a competing one.
+
+***From deplatforming to debanking:***
+
+**BW:** It used to be that we’d hear a lot about deplatforming. Now, increasingly, we are hearing about debanking. What does it mean?
+
+**DS:** It means that you are denied access to a financial service—your access to your money or to your ability to conduct a transaction or to pay people—based on your political views. All of that gets restricted because your views are deemed unacceptable by the people who run these services.
+
+**BW:** Give us an example. Maybe we can use the company you helped build, PayPal, and its creation of what you've called their no-buy list, a play on the idea of a no-fly list.
+
+**DS:** Back in the early days, we believed that our mission was to expand access to the financial system. Today PayPal, under new management, is working to deny people access. They’ve actually partnered with a couple of left-wing partisan groups, including the Anti-Defamation League and the Southern Poverty Law Center, to create lists of users and groups to ban from the platform. They've actually announced this. They're proud of this.
+
+Now, these are groups with a storied history. I think they did very good work historically in the past. 
+
+**BW:** It’s the same phrase you used before. I didn't leave the ADL, the ADL left me.
+
+**DS:** Right, exactly. They used to be fairly bipartisan or nonpartisan in their denunciation of antisemitism. But the ADL has changed. It's under new management, and they've broadened their portfolio from antisemitism to cover anything they consider to be hateful or extremist. And their definition of extremism is basically anything that disagrees with conventional Democratic Party politics or orthodoxy. So the ADL opposed the Supreme Court nomination of Brett Kavanaugh. It basically partnered with Al Sharpton to boycott Facebook for allowing hate speech on their platform, which is pretty amazing given Al Sharpton's history. The point is that the ADL now is using their historical capital and applying it to all these fairly conventional political debates. So when they partner with PayPal to create a list of banned groups or accounts, they've massively expanded the list of people who can be thrown off these services. If you just express a political opinion that dissents from the orthodoxy you can now be kicked off these platforms.
+
+**BW:** I want to explain how we went, in such a short time, from people getting booted off of PayPal, for example, to governments wielding this power. A few weeks ago we saw massive protests in Canada of truckers who gathered in Ottawa and also at critical junctures of the border to protest Canada's Covid mandates. What Prime Minister Justin Trudeau did is that he invoked something called the Emergencies Act, which allowed the Canadian government to issue a directive that required all kinds of financial institutions—banks, credit unions, even crypto wallets—to stop providing any financial or related services to anyone associated with the protests, even if they were nonviolent, which the vast majority of the protests were. So it didn't matter if you were a protest leader or if you contributed $15 via GoFundMe, or even if you had sold a protestor a cup of coffee. Their accounts were frozen. Their money was stranded. They couldn’t use their credit cards. This is exactly what you have been warning us about, right?
+
+**DS:** One of the most indefensible aspects of what Trudeau did is that the freezing of accounts was done *retroactively*. Meaning: at the time that the protesters engaged in their civil disobedience or the people donated to them, it was a perfectly legal activity. And yet their accounts were frozen based on having contributed *in the past*, again, at a time when it was completely legal. So what you had was not just the fact that you had this unprecedented expansion of aiding and abetting liability to anyone who contributed to the cause, but that that liability was being retroactively determined. In other words: anybody who had views that Justin Trudeau believed were unacceptable could be retroactively subjected to this punishment. 
+
+That precedent must have a chilling effect on speech moving forward. If, today, you are a citizen in Canada contemplating making a contribution to a political cause that you believe that Justin Trudeau doesn't like, the precedent has been set that, at some point in the future, Trudeau could look back at that contribution and basically freeze your account for having made it in the past, even though it's completely legal at the time that you do it. That’s one of the worst aspects of this whole thing. That’s going to have a chilling effect on people's willingness to contribute to causes that Justin Trudeau doesn't like.
+
+***So what can we do?***
+
+**BW:** Where do we go from here? What can either individuals do or the American government do to protect us from the kind of authoritarianism that you're warning about?
+
+**DS:** I think we have to reinvigorate our civil liberties. I don't think we’re going to get that from the current administration because, frankly, a lot of the pressure for censorship and deplatforming is coming from the Democratic Party. This is not a partisan point. If you look at polling about views about censorship and deplatforming, there is a huge divide between Democrats and Republicans on this issue. If you go back ten years ago, both parties had the same views on censorship. They were against it. Everyone was in favor of free speech, but there's been a huge divergence. And so I think it's going to take a new administration—presumably, the next Republican administration—to want to take action. And we're going to have to reinvigorate our civil liberties by realizing that these private actors have huge amounts of control over our right to speech, our right to commerce, our right to make a livelihood, and they should not be able to exercise those powers. They should not be able to use those powers to deny us those liberties. 
+
+That's going to require the Republican Party to embrace a role that it has not historically engaged in, which is to be a little bit more of a regulator of private companies. You have to go back all the way to Teddy Roosevelt. TR was the trust buster. He basically said these monopolies have too much power and we need to bring them to heel. That’s why Teddy Roosevelt is on Mount Rushmore. He stood up for the rights of the common man against the power of these gigantic monopolies. 
+
+I think that the next Republican who's going to be successful has to take a page out of TR’s playbook here and say: we do not represent the interests of these oligarchs and these big, powerful companies. We represent the interests of the working man and woman trying to have the right to free speech, to make a living, to conduct payments. And it should not be up to tech oligarchs to decide who has those rights.
+
+Top Comments:

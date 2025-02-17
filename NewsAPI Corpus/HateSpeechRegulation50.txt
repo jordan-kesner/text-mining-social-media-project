@@ -1,0 +1,55 @@
+Title: Meta’s free speech myth places democracy at risk
+Source: Lse.ac.uk
+URL: https://blogs.lse.ac.uk/businessreview/2025/01/28/metas-free-speech-myth-places-democracy-at-risk/
+
+Meta’s adoption of a “community notes” post moderation model raises pressing questions. The company describes it as part of its commitment to free speech. But the move in fact detracts from deeper systemic issues, including Meta’s profit-driven amplification of misinformation. Social media platform design has deep-rooted flaws, with algorithms working to trigger reaction, rather than discern the truth. Pallavi Sethi calls for an overhaul of the system.
+
+Five years ago, Facebook CEO Mark Zuckerberg proclaimed,“ I don’t think private companies should make so many decisions alone when they touch on fundamental democratic values” and called for greater regulation of big tech. Today, he seems to have abandoned that principle.
+
+Zuckerberg has discontinued Meta’s third-party fact-checking programme in the United States, labelling it a “tool to censor”. His decision has sparked widespread criticism, with former President Biden denouncing it as “shameful”, France’s government voicing alarm, and Brazil’s demanding clarity on Meta’s policy shift. Over 70 fact-checking organisations have signed an open letter condemning Meta’s retreat. The decision marks a significant step back in big tech’s commitment to counter misinformation.
+
+While Meta’s fact-checking program may not have been without its flaws, as I explore below, abandoning it entirely raises pressing questions. Zuckerberg has described the decision “as a commitment to free expression”. However, the move detracts from deeper, systemic issues, including Meta’s profit-driven amplification of misinformation. The new policy shift highlights two critical issues: the lack of transparency in big tech’s algorithmic systems and the threat misinformation poses to democratic values, including free speech. The solution is to balance user safety and free speech through greater transparency and regulatory frameworks that prioritise democratic accountability.
+
+Opaque algorithms, amplified harm
+
+Meta’s overhaul of its content moderation strategy includes replacing fact-checking with “community notes”, loosening restrictions on sensitive topics such as immigration and gender, relocating its trust and safety team from California to Texas, and reintroducing political content into user feeds.
+
+
+
+Community notes is a crowdsourced moderation tool that shifts fact-checking responsibility from independent experts to the user base. Originally launched by X (formerly Twitter) as Birdwatch in 2021, notes allow users to provide context to a potentially false or misleading tweet and only appear when consensus is reached among a diverse group of users who have previously disagreed in their ratings.
+
+By discontinuing mechanisms like fact-checking while continuing to profit from algorithmic choices, Meta is actively shaping the information landscape, not withdrawing from it.
+
+Following his acquisition of Twitter, Elon Musk touted this tool as having “incredible potential for improving information accuracy”. Yet, research paints a more sobering picture. An analysis of tweets and corresponding notes from July 2021 and August 2023 found no significant decline in user engagement with misleading content on X. Community notes have demonstrated accuracy: a study of notes addressing COVID-19 vaccine misinformation showed that 96 per cent of notes were accurate. But their potential impact may be undermined by X’s algorithm. A recent report by the Center for Countering Digital Hate examined one million notes tied to the 2024US election and revealed that 74 per cent of accurate notes remained unseen by users.
+
+Even in the presence of Meta’s previous fact-checking, its platforms’ machine-learning algorithms amplified harmful content including hate speech and climate misinformation. In 2021, research from Avaaz found that posts spreading misinformation about climate science and renewable energy amassed 25 million views on Facebook. A report by Stop Funding Heat identified 38,925 posts promoting climate misinformation that generated between 818,000 and 1.36 million views. Only 3.6 per cent of them were fact-checked, Another investigation, by Global Witness, confirmed that Facebook’s algorithm boosts climate disinformation.
+
+Former Meta employees have repeatedly pointed out that its algorithms do not understand the difference between falsehoods and truth. Rather than filtering out false information, these algorithms are engineered to maximise user engagement and prioritise content, harmful or otherwise, that triggers strong reactions. This issue is compounded by Meta’s failure to provide full transparency about its algorithmic design.
+
+In 2024, an editorial in the journal Science highlighted three papers it had previously published that studied the impact of social media algorithms on political polarisation during the American 2020 election. One of the papers showed that Facebook’s default algorithm did not significantly contribute to polarisation. However, unbeknown to the paper’s authors, at the time of their writing Meta had implemented algorithmic interventions known as “break the glass” measures, to curb the spread of misinformation. These interventions are temporary.
+
+The editorial argued that the temporary measures likely influenced the researchers’ results. This controversy underscores Meta’s transparency issues and its failure to fully disclose critical information about its algorithmic interventions.
+
+Meta’s new policy highlights two critical issues: the lack of transparency in big tech’s algorithmic systems and the threat misinformation poses to democratic values, including free speech.
+
+Dysfunctional marketplace of ideas
+
+Meta’s new policy shift claims to empower users and foster free expression. It relies on the idea that collective wisdom and a diverse range of users will address misinformation and reduce bias. By loosening restrictions on certain topics, Meta believes that increasing the amount of speech, rather than monitoring it, will lead to fewer mistakes. This approach echoes the concept of a “marketplace of ideas”, which presupposes that when citizens are free to share, challenge and debate, the truth prevails. However, Meta’s approach, which is framed as a “commitment to free expression”, ultimately undermines the very principles it claims to protect.
+
+The idealised notion of a marketplace of ideas assumes a level playing field where all voices have an equal opportunity to be heard and where bad ideas are exposed through rational discourse. In practice, Meta’s reliance on profit-driven algorithms creates a dysfunctional marketplace of ideas. By prioritising engagement over accuracy and public interest, allowing hate content towards marginalised and vulnerable communities, and dismantling fact-checking efforts, Meta risks further amplifying harmful mis/disinformation at the expense of informed public discourse.
+
+Not only does this approach erode trust in credible sources but it also empowers those acting in bath faith to manipulate narratives on a massive scale. A report found that just 10 accounts on Facebook are responsible for 69 per cent of all user interactions with climate denial content. Another analysis showed that climate denial has become increasingly widespread on X since it reinstated anti-climate accounts. True free expression requires more than just the absence of censorship: it demands a commitment to an informed and transparent public sphere.
+
+By discontinuing mechanisms like fact-checking while continuing to profit from algorithmic choices, Meta is actively shaping the information landscape, not withdrawing from it. The result is not a freer marketplace of ideas, but a more dangerous one where harmful narratives dominate the digital sphere, silence vulnerable voices, and erode trust in democratic institutions. Meta’s current system, therefore, fails to meet these standards and harms the democratic process.
+
+User safety versus free expression
+
+To balance user safety with free expression effectively, it is important to mitigate harm without undermining democratic values. Excessive regulation of social media platforms is dangerous as it can suppress free speech. For instance, Germany’s Network Enforcement Act, which imposes heavy fines on social media platforms for failing to remove illegal content, has faced widespread criticism. The United Nations Human Rights Committee warned that the Act could lead to over-removal of legal content, thereby limiting free speech.
+
+But the risks of overregulation should not take away the pressing need for greater transparency and accountability in platform practices. Western democracies are beginning to introduce innovative solutions to address this issue. The EU’s Digital Services Act (DSA) requires platforms to ensure algorithmic transparency and grant researchers access to data to address systemic risks. Recently, the EU requested internal documents from X related to its recommendation algorithms, that is, how the platform suggests content to users. The deadline is 15 February.
+
+To strike the right balance, regulators and social media platforms must work together to ensure accountability without threatening free speech. This includes holding platforms accountable for individual and societal harm caused by misinformation without over-removal of lawful speech.
+
+Meta’s lack of transparency and reliance on algorithms amplifying misinformation proves that it fails to balance user safety and free expression. As digital platforms shape the fabric of our democracy, the need for a transparent and accountable content moderation system and policies has never been more urgent.
+
+Sign up for our weekly newsletter here. ﻿

@@ -1,0 +1,128 @@
+Title: Clearing the Air on Ad Blocking: Why Filtering Internet Traffic is Necessary
+
+Post:
+Hello everyone,
+
+I often see flamewars on this site about the topic of adblocking, often publishers v. users and thought I could chip in my two cents to bring up another angle: An operational/administrative one. This post may be long, but has been several days in the making.
+
+To run a successful international communications infrastructure, be it radio, Internet, phone, or whatever there needs to be operational cooperation among all stakeholders to keep the infrastructure and all of its endpoints healthy. Communication systems are almost constantly operated on the precipice of destruction due to the precarious nature of having everyone's cooperation in ensuring that health.
+
+The key issue is that a huge number of publishers and those in advertisement approach the Internet as a publication platform and data farm — a simple vehicle, not a multi-stakeholder communications infrastructure. They don't see an operational angle to what they're doing, just design, content, products, services and business. They just see the Internet as a vehicle to their end goal of getting their content out there and income flowing through advertisements. Doing so in an operationally responsible manner just isn't in their sights.
+
+This is why radio communications has such strict licensing requirements because it is known that those who simply use it as a vehicle  would be negligent to the point it would become abuse and trample upon carefully engineered standards. Internet publishing and advertising proves that licensing correct for existing. It proves publishers and advertisement industry can't be left to their own devices to be responsible.
+
+The Internet also has a mechanism to deal with negligence and abuse: Filters.
+
+From the advent of the Internet, even before the web as a publication medium was a glimmer, there has always been selective filtering of traffic. Filtering can take place in the form of firewalls, routing rules, filtering proxy servers, mail/spam filters, killfiles, ban lists, access control lists (ACLs), and a multitude of other manners including ad blockers. It's how the Internet community seeks to regulate and marginalize bad behavior and seek to correct that behavior or at minimum reduce the impact.
+
+In my opinion, the Internet has three unwritten operational core tenets: Stability, Security and Accountability centering around an element of Trust. If you end up in someone's filters, chances are, something you did violated at least one of the three and damaged others' trust in you. 
+
+If you dig in your heels and **refuse to cooperate with the community and that causes you to lose money in doing so, the Internet's internal methods of correcting bad behavior are working**. Legitimate mail server operators who are on spammer blacklists are losing money too, but they don't get the special treatment that publishers feel entitled to. Everyone needs to follow the same processes to earn trust and mend it after it is broken.
+
+Publishers and AdTech companies, we need to talk:
+
+You have broken everyone's trust in you and now you need to mend it. Stop side-stepping, stop talking about revenue. It's been talked about to death — we know you need revenue, but you need to respect the community.
+
+The community has **begged and pleaded with you to fix issues**. Yet you chronically ignore these issues and treat them as non-existent because fixing them involves change.
+
+You're not the only one on the Internet who gets filtered but you are making the biggest, most public scene about it. As I said, mail servers end up on blacklists all the time and lose money the longer they are filtered. Normally the operators of those servers are able to simmer their anger and contact those who blacklisted them to discuss how things can be fixed or contact mailing lists and forums for advice. **Don't lament on how "greedy" your users are and how they are stealing from you, your hands aren't clean enough to lament about that**.
+
+Let me **plead** with you again with issues I've compiled from this site and other sources, excuse any overlap as some issues are complex and multi-part and some of these points bring up different angles, in no particular order:
+
+1. Can your terms of service, privacy policy documents, contact and help sections be accessed without any third party involvement, advertisements, tracking or volunteering information? If not, why not? 
+2. Front-line services like your publications among others often anonymize third parties in your Terms of Service with phrases like "Third Party Partners", "Associates", "Contractors" or the like and people cannot make knowledgeable consent with that anonymization in place. Why can't people know who these third parties are in full detail with contact information.. addresses, email addresses, phone numbers (to actual people who work there) should they have concerns?
+3. Advertising, marketing and data mining is collectively a clandestine, opaque collective of middlemen upon middlemen. How can the community trust these massive networks of "John Does 1 through ~30,000,000" that we don't even know?
+4. Advertising, marketing and data mining isn't compartmentalized enough. This is why I said "John Does 1 through ~30,000,000". Once you share data with one party in advertising/marketing, you don't know who else will have access to that data or how. How can this obscure network of businesses be trusted if the travel of personal information can't be limited to a given scope and have that scope be known?
+5. AdTech works only from a "big picture" perspective, Google and Facebook being the prime examples of this. They work based on mass-statistics, details are rendered irrelevant. They operate from an altitude where the Grand Canyon is a mere scratch. How can we trust a big picture data-driven industry to respect individual choice and not to simply render it irrelevant in their quest for becoming ubiquitous?
+6. In tandem with that "big picture" perspective, AdTech tends not to care about malicious advertisements trying to push malware, scams and abusive code in general. They are often played off as "minor incidents" simply because statistically they aren't the majority of ads. How can the public trust ads at all if they are processed through organizations that aren't accountable or secure for the minority because "it's insignificant"? It's like a police department saying since the majority of people aren't murdering that murder is irrelevant and practicing street safety is "being paranoid".
+7. Advertisements don't seem to be about informing anymore, but rather be about psychological exploitation and a "legitimized" form of stalking. Have you considered that people feel personally under attack and unsafe around anything to do with AdTech? Have you considered  that people may feel that their computers are under constant attack in the quest for tracking and exploitation from unknown parties? Consider how the New York Times the had a partner that was actively using a WebRTC exploit. How can we trust that you aren't doing the same?
+8. Bloated advertisements that use heavy Flash, Javascript or HTML5 advanced features can cause stability issues for people with lower-end computers and devices. As the "Internet Is For Everyone" RFC 3271 highlights, the Internet should be made accessible for everyone. Some people who are on fixed income can't gain access to the devices you target your sites/ads for. Why can't you be more forgiving?
+9. Websites have naturally become more complex over time. However the amount of different components your website references and asks people's computers to download and execute automatically without being asked without prior disclosure or option is definitely concerning. You're asking people to sign a blank cheque to trust it all and allow any and all code to run unquestioned without first being allowed to inspect your "product" with all of its attachments for defects first. "My website can't possibly do anything wrong" is an unacceptable response.
+10. You're asking people to transfer secondary content from your server they may not even want like your autoplaying videos attached to text articles — making it a pointless expense for not only your users, but yourself and other service operators too (who like you also have bills to pay). Why insist on making things pointlessly expensive for everyone?
+11. By having posted third party elements on your website without their contact information for operational concerns, you are announcing that you want the buck to stop with you should accountability be required and are further announcing that you have control over the servers your those elements are served from to fix any problems.
+12. The Internet has many massive hierachial systems with multiple tiers like DNS, IP address allocations and routing databases where there is accountability at all levels and the "who's who" of operations is public. There's no reason why the web should be an exception except but to avoid accountability. Can we "whois" an advertisement to discover the chain of custody? Why not?
+13. AdTech routinely moves to work around filters much like spammers routinely do. How are you any better than spammers in not addressing why you are filtered?
+14. Many advertisements exceed the data size of the actual media or content being accessed. It's in no way proportional. How is this acceptable in a day and age where metered Internet connections are becoming more and more prevalent? 
+15. With Youtube in particular among other video streaming service, if the video streaming experience is incomplete and it stops transferring due to packet loss or another network condition, users are often required to watch another advertisement to reload just to continue your singluar experience. It's understandable from a technical perspective why this happens, and may bring more income but it's wasteful and borderline abusive to people's data transfer to transfer yet another advertisement since you already have your revenue on the original view that wasn't completed.
+16. Often times you run inefficient content infrastructure because it "takes too much time" to do things right and you feel it takes away from your business. Ergo your servers are working harder and doing less than if you were to correctly set up with appropreate caching. To put a point to this, I wager if you were in charge of Wikipedia, you'd make it require at least an entire Google or Amazon-scale  datacenter and require the appropriate ad revenue to cover it all. Why make your infrastructure cost so much to run with so little return?
+17. People often do not subscribe to your websites because they see all kinds of services getting compromised and feel that perhaps with your inattention to operational and security concerns, that you may be foolish with their personal information and you may get their information stolen and when that happens you'll just say "Oops".
+18. People often do not subscribe because likewise they may feel you don't want them to subscribe because you don't make it a valuable thing to have. Many online newspapers often don't remove their ads for subscribers for instance, wanting to double-dip. This is unacceptable.
+19. Some sites completely reject the notion at all of subscription because it makes their users actual customers they have to listen to as opposed to "mere users" who can be pushed around with errant Terms of Service updates that seek to strip those users of rights. Your only customers and the only people you deem it acceptable to be accountable to are your advertisement partners.
+20. Your collective opaqueness has given rise to those scammers who run sites that can look structurally legitimate, but are in fact abusive ad/link farms that in fact take money away from legitimate businesses like you.
+21. Some advertisements can make websites completely inaccessible or unusable. For instance on mobile devices some ads proceed to abuse the notification/vibration functionality and/or cause forced redirects. Often if there are redirects, they force the device to open the app store offering an app unrelated to the site, while the user has been obstructed from their intent. This prevents the user from browsing the site and makes the user question the legitimacy, reputation and security of the website.
+22. Some ads attempt to impersonate system notifications in an attempt to elicit users to download and install programs that they may not in fact need and may in fact be malicious. There's no valid reason for an ad to appear to originate from an operating system, even if they are from an operating system vendor. 
+
+Leaving my address to you in closing,
+
+It's no wonder publishers and AdTech companies aren't trusted and as such are filtered. They don't seek trust, they seek to "own" "their" printing press and data farm that the Internet is to them. Filtration is inconvenient as it reminds them that they don't own it and need to respect others.
+
+The Internet is not a printing press nor a data farm, it's a living, breathing complex network of networks governed by its participants that needs care in its operation. Everyone needs to do their part in that operation. That includes publishers who need to step up and start caring and addressing concerns with more than just "Users are greedy and are stealing from us!"
+
+Without that care publishers and AdTech operators become like the cheap "Internet of Things" manufacturers who create cheap, substandard products that gave rise to the Mirai botnet. The same attitude that made their own or their colleague's sites unavailable with the Dyn attack. While those manufacturers can claim "We didn't do that", they are indeed part of the contribution to the Mirai botnet, and likewise publishers are a part of the security and accountability problem the Internet faces as they contribute to it with self-serving practices.
+
+The community is trying to prevent that destabilization by blocking the unaccountable, unstable, opaque ads since publishers and AdTech companies are intent on not addressing operational and privacy concerns. It is unacceptable that publishers, advertisers, data mining companies, advertisement networks, social networks and whomever else is trying to side-step the tenets that make the network great. Terms of service don't trump those tenets and it's fully in everyone's right to moderate exploitative behavior.
+
+Publishers, AdTech and their partners: You've created this problem. Everyone else has been sitting at the table patiently waiting for you to show up, but you've been in the hallway throwing a temper tantrum about "your revenue", so we've held the meeting without you and ad-blockers and the like are the result. We've held many discussions since and every time your reaction has been the same. Can you actually come to the table and be civil?
+
+Top Comments:
+Wow! very good post that completely expresses my thoughts.  
+It is easy to see that you spent a long time writing, thinking, and considering both sides on what happens, how it has come to this, and the great work it will take to ever rectify.  
+I don't have a continuous antivirus running, and yet I never get infected. Part of this is due to my education and work in IT which makes me able to spot most suspect sites, but an even bigger part is script/ad blockers. I wish that more people would install them, because they are one of the best security tools you could ever have.  
+So publishers of content here is my suggestion to you: Together with the common people and security experts, make a group that makes sure to identify safe ads and safe sites with a lookup that is easily available, and for the sake of yourselves PROVE THAT IT CAN BE TRUSTED!  
+It will take time, alot of work, and money, but if we start to trust this certificate of non-assholery (might need a better name), we can use the lookup and start to exclude it from our filters.  
+Most of us actually want to support you and can live with ads when they are not intrusive, self playing, or directly malicious.  
+You are like the friend who constantly says he is drug free and needs a place to stay, only to steal your money and tv while you are working. We cut you off!
+Dear AdTech companies:
+
+I use an adblocker and script blocker and a hand written host blocking list because I'm not paying for the insane amounts of bandwidth you use trying to serve me your shitty, unwanted ads and all of the complicated ways you try to track me and drop cookies and pixels on my computer.
+
+I also use these things because there's absolutely no sane reason for a simple content farm blog post to be calling scripts and APIs from 100+ different domains/hosts.
+
+I also use these tools because it makes my internet experience much faster when my browser isn't bogged down with 25 mb of cross site scripting calls for a measly few kilobytes of text and a couple of jpegs.
+
+I use these tools because your practices aren't just harmful to the internet, they're harmful to my individual computer and browser.
+
+Listening to you whinge about your revenues is like listening to a junk/direct mail company complain that people don't want to pay for them to print and deliver that unwanted junk mail.
+
+Seriously? Fuck everything about that shit. I'm not paying my internet bill for you to use up a huge fraction of it forcing me to download auto-playing video ads, click bait and a bunch of privacy invading scripts and identifiers.
+As far as I'm concerned its not up to anyone but me. I already have such little control over how much advertising I'm inundated with on a daily basis just walking around that I will not tolerate it in any form in a medium I can personally control.
+Standing ovation. 
+
+I would stop using ad blockers if the advertising scammers out there seemed at least a little like they respected my time and privacy. 
+
+Keep posting this until you get it everywhere. It needs to be heard. 
+Once in a while, a post perfectly exemplifies my thoughts toward a subject I have had a conversation about. This post does exactly that and more. Thank you. 
+I think the funny thing about this to me has always been that the most commonly used ad blockers filter out *only* obtrusive ads (annoying sound, redirect, center-screen large) and have a white-listing process. It's just that ad companies are totally unwilling to accept anything other than neon flashing lights right in the middle of your screen and loud screeching noises because of idiotic platitudes like "there is no such thing as bad attention/press." 
+
+If you:
+
+* Redirect me ever for any reason I do not explicitly intend
+
+* Have sound/video ads that aren't muted by default (I can accept mouseover sound as long as it doesn't 
+automatically enlarge the viewer for the ad). 
+
+* Have large obstructive ads that block content
+
+* Structure your content as a list of 20 objects that I have to flip through and watch 20 ads
+
+* Expect to collect revenue from more than one source (ads + premium, or similar).
+
+Eat shit. I don't care what you want. Ever.
+This post is wonderful and addresses eloquently a lot of my feelings in the industry. However, I will be one here to buck the trend and say that I will never unblock ads and will do anything in my power to permanently keep them gone from my browsing experience. The reason is that this industry has abused our trust for much, much too long. 
+
+The ad companies have no respect for our privacy. Even when I am a paying customer, many sites still place ads on their website that track me. Even if there was no risk of malware, there is no way to legitimately opt out of tracking. Once our info is tracked by these companies, do you trust each one of them to keep it secure? I sure as shit don't, especially when LinkedIn  and Yahoo can't even keep their own shit from being hacked. Also, 'do not track' is a joke. 
+
+Advertising is information pollution. Its message is unwanted, distracting and often times manipulative and dishonest. I'm not going to allow this clutter to be downloaded on my machine where it clouds the real message I am trying to view. Even Google and Amazon with their 'acceptable ads'  are distracting from the real message. How many times have you googled something only to find the first page is 50% ads that are designed to look like Google search results? How many times have you searched something on Amazon only to have the 'sponsored' items appear first in the list instead of the most relevant or highly rated items? This is dishonest, and it is guaranteed to trick people. Just because it's not an animated Bonzi Buddy jumping around in your face doesn't mean it isn't intrusive or manipulative. 
+
+Double bonus points for when I am a paying customer (e.g. paying to see a movie and having to sit thru 15 minutes of bullshit Coca-Cola ads, paying for Hulu and having to watch the same shitty car commercial over and over). 
+
+The ad industry is too greedy and too abusive for me not to block it. Sorry, you fucked up too hard too fast to ever gain my trust again, although I do applaud any effort to fix the awful behavior we've seen arise from advertising over the past years. Maybe the industry will shape up and prevent people like me from being so fed up, and this will create a sustainable model. For myself and I'm sure countless others, too little, too late. Trust has been exhausted forever. 
+I was on some website, I think Business Insider, that was asking me to turn off my adblocker. I was curious how they knew, so I looked at the script list in uBlock. I found the script, and it was called "FuckAdblock.js".
+
+I turned it off and the page loaded video ads and tons of other shit. So no, fuck you Business Insider
+I'd like to emphasize that if you're browsing on mobile internet that you have to pay per megabyte for, then ad companies are forcing *you* to assume an additional monetary cost to access the content you actually want. 
+
+In no other industry would anything like this be considered remotely acceptable.
+I use ABP and whitelist the sites I visit on a regular basis. I also  time shift network TV via network websites. Most network TV sites require you to turn off your ad-blocker to view content. I am okay with that. What I don't like is when I go to view something, and before even giving me a teaser or preview of the site, I get a **TURN OFF YOUR AD BLOCKER TO PROCEED** message. That makes me inclined to think that their advertising is more important to them than their content.  
+
+Let me preview your site and decide if I want to continue to visit it on a regular basis. If I do, I will whitelist you. However, if your whitelisted sight is 90% advertising, I probably won't come back no matter what you do.

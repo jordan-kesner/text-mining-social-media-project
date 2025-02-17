@@ -1,0 +1,34 @@
+Title: Downvote Removal Trial and Contest Mode Trial
+
+Post:
+Starting immediately, the mod team has decided to implement contest mode subreddit wide for 2 weeks followed by a removal of the downvote button for two weeks. This decision was surprisingly controversial and rather heatedly discussed (as opposed to basically every other mod debate concerning the subreddit). As a team, we are rarely in this much disagreement and most of our decisions are unanimous or very close to it. However in this case, the moderators in favor of removing the downvote button passionately made their case, while the moderators against it didn't really feel nearly as strongly about it. [You can see the vote tally here.](https://imgur.com/a/roMsNiN)
+
+We have decided to test it out and see how things go. This is not going to be scientific by any stretch of the imagination. There are multiple problems with it. Firstly, we won't have actual data to evaluate what happens with voting and/or the effects on users themselves. Secondly, the downvote option will only apply to a small subset of users that use old reddit (inferior reddit) and allow the subreddit stylesheets. However, it did seem to have an impact when used for r/politics. You can find the data [here.](https://www.reddit.com/r/TheoryOfReddit/comments/7odc12/we_tested_the_effects_of_hiding_downvotes_in/)
+
+This is a trial where we would like everyone's input. So please just be aware of the implementation and how it effects you and those you see. We will be taking polls at the end of the trials to gauge opinion and effectiveness. Feel free to offer your opinions and criticisms below.
+
+Top Comments:
+I get the thought behind contest mode, but it's really annoying in practice.  Makes it very difficult to follow conversations and find insightful comments.
+
+I'm ok with removing the downvote button as upvote/not upvote still helps separate quality discussion from the chaff.
+I don't hate this decision, but mods had better be aware that they've just destroyed the ability of this community to self-moderate inflammatory comments, which in my experience has occurred organically before now via downvoting.
+
+This is going to require a much heavier hand from the moderators in terms of warning users and deleting comments, or this subreddit is going to start experiencing a culture change, and not for the better.
+I appreciate spirit of innovation, but having tried it I hate this new mode.  Please put things back.  
+
+The collapsed comments make discussions a huge pain to read.  The best thing about this subreddit is the back and forth, which is now hidden.  
+
+Also, downvotes filter out garbage comments.  Yes, they're overused and sometimes used on comments that don't deserve it.  But there are also often really low effort or pointlessly incendiary posts that should be sent to the bottom.
+Alright some people seem to really like it and others really hate it. So in the spirit of moderate compromise, i propose we set contest mode for the first two hours of a post, while keeping scores hidden permanently.
+1) This has been an unmitigated disaster. The quality of the sub has dropped tremendously in just a week or so.   
+
+2) We should not be catering to the far right like this.     
+
+
+3) We shouldn’t be forcing unpopular, extremist positions to be seen by visitors to the sub. I mean, why would anyone think this is even a remotely decent idea?
+ I wonder if this has anything to do with a certain Libertarian Mod getting thrashed with downvotes yesterday. . .
+Contest mode just surfaces all the low-effort comments that are usually relegated to the bottom.  If you want to remove the early comment advantage, set sorting to new instead.  The comments will still be terrible, but contest mode makes for an even worse browsing experience.
+
+Hiding downvotes has [never worked either](https://www.reddit.com/r/Games/comments/16vx24/the_shortlived_experiment_with_hiding_the/).  It's even less effective now that 50% of the site is on mobile, and half of desktop users are on the redesign.  You're only affecting a small percentage of users which creates an unfair power imbalance.  (And frankly, do you really want to give mobile users more voting power?)
+
+As for me, I just disable CSS in subreddits that interfere with site functionality.  I'll do the same at the start of that trial.

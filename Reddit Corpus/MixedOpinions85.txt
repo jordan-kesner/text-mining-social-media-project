@@ -1,0 +1,157 @@
+Title: CMV: The military budget of the US is unnecessarily large, and the militaristic goals of the US can be achieved with less funding
+
+Post:
+It is my view that the US can achieve their militaristic goals with a significantly reduced military budget. According to [these numbers](https://en.wikipedia.org/wiki/List_of_countries_by_military_expenditures), the amount spent by one country approaches half of the world's total military expenditures. When you consider the percentage of GDP spent on military, the US at 3.3% is fairly average in spending, but with the astronomical margin in GDP between the US and the rest of the world, US military spending is miles beyond any other country and the disparity seems unnecessary. 
+
+Taken from their [wiki](https://en.wikipedia.org/wiki/United_States_Army) the purpose of the US Army is...
+
+* Preserving the peace and security and providing for the defense of the United States, the Commonwealths and possessions and any areas occupied by the United States
+* Supporting the national policies
+* Implementing the national objectives
+* Overcoming any nations responsible for aggressive acts that imperil the peace and security of the United States 
+
+Those goals can be achieved with substantially less military funding. CMV. 
+
+edit: My view was changed largely by the fact that the purpose of the US military is far more broad and essential to the current geopolitical landscape than I understood. Also several comments regarding past innovations of the military and a breakdown of why the US military costs more than that of other countries received deltas. 
+_____
+
+> *This is a footnote from the CMV moderators. We'd like to remind you of a couple of things. Firstly, please* ***[read through our rules](http://www.reddit.com/r/changemyview/wiki/rules)***. *If you see a comment that has broken one, it is more effective to report it than downvote it. Speaking of which,* ***[downvotes don't change views](http://www.reddit.com/r/changemyview/wiki/guidelines#wiki_upvoting.2Fdownvoting)****! Any questions or concerns? Feel free to* ***[message us](http://www.reddit.com/message/compose?to=/r/changemyview)***. *Happy CMVing!*
+
+Top Comments:
+Full disclosure: I'm in this field and have had a lot of experience seeing both the policy/logistical side of it that you don't see. I won't share any secrets obviously, but I'll try to get you as many details as you'd like.
+
+>It is my view that the US can achieve their militaristic goals with a significantly reduced military budget. According to these numbers, the amount spent by one country approaches half of the world's total military expenditures. When you consider the percentage of GDP spent on military, the US at 3.3% is fairly average in spending, but with the astronomical margin in GDP between the US and the rest of the world, US military spending is miles beyond any other country and the disparity seems unnecessary.
+
+The metric that the US spends more on their defense budget than other most other nations combined is an extremely superficial look at military spending and mostly pointless as a comparison of power.
+
+Of course the US spends a lot more than China or Russia: there is a vastly different cost of living in the US versus those nations.
+
+To actually understand where/how the US spends on its military, take a look at the [DOD Budget Request for 2018](http://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2018/fy2018_Budget_Request_Overview_Book.pdf) and [Table 5.1 from the Government Publishing Office](https://www.gpo.gov/fdsys/granule/BUDGET-2013-TAB/BUDGET-2013-TAB-5-1) for historical spending.
+
+You'll see the actual budget breakdown:
+
+* Military Wages - $141.7B
+* Operations and Maintenance - $223.3B
+* Procurement - $114.9B
+* Research and Development - $82.7B
+* Management - $2.1B
+* Military Construction - $8.4B
+* Family Housing - $1.4B
+* Overseas Contingency Operations (war funds) - $64.6B
+
+That's right - 25% of the base (day to day non-war funds) budget of the DOD is spent on JUST wages (22% if we include funds spent for war operations). That's just military personnel wages - contractor wages fall under the other categories they get contracted for (e.g. maintenance contractors fall under Ops/Maintenance)
+
+Why does this matter? Compare this to China, where [their soldiers are paid a tenth](http://english.chinamil.com.cn/news-channels/china-military-news/2015-01/19/content_6314553.htm) of what the US pays its soldiers. Or South Korea, a first world nation with conscription, which pay its soldiers [$100 a month](http://www.rokdrop.net/2017/06/south-korean-conscripts-receive-a-pay-raise-now-make-99-a-month/). 
+
+If the US paid its personnel what the Chinese do, we'd save nearly $130 billion overnight!
+
+Obviously that's not feasible in an all-volunteer military in the West, nor does that nominal spending tell us anything about actual military capability.
+
+This goes beyond just wages: every aspect of spending is affected.
+
+Military equipment isn't sold on the open market. China and Russia are largely barred from buying Western military equipment. Likewise, Western nations don't buy from China or Russia for obvious reasons.
+
+End result? Chinese/Russian equipment is made by Chinese/Russian domestic arms manufacturers (like MiGs), employing Chinese/Russian workers, at Chinese/Russian wages. 
+
+This is how Russia can sell the [Su-34, a fighter-bomber converted from an air superiority fighter,](http://www.upi.com/Business_News/Security-Industry/2008/01/14/Russia-producing-new-Su-34-bombers/UPI-74801200352690/) for $36 million an aircraft in 2008, while the US equivalent - the F-15E Strike Eagle, also a fighter-bomber converted from an air superiority fighter - [cost $108 million a plane in 2006](https://www.defense-aerospace.com/dae/articles/communiques/FighterCostFinalJuly06.pdf).
+
+Does costing 3x as much automatically mean the Eagle is 3x better? No, you can't figure that out strictly by cost. You must look at the levels of training, support, capabilities, etc. and a whole confluence of quantitative and qualitative factors to know who is actually better.
+
+Moreover, we have to look at what we in the country want to do. It's easy to say Iraq was a mistake or that we should get out of the Middle East. However, most people [are very supportive of NATO](http://news.gallup.com/poll/204071/americans-support-nato-alliance.aspx), want to maintain our alliance with [South Korea](http://news.gallup.com/poll/161630/americans-say-aid-south-korea-attacked.aspx) and Japan, and in turn many nations in the world [expect the US to come to their defense](https://www.stripes.com/news/gallup-poll-south-koreans-confident-about-us-support-japan-uncertain-1.445289#.WcDAh9OGMk8). And a [huge chunk of the world prefers the US to back them in case of conflict](https://i.imgur.com/c3RJ8Ny.png)
+
+Inevitably people say "but the US has 11 aircraft carriers and thousands more planes than the next nation! That's a huge disparity!" But the *what we want to do* answers a lot of that: we want to be involved in world affairs in Europe and Asia/Pacific. What good are commitments if we can't bring our forces to those parts of the world? If Australia needs help, what good is our word if we can't actually sail the ships and move the planes we need to there? Hence we have a large force of air transports, aerial refueling tankers, carriers, and bases overseas and we have enough to *sustain* them (equipment gets put into routine maintenance to last).
+
+[More than half of US troops overseas](http://www.pewresearch.org/fact-tank/2017/08/22/u-s-active-duty-military-presence-overseas-is-at-its-smallest-in-decades/) are stationed in JUST 4 countries: Japan, Germany, South Korea, and Italy. We have defense treaties with all 4 of them. 3 of those 4 nations happen to be the defeated Axis foes of WW2. There's some history there.
+
+That's the thing: military spending isn't as haphazardly put together as people think. [The National Security Strategy](http://nssarchive.us/) of the US is put out by presidential administrations which outlines their major foreign policy goals. During the Cold War, the military policy was straightforward: win two major wars at the same time, believed to mean beating the Soviets in Europe and China/North Korea in Asia.
+
+When the Cold War ended, Pres. Clinton revised this to 'win-hold-win': win one major war, hold the line in another, then win that one when the first one concludes. The military resized accordingly: it went from 3 million active duty and reserve to 2.1 million. That same proportion of cuts was felt widely across the board: the US aircraft carrier fleet, for instance, went from no fewer than 15 in any given year in the Cold War and was phased out to the 11 we have today.
+
+But spending isn't just about today's operations. Note that procurement and R&D make up a big chunk of spending, and that's because we're not just looking at today or yesterday's threats, but tomorrow's too (no, we can't simply wait to innovate as we did in WW2 - weapons and the nature of warfare are too complex to wait until hostilities start to develop. I can go into excruciating detail on this)
+
+China isn't static. It might not care about a blue water navy right now (it has few distant overseas interests), but that's changing rapidly: it just opened its first [overseas base in Djibouti](http://www.aljazeera.com/news/2017/08/china-opens-overseas-base-djibouti-170801104040586.html). April 2017, it launched its [second aircraft carrier](https://www.theguardian.com/world/2017/apr/26/china-launches-second-aircraft-carrier-that-is-first-built-at-home) and has not only a third but also a [FOURTH aircraft carrier under construction](https://www.upi.com/Report-China-building-fourth-aircraft-carrier-at-Dalian-shipyard/9341495552864/). The balance of power today is NOT the balance of power in a decade.
+
+Spending differences also ignore that the US is committed to far more than any other nation in the world. The US, a two-ocean country, is **simultaneously** committed to both Europe (through NATO) AND Asia (through treaties with South Korea and Japan as well as Australia). That makes us unique in comparison to a UK or France, which is focused almost entirely on only Europe and its backyard.
+
+And simultaneous is no joke: the US getting involved in a crisis with Russia in Europe doesn't absolve us from fighting alongside South Korea if North Korea decides to go to war.
+
+The US has goals that other rivals don't care about. Let's see, what do we the US people demand?
+
+* Commitment to NATO and our allies in Asia across two vast oceans (thus we need the equipment to get us there)
+* Commitment to winning wars (dominance in conventional warfare)
+* Care that our weapons are precise (so we don't kill the wrong people)
+* Care that our soldier's lives aren't needlessly wasted (hence the best training and equipment)
+
+Look at [how much a US soldier costs to equip today](https://i.imgur.com/SmVmdhq.jpg). These are inflation adjusted: our troops carry equipment with costs 100x more than a US soldier was equipped in WW2. Meanwhile, only 1 US soldier is killed today for every 8.3 wounded, compared to WW2, where it was 1 for every 2.4 wounded. Cost wise, each soldier costs a lot more to equip, but how much would you spend to make sure 3-4x as many live?
+
+Compare that to China or Russia, who don't care as much about collateral damage, can conscript people to serve, and don't need to answer to their populace the way our nation does. Yeah, it might cost a bit more money for us to achieve all that
+
+Thus, if you are looking at spending differences without accounting for costs of living, production costs, and prioritization of spending (the US spends 16-19% of DOD budget on procurement; China is estimated at 30-35% per SIPRI), you're not seeing the full picture: China and Russia are a LOT closer to the US than most people realize (they've spent all their money modernizing their forces with a focus on confronting the US, while the US has a lot of legacy equipment leftover to maintain and years wasted fighting low tech foes). 
+
+**Part TWO below**
+
+edit: thanks for the gold!
+>Those goals can be achieved with substantially less military funding. CMV.
+
+Do you have any specific areas where you think less should be spent?  It would make things a lot easier to discuss.
+
+For instance, Obama already downgraded the size of the forces and removed the ability for the US to fight two wars simultaneously.
+
+That huge GDP you talk about is largely dependant upon the global economy.  Unrest or war in trading partners will impact American citizens.  So, China believes that they have a right to Asia-Pacific, and grudges with Japan (from WWII) and Taiwan (for existing).  Without a force that would give them pause, there's little question that they would take more aggressive action, at least in disputed islands.
+
+Russia has clearly shown themselves to have an appetite to reclaim the Soviet empire.  Guess what keeps them in check?  
+
+The US doesn't want to be at the mercy of coalition building to protect our global interests.  If China were to move against Taiwan or Japan, there is no one that could help in a timely fashion, and it's doubtful that Europe would be all that interested in helping.
+
+The other thing to consider is why the US spends so much.
+
+Part of it is that we don't want to be dependant upon other nations for military supplies - so everything is manufactured in the US - a much pricier proposition.  
+
+Our soldiers are more expensive than non-European nations.
+
+Perhaps more importantly, we have a low tolerance for losses.  So, while, say, North Korea or China's militaries view soldiers as cannon fodder, the US has highly trained, absurdly well equipped soldiers.  In most cases, US soldiers should be able to eliminate quite a few enemies for every loss. (Or, a high K/D ratio for you gamers).  It isn't cheap, but it's what tolerable to the public.
+
+So, given all of this, what should we cut and why?
+/u/GreshlyLuke (OP) has awarded 1 delta in this post.
+
+All comments that earned deltas (from OP or other users) are listed [**here**](/r/DeltaLog/comments/71cub9), in /r/DeltaLog.
+
+Please note that a change of view [doesn't necessarily mean a reversal](https://www.reddit.com/r/changemyview/wiki/index#wiki_what_is_a_.27view.27.3F), or that the conversation has ended.
+
+^[Delta System Explained](https://www.reddit.com/r/changemyview/wiki/deltasystem) ^| ^[Deltaboards](https://www.reddit.com/r/changemyview/wiki/deltaboards)
+You are basing your argument upon the officially stated objectives, which are vague enough to cover an incredible variety of actual objectives. A more accurate statement of US military goals, to my mind, would be to maintain hegemonic power in the world using a military force equipped with cutting edge equipment, comprised of soldiers who are sufficiently compensated for the risks they take. 
+
+If you agree with this stated objective, where would you aim to cut back? 
+A number of weeks ago, I found an interesting series of posts that more or less justify the spending on the military. The distillation of the posts are as follows:
+
+First, the majority of the spending is purely for wages, insurance and benefits. The poster made the point that, like the rest of Americans, the military has seen blooming healthcare costs across the board, as well as higher expectations in terms of wages and other benefits. The poster made the comparison that yes, we could pay our soldiers the same wages the Russians and Chinese pay their soldiers, but that is an unaceptable solution since those foreign soldiers are paid a pittance and no one could survive in America on those sorts of wages. We as a western nation expect our soldiers to be properly compensated for their sacrifices. To do any less is unthinkable. And even as things stand *now*, there is huge room for improvement, especially for veterans.
+
+Second, and probably more to the point, is that there are currently three countries on the planet that really dominate in terms of their ability to project their policies on the world. They are the United States, the Russian Federation, and China. And of those three, I can tell you right now that I prefer to have America calling the shots. If either Russia or China were dominant, the world would be a very different place. The US is the *only* country currently that stands a ghost of a chane of fighting one (or even both) alone. No other nation or group of nations comes close.
+
+I say this not in defense, necessarily, of the US military. Like all countries, America does some shitty things and it's military is the arm that enacts those things. But looking at pure numbers doesn't tell the whole story, and in fact is a pretty myopic way of making a judgement. I can link those posts if you'd like to read further, they're actually rather interesting.
+The US military, on top of its domestic goals, is also the de facto world policeman. We form the bulk of the UN's coalition forces and NATO forces.  We have bases all around the world that we maintain garrisons at to prevent conflict and intervene if necessary.
+
+Why do you think we were in Kosovo and Somalia? Neither of these nations posed a threat to us, but in our role as world peace keeper these were important missions.
+
+The alternative to this would be scaling back our military commitment. This would have the effect of causing other nations who rely on us for defense to build up their own armies. And when more nations have large standing armies, the chance that one of them decides to do something with it increases heavily.  It's in our best interest to keep our military large and our budget high 
+This totally depends on what our goals with the military are. 
+
+If our goal is to be the world police then we are not close to spending enough. If we actually want to police the actions of the world we would likely need to spend 10-20 times what we do currently. 
+
+If our goal is to be the strongest military then we are spending about the right amount. We are currently the strongest economy and the strongest military so as long as we continue to spend this amount or slightly more we will stay the strongest. This has been one of the mandates of the US since WWII, that no other nation will be stronger than us. We also do not like a nation being our equal (or perceived equal) as we had with the USSR. 
+
+If the Goal is national defense, then yes we are spending more than necessary. We could likely spend as little as .5% and still maintain a defensive force strong enough to just defend the US. But with NATO obligations we are required to spend 2% (though there are no hard punishments for failing to meet this as over half of NATO fails, thus the speech from Trump earlier this year). 
+The US military budget looks gratuitous, but remember that the goal isn't just to come out on top in a conflict. We want to win:
+
+* Anywhere
+* Immediately
+* With minimal casualties
+
+That's a classic "pick any two" scenario, but we want all three. With a mission like that, it's not good enough to be a fair bit stronger than your rivals. You'd have to be exponentially stronger to have confidence in that mission. Maybe the mission should change, but that's what it is now.
+All of this hinges on what the actual militaristic goals of the U.S. mean.
+
+>Overcoming any nations responsible for aggressive acts that imperil the peace and security of the United States
+
+A necessary capability in order to defeat "any nations" is the ability to defeat *all* nations who might aggress against us. That requires spending as much as all of them combined.
+
+Now... you might argue that this isn't actually what that goal means... but the evidence suggests that it *is* what it means. The military goal of the U.S. is to dominate all of the armed forces of the world. If it weren't we wouldn't spend as much as the rest of them combined, ipso facto. 

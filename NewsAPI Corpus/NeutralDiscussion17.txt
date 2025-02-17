@@ -1,0 +1,57 @@
+Title: Meta Pays Trump $25M Protection Money After Mar-a-Lago ‘Offer’
+Source: Techdirt
+URL: https://www.techdirt.com/2025/01/30/meta-pays-trump-25m-protection-money-after-mar-a-lago-offer/
+
+Meta Pays Trump $25M Protection Money After Mar-a-Lago ‘Offer’
+
+from the institutional-corruption dept
+
+In what looks increasingly like a protection racket, Meta has agreed to pay Donald Trump $25 million to settle a lawsuit that multiple courts had already indicated was completely meritless. The settlement, which directs $22 million toward Trump’s presidential library, comes after a dinner at Mar-a-Lago where Trump reportedly told Zuckerberg this needed to be resolved before the Meta CEO could be “brought into the tent.”
+
+And this was all being negotiated at the same time Zuckerberg made a public appearance on Joe Rogan to complain about how unfair it was that Joe Biden was mean to him. At the very same time that Trump was literally demanding money from him.
+
+The story behind this shakedown begins four years ago, when major internet platforms banned Trump following January 6th, citing clear violations of their policies against inciting violence. Most platforms eventually reinstated him, with Meta bringing him back in 2023 as his GOP nomination became inevitable.
+
+Rather than accept that private companies have every right to moderate their platforms, Trump responded in 2021 with what can only be described as legal performance art: suing Meta (and Mark Zuckerberg), Twitter (and Jack Dorsey), and Google (and Sundar Pichai), claiming that their moderation decisions violated the First Amendment. As we pointed out at the time, everything about the case was backwards. The First Amendment only restricts the government (which at the time of the supposed violation was run by Trump himself), not private companies.
+
+In the lawsuit, Trump tried to blame the Biden administration (which did not exist at the time of the banning!) for stripping his rights, even though they were not the government and had nothing to do with the decisions of the private companies.
+
+The lawsuits did not go well. After being transferred out of Florida (where Trump brought them) to California, the case against Twitter/Dorsey moved forward the fastest, where a judge absolutely trashed it as frivolous.
+
+Plaintiffs’ main claim is that defendants have “censor[ed]” plaintiffs’ Twitter accounts in violation of their right to free speech under the First Amendment to the United States Constitution… Plaintiffs are not starting from a position of strength. Twitter is a private company, and “the First Amendment applies only to governmental abridgements of speech, and not to alleged abridgements by private companies.”
+
+That case was appealed to the Ninth Circuit, which held oral arguments (which did not go well for Trump). But before the Ninth Circuit could rule, there was that flurry of internet content moderation cases that went to the Supreme Court last year (including Murthy and Moody), so the Ninth Circuit decided to wait until those cases were ruled on, and then asked the parties for additional briefing in light of those rulings.
+
+As for the two other cases, against Google and Meta, those were put on hold while the Twitter appeal played out on the (reasonable) assumption that how the Ninth Circuit ruled would impact those cases.
+
+Then came an interesting development that initially flew under the radar: just two weeks after the election, ExTwitter quietly filed a notice with the appeals court, suggesting they were about to reach a settlement.
+
+We represent the appellants and appellees in the above-captioned appeal, in which the Court held argument on October 4, 2023. In accordance with Ninth Circuit rules, we write to advise the Court that the parties are actively discussing a potential settlement. See Ninth Cir. R. p. xix. In light of those discussions, we respectfully suggest that the Court withdraw submission and stay this appeal.
+
+Because, of course, in the interim between the lawsuit being filed and November, Elon Musk had purchased Twitter, renamed it to X, then become a super fan of Donald Trump and his biggest political backer. So it must have been awkward that the two of them were literally suing each other (and Musk was obviously going to win if the Ninth were allowed to decide).
+
+Now the Wall Street Journal is reporting that when Zuckerberg flew to Mar-A-Lago to have dinner with Trump right after the election, the President (who just months earlier had threatened to put Zuck in prison for life), apparently brought up the case unprompted during the dinner, and said that for Zuck to make amends and be “brought into the tent” he had to pay up:
+
+Serious talks about the suit, which had seen little activity since the fall of 2023, began after Meta Chief Executive Mark Zuckerberg flew to Trump’s Mar-a-Lago club in Florida to dine with him in November, according to the people familiar with the discussions. The dinner was one of several efforts by Zuckerberg and Meta to soften the relationship with Trump and the incoming administration. Meta also donated $1 million to Trump’s inaugural fund. Last year, Trump warned that Zuckerberg could go to prison if he tried to rig the election against him. Toward the end of the November dinner, Trump raised the matter of the lawsuit, the people said. The president signaled that the litigation had to be resolved before Zuckerberg could be “brought into the tent,” one of the people said. Weeks later, in early January, Zuckerberg returned to Mar-a-Lago for a full day of mediation. Trump was present for part of the session, though he stepped out at one point to be sentenced—appearing virtually—for covering up hush money paid to a porn star, one of the people said. He also golfed, reappearing in golf clothes and talking about the round he had just played, the person said.
+
+Let’s call this what it is: a protection racket that would make Tony Soprano proud. The playbook is classic: file a meritless lawsuit, make veiled threats (like suggesting prison time), then offer “protection” in exchange for payment. The only difference is that instead of a local restaurant owner paying to keep their windows intact, we’re watching a tech giant hand over $25 million to avoid future “problems.” The case was legally DOA – but that was never the point.
+
+And Zuck is now using Meta’s money to fund what is effectively a $25 million gift to Trump.
+
+President Trump has signed settlement papers that are expected to require Meta Platforms to pay roughly $25 million to resolve a 2021 lawsuit Trump brought after the company suspended his accounts following the attacks on the U.S. Capitol that year, according to people familiar with the agreement. Of that, $22 million will go toward a fund for Trump’s presidential library, with the rest going to legal fees and the other plaintiffs who signed onto the case. Meta won’t admit wrongdoing, the people said. Trump signed the settlement agreement Wednesday in the Oval Office.
+
+Some might draw parallels to ABC’s settlement in the Stephanopoulos case, but that comparison misses a key distinction: ABC faced at least plausible arguments about actual malice standards in defamation law. While it still does look like ABC caved to a blatant threat about a winnable case, it still would have been costly to litigate. Here, we’re talking about a case so devoid of legal merit that even Trump-appointed judges would have struggled to keep straight faces.
+
+The cases against Meta, Twitter, and Google were losers from the start, and the courts seemed pretty clear on that. But both Meta and soon (if not already) ExTwitter will “settle” the cases funneling many millions of dollars directly to Trump.
+
+It’s hard to see this as anything other than a pathway to corruption. Presidents can just sue media properties for not handling things the way they want, and then the companies all “settle” the cases, funneling millions of dollars to the President.
+
+This settlement doesn’t just erode trust — it weaponizes distrust. By framing platform moderation as political favors rather than policy decisions, it undermines the very concept of content governance. The real free speech threat here isn’t the initial ban, but the creation of a system where access to digital public squares depends on paying political tribute.
+
+The implications here are staggering. Even if you charitably view this as mere appearance of corruption rather than the real thing, we’re watching the creation of a dangerous new playbook: Presidents can now use frivolous lawsuits as leverage to extract millions from tech companies, while those companies can effectively purchase political protection through “settlements.” The next time you hear Silicon Valley leaders talk about defending democratic institutions, remember that Meta just showed exactly how much those principles are worth: $25 million, paid directly to a presidential library fund.
+
+And for other tech companies watching this unfold? The message is clear: better start saving up for your own “settlement” fund. The protection racket is going digital.
+
+Filed Under: 1st amendment, 9th circuit, content moderation, corruption, donald trump, mark zuckerberg, shakedown, soft corruption
+
+Companies: google, meta, twitter, x

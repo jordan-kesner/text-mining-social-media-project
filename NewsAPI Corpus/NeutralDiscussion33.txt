@@ -1,0 +1,61 @@
+Title: Q&A: Lucas Graves on Meta’s decision to shut down its global fact checking program
+Source: Columbia Journalism Review
+URL: https://www.cjr.org/tow_center/qa-fact-checking-historian-lucas-graves-weighs-in-on-metas-decision-to-shut-down-its-global-fact-checking-program.php
+
+Sign up for The Media Today, CJR’s daily newsletter.
+
+In a January 7 livestream laden with right-wing dog whistles, Meta CEO Mark Zuckerberg announced that the social media giant would be ending its third-party fact-checking program.
+
+“We’re going to get rid of fact-checkers and replace them with community notes similar to X starting in the US,” Zuckerberg said via Instagram Live. “After Trump first got elected, in 2016, the legacy media wrote nonstop about how misinformation was a threat to democracy. We tried in good faith to address those concerns without becoming the arbiters of truth, but the fact-checkers have just been too politically biased and have destroyed more trust than they’ve created.”
+
+Originally implemented in 2016, Meta’s fact-checking program was one of the largest in the world, having donated more than $100 million to roughly 90 independent newsrooms and fact-checking organizations registered with the International Fact-Checking Network (IFCN), a Poynter-based coalition that Meta also funds.
+
+“In all the years we have been part of the partnership, we or the IFCN never received any complaints from Meta about any political bias, so we were quite surprised by this statement,” Maarten Schenk, cofounder and COO/CTO of Lead Stories, wrote in an op-ed responding to the announcement.
+
+The decision came down three weeks before the second inauguration of Donald Trump, who has historically cast Meta as an “enemy of the people” for its efforts to mitigate misinformation on its platforms, and has on numerous occasions threatened to jail Zuckerberg specifically, should the platform continue to “censor” him or his supporters by fact-checking or removing their posts. Meta notably donated $1 million to Trump’s inauguration fund in December.
+
+In an open letter to Zuckerberg from the IFCN, member organizations expressed confusion and disappointment in the company’s decision:
+
+“From what we could tell, the program was effective. Research indicated fact-check labels reduced belief in and sharing of false information.… We believe the decision to end Meta’s third-party fact-checking program is a step backward for those who want to see an internet that prioritizes accurate and trustworthy information.”
+
+In an effort to make sense of this financial blow to the fact-checking community, Tow research assistant Kaylee Williams chatted with Dr. Lucas Graves, a professor of journalism at the University of Wisconsin–Madison and the author of Deciding What’s True: The Rise of Political Fact-Checking in American Journalism. The conversation has been edited for length and clarity.
+
+KW: Can you help us understand the significance of Meta’s decision and what it means for journalists and the journalism/fact-checking community?
+
+LG: I think it’s worth dwelling for a second on how remarkable the program that Meta came up with has been. There was a lot that wasn’t perfect about it, and fact-checkers themselves had some long-standing criticisms of the way the program worked. But in general, fact-checkers have treated this as a model for the ways that platforms and independent journalists and fact-checkers can work together, because it was set up with a lot of input from them, and it was mediated by their professional association, the International Fact-Checking Network.
+
+And amid the criticisms of the program, and the obvious fact that Meta only embraced it initially as a PR strategy to weather the intense criticism that they were getting in the wake of the 2016 election and the Cambridge Analytica scandal, it’s easy to overlook the fact that this was a really cool program in many ways, and that we haven’t seen others like it. And if this is the first step in its elimination, that’s really something to lament in terms of erecting some kind of stable institution for bringing the work, and the input of these independent fact-checkers, into content moderation on platforms.
+
+But more immediately, the consequences of Meta eliminating it in the US—and potentially worldwide—include vastly diminished resources for fact-checkers, not only to support the work that they do checking hoaxes on Instagram and Facebook, but also their political reporting, and media literacy programs, and their work with public agencies. It also means that mis- and disinformation is going to circulate even more freely than it already does on these networks. And while fact-checkers have never been able to keep up with the quantity of misleading posts that were on these networks, there is good evidence that when they intervened early enough, they could prevent certain claims from going viral. And I suspect that we’re going to see a difference, and I think we’re already starting to see a difference, although it’s difficult to quantify.
+
+KW: If that’s true, then what do you think led to the decision to end the program?
+
+LG: Look, I think that the only reasonable interpretation is that Meta is severing its relationship with fact-checkers in the United States in order to appease the incoming Trump administration. And in a way, that shouldn’t be surprising, because, as I mentioned, the program only came into existence in order to appease lawmakers in Washington in a different moment. But in the beginning, the concern was about the effect that the misinformation might have had in the 2016 election and in a climate of rising concern about online disinformation around the world. Executives at Meta felt that they had to be seen as taking this issue seriously, as a way to forestall the very real threat of more aggressive regulation, possibly in the US and also in the European Union.
+
+And so we know that Meta’s content moderation policies and its approach to disinformation are very responsive to political pressures. And people shouldn’t be surprised that with the incoming Trump administration having made it so clear that they’re going to see these efforts as a kind of censorship. And that Meta—and Mark Zuckerberg—thought that he could protect commercial interests by making this very visible and very public policy shift. I think there’s no question that that’s how we have to interpret it.
+
+KW: What do you make of this implication that the fact-checkers were too politically biased?
+
+LG: I think the first thing to say is that this line of attack from the MAGA movement is nothing new, right? It builds very directly on a longstanding strategy of the conservative movement in the United States, that began even before the Nixon administration, but that we famously associate with Spiro Agnew’s criticism of the “nattering nabobs of negativism.” This is a very organized and coherent, decades-long effort to discredit mainstream journalism as being biased, and this is just the latest iteration of that strategy. It’s been a successful strategy historically, and I think it was a successful strategy in this case.
+
+KW: Well, now that the decision has been announced, what can we expect to happen next in these fact-checking organizations?
+
+LG: So far, this only applies to fact-checkers in the US, but there’s good reason to fear that it’s only the first step, and that Meta will eliminate this gradually around the world, including in Europe.
+
+But in the United States, these really well-established fact-checking outlets are going to have greatly diminished incomes. And, you know, it’s definitely going to mean that their budgets are a lot smaller, and they’re going to have to fight to make up those budgets. And if they don’t, they’re going to have to lay off staff, and they’re going to have to scale back a lot of their activities.
+
+KW: Are you aware of any estimates as to the number of people who could lose their jobs over this?
+
+LG: It’s really hard to say, and probably irresponsible to throw numbers out there, but there’s a wide range in the degree of dependency on this partnership. Some outlets rely very heavily on income from Meta, and so it’s not unreasonable to guess that if the program disappeared overnight, somewhere between a quarter and a third of all the global partners could disappear—or in the larger organizations’ cases, shutter their fact-checking arms. And even the ones that have more diverse revenue streams would likely have to find other income or let people go.
+
+KW: Do you have any sense as to whether the philanthropic community, or any of the other deep-pocketed platforms, might be expected to fill the funding gap?
+
+LG: I think the news here really isn’t good, because even before Meta made this move I was already hearing from some fact-checkers and fact-checking adjacent organizations that the philanthropic funding was becoming harder and harder to come by. And you know, we could speculate as to why that is. It may be in response to public pressure or political winds shifting. It’s also the case that the philanthropic world is extremely faddish, and a lot of attention was given to disinformation for the last five or six years, and I think it was entirely predictable that fashions would shift. So even before this announcement, a lot of these organizations have been trying to anticipate something like this happening.
+
+KW: Are there any other elements of this story that you think are being missed by the news coverage so far?
+
+LG: Some of the sentiment that I’ve seen in US opinion pages and among the media criticism crowd has been that “Well, this is lamentable, but fact-checkers were never going to solve the misinformation problem in the first place.” And I’ve always found that argument really frustrating, because fact-checkers have certainly never promised to be the answer to online misinformation. And it really irks me that they are held to the standard that other journalists are not held to.
+
+Journalists in general accept that their work often reaches fewer people than it should, and that it doesn’t have the impacts that they hope that it would. And it’s always been a challenge to attract audiences to the sort of serious journalism that we hope it would attract.
+
+That’s also true for fact-checkers, and it’s entirely predictable that politicians would ignore them as often as not, but I find it really hard to accept the argument that we’re not worse off without people making a good-faith effort to write articles about what is true. It just seems to me to be so close to the central mission of journalism.

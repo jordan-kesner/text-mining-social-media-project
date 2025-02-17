@@ -1,0 +1,24 @@
+Title: What is something you hate about social media scheduling websites?
+
+Post:
+I'm a developer looking to built a social media scheduling and managing website but I don't what it to be another generic one, I would love to know what your frustrations are with current websites so that I could provide a better solution for you.
+
+Top Comments:
+If this post [doesn't follow the rules](https://www.reddit.com/r/socialmedia/about/rules/), please report it to the mods.
+
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/socialmedia) if you have any questions or concerns.*
+With IG, or probably more specifically Instagram’s API. It makes the functionality of scheduling apps unreliable or sometimes unavailable without warning.
+Some scheduling websites don't offer enough analytics or insights on post-performance, making it difficult to make data-driven decisions for future content.
+Most of us buy multitool platforms that happen to have scheduling, rather than buying a scheduling tool for its own sake. Especially as most platforms have scheduling capability built in now. I just went through a procurement and here was my shopping list, hope it helps:
+
+Built in UTM builder
+Aggregate inbox of all dms/comments across all the platforms I need to manage 
+Library section, so I can tag and store well-performing content to reuse
+Suggested best time to post based on in-platform behaviour, and adjusted per platform
+Ability to save clusters of frequently used hashtags so I don't need to copy and paste them over from a doc or remember them
+Ability to plan my content calendar within platform, and send for approval without that being counted as a second user
+
+I've used all the main schedulers and have strong opinions. Please feel free to message me with any specific follow up questions, happy to help x
+what is preventing you to integrate AI in your workflow ? 
+Our customers heavily use AI on our platform and they love it

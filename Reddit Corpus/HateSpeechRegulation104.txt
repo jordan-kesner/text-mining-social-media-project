@@ -1,0 +1,76 @@
+Title: Policy Announcement: Domains which require readers to disable ad-blockers will now be automatically flaired with a warning message.
+
+Post:
+**First, let me say thank you to all of the users who provided feedback in [this](https://www.reddit.com/r/technology/comments/4if65h/mod_announcement_were_considering_banning_all/) thread.**  The discussion here was very valuable to us, and we really appreciate not only the discussion that this generated, but also the visibility it provided to the issue.  Several tech blogs have picked up the story, and the reddit CEO himself even dropped by to give us encouragement.  People are watching, so we want to make sure we get this right.  
+  
+Following much discussion, the mod team on /r/technology has decided to take the following immediate actions to address the ad-blocking issue:  
+  
+-  We will maintain a list of domains which are not Ad-block friendly and will have these posts automatically flaired with the string "AdBlock WARNING" to reflect this. 
+-  We will create a category filter on the sidebar which allows users to hide posts which receive this flair.  
+
+-----------------------------
+  
+**THIS IS JUST THE FIRST STEP**  
+  
+We have many other ideas for how to address this in a manner which balances the democratic principles of reddit, with our desire to protect users from sites which may open them up to potentially malicious ad networks.  In the near future, we are going to explore ways to make the warnings more visible, interactive, and informative than simply a special flair.  Such actions may include:  
+  
+- Creating highly visible CSS to alert users when they are about to click on a domain which does not allow ad blockers.  
+- Using automod to drop a comment in the thread, educating users on the safety considerations associated with some ad networks, and asking OP to consider finding an alternative source for the content.  
+- Creating and maintaining a wiki page which will serve as a tracker for the issue, and which will contain a list of the flagged domains, as well as a list of safe browsing tips for visiting pages without an ad-blocker.   
+- Creating a bot which will scrape these articles and post content in the comments. Preserving the discussion, but denying the  page views.    
+ 
+---------------------------------
+ 
+**What can I do to help?**  
+
+- We will require user assistance to maintain a list of domains which will automatically receive the new flair.  Please message modmail with suspect domains, or report posts which are asking users to disable ad-block.  
+
+
+**Why didn't you simply ban the domains in question?**  
+  
+- Banning domains outright is not a matter we take lightly. It is not a good "first step."  As moderators, it is not our job to play content police or to create editorial preference for one site over another - it is ultimately the job of our readers to make an informed decision about what constitutes high-quality content, and to vote according to their own individual set of values.  
+
+- We plan to track the issue closely.  Right now there are only a handful of sites which are going this route, but there is a concern that a blanket ban on such sites could potentially remove a large amount of otherwise high-quality journalism from /r/technology, if this tactic becomes more popular.  Most ad networks are still very safe, and while a handful of domains have been caught serving malware in ads, it does not make sense to apply the same carrots and sticks to sites which do take the time to properly vet advertisers.  
+  
+- Many users still want to see and discuss the content.  Other users may not even be aware of the issue in the first place.  By going the route of informed consent, we not only preserve the ability to have discussions about a broad variety of topics from a broad variety of sources, but we also hope that making the issue visible will do more to spread awareness than would sweeping it under the rug.  
+
+- This is not even our final form.  Starting with a conservative response to the issue gives us room to continue the discussion, and to adapt the policy moving forward.  If this ad tactic becomes more popular, we can enable the content filters by default, and require users to "opt-in" to see these posts.  And if the malware issue becomes a pandemic, we can easily throw a switch to ban the domains on a temporary or permanent basis, if it comes to that.  Rolling back a domain ban would be much more difficult than ratcheting up the response in deliberate steps.     
+  
+**When can we expect this to be fully implemented?**  
+
+- Automod will be configured to flair posts from our (currently short) list of domains shortly after this announcement goes live.  
+- We hope to have the content filter implemented within the next several days.  
+- We hope to have visible CSS alerts implemented within the next week or two.  
+- The Wiki tracking page will be generated over the next several days to weeks.  
+  
+**I have other questions or concerns.**
+  
+We will continue to solicit feedback on this topic.  Please leave a comment in this thread, or [Send us some modmail](https://www.reddit.com/message/compose?to=%2Fr%2Ftechnology) with your thoughts.  
+  
+------------------------------------------
+  
+Edit:  
+- New Wiki is available [here](https://www.reddit.com/r/technology/wiki/index).  
+- [Here](https://www.reddit.com/r/technology/comments/4jnyzw/test_post_please_ignore/) is what the new warning style will look like.  
+
+Top Comments:
+For those who want to take it a step further and hide these posts, if you have RES you can set up a filter to hide posts with a certain flair. That option is under the "Subreddits">"FilteReddit" section towards the bottom (or [this link](https://www.reddit.com/r/technology/comments/4jn0rg/policy_announcement_domains_which_require_readers/#!settings/filteReddit) should work to open the RES settings window straight in that section).
+> Creating a bot which will scrape these articles and post content in the comments. Preserving the discussion, but denying the page views.
+
+Ehhh. I'm pretty rabidly anti-ad, but I think this is a much less defensible tactic. It gives content creators a more solid argument that their work is being stolen if it's being ripped and reposted elsewhere because of ad policies. It would be a lot better to just block those articles entirely.
+I like this change,  it lets users decide for themselves.  Sometimes good content is worth some hassle.  Everyone has to pay the bills somehow.
+>Creating a bot which will scrape these articles and post content in the comments. Preserving the discussion, but denying the page views.
+
+Does archive.is have an API that can be accessed? If so, could you guys leverage that instead of reinventing the wheel? Like for example when a Forbes link gets posted Automod or a new bot then posts a sticky comment of the archive.is link and flairs the post.
+
+Now a PSA for people that want to visit the kind of websites that ask you to disable your blocker. 
+
+uBlock Origin has two lists named ***Anti-Adblock Killer | Reek*** and ***Adblock Warning Removal List*** that can help with this issue. Enable them (because they aren't enabled by default) both and you'll likely never be asked to disable your blocker again.
+I'd like to see this reddit wide, personally. Especially considering that the companies that are requiring the disabling of ad-blockers are clearly incapable of managing what ads are played to their users.
+
+see: forbes giving people adware
+Does this include sites that popup a nag screen asking you to whitelist them, but doesn't actually block the content?
+
+I mean, while they make the content available, they also want to expose you to all the nastiness - which is in someways worse.
+
+computerworld.com are doing this.

@@ -1,0 +1,55 @@
+Title: How State Tech Policies in 2024 Set the Stage for 2025
+Source: EFF
+URL: https://www.eff.org/deeplinks/2025/02/how-state-tech-policies-2024-set-stage-2025
+
+EFF has been at the forefront of defending civil liberties in the digital age, with our activism team working across state, federal, and local levels to safeguard everyone's rights in the rapidly evolving tech landscape. As federal action on technology policy often lags, many are looking to state governments to lead the way in addressing tech-related issues.
+
+Drawing insights from the State of State Technology Policy 2024 report by NYU’s Center on Technology Policy and EFF's own experiences advocating in state legislatures, this blog offers a breakdown on why you should care about state policy, the number of bills passed around the country, and a look forward to the coming challenges and trends in state-level tech policy.
+
+Why Should You Care?
+
+State governments are increasingly becoming key players in tech policy, moving much faster than the federal government. This has become especially apparent in 2024, when states enacted significantly more legislation regulating technology than in previous years.
+
+“Why?,” you may ask. State legislatures were the most partisan they’ve been in decades in 2024, where we saw a notable increase in the presence of "trifecta" governments—states where one political party controls both chambers of the legislature and the governorship. With this unified control, states can pass laws more easily and quickly.
+
+Forty states operated under such single-party rule in 2024, the most in at least three decades. Amongst the 40 trifecta states, 29 states also had veto-proof supermajorities, meaning legislation can pass regardless of gubernatorial opposition. This overwhelming single-party control helped push through new tech regulations, with the Center on Technology Policy reporting that 89% percent of all tech-related bills passed in trifecta states. Even with shifts in the 2024 elections, where at least two states—Michigan and Minnesota—lost their trifectas, the trend of state governments driving technology policy is unlikely to slow down anytime soon.
+
+2024 in Numbers: A Historic Year for State Tech Policy
+
+According to the State of State Technology Policy 2024 report by NYU’s Center on Technology Policy:
+
+238 technology-related bills passed across 46 states, marking a 163% increase from the previous year.
+
+20 states passed 28 privacy-related bills, including 7 states enacting laws similar to the industry supported Washington Privacy Act.
+
+18 states passed laws regulating biometric data, with 2 states introducing genetic privacy protections.
+
+23 states passed 48 laws focused on “online child safety,” primarily targeting age verification for adult content and regulating social media.
+
+41 states passed 107 bills regulating AI.
+
+22 states passed laws addressing Non-Consensual Intimate Images (NCII) and child sexual abuse material (CSAM) generated or altered by AI or digital means.
+
+17 states enacted 22 laws regulating the use of generative AI in political campaigns.
+
+6 states created 19 new commissions, task forces, and legislative committees to assess the impact of AI and explore its regulation or beneficial use. For example, California created a working group to guide the safe use of AI in education.
+
+15 states passed 18 bills related to funding AI research or initiatives. For example, Nebraska allocated funds to explore how AI can assist individuals with dyslexia.
+
+3 states made incremental changes to antitrust laws, while 6 states joined federal regulators in pursuing 6 significant cases against tech companies for anticompetitive practices.
+
+California passed the most tech-related legislation in 2024, with 26 bills, followed by Utah, which passed 13 bills.
+
+Looking Ahead: What to Expect in 2025
+
+2025 will be a critical year for state tech policy, and we expect to see several trends persist: state governments will continue to prioritize technology policy, leveraging their political compositions to enact new laws faster than the federal government. We expect state legislatures to continue ongoing efforts to regulate AI, online child safety, and other pressing issues, with states taking a proactive role in shaping the future of tech regulation. We also should recognize that states and local governments are technology users, and that their procurement and use of technology itself is a form of tech policy. States are also likely to introduce legislation around the procurement and use of emerging technologies like AI and facial recognition by government agencies, aiming to set clear standards and ensure transparency in their adoption—an issue the EFF plans to monitor and address in more detail in future blog posts and resources. Legislative priorities will be influenced by federal inaction or shifts in policy, as states step in to fill gaps and drive national discussions on digital rights.
+
+Much depends on the direction of federal leadership. Some states may push forward with their own tech regulations. Others may hold off, waiting for federal action. We might also see some states act as a counterbalance to federal efforts, particularly in areas like platform content moderation and data privacy, where the federal government could potentially impose restrictive policies.
+
+
+
+For a deep dive on how the major tech issues fared in 2024 and our expectations for 2025, check out our blog post: Key Issues Shaping State-Level Tech Policy.
+
+EFF will continue to be at the forefront, working alongside lawmakers and advocacy partners to ensure that digital rights remain a priority in state legislatures. As state lawmakers take on critical issues like privacy protections and facial recognition technology, we’ll be there to help guide these conversations and promote policies that address real-world harms.
+
+We encourage our supporters to join us in these efforts—your voice and activism are crucial in shaping a future where tech serves the public good, not just corporate interests. To stay informed about ongoing state-level tech policy and to learn how you can get involved, follow EFF’s updates and continue championing digital rights with us.

@@ -1,0 +1,31 @@
+Title: Meta Q4 2024 Profit Up 49% At $20.8 Billion, No Impact of Content Moderation Removal On Ad Spends: CFO
+Source: MediaNama.com
+URL: https://www.medianama.com/2025/01/223-meta-q4-2024-profit-up-49-at-20-8-billion-no-impact-of-content-moderation-removal-on-ad-spends-cfo/
+
+Briefly Smartly
+
+Meta saw 3.35 billion average daily active users in this quarter on its family of products, including Facebook, Instagram, WhatsApp and Messenger in Q4 2024. This marked a 5% Year-on-Year (YoY) increase over last year’s figure of 3.19 billion. The average revenue per person for the product family also increased 15.57% to $14.25 this quarter, from $12.33 in the previous year.
+
+The company’s total ad impressions also increased 6% YoY this quarter worldwide, while the Asia-Pacific region saw a growth of 10%. Meanwhile, the average price per ad increased by 14% YoY this quarter, with a 12% positive change in the Asia-Pacific region.
+
+The Financial Information of Meta:
+
+Meta earned $48.3 billion in revenue this year, representing a 21% YoY increase, and incurred over $25 billion in expenses, which was a 5% YoY increase. The company raked in a profit of $20.8 billion at a YoY increase of 49%. Their operating margin stood at 48%, seven percentage points above the last year’s figure. Meta ended the year with $77.8 billion in cash and marketable securities and $28.8 billion in debt.
+
+Meta’s cost of revenue rose 15%, primarily due to increased infrastructure expenses. Research and development spending grew 16%, which they attributed to higher employee compensation and infrastructure costs, though reduced restructuring expenses partially mitigated this increase. Marketing and Sales expenditure remained stable compared to the previous year. General and Administrative costs saw a significant 67% reduction, largely due to decreased legal expenses, specifically a $1.55 billion reduction in legal accruals. The workforce expanded by 10% to over 74,000 employees, with new hires concentrated in areas like monetization, infrastructure, generative AI, Reality Labs, and regulatory compliance.
+
+Meta’s family of apps had a revenue of $47.3 billion, a 21% YoY increase. This was largely driven by advertising revenue of $46.8 billion, which also rose 21% YoY, with online commerce being the main growth driver. WhatsApp Business Platform contributed to a 55% increase in other revenue, which reached $519 million. While expenses in this segment grew 5% to $19 billion due to infrastructure and compensation costs, reduced legal expenses helped contain the increase. The segment achieved an operating income of $28.3 billion with a 60% margin. Meanwhile, Reality Labs generated $1.1 billion in revenue from hardware sales but posted a $5.0 billion operating loss, as expenses grew 6% to $6.0 billion driven by infrastructure costs and employee compensation, despite lower restructuring costs.
+
+Reducing Content Moderation Had No Impact On Advertising:
+
+Earlier this month, Meta CEO Mark Zuckerberg announced that the company would be loosening its restrictions on political speech and shifting away from third-party fact-checking. Specifically, the platform relaxed its hold on hot-button topics like immigration, gender, and gender identity, removed restrictions on political content, and moved towards a community-notes-based system for fact-checking, similar to X (formerly Twitter).
+
+Responding to an investor question, Susan Li, CFO of Meta stated that the company hadn’t seen any noticeable impact from its content policy changes on advertiser spending. She stated that advertiser demand was strong, particularly for AI-based advertising tools. Zuckerberg also reiterated his belief that X’s community notes model was better than Facebook’s previous third-party fact-checking model.
+
+X adopted the community notes model soon after Elon Musk acquired the firm. In this model, instead of third-party professional fact-checkers, users can volunteer to add context to posts on the platform. However, advertising revenue under Musk reportedly saw a steep decline as advertisers were uncomfortable with the platform’s lack of moderation. Major advertisers like Volkswagen, Carlsberg and United Airlines paused advertising on X as they did not wish for their ads to appear next to problematic content. According to a Quartz report, X’s advertising revenue dropped by atleast $238 million in 2024.
+
+Advertisements
+
+Since Meta announced their moderation changes only this month, one will have to wait till the next earnings release to find out if there was an impact on advertising revenue.
+
+Also Read:

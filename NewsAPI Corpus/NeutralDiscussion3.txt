@@ -1,0 +1,29 @@
+Title: Zuckerberg tips hat to Musk over fact-checking: 'I'm not afraid to admit when someone does something better'
+Source: Business Insider
+URL: https://www.businessinsider.com/mark-zuckerberg-elon-musk-meta-fact-checking-community-notes-2025-1
+
+Mark Zuckerberg tipped his hat to X's Community Notes system during a Meta earnings call on Wednesday.
+
+He said it was more effective than Meta's prior system of using third-party fact-checkers.
+
+Zuckerberg and Musk have sparred over the years but seem to agree on this approach.
+
+Meta CEO Mark Zuckerberg praised Elon Musk's X and its Community Notes system during an earnings call on Wednesday and defended Meta's decision to replace third-party fact-checkers with a similar crowdsourced approach.
+
+When asked by an analyst how Meta's recent decision to kill traditional fact-checking could impact content quality, user growth, and advertising, Zuckerberg said X's model, which lets users add context to posts, was "more effective" than Meta's prior system.
+
+"I'm not afraid to admit when someone does something that's better than us. It's our job to implement the best system," he said, adding that Meta's platforms were "going to get better because of it."
+
+Zuckerberg and Musk have sparred over the years, even threatening in 2023 to go at it in a cage fight. So it's notable when the tech billionaires agree on something.
+
+Indeed, this is the second time in the past few weeks that Zuckerberg has publicly credited X's approach to content moderation. In a January 7 video announcing Meta's policy changes, Zuckerberg said the company was "going to get rid of fact-checkers and replace them with Community Notes, similar to X."
+
+Musk approved, writing in an X post, "This is cool."
+
+Meta's chief global affairs officer, Joel Kaplan, reiterated Zuckerberg's point in a blog post on Meta's website.
+
+"We've seen this approach work on X — where they empower their community to decide when posts are potentially misleading and need more context, and people across a diverse range of perspectives decide what sort of context is helpful for other users to see," Kaplan wrote about Community Notes, adding that it was an approach that was "less prone to bias."
+
+Community notes on Meta's platform, Kaplan said, would require people with diverse backgrounds and perspectives to agree with each other to prevent biased ratings.
+
+"Just like they do on X," he wrote.

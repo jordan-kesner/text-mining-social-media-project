@@ -1,0 +1,132 @@
+Title: December 2020 Important Subreddit Updates
+
+Post:
+Good evening, r/MP- your Moderation Team is here to deliver some community updates. There's a lot here; I encourage you to read through to the end!
+
+## Welcome to Our Newest Moderators
+
+Users /u/savne and /u/greg-stiemsma have been added to our moderation staff in the last few days to round out our team. Please give them the warmest of welcomes! Savne is one of our most prolific users in our [Discord channel](https://discord.gg/Hgnzdn5JrM), a learned and experienced user when it comes to our day-to-day culture, and an amazing voice to add to our team. greg-stiemsma is a person. Probably, we're still waiting on results from the Turing test.
+
+I kid, of course. greg-stiemsma has been around for ages, so our more regular users will certainly recognize his strong opinions and civil discussion. His willingness to accept alternative viewpoints is a hallmark we seek when adding to our steering committee for the subreddit. And this is particularly apt, because some changes are on the docket. In the spirit of full disclosure, you'll find our Moderation Team alignment chart below, updated to add our newest team members.
+
+Left Wing | Center-left | Centrist | Center-right | Right Wing
+:--|:--:|:--:|:--:|--:
+u/noeffeks | u/pingveno | u/GoldfishTX | u/Kinohki | u/Recipr0c1ty
+ u/greg-stiemsma | u/PinheadLarry | u/Wanzer-reznaw | u/carlko20 | u/sheffieldandwaveland
+| u/Anechoic_Brain | /u/Gerfervonbob | u/MCRemix | u/poundfoolishhh | u/Dan_G
+| u/abrupte | u/scrambledhelix | u/savne | u/agentpanda | u/Resvrgam2
+
+
+## "Civil Discourse" Pilot Program
+
+I want to extend the greatest of thanks to our community for their patience and response during our 'Rule 0' pilot program, as we referred to it internally. The goal of this project was to see if our staff could improve the level of discourse by ruling somewhat subjectively (through collective vote) to remove low-effort, non-contributory, and less-than-productive comments and posts. These weren't necessarily violations of our ruleset but were problematic under our mission, so we issued appropriate warnings to the users in question in hopes of steering the community away from more unproductive channels of conversation and more toward our goal of civility. We found the pilot program productive as an experiment but hard to manage as a team. In response, we're seeking input from the community. As an example, here are a few of the styles of comments we removed/warned during the program:
+
+> Trump bad. I’ll accept my Reddit gold now
+
+> So do you not believe gay people should be married? What about inter racial couples?
+
+> Wow! I guess that's the ballgame, right there. It's over and there was no fraud. Suck it, Trumpsters.
+
+> I can't wait to see Trumpy's reaction!
+
+> Ohio is a shithole, so unsurprising.
+
+> Why'd you even bother writing that?
+
+> Each party has its extreme... the left’s extreme just gets laid more often so spends less time posting BS online.
+
+> Are you mad about government or the people being mean to you on twitter?
+
+... I think you get the gist. Point being our threshold was essentially 'low-effort comments that added little to the idea of civil discourse'. We'd love to get the community's feedback on whether you feel this was a successful enterprise or not. As for the Mod Team’s general impression, we felt that curating for civility was a challenging effort, and it's one we're unlikely to repeat. Moving on...
+
+## Search for New Moderators!
+
+It's that time again! Thanks to the explosive growth of the subreddit during the 2020 election season we're extending our arms again in hopes of receiving new applicants to the position of joining our Moderation Team here at /r/moderatepolitics. We do have some baseline requests of applicants (and those that can't meet them will probably be thrown directly in the 'no, thanks' bin:
+
+Send a [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fmoderatepolitics) to r/moderatepolitics expressing your interest in joining the team, along with any particular qualifications you feel are best suited for being a part of our staff: tenure on our subreddit, engagement with our values/mission, and level of interaction with our subreddit will all win major points.
+
+For those who meet our threshold/qualifications, we'll be reaching out soon to further determine your interest and ascertain whether you'd be a good fit for our team!
+
+## 'Zero Tolerance' Policy for Infractions
+
+Due to the *highly* charged times in which we find ourselves, our team has opted to continue our 'zero tolerance' policy for rule 1/1b violations (meaning that first infractions will be met with 7+ day bans depending on severity) opposed to our typical warn/short ban/long term ban/permanent ban continuum. We plan for this policy to remain until a week after inauguration day- January 27th. If you have any questions feel free to reach out below!
+
+## Holiday Hiatus
+Perhaps the most significant function to make note of; our team has (by internal vote) opted to put the subreddit on pause for the holidays so everyone can enjoy some time off and away from the grind of political discourse, users and moderators alike. We will do this by making the sub 'semi-private' from December 24th 2020 to January 1st 2021. Aside from taking a break, the moderation team will also be using the time to brainstorm additional methods to improve community engagement levels and civility of discourse on r/moderatepolitics.
+
+Our more tenured members may remember last year when our team executed a 'zero tolerance' moderation strategy during the holidays to ease the burden on the mod team. Given the increased tensions of the political landscape since then, and the fact that we're *already* in a 'zero tolerance' period, it was decided that a holiday break will be the best course of action for the community and the moderation team. 
+
+Our team is presently deciding what form this will take (potentially leaving one stickied thread open for some off-topic shooting the shit while preventing new submissions) but the crux of the matter is that our team is sourcing input from the community in this interim period to determine how best our staff can pivot the subreddit from its present, highly unsustainable position.
+
+## Final Thoughts
+
+I'm sure it's no surprise to anyone that the exponential growth of our sub over the past year has created an environment that is (at best) unaligned with our mission in creating an environment in which all voices feel welcomed as long as they're tempered under the mantra of moderation in tone and presentation. Our team is looking to restore this balance and composure and we're welcome to inputs that permit such to be so. As an example; we've seen an increasing number of threads, posts, and comments best described as "left-splaining", downvoting of dissenting views, and... well... I'll let /u/abrupte [say it in the way only he can](https://old.reddit.com/r/moderatepolitics/comments/kbsyd1/why_cant_conservatives_handle_donald_trumps_defeat/gfkmvpl/) that really runs in the face of our mission.
+
+At this point, we're leaving it to our subreddit to determine what sort of environment you and we want to generate: does r/MP continue as an environment where voices across the spectrum are welcomed, encouraged for vigorous debate or discussion, and where multiple viewpoints can be accepted and approached with open arms? Or is our space to become one where we shun non-conformatory views in favor of creating a 'safe space' for those who agree to... agree may come to share in their mutual, shared opinions?
+
+In the comments below, we'd love to hear from the community about all these facets: our newest moderators, our search for *new* moderators, our trial period on 'civil discussion' befitting our sidebar mission, the zero tolerance policy during these heightened times, our moderation strategies at large, and our plans on how to revamp the subreddit for 2021. What does r/moderatepolitics mean to *you*, what do you want it to be, how can we (as a team) best serve the users, and what can we do to encourage our mission?
+
+Top Comments:
+>The goal of this project was to see if our staff could improve the level of discourse by ruling somewhat subjectively (through collective vote) to remove low-effort, non-contributory, and less-than-productive comments and posts. These weren't necessarily violations of our ruleset but were problematic under our mission, so we issued appropriate warnings to the users in question in hopes of steering the community away from more unproductive channels of conversation and more toward our goal of civility.
+
+Executive summary: you're in the hardest part of doing the right thing. It'll get easier; don't stop now.
+
+I'm disappointed to hear that you're finding such an important initiative unworkable, but I don't think it has to be such an ordeal on the mod end. I think the issue is the laudable but fundamentally unsustainable attempt to achieve mod consensus with respect to *every single* low-effort, off-brand comment deletion. Structurally, there are too many mods and way too many comments requiring attention for mods to have an internal discourse about each one.
+
+I don't know what the internal mod hierarchy looks like at MP, but I feel like a far more efficient course would be for senior mods (after an internal conversation) to create a rubric for mod use of the sort of thing to be deleted, with a list of examples. All mods should then delete comments on their own initiative, and senior mods can occasionally peruse the log of deleted comments and have a chat here or there with any junior mods that they feel are being too aggressive or insufficiently careful with what they deleted.
+
+Deleting a comment isn't burning a book, especially when the rubric for deletion includes "low-effort". The damage done by an errant deletion is not serious.
+
+More likely, the real concerns among MP mods that are driving cumbersome consensus-based decision-making have to do with bias, censorship, and possibly feelings of legitimacy (just going by what I sweat about when I mod in my own, much smaller community).
+
+Starting with the last first, this isn't a democracy. No subreddit is. This is your world in the most realistic sense, and almost by definition, we participate here because we enjoy the current results of the judgement calls you've made in the past. There's an inherent legitimacy in that. We all vote with our feet on reddit, and we voted for MP's current leadership just by being here.
+
+The fear of censorship was best addressed by Eliezer Yudkowsky in [this](https://www.lesswrong.com/posts/tscc3e5eujrsEeFN4/well-kept-gardens-die-by-pacifism) short essay. He said it better than I can, but bottom line, the opposite of censorship isn't a courageous, sophisticated conversation, it's 4chan. We *need* you to use your judgement to censor MP - to weed the garden - so that courageous, sophisticated conversation can thrive.
+
+Biased moderating is a major, understandable concern in a political subreddit like this, and diversity of political opinion among mods will definitely produce different perspectives sometimes, but I'd suggest that if there's an internal struggle managing this concern, it's really logistical, not ideological.
+
+With the caveat that I don't see the sausage getting made, it sounds like there's a lot of mod dialogue about individual incidents that has to start from scratch each time, and perhaps not enough decisiveness from senior mods when it comes to making final judgement calls. The efficient way to get the same functional result - or better - is to put that same effort into finding and creating *precedents.* E.g. a senior mod, after a conversation, announcing to the other mods that comments like "x" will be deleted for "y" reason. At first there'll be a lot of edge cases and a lot of debate, but over time, the precedents will grow more nuanced and the mods will all grow familiar with how the precedents should be applied. Eventually mod culture will start to gel, too, albeit maybe sometimes grudgingly ("I guess that's just the way it is on that topic"), there will be a lot less internal debate about what needs to be done, and it will mostly become a matter of educating new mods about what the precedents are and how to apply them.
+
+Anyway, that's all I've got. I hope you all enjoy your upcoming Christmas vacation.
+Welcome to the new mods, having new hands on deck around here is always welcome in my book. 
+
+>Point being our threshold was essentially 'low-effort comments that added little to the idea of civil discourse'. We'd love to get the community's feedback on whether you feel this was a successful enterprise or not.
+
+Honestly, I think the only real problem with this enforcement is that it didn't happen often enough. The idea of being able to give warnings/bans for uncivil content which wasn't technically a rule violation but violates the spirit of the sub is something this sub has needed for a while now. A lot of threads seem to just turn into "free beatings here" areas, especially for those of us on the right ([this](https://old.reddit.com/r/moderatepolitics/comments/kbsyd1/why_cant_conservatives_handle_donald_trumps_defeat/) thread just being one of the more recent examples), even if the threads are meant with good intentions. 
+
+It makes it much more difficult to engage on the merits for an issue when you have people acting without civility, even if they remain within the rules and having a rule like this enforced more liberally I think would greatly increase the quality of discourse. I understand enforcement of that rule probably brought some strain on the moderation team, but I think that just means the rule needs some tweaking to make it easier to work with rather than throwing it out all together. 
+
+That's just my two cents on the issue. Hopefully, the whole thing won't even be necessary once things calm down after the inauguration (eventually), but I do think it can only heighten the quality of discourse here by having it.
+I picked up one of those 7 day bans a while back.  It did make me mad.  But while I was on my forced hiatus  I was able to spend some time on some of the other political Subs.  I can now tell everyone it is an interesting world out there and the Mods in this sub have on hell of a job on their hands.  I am not perfect and I probably deserved that ban. No matter how I try, I will most likely run afoul of the rules here again.  But, the Mods are all giving their time to make this place something special. They deserve the time off and our thanks for undertaking the thankless job in the first place.  So I say, Marry Christmas, Happy Hanukkah, Happy New Year, Happy Holidays.  Enjoy your time off.  I for one will resolve to try a little harder to make the Mods job here a little easier in the New Year.
+Props to the mod team for surviving election season. I was not optimistic about this place 6+ months ago but you've held it together even with the exponential growth, influx of normies who don't always read/abide the rules, etc. Welcome to the new brave souls as well...godspeed!
+First off, great job so far.
+
+Second, you said you were looking for feedback, but I’m not sure if it was just for the comments you are policing more strictly. So I’ll just throw it out there:
+
+How do you feel about tone policing?
+
+The reason I think about it is because this is an effective method of persuasion that can be used to manipulate with or without facts.
+
+Penn and Teller literally got people to sign a petition to ban Dihydrogen Monoxide by merely using scary buzzwords and an underlying insidious tone: https://youtu.be/yi3erdgVVTw
+
+This is how the media operates and divides people. It’s how trial lawyers sway juries when they have no evidence, or even when the evidence is against them (if the facts are on your side, pound the facts. If the law is on your side, pound the law. If neither the facts or the law are on your side, pound the table.)
+
+I guess an example might be: “Well what did you expect from politician X when he was caught lying before about (unrelated previous event). Also don’t forget he’s a serial criminal who’s been caught Jaywalking and rips the tags off mattresses. So it wouldn’t surprise me if he also stole other peoples’ lunches from the work fridge. Who cares if the source is anonymous? Politician X’s past is proof enough of guilt for anyone with a brain.”
+
+^ nothing related to the article that was posted for discussion. It’s also the highest upvoted comment.
+
+Naturally, seeing something like this upvoted to the top that isn’t really a discussion on the topic, but it does bolster one side and demoralizes the other, who just closes the tab and says “well why bother at this point if that’s the top comment?” (It’s also a reinforcer because it dredges up past negative or positive events to further reinforce bias because our brains remember our emotional reaction to past events more than they remember the actual facts). 
+
+I don’t think many people understand that language, both written and oral, can be used to manipulate people in all sorts of ways.
+
+It’s the kind of manipulative rhetoric you see from media to divide us and generate clicks, and I hate to see that spread into the general discourse.
+
+But I’m also just throwing it out there without an opinion on it; I hate to see it used in other aspects of our lives, but that doesn’t mean it doesn’t belong here.
+if you mix up the letters in "savne", you get "vanes".
+
+if you mix up the letters in "agentpanda", you get "nad pageant".
+
+I think we know who the winner is there.
+
+not the nad pageant.
+I recognize [/u/greg-stiemsma](https://www.reddit.com/u/greg-stiemsma/) from interactions in MP threads as a strong choice - from what I recall, the soul of thoughtful, moderated discourse.

@@ -1,0 +1,89 @@
+Title: I had an idea for a TRUE free speech social media site but I'm too lazy to create it, so I'll just paste my notes here
+
+Post:
+In case anyone wants to take a crack at it and make it a reality or just simply provide thoughts and feedback. I'm just copying/pasting a brain-storming google doc I made and I'm pretty sure I wrote it while high so cut me some slack if some of my ideas aren't very fleshed out:
+
+The one true free speech platform
+
+* This platform will strive to truly be free, allowing even the most “heinious” (which is subjective) shit to be posted on it. Nothing will get you site-wide banned, but you *can* be banned by certain communities
+
+This will be a website marketed towards Americans
+
+
+
+Communities:
+
+* People will be able to create, moderate, and join any community, but with a catch
+* For example purposes, suppose we have an Aggie community and a Longhorn community
+* Users can view posts and comments from any community, but cannot interact by posting, voting, or commenting on them
+* One must join a community to interact, but then their profile will be marked with a tag from that community
+* Communities can ban certain users with certain tags from joining. So if the Longhorn community starts brigading the Aggie community, the Aggie community can block all users with the Longhorn tag from joining their community (and doing so would also remove all users currently part of the Aggie community who have the Longhorn tag)
+* To prevent people from just leaving one community to go attack another, after leaving a community, tags will take two weeks to be removed
+* In practice, this means if someone wants to create a Racists community and be a racist pos in it, they can do so. But that also means other communities can block anyone with the Racists tag
+   * Users themselves will also be able to block certain tags, meaning posts and comments by users with that tag will be hidden
+
+NSFW:
+
+* Porn will be allowed in spirit of free speech, but I’d like to prevent the website from becoming a pornsite (and from a moral stance, I think online porn is too easily accessible for minors and would not like to contribute to that problem)
+* All porn-related communities would be hosted on a completely different section of the site. Like, to borrow reddit’s syntax (which is what this website idea is largely based around), you could have r /doggies, but then you’d have r /nsfw/doggystyle. Basically all I’m trying to say is that porn communities all get grouped into their own "folder".
+* To access these communities, users will be required to somehow verify their age.
+* This feature could also be extended to allow non-porn communities to restrict themselves to 18+. You’d have to verify your age to access those communities as well. However, assuming the community is SFW, users who have not verified their age would still be allowed to view these communities.
+* So it goes:
+   * All communities - anyone can view and join
+      * 18+ communities - anyone can view but have to verify that you’re 18+ to join
+
+Voting:
+
+* I want to take a new approach to this different from Reddit. It would be similar, votes can go positive or negative, but the visible counter itself will never fall below one (unless a user downvotes them, inwhich case it will display 0 for them, but still show 1 for everyone else.
+* So a post with a net-total of +100 votes will show 100, but a post with a net-total of -100 votes will still show 1 (or 0 if the user also downvoted it)
+   * (and side note: if a user upvotes a negative-voted post, it should still probably just show a 1)
+* The idea is to encourage users to put more thought into voting rather than just blindly going along with the group.
+
+Plaza:
+
+* I think it would be cool to do some “community” but based on geographical location. Anyone can post, vote, and comment in the Plaza (SFW only). But only posts and comments from people who are a certain geographical distance away from you will be visible.
+
+Comments:
+
+* ADDED NOTE: Might actually just remove this idea; it works great for a video streaming platform but not sure it would work too well for the website I’d like to create
+* I honestly prefer YouTube style comments over Reddit, but I think the best of both worlds could be combined
+* Top-level comments will be sorted based on votes
+* Have top-level comments (or TLC) appear like they would on YouTube, where you have to click to view replies
+* Replies to TLC, which we’ll call second-level comments (or SLC) will be sorted by oldest to newest, like YouTube comments
+* Responding to SLC will also work like YouTube, where @ username will come before the comment text
+* SLC will have their own view replies button, like TLC, also sorted by date, and we’ll call these replies bottom-level comments (or BLC)
+* Here’s the catch, if a BLC gets more votes than the comment it was replying to, it becomes its own SLC (and having the @ at the beginning of the comment should still make it clear who they were replying to)
+* This would work recursively, so users could reply to BLC, BLC would get its own view replies button, and if that comment gets more likes than the BLC it was replying to, it jumps up to the same level as the BLC it was replying to
+* That’s actually a good way to sum this up - if a comment gets more replies than the comment it was replying to, it jumps up to the same level as that comment
+* The only exception is for SLCs. Even if an SLC gets more likes than the TLC, it does not become its own TLC.
+
+Top Comments:
+Not being able to comment in one community just because you also want to comment in another community is antithetical to free speech.
+But I'd like to hear your thoughts. Do you think it should be marketed towards more than Americans? And why?
+I think it would just be easiest because free speech is a first amendment right that many Americans feel strongly about. If the site gained enough attraction, you could maybe expand to market it globally, but I think initially narrowing down the target audience to just Americans would help narrow down the problem statement, needs statement, and goals and objectives.
+
+Just tryna apply what I learned in capstone lol. Easier to target a product to a specific group than a broad range of audience. More specifically, this site would be targeted towards free-speech absolutist Americans.
+I disagree. Because those people can still comment in either community, but they would have to pick one or the other. The idea of tags is to prevent brigading. If you wanna comment in the Aggie sub, leave the Longhorn sub and wait two weeks.
+> I think it would just be easiest because free speech is a first amendment right that many Americans feel strongly about. If the site gained enough attraction, you could maybe expand to market it globally, but I think initially narrowing down the target audience to just Americans would help narrow down the problem statement, needs statement, and goals and objectives.
+
+> Just tryna apply what I learned in capstone lol. Easier to target a product to a specific group than a broad range of audience. 
+
+Most nations in the world include free speech. For example, India includes it in their Constitution under the 19th Amendment. 
+
+> More specifically, this site would be targeted towards free-speech absolutist Americans.
+
+There is a reason why free speech absolutists are the fringe and often considered lunatics. Reddit used to be incredibly free speech but gradually rolled those wild areas back as it became more popular.
+If you want prevent brigading, then prevent brigading, not go with essentially censorship- you posted in one - can’t post in another. Moreover, such approach will unnecessarily lead to echo-chambers. It kills what free speech is aimed for - exchange of ideas between people who disagree.
+>There is a reason why free speech absolutists are the fringe and often considered lunatics. Reddit used to be incredibly free speech but gradually rolled those wild areas back as it became more popular.
+
+Which is why I propose the idea of marking profiles with tags that communities and users can block. *Let* them go wild. If you don't want to deal with them you can just completely block them. Never see a single post from that community and never interact with a single user from that community. And those same extreme communities would, in theory, be blocked from most of the main communities, which incentivizes  people to not join those communities unless it's something they genuinely feel passionate enough about.
+
+The point of free speech, imo, is to protect the speech that no one wants to hear. The idea of my site would be to protect the speech that no one wants to hear while letting people who don't want to hear it choose to block it.
+And I should specify that while there would be no (or very minimal) site-wide rules, communities would still have their own rules and mods, much like reddit.
+I think you misunderstand. You can still post in both communities.
+
+Think of two agoras separated by distance. Is it censorship if what you say in one agora can't be heard in the other? No. You are still free to speak in both agoras. You can speak in one, travel to the other, and then speak in that one. Likewise, you can post in the Longhorn sub, leave and wait two weeks, and then post in the Aggie sub. I disagree that this is essentially censorship.
+
+Now, what you preach may not be well received by an audience in one agora, which may get you banned from speaking in that agora. Although, I do disagree with giving mods the power to permaban. So perhaps mods would only be given the power to ban people for up to a certain max-length of time. But I disagree that this is censorship - especially if your speech breaks the predefined rules set for that agora.
+
+I also don't really care to prevent people from trapping themselves in echo chambers. If that's what people want to do, then that's what they're gonna do. Those who don't want to hear views they disagree with aren't going to listen to views they disagree with. Those who do are more than welcomed to not block users with certain tags.

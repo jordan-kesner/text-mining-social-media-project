@@ -1,0 +1,13 @@
+Title: [Eugene Volokh] Journal of Free Speech Law: "Beyond the Editorial Analogy: First Amendment Protections for Platform Content Moderation After Moody v. NetChoice,"
+Source: Reason
+URL: https://reason.com/volokh/2025/02/10/journal-of-free-speech-law-beyond-the-editorial-analogy-first-amendment-protections-for-platform-content-moderation-after-moody-v-netchoice/
+
+The article is here; the Introduction:
+
+Over the past several decades, a combination of a laissez-faire regulatory environment and Section 230's statutory protections for platform content-moderation decisions has mostly foreclosed the development of First Amendment doctrine on platform content moderation. But the conventional wisdom has been that the First Amendment would protect most platform operations even if this regulatory shield were stripped away. The simplest path to this conclusion follows what we call the "editorial analogy," which holds that a platform deciding what content to carry, remove, promote, or demote is in basically the same position—with the same robust First Amendment protections—as a newspaper editorial board considering which op-eds to carry.
+
+While formally appealing, this analogy operates at such a high level of abstraction that one might just as plausibly characterize platforms as more akin to governments—institutions whose power over speech requires democratic checks rather than constitutional protection. These competing analogies point in opposite directions: one treats platforms as democracy-enhancing speakers deserving autonomy; the other as institutional censors warranting regulation.
+
+A circuit split over which analogy to follow prompted the Supreme Court's decision last Term in Moody v. NetChoice, LLC. The Eleventh Circuit had invalidated Florida's content-moderation law as an unconstitutional interference with platforms' editorial discretion. The Fifth Circuit upheld Texas's similar law based on the traditional understanding that common carriers—in this case social platforms—are appropriately subject to anti-discrimination requirements.
+
+The Court found both of these stories too tidy.

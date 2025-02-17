@@ -1,0 +1,44 @@
+Title: A few anti-censorship, online privacy tools for searching coronavirus related information
+
+Post:
+Given the issues we’ve all had with diminishing privacy, and censorship of information during this pandemic, I threw together a shortlist of 6 cool newish privacy tools that I've been using. 
+
+Hope they're helpful to you guys as well!
+
+Stay private, and stay safe everyone! We're going to need to as governments continue to clamp down!
+
+**Vyroc - Blockchain-powered Search Engine**
+
+* Website: [https://vyrocapp.com/](https://vyrocapp.com/)
+* iOS Store: [https://apps.apple.com/us/app/vyroc-private-search-engine/id1496697220](https://apps.apple.com/us/app/vyroc-private-search-engine/id1496697220)
+* Google Play: [https://play.google.com/store/apps/details?id=com.vyroc.vyroc](https://play.google.com/store/apps/details?id=com.vyroc.vyroc)
+
+**Brave - Privacy Browser**
+
+* Website: [https://brave.com/](https://brave.com/)
+* iOS: [https://apps.apple.com/us/app/brave-private-web-browser/id1052879175](https://apps.apple.com/us/app/brave-private-web-browser/id1052879175)
+* Google Play: [https://play.google.com/store/apps/details?id=com.brave.browser&hl=en\_US](https://play.google.com/store/apps/details?id=com.brave.browser&hl=en_US)
+
+**DuckDuckGo - Privacy Search Engine**
+
+* Website: htto[http://duckduckgo.com/](http://duckduckgo.com/)
+* iOS: [https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361](https://apps.apple.com/us/app/duckduckgo-privacy-browser/id663592361)
+* Google Play: [https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android)
+
+**SearX - metasearch engine (combines multiple search engines)**
+
+* Website: [https://searx.me/](https://searx.me/)
+
+**Swisscows - Privacy search engine**
+
+* Website: [https://swisscows.com/](https://swisscows.com/)
+* iOS: [https://apps.apple.com/us/app/swisscows-search/id1013972706](https://apps.apple.com/us/app/swisscows-search/id1013972706)
+* Google Play: [https://play.google.com/store/apps/details?id=ch.swisscows.android.search&hl=nl](https://play.google.com/store/apps/details?id=ch.swisscows.android.search&hl=nl)
+
+**Qwant - Privacy search engine**
+
+* Website: [https://www.qwant.com/](https://www.qwant.com/)
+* iOS: [https://apps.apple.com/us/app/qwant/id924470452](https://apps.apple.com/us/app/qwant/id924470452)
+* Google Play: [https://play.google.com/store/apps/details?id=com.qwant.liberty&hl=en\_US](https://play.google.com/store/apps/details?id=com.qwant.liberty&hl=en_US)
+
+Top Comments:
