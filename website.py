@@ -58,7 +58,7 @@ What role should governments play in regulating online speech without infringing
 # Data Page
 elif page == "Data":
     st.title("Data Collection Process")
-    st.subheader("All Code Can Be Found At my Github Repository: [Github-Repo](https://github.com/jordan-kesner/Text-Mining-Project-Jordan-Kesner)")
+    st.subheader("All Code Can Be Found At my Github Repository: [Github-Repo](https://github.com/jordan-kesner/text-mining-data-collection)")
 
     st.write("""
     The data for this project was collected from multiple sources, including NewsAPI, Reddit API, and web scraping from CNN and Fox News. 
