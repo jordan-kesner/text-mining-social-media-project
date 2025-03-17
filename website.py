@@ -31,7 +31,7 @@ merged_df = load_data("cleaned_merged_df.csv")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", ["Introduction", "Data","About Me"])
+page = st.sidebar.radio("Go to", ["Introduction", "Data","About Me","Clustering"])
 
 # Introduction Page
 if page == "Introduction":
@@ -274,3 +274,7 @@ elif page == "About Me":
     st.title("About Me")
     st.write("""Hi! My name is Jordan and I'm an Information Science Master's student at the University of Colorado Boulder.
               I'm passionate about data science and machine learning techniques, and I'm excited to share my work with you!""")
+
+else if page == "Clustering":
+    st.title("Clustering")
+    st.write("""In this section, we will explore the clustering of the data using KMeans.""")
