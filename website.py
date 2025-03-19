@@ -12,21 +12,21 @@ st.set_page_config(page_title="Social Media: Free Speech or Hate Speech?", layou
 def load_data(file_path):
     """Loads a CSV file into a Pandas DataFrame."""
     return pd.read_csv(file_path)
-
 # Load datasets from CSVs
-newsapi_df_raw = load_data("newsapi_raw_df.csv")
-reddit_df_raw = load_data("reddit_raw_df.csv")
-cnn_df_raw = load_data("cnn_raw_df.csv")
-foxnews_df_raw = load_data("foxnews_raw_df.csv")
-newsapi_cleaned_df = load_data("newsapi_cleaned_df.csv")
-reddit_cleaned_df = load_data("reddit_cleaned_df.csv")
-cnn_cleaned_df = load_data("cnn_cleaned_df.csv")
-foxnews_cleaned_df = load_data("foxnews_cleaned_df.csv")
-newsapi_countvectorizer_df = load_data("NewsAPI_count_vectorized.csv")
-newsapi_tfidfvectorizer_df = load_data("NewsAPI_tfidf_vectorized.csv")
-newsapi_stemmed_df = load_data("NewsAPI_stemmed.csv")
-newsapi_lemmatized_df = load_data("NewsAPI_lemmatized.csv")
-merged_df = load_data("cleaned_merged_df.csv")
+newsapi_df_raw = load_data("raw_dataframes/newsapi_raw_df.csv")
+reddit_df_raw = load_data("raw_dataframes/reddit_raw_df.csv")
+cnn_df_raw = load_data("raw_dataframes/cnn_raw_df.csv")
+foxnews_df_raw = load_data("raw_dataframes/foxnews_raw_df.csv")
+newsapi_cleaned_df = load_data("cleaned_dataframes/newsapi_cleaned_df.csv")
+reddit_cleaned_df = load_data("cleaned_dataframes/reddit_cleaned_df.csv")
+cnn_cleaned_df = load_data("cleaned_dataframes/cnn_cleaned_df.csv")
+foxnews_cleaned_df = load_data("cleaned_dataframes/foxnews_cleaned_df.csv")
+newsapi_countvectorizer_df = load_data("countvectorized_dataframes/NewsAPI_count_vectorized.csv")
+newsapi_tfidfvectorizer_df = load_data("tfidf_dataframes/NewsAPI_tfidf_vectorized.csv")
+newsapi_stemmed_df = load_data("stemmed_dataframes/NewsAPI_stemmed.csv")
+newsapi_lemmatized_df = load_data("lemmatized_dataframes/NewsAPI_lemmatized.csv")
+merged_df = load_data("cleaned_dataframes/cleaned_merged_df.csv")
+
 
 
 # Sidebar for navigation
@@ -58,7 +58,7 @@ What role should governments play in regulating online speech without infringing
 # Data Page
 elif page == "Data":
     st.title("Data Collection Process")
-    st.subheader("All Code Can Be Found At my Github Repository: [Github-Repo](https://github.com/jordan-kesner/text-mining-data-collection)")
+    st.subheader("Data Collection code can be found on my GitHub Repo in the notebook \"Text_Mining_Project_Data_Collection.ipynb\": [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project)")
 
     st.write("""
     The data for this project was collected from multiple sources, including NewsAPI, Reddit API, and web scraping from CNN and Fox News. 
@@ -163,7 +163,7 @@ elif page == "Data":
 }
     """)
 
-    st.image("newsapi_query.png", caption="Example of NewsAPI Query and Results", width=1000)
+    st.image("images/newsapi_query.png", caption="Example of NewsAPI Query and Results", width=1000)
 
     st.subheader("Reddit API Data Collection")
     st.write("""
@@ -179,7 +179,7 @@ elif page == "Data":
     - **Sorting Applied:** Relevance, Newest Posts
     """)
 
-    st.image("reddit_query.png", caption="Example of Reddit Query and Results", width=1000)
+    st.image("images/reddit_query.png", caption="Example of Reddit Query and Results", width=1000)
 
     st.subheader("CNN and Fox News Data Collection")
 
@@ -189,15 +189,15 @@ elif page == "Data":
     Only publicly available content was scraped, respecting site policies.
     """)
     st.subheader("CNN Web Scraping Code")
-    st.image("cnn_scraping_code.png", caption="CNN Web Scraping Code", width=1000)
+    st.image("images/cnn_scraping_code.png", caption="CNN Web Scraping Code", width=1000)
     st.subheader("CNN Article Example")
-    st.image("cnn_article_example.png", caption="CNN Article Example", width=1000)
+    st.image("images/cnn_article_example.png", caption="CNN Article Example", width=1000)
     st.subheader("Fox News Web Scraping Code")
-    st.image("fox_scraping_code.png", caption="Fox News Web Scraping Code", width=1000)
+    st.image("images/fox_scraping_code.png", caption="Fox News Web Scraping Code", width=1000)
     st.subheader("Fox News Article Example")
-    st.image("fox_example_article.png", caption="Fox News Article Example", width=1000)
+    st.image("images/fox_example_article.png", caption="Fox News Article Example", width=1000)
     st.subheader("CSV and Corpus Files")
-    st.image("csv_files.png", caption="Csv Files and Corpus Files", width=1000)
+    st.image("images/csv_files.png", caption="Csv Files and Corpus Files", width=1000)
     st.subheader("Raw Dataframes for Sources")
     st.write("""These are the raw dataframes that were created after scraping and saving the data to csvs and corpus files.""")
     st.subheader("NewsAPI Dataframe")
@@ -211,13 +211,13 @@ elif page == "Data":
     st.subheader("WordClouds With Raw Data")
     st.write("""These are the wordclouds created from the raw dataframes.""")
     st.subheader("NewsAPI WordCloud")
-    st.image("news_api_raw_cloud.png", caption="NewsAPI WordCloud", width=1000)
+    st.image("images/news_api_raw_cloud.png", caption="NewsAPI WordCloud", width=1000)
     st.subheader("Reddit WordCloud")
-    st.image("reddit_raw_cloud.png", caption="Reddit WordCloud", width=1000)
+    st.image("images/reddit_raw_cloud.png", caption="Reddit WordCloud", width=1000)
     st.subheader("CNN WordCloud")
-    st.image("cnn_raw_cloud.png", caption="CNN WordCloud", width=1000)
+    st.image("images/cnn_raw_cloud.png", caption="CNN WordCloud", width=1000)
     st.subheader("Fox News WordCloud")
-    st.image("fox_raw_cloud.png", caption="Fox News WordCloud", width=1000)
+    st.image("images/fox_raw_cloud.png", caption="Fox News WordCloud", width=1000)
     st.subheader("Data Cleaning and Preprocessing")
     st.write("""The data was cleaned and preprocessed using the following steps:
              a. Convert text to lowercase
@@ -229,7 +229,7 @@ elif page == "Data":
             g. Define custom stopwords
             h. Remove special characters
             i. Remove two letter words besides “AI”""")
-    st.image("cleaning_code.png", caption="Data Preprocessing Steps", width=1000)
+    st.image("images/cleaning_code.png", caption="Data Preprocessing Steps", width=1000)
     st.subheader("Cleaned Dataframes for Sources")
     st.write("""These are the cleaned dataframes that were created after preprocessing the raw dataframes.""")
     st.subheader("NewsAPI Dataframe")
@@ -243,13 +243,13 @@ elif page == "Data":
     st.subheader("WordClouds With Cleaned Data")
     st.write("""These are the wordclouds created from the cleaned dataframes.""")
     st.subheader("NewsAPI CLeaned WordCloud")
-    st.image("newsapi_cleaned_cloud.png", caption="NewsAPI WordCloud", width=1000)
+    st.image("images/newsapi_cleaned_cloud.png", caption="NewsAPI WordCloud", width=1000)
     st.subheader("Reddit Cleaned WordCloud")
-    st.image("reddit_cleaned_cloud.png", caption="Reddit WordCloud", width=1000)
+    st.image("images/reddit_cleaned_cloud.png", caption="Reddit WordCloud", width=1000)
     st.subheader("CNN Cleaned WordCloud")
-    st.image("cnn_cleaned_cloud.png", caption="CNN WordCloud", width=1000)
+    st.image("images/cnn_cleaned_cloud.png", caption="CNN WordCloud", width=1000)
     st.subheader("Fox News Cleaned WordCloud")
-    st.image("foxnews_cleaned_cloud.png", caption="Fox News WordCloud", width=1000)
+    st.image("images/foxnews_cleaned_cloud.png", caption="Fox News WordCloud", width=1000)
     st.subheader("NewsAPI Text Transformation Vectorization Examples")
     st.write("""The cleaned dataframes were transformed into various forms. They were made into dataframes for CountVectorizer,
              TfidfVectorizer, Stemming, and Lemmatization. The dataframes were then saved to csv files.
@@ -275,6 +275,61 @@ elif page == "About Me":
     st.write("""Hi! My name is Jordan and I'm an Information Science Master's student at the University of Colorado Boulder.
               I'm passionate about data science and machine learning techniques, and I'm excited to share my work with you!""")
 
-else if page == "Clustering":
+elif page == "Clustering":
     st.title("Clustering")
-    st.write("""In this section, we will explore the clustering of the data using KMeans.""")
+    st.subheader("The code for clustering can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project), K-means inside the notebook \"Text_Mining_Project_Clustering.ipynb\" and Hierarchical Clustering in R inside the notebook \"Text_Mining_Project_Hierarchical_Clustering.Rmd\"")
+
+    st.header("What is Clustering?")
+    st.markdown("""
+Clustering is an unsupervised machine learning technique that groups similar data points together without predefined labels. Unlike classification, which relies on labeled data, clustering allows us to explore underlying structures in a dataset and discover natural groupings. In the context of text analysis, clustering helps identify patterns in textual data, revealing how different discussions relate to one another.
+
+For this project, we implement two clustering methods:
+- **K-Means Clustering**: A popular centroid-based method that partitions data into k groups, assigning each data point to the nearest cluster center.
+- **Hierarchical Clustering (HClust)**: A technique that builds a tree-like hierarchy of clusters, allowing us to visualize how documents relate at different levels of similarity.
+
+By applying these clustering techniques to our dataset, we can identify distinct discussion themes and analyze how free speech and hate speech regulation debates are structured.
+""")
+
+    st.header("Why Use Clustering in this Project?")
+
+    st.markdown("""
+    The goal of this project is to analyze discussions on free speech and hate speech regulation using text data from multiple sources. Since these discussions can take various forms—supportive, critical, neutral, or mixed—clustering allows us to:
+
+    - Discover hidden patterns in how different viewpoints are expressed.
+    - Identify distinct discussion groups without relying on pre-existing labels.
+    - Validate or refine dataset labels (e.g., do clusters align with "free speech" and "hate speech regulation" categories, or do new themes emerge?).
+
+    By clustering articles and posts, we aim to gain insights into whether these discussions naturally divide along ideological lines or if certain themes dominate across all sources.
+    """)
+    st.header("Distance Metrics Used")
+    st.markdown("""Since clustering is based on similarity, the choice of distance metric plays a crucial role in how clusters are formed.
+
+    1. Euclidean Distance (for K-Means)
+
+    - Measures the straight-line distance between two points in space.
+    - Works well when clusters have spherical shapes and are well-separated.
+    - Less effective for high-dimensional text data, but still widely used.
+                
+    2. Cosine Similarity (for Hierarchical Clustering)
+
+    - Measures the angle between two text vectors instead of their absolute distance.
+    - More effective for sparse and high-dimensional datasets like TF-IDF text representations.
+    - Helps group texts that share similar topics and language usage, even if they differ in length.
+                
+    By using Euclidean distance for K-Means and Cosine Similarity for Hierarchical Clustering, we can evaluate how well each method captures the relationships between discussions.
+    """)
+    st.header("Data Preparation")
+    st.markdown("""Clustering only works on numerical data, so we need to transform our text data into a format that algorithms can process. In this project, we use two common text vectorization techniques:
+                - CountVectorizer: Converts text into a matrix of word counts.
+                - TF-IDF Vectorizer: Assigns weights to words based on their importance in documents.
+                Here you can see an example of the data before and after vectorization:""")
+    st.subheader("Cleaned Dataframe")
+    st.image()
+    st.subheader("CountVectorizer Dataframe")
+    st.image()
+    st.subheader("TF-IDF Vectorizer Dataframe")
+    st.image()
+    st.header("K-Means Clustering Results")
+    
+    
+
