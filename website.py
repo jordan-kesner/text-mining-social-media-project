@@ -288,7 +288,7 @@ For this project, we implement two clustering methods:
 - **Hierarchical Clustering (HClust)**: A technique that builds a tree-like hierarchy of clusters, allowing us to visualize how documents relate at different levels of similarity.
 
 By applying these clustering techniques to our dataset, we can identify distinct discussion themes and analyze how free speech and hate speech regulation debates are structured.
-""")
+    """)
 
     st.header("Why Use Clustering in this Project?")
 
@@ -324,12 +324,107 @@ By applying these clustering techniques to our dataset, we can identify distinct
                 - TF-IDF Vectorizer: Assigns weights to words based on their importance in documents.
                 Here you can see an example of the data before and after vectorization:""")
     st.subheader("Cleaned Dataframe")
-    st.image()
-    st.subheader("CountVectorizer Dataframe")
-    st.image()
+    st.image("images/cleaned_df.png", caption="Cleaned Dataframe", width=1000)
     st.subheader("TF-IDF Vectorizer Dataframe")
-    st.image()
-    st.header("K-Means Clustering Results")
+    st.image("images/tfidf_df.png", caption="TF-IDF Vectorizer Dataframe", width=1000)
+    st.header("Clustering Results")
+    st.subheader("K-Means Clustering")
+    st.markdown("""I tested K-Means clustering with k values of 3,4, and 5.
+                 Using the Silhouette method, the highest average score occurred at k = 4, suggesting this as the optimal number of clusters.
+                 The Elbow Method also showed a noticeable inflection point at k = 4.""")
+    st.image("images/silhouette_kmeans.png", caption="K-Means Silhouette Scores", width=1000)
+    st.image("images/elbow_method_kmeans.png", caption="K-Means Elbow Method", width=1000)
+    st.markdown("""After reducing the dimensionality of the TF-IDF vectors using PCA, I visualized the K-Means clustering in 2D/3D space. The plot revealed moderately distinct clusters with some overlap, indicating variations in topic boundaries across documents.
+    """)
+    st.image("images/kmeans_viz.png", caption="K-Means Clustering (2D)", width=1000)
+    st.image("images/k_means_3d.png", caption="K-Means Clustering (3D)", width=1000)
+    st.markdown(""""Top words in each cluster helped identify the major themes represented in the dataset.
+
+    - Cluster 0 appeared to center around technology marketing and platform launches, with dominant terms like “launches,” “google,” “tiktok,” “ads,” “meta,” and “instagram.” This suggests the cluster captured discussions about product updates, advertising, and features from major tech platforms.
+
+    - Cluster 1 strongly reflected free speech advocacy and government involvement, with words such as “speech,” “free speech,” “government,” “censorship,” “media,” and “right.” This group most closely aligned with traditional free speech discourse, particularly in relation to media companies and political rights.
+
+    - Cluster 2 was more conversational and opinion-driven, characterized by words like “trump,” “think,” “political,” “right,” and “want.” This cluster likely captured user commentary and informal political discussion, often seen in platforms like Reddit.
+
+    - Cluster 3 revolved around social media platforms and content moderation, with frequent terms like “media,” “social media,” “content,” “tiktok,” “users,” and “platforms.” This indicates that the cluster focused on debates about how content is managed, user engagement, and the role of platforms in shaping discourse.
+
+    These clusters reveal a meaningful separation of news vs. opinion, platform functionality vs. regulation, and formal free speech debates vs. social media discourse, all of which are highly relevant to the project’s focus on speech regulation in digital spaces.
+
+
+                
+    """)
+
+    st.markdown("""To assess how well the unsupervised K-Means clustering aligned with the manually assigned labels, I compared the cluster assignments to the original categories: Free Speech, Hate Speech Regulation, Mixed Opinions, and Neutral Discussion. The results showed a mix of clear alignments and overlaps:
+
+    - Cluster 0 was highly specific, containing only documents labeled as Hate Speech Regulation (34 entries). This suggests that this cluster captured a relatively focused and coherent topic area, likely centered on policy discussions, platform regulation, and moderation practices.
+
+    - Cluster 1 leaned heavily toward Free Speech (116 documents), but also included a notable number of Mixed Opinions (45) and Neutral Discussions (25). This cluster likely captured broader or more ideological conversations about speech rights that sometimes overlapped with general commentary or debate.
+
+    - Cluster 2 was the most heterogeneous, with a large concentration of Mixed Opinions (144), as well as a near-even mix of Free Speech (40) and Hate Speech Regulation (38). This indicates the cluster reflects ambiguous or blended perspectives, and may represent posts where the framing of speech issues was less clearly aligned with a single viewpoint.
+
+    - Cluster 3 was dominated by Hate Speech Regulation (155), but also included a mix of Free Speech (47) and Neutral Discussion (75), suggesting this cluster captured content that intersected between policy enforcement, user rights, and broader platform debates.
+
+    These results show that while some clusters (like Cluster 0) captured highly specific themes, others revealed the complex, overlapping nature of real-world speech debates, particularly where mixed or nuanced opinions are common. Overall, clustering provided useful insight into the thematic structure of the data, but also highlighted that speech-related discussions do not always fall neatly into one label, which supports the use of unsupervised methods for exploratory analysis.
+                    """)
+    st.image("images/kmeans_cluster_comparison.png", caption="K-Means Cluster Comparison", width=1000)
+    st.subheader("Hierarchical Clustering")
+    st.markdown("Hierarchical Clustering (HClust) is a tree-like clustering method that groups documents based on their similarity. By constructing a dendrogram, we can visualize how documents are related at different levels of granularity, revealing both broad and fine-grained clusters.")
+    st.markdown("""I created a dendrogram using the Ward method, which minimizes the variance between clusters. The dendrogram showed distinct clusters at different heights, indicating how documents group together based on their content. By cutting the dendrogram at different heights, we can explore clusters at varying levels of similarity, from broad themes to more specific topics. After using the Silhouette method to evaluate the optimal k value, I found that k = 7 a good score, but not the best score as you can see in the plot below. I chose 7 in order to keep the number of clusters smaller and more manageable for this dataset.""")
+    st.image("images/silhouette_hclust.png", caption="Hierarchical Clustering Silhouette Scores", width=1000)
+    st.markdown("""The dendrogram revealed several key clusters:""")
+    st.image("images/dendrogram.png", caption="Hierarchical Clustering Dendrogram", width=1000)
+    st.markdown(""""Hierarchical clustering revealed a variety of distinct themes across the dataset, with each cluster grouping together related types of discussion.
+
+            - Cluster 1 captured more casual or conversational language. Words like “think,” “say,” “want,” and “really” suggest this group includes opinion-based posts or general reflections—likely content that didn’t take a firm stance but still engaged with the topic.
+
+            - Cluster 2 focused heavily on TikTok and Chinese government involvement. Terms like “china,” “ban,” “trump,” and “law” suggest this cluster reflects geopolitical debates, particularly around platform bans and national security concerns.
+
+            - Cluster 3 blended themes of platform regulation and political speech. With words like “trump,” “speech,” “meta,” and “companies,” this cluster seemed to sit at the intersection of tech platform decisions and public political figures—especially in relation to content moderation.
+
+            - Cluster 4 stood out as very Reddit-specific. Top words like “subreddit,” “mod,” “community,” and “banned” made it clear this group was centered around moderation practices, user rules, and community governance on Reddit.
+
+            - Cluster 5 was the most clearly aligned with free speech advocacy. It featured words like “free speech,” “censorship,” “government,” and “freedom,” pointing to debates about individual rights, state overreach, and platform responsibility.
+
+            - Cluster 6 leaned toward social media engagement content. With words like “post,” “follow,” “instagram,” and “questions,” it seemed to reflect how users interact with platforms, rather than discussing policy or regulation directly.
+
+            - Cluster 7 focused on tech product launches and marketing, with terms like “launches,” “google,” “youtube,” and “ads.” This cluster pulled in content about updates, features, and platform branding—less about speech and more about the companies themselves.
+
+                Overall, the hierarchical approach helped surface more specific and structured groupings, especially those tied to particular platforms or subtopics. Compared to K-Means, HClust gave a more detailed picture of how online speech discussions split—not just between free speech and regulation, but across tech, politics, user behavior, and platform identity.
+        
+                """)
+    st.markdown("""To evaluate the alignment between the hierarchical clusters and the original labels, I compared the cluster assignments to the manually assigned categories: Free Speech, Hate Speech Regulation, Mixed Opinions, and Neutral Discussion. """)
+    st.image("images/hclust_compare_with_labels.png", caption="Hierarchical Clustering Comparison with Labels", width=1000)
+    st.markdown(""""
+                When comparing the hierarchical clusters to the original labels, some clear patterns emerged. Cluster 5 was mostly aligned with Free Speech content, containing 84 such documents and very few from other categories. Cluster 6 and Cluster 7 were heavily skewed toward Hate Speech Regulation, suggesting those clusters captured more focused policy or regulation-oriented discussions.
+
+                On the other hand, Cluster 1 was the most mixed, with a fairly even spread across all labels—particularly strong in Mixed Opinions (106 documents) and Hate Speech Regulation (62). This suggests it grouped more general or ambiguous discussions. Cluster 3 also showed a broad spread, reflecting overlap between speech rights, regulation, and neutral commentary.
+
+                Overall, HClust revealed both clear topic-based clusters and clusters that reflected the complexity of real-world conversations, where different viewpoints often blend within the same thematic space.
+
+
+                """)
+    st.subheader("Comparing K-Means and Hierarchical Clustering")
+    st.markdown(""""
+                Although K-Means and Hierarchical Clustering (HClust) used different approaches and produced different numbers of clusters, there was significant overlap between their groupings.
+
+                For example, HClust Cluster 1 was split mostly between K-Means Cluster 2 (132 documents) and K-Means Cluster 3 (108 documents), suggesting that both methods grouped these documents as part of the same general topic area—likely one of mixed or overlapping opinions.
+
+                HClust Cluster 5, which strongly aligned with Free Speech content based on top words, was concentrated in K-Means Cluster 1 (113 documents). This indicates strong agreement between the methods on that thematic group.
+
+                Some clusters showed less alignment. For instance, K-Means Cluster 0, which contained only Hate Speech Regulation documents, didn't clearly map to any one HClust cluster—it only appeared in Cluster 6 (2 docs) and Cluster 7 (32 docs), suggesting that HClust divided that topic into finer subgroups.
+
+                Interestingly, HClust Cluster 7 was completely isolated in K-Means Cluster 0, suggesting a one-to-one mapping and a very distinct group of documents, likely reflecting a narrow topic like platform launches or marketing.
+
+                Overall, K-Means created broader clusters with mixed content (e.g., Clusters 2 and 3), while HClust offered more granular separation, breaking those large groups into smaller, more topic-specific clusters. The methods generally agreed on the core themes but approached them with different levels of specificity.
+                
+                """)
+    st.subheader("Conclusion")
+    st.markdown(""" Clustering the text data revealed interesting patterns in the discussion of free speech and hate speech censorship.
+                Through K-Means and Hierarchical Clustering, I was able to find distinct themes and groupings, like discussions centered around government censorship, platform moderation, tech products, and informal public opinion.
+
+                One key takeaway is that these conversations don't always fall into neat categories. Some clusters aligned closely with the predefined labels like Free Speech or Hate Speech Regulation, others captured more nuanced or overlapping opions, especially those labeled Mixed Opinions or Neutral Discussion. This suggests that speech debates are complex and multifaceted, with a wide range of perspectives and viewpoints. These real-world discourses on controversial topics often blend together, making 
+                """)
+
     
     
 
