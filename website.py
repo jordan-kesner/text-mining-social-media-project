@@ -512,7 +512,7 @@ elif page == "LDA":
 
     This suggests that conversations about hate speech and free expression are not only widespread, but also deeply connected to broader social, technological, and political themes.
     """)
-    st.image("images/LDA_topic_1.png", caption="LDA Topic 1", width=1000)
+    st.image("images/LDA_Topic_1.png", caption="LDA Topic 1", width=1000)
     st.image("images/LDA_topics.png", caption="LDA Topics", width=1000)
     st.subheader("Conclusion")
     st.markdown("""
