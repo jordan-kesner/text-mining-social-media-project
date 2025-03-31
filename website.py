@@ -462,7 +462,7 @@ elif page == "Association Rule Mining":
 
 elif page == "LDA":
     st.title("Latent Dirichlet Allocation (LDA)")
-    st.subheader("The code for LDA can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_LDA.ipynb\"")
+    st.subheader("All the code for LDA can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_LDA.ipynb\"")
 
     st.subheader("What is Latent Dirichlet Allocation (LDA)?")
     st.markdown("Before getting into LDA, what is topic modeling? Topic modeling is a type of statistical model used for discovering the abstract \"topics\" that occur in a collection of documents. It is a powerful tool for exploring large datasets of text data and classifying text in a document to a topic.")
