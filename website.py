@@ -31,7 +31,7 @@ merged_df = load_data("cleaned_dataframes/cleaned_merged_df.csv")
 
 # Sidebar for navigation
 st.sidebar.title("Navigation")
-page = st.sidebar.radio("Go to", ["Introduction", "Data","About Me","Clustering","Association Rule Mining","LDA"])
+page = st.sidebar.radio("Go to", ["Introduction", "Data","About Me","Clustering","Association Rule Mining","LDA","Naive Bayes","Decision Trees", "SVM"])
 
 # Introduction Page
 if page == "Introduction":
@@ -42,6 +42,11 @@ Social media platforms have transformed how people communicate, making them cent
 Defining the boundaries of free speech online presents significant legal, ethical, and technological challenges. In the United States, the First Amendment protects most forms of speech from government censorship, but private companies are not legally required to uphold these protections. In contrast, countries such as Germany and France enforce strict hate speech laws, requiring platforms to remove harmful content within hours or face penalties. As governments explore potential regulations, some advocate for reforming Section 230, a U.S. law that shields social media companies from liability for user-generated content. Meanwhile, alternative platforms, such as Truth Social and Parler, have emerged as spaces promoting unrestricted speech, raising questions about how decentralized media environments shape public discourse. The increasing reliance on AI-driven moderation systems also introduces new concerns about bias, accuracy, and transparency in decision-making. While AI can process vast amounts of content at scale, human intervention is often required to ensure fairness in enforcement. The extent to which content moderation influences elections, social movements, and political polarization remains an open question. As digital platforms continue to evolve, determining whether free speech and content moderation can coexist—or whether one will inevitably restrict the other—remains a critical issue for governments, corporations, and society as a whole.
 
 The way people discuss free speech and moderation often reveals deeper beliefs about rights, power, and social responsibility. The language used when debating these topics, such as referring to moderation as either censorship or protection, can shape how online communities and beyond understand these issues. By analyzing patterns in word usage and topic associations, it becomes possible to trace the strategies people use to justify their views and positions on this complex issue. Beyond legal concerns, the debate over online speech is deeply shaped by internet culture and public opinion. Memes, hashtags, and viral posts ofte influence how policies are percieved. As a result, online speech debates reflect not only legal principles but also emotional responses, ideological identities, and shifting norms around what speech is acceptable in public, digital spaces.
+
+The debate over online speech has become even more complex as major tech figures take increasingly visible roles in shaping platform policies. Elon Musk’s acquisition of Twitter, for example, reignited debates about censorship, free speech absolutism, and the responsibilities of platform owners. His decision to reinstate previously banned accounts and reduce content moderation efforts was praised by some as a return to open dialogue, while others warned it would amplify hate speech and misinformation. Similarly, Facebook—under the leadership of Mark Zuckerberg—has faced ongoing scrutiny over its algorithms, content moderation decisions, and recent shifts toward greater transparency and oversight. These high-profile cases underscore the growing power that private individuals and corporations wield over the digital public square, raising urgent questions about who gets to set the rules for speech in a global, networked world.
+
+             
+
              
 Key Questions to Explore:
 Should social media companies be legally required to allow all forms of speech?
@@ -520,9 +525,108 @@ elif page == "LDA":
     st.markdown("""
 The topic modeling revealed that people discuss free speech and content moderation from many different angles. Some users focus on government policies and legal rights, while others share personal beliefs or react to specific platforms like Reddit and TikTok. There was also a clear interest in how new technologies like AI are shaping online conversations. Overall, the topics uncovered by the model show that the debate around speech online is complex and influenced by politics, technology, and individual perspectives.
 """)
-    
 
 
-    
+elif page == "Naive Bayes":
+    st.title("Naive Bayes Classifier")
+    st.subheader("All the code for Naive Bayes can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_Classification.ipynb\"")
+    st.markdown(" Naive Bayes is a supervised learning algorithm based on Bayes' theorem, which is used for classification tasks. It assumes that all the features in a dataset are independent of each other, hence the term 'naive.' Despite this assumption, Naive Bayes can perform surprisingly well in practice, especially for text classification tasks.")
+    st.markdown("Naive Bayes is particularly effective for text classification because it can handle high-dimensional data, such as word counts or TF-IDF vectors, and is computationally efficient. It works by calculating the probability of each class given the features and selecting the class with the highest probability.")
+    st.markdown("In this project, I use Naive Bayes to classify the text data into four categories which reflect the online discourse around the topic of free speech and hate speech regulation. The four categories are:")
+    st.markdown("1. Free Speech: Posts advocating for free speech rights, often emphasizing individual liberties and opposing censorship.")
+    st.markdown("2. Hate Speech Regulation: Posts discussing the need for regulating hate speech, often focusing on the role of platforms and government in moderating content.")
+    st.markdown("3. Mixed Opinions: Posts that express a blend of views on free speech and hate speech regulation, often reflecting ambivalence or uncertainty.")
+    st.markdown("4. Neutral Discussion: Posts that do not take a clear stance on free speech or hate speech regulation, often focusing on general discussions about social media platforms.")
+    st.markdown("This model will help me understand how language use varies across these categories and detect underlying patterns in public discourse.")
+    st.markdown("This supports the larger goal of my project: to better understand how social media and news platforms contribute to ongoing debates about speech, censorship, and public values online.")
+    st.subheader("Naive Bayes Data Preparation")
+    st.markdown("Before applying the Naive Bayes classifier, I need to prepare my data. I will use the cleaned dataframe and transform the text using CountVectorizer so that there are word counts for each word in each document. This will create a document-term matrix that the Naive Bayes classifier can use to classify the text data.")
+    st.markdown("In the data tab, you can see how I created the CountVectorizer dataframe with labeled data.")
+    st.markdown("To perform any supervised learning algorithm, it is required to have labeled data to train the model and predict on. I used the labeled data from the cleaned dataframe to create a CountVectorizer dataframe with the labels.")
+    st.image("images/labeled_data_countvec.png", caption="CountVectorizer Data With Labels", width=1000)
+    st.markdown("I then had to split the data into training and testing sets. I used 80% of the data for training and 20% for testing.")
+    st.image("images/training_data.png", caption="Training Data", width=1000)
+    st.image("images/test_data.png", caption="Testing Data", width=1000)
+    st.markdown("Above are examples of the training and testing data. They may look the same but the testing data is a random sample of 20% of the data that was not used to train the model. This data will be used to test the model and see how well it performs.")
+    st.markdown("I split the data into training and testing sets using the train_test_split function from sklearn. I used a test size of 0.2, which means that 20% of the data will be used for testing and 80% will be used for training.")
+    st.subheader("Naive Bayes Results")
+    st.markdown("I used the Multinomial Naive Bayes classifier from sklearn to train the model. I used the training data to train the model and then used the testing data to test the model.")
+    st.markdown("The Naive Bayes model was able to classify the text data into the four categories with an overall accuracy of about 60%. This means that the model correctly predicted the category for about 6 out of every 10 texts.")
+    st.markdown("Looking at the breakdown by label:")
+    st.markdown("1. Free Speech (FS) had a decent balance, with the model correctly identifying most of the FS texts. It was more successful in finding FS examples than avoiding mistakes with other labels.")
+    st.markdown("2. Hate Speech Regulation (HS) had one of the strongest performances, with fairly high scores for both correctly identifying HS content and avoiding mislabeling.")
+    st.markdown("3. Mixed Opinions (MO) also performed well, especially in recall, meaning the model was good at capturing texts that belonged in this category.")
+    st.markdown("4. Neutral Discussion (ND) was the most challenging for the model. It had a much lower score, meaning it often confused neutral content with other categories.")
+    st.image("images/nb_results.png", caption="Naive Bayes Results", width=1000)
+    st.markdown("These results show that the model is picking up on patterns in the language used across the categories, especially in more opinionated texts like FS, HS, and MO. However, it's struggling to distinguish neutral discussions, which may use more general or balanced language that overlaps with the other categories.")
+    st.markdown("The confusion matrix shows how well the model performed on each category. The diagonal values represent the number of texts that were correctly classified, while the off-diagonal values represent the number of texts that were misclassified. The model performed well on FS and HS, but struggled with ND.")
+    st.image("images/nb_confusion_matrix.png", caption="Naive Bayes Confusion Matrix", width=1000)
+    st.subheader("Naive Bayes Conclusion")
+    st.markdown("The Naive Bayes classifier was trained to classify the text data into the four categories.")
+    st.markdown("I learned that the model can identify broad patterns in how people online discuss this topic. The model performed especially well on the polarized categories of Free Speech and Hate Speech Regulation, but struggled to classify Neutral Discussion posts. This suggests that the language used in these discussions is more opinionated and easier to classify, while neutral discussions may be more ambiguous and harder to categorize.")
+    st.markdown("This experience showed me how naive bayes can reveal the complexity of online discourse. It also highlighted the importance of clearly defined categories—since blurry boundaries between labels, like in the case of ND, can lead to more misclassifications. Overall, this step helped me understand how language reflects stance, and it opens up possibilities for refining my dataset or exploring more advanced models to improve performance. In the next sections, I will train Decision Trees and SVM models to see if they can improve classification accuracy.")
+
+elif page == "Decision Trees":
+    st.title("Decision Trees")
+    st.subheader("All the code for Decision Trees can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_Classification.ipynb\"")
+    st.markdown("Decision Trees are a supervised learning algorithm used for classification and regression tasks. They work by recursively splitting the data into subsets based on the values of the features, creating a tree-like structure where each internal node represents a feature, each branch represents a decision rule, and each leaf node represents an outcome.")
+    st.markdown("Decision Trees are easy to interpret and visualize, making them a popular choice for many classification tasks. They can handle both categorical and continuous data, and they do not require feature scaling or normalization.")
+    st.markdown("Similarly to Naive Bayes, I will use Decision Trees to classify the text data into four categories which reflect the online discourse around the topic of free speech and hate speech regulation. The four categories are:")
+    st.markdown("1. Free Speech: Posts advocating for free speech rights, often emphasizing individual liberties and opposing censorship.")
+    st.markdown("2. Hate Speech Regulation: Posts discussing the need for regulating hate speech, often focusing on the role of platforms and government in moderating content.")
+    st.markdown("3. Mixed Opinions: Posts that express a blend of views on free speech and hate speech regulation, often reflecting ambivalence or uncertainty.")
+    st.markdown("4. Neutral Discussion: Posts that do not take a clear stance on free speech or hate speech regulation, often focusing on general discussions about social media platforms.")
+    st.markdown("This model will help me understand how language use varies across these categories and detect underlying patterns in public discourse.")
+    st.subheader("Decision Trees Data Preparation")
+    st.markdown("For Decision Trees, I will use the same CountVectorizer dataframe that I used for Naive Bayes. I will use the labeled data from the cleaned dataframe to create a CountVectorizer dataframe with the labels.")
+    st.markdown("In the data tab, you can see how I created the CountVectorizer dataframe with labeled data.")
+    st.markdown("To perform any supervised learning algorithm, it is required to have labeled data to train the model and predict on. I used the labeled data from the cleaned dataframe to create a CountVectorizer dataframe with the labels.")
+    st.markdown("I then had to split the data into training and testing sets. I used 80% of the data for training and 20% for testing.")
+    st.image("images/training_data.png", caption="Training Data", width=1000)
+    st.image("images/test_data.png", caption="Testing Data", width=1000)
+    st.markdown("Above are examples of the training and testing data. They may look the same but the testing data is a random sample of 20% of the data that was not used to train the model. This data will be used to test the model and see how well it performs.")
+    st.markdown("I split the data into training and testing sets using the train_test_split function from sklearn. I used a test size of 0.2, which means that 20% of the data will be used for testing and 80% will be used for training.")
+    st.subheader("Decision Trees Results")
+    st.markdown("I created three different Decision Trees, adjusting different parameters to see how they affected the model's performance. The first tree was created with the default parameters, the second tree was created with a maximum depth of 3, and the third tree was created using a different criterion. I used the Gini impurity criterion for the first and second tree and the entropy criterion for the third tree.")
+    st.markdown("The first Decicion Tree was created with the default parameters. It had an accuracy of 66%. This means that the model correctly predicted the category for about 6 out of every 10 texts.")
+    st.image("images/dt1.png", caption="Decision Tree 1", width=1000)
+    st.image("images/dt1_cm.png", caption="Decision Tree 1 Confusion Matrix", width=1000)
+    st.markdown("The second tree was created with a maximum depth of 3. It had an accuracy of 57%.")
+    st.image("images/dt2.png", caption="Decision Tree 2", width=1000)
+    st.image("images/dt2_cm.png", caption="Decision Tree 2 Confusion Matrix", width=1000)
+    st.markdown("The third tree was created using the entropy criterion. It had an accuracy of 66% as well.")
+    st.image("images/dt3.png", caption="Decision Tree 3", width=1000)
+    st.image("images/dt3_cm.png", caption="Decision Tree 3 Confusion Matrix", width=1000)
+    st.subheader("Decision Trees Conclusion")
+    st.markdown("The decision tree models had similar accuracy to the Naive Bayes model, with the first and third trees performing slightly better. The confusion matrices show how well the models performed on each category. The diagonal values represent the number of texts that were correctly classified, while the off-diagonal values represent the number of texts that were misclassified. What I found interesting is that the first and third Decision Trees were able to classify a lot more Neutral Discussion posts correctly than the Naive Bayes model. This suggests that the Decision Trees were able to pick up on patterns in the language used in Neutral Discussion posts that the Naive Bayes model was not able to pick up on.")
+    st.markdown("What I learned from this with respect to the project is that it is important to use different models and adjust hyperparameters to see how different methods can classify the data. I also learned that Decision Trees can be a good choice for text classification tasks, especially when the data is not too large. They are easy to interpret and visualize, which makes them a good choice for understanding how the model is making decisions.")
+
+elif page == "SVM":
+    st.title("Support Vector Machines (SVM)")
+    st.subheader("All the code for SVM can be found at my [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_Classification.ipynb\"")
+    st.markdown("Support Vector Machines (SVMs) are a powerful supervised learning method used for classification tasks. SVMs work by finding the optimal boundary (or \"hyperplane\") that separates different classes in the feature space. They are especially useful for high-dimensional data like text, where features represent word counts or TF-IDF values.")
+    st.markdown("In this project, I applied SVMs to classify discourse about free speech and hate speech regulation into four categories: Free Speech (FS), Hate Speech Regulation (HS), Mixed Opinions (MO), and Neutral Discussion (ND). Additionally, I created a simplified sentiment classification task by grouping the labels into “Opinionated” and “Neutral” discourse. This allows me to explore how SVMs can distinguish between emotionally or ideologically charged language and more neutral tones, aligning with my overall goal of analyzing online discourse patterns.")
+    st.subheader("SVM Data Preparation")
+    st.markdown("SVMs require numeric, labeled data. I used CountVectorizer to convert my text into a numeric feature matrix, and I ensured that each entry had one of four discourse labels. I then mapped those labels to a simplified sentiment column to classify the tone as either \"Opinionated\" or \"Neutral.\" I split the data into an 80/20 Training/Testing set using train_test_split from sklearn, ensuring the sets are disjoint to avoid data leakage. Below are images of a sample of the labeled data, along with summary visuals of the training and testing sets.")
+    st.image("images/sentiment_data.png", caption="Sentiment Data", width=1000)
+    st.subheader("SVM Results For Multi-Class Classification")
+    st.markdown("I trained three different SVM models using different kernels: linear, polynomial, and radial basis function (RBF). The linear kernel is the most common and is often a good starting point for text classification tasks. The polynomial kernel allows for more complex decision boundaries, while the RBF kernel is a non-linear kernel that can capture more intricate relationships in the data.")
+    st.markdown("The linear kernel model had an accuracy of 52%. The model performed well on classifying Free Speech and Hate Speech Regulation posts, but struggled with the other labels. This is likely due to the more definitive language used in these posts, which made them easier to classify compared to the other labels.")
+    st.image("images/svm1_cm.png", caption="SVM 1 Confusion Matrix", width=1000)
+    st.markdown("The rbf kernel model had an accuracy of 60%. Again, the model performed well on classifying Free Speech and Hate Speech Regulation posts, but struggled with the other labels. I am starting to see an emerging pattern that the models are able to classify the more opinionated posts better than the neutral posts.")
+    st.image("images/svm2_cm.png", caption="SVM 2 Confusion Matrix", width=1000)
+    st.markdown("The poly kernel model had an accuracy of 31%, which was surprising at first because of how low it was compared to the other two models using different kernels. I tried a couple of things to improve performance, such as adjusting parameters and scaling my features, but to no avail. What I learned is that the polynomial kernel is not always the best choice for text classification, since polynomial kernels can easily overfit, especially with high-dimensional data like text.")
+    st.image("images/svm3_cm.png", caption="SVM 3 Confusion Matrix", width=1000)
+
+    st.subheader("SVM Results For Binary Classification")
+    st.markdown("I then created a binary classification task by grouping the labels into “Opinionated” and “Neutral” discourse. This allows me to explore how SVMs can distinguish between emotionally or ideologically charged language and more neutral tones, aligning with my overall goal of analyzing online discourse patterns.")
+    st.markdown("I trained one SVM model for this using the linear kernel. The model had an accuracy of 77%. This is a significant improvement over the multi-class classification task, which suggests that the model is better at distinguishing between opinionated and neutral discourse than it is at classifying the four categories.")
+    st.image("images/svm4_cm.png", caption="SVM 4 Confusion Matrix", width=1000)
+    st.subheader("SVM Conclusion")
+    st.markdown("Through experimenting with Support Vector Machines, I gained valuable insights into how different kernels perform in classifying online discourse. I learned that the **linear** and **RBF kernels** handled the multi-class classification task better than the **polynomial kernel**, which struggled significantly. This is likely because polynomial kernels tend to overfit on high-dimensional data like text, while linear and RBF kernels are better suited for capturing general patterns in word usage. Across all models, the most **opinionated categories** — *Free Speech* and *Hate Speech Regulation* — were consistently easier to classify. This suggests that emotionally charged or ideologically clear language is easier for models to distinguish. In contrast, the *Mixed Opinions* and *Neutral Discussion* categories were harder to separate, likely due to their more balanced or ambiguous tone. The most important takeaway came from the **binary sentiment classification task**, where I grouped the labels into just two classes: *Opinionated* and *Neutral*. The SVM model for this task reached an accuracy of **77%**, a significant improvement over the multi-class models. This indicates that SVMs are especially effective at identifying whether a post carries a strong viewpoint or remains neutral. Overall, SVMs helped me uncover patterns in how people express their stance on free speech and hate speech regulation. They proved particularly useful in revealing distinctions between emotional and neutral language, which directly supports the goals of my project — to explore the tone and nature of online discourse around this complex and timely issue.")
+
+
+
+
 
 
