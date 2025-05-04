@@ -640,12 +640,6 @@ elif page == "Neural Networks":
     st.title("Neural Networks")
     st.subheader("All the code for Neural Networks can be found at the [Github-Repo](https://github.com/jordan-kesner/text-mining-social-media-project) inside the notebook \"Text_Mining_Project_NN.ipynb\"")
 
-    import streamlit as st
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    import pandas as pd
-    import numpy as np
-    from sklearn.metrics import confusion_matrix
 
     st.subheader("Neural Networks: Classifying Articles vs Posts")
 
@@ -699,15 +693,8 @@ elif page == "Neural Networks":
     st.write("""
     After training, the model achieved 93% accuracy on the test set. Below is the confusion matrix showing how well the model classified each class:
     """)
-
-    cm = np.array([[33, 10], [2, 121]])
-    labels = ['article', 'post']
-    fig, ax = plt.subplots()
-    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=labels, yticklabels=labels, ax=ax)
-    plt.xlabel('Predicted')
-    plt.ylabel('Actual')
-    plt.title('Confusion Matrix')
-    st.pyplot(fig)
+    st.image("images/NN_cm.png", caption="Neural Network Confusion Matrix", width=1000)
+    
 
     st.subheader("Classification Report")
     st.text("""
